@@ -1,1 +1,809 @@
 NUMBER,ENGLISH,GERMAN
+1,Tongue,Zunge
+2,Mouth,Mund
+3,Lips,Lippen
+4,Tooth,Zahn
+5,Nose,Nase
+6,Nostril,Nasenloch
+7,Eye,Auge
+8,Ear,Ohr
+9,Ear hole as a hearing,Orhloch als Gehörgang
+10,Hole in the ear tank,Loch im Ohrlärppchen
+11,Sitift in the earlobe,Sitift im Ohrläppchen
+12,Hole in the lower lip,Loch im der Unterlippe
+13,Long and thin cylinder in the lower lip,Stift in der  Unterlippe
+14,Hole in the nasal septum,Loch in der Nasenscheidewand
+15,Pin in the nasal septum,Stift in der Nasenscheidewand
+16,Forehead,Stirn
+17,Head,Kopf
+18,Head hair,Kopfhaar
+19,Eyebrows,Augenbrauen
+20,Eyelashes,Augenwimpern
+21,Beard,Bart
+22,Pubic hair,Schamhaar
+23,Underarm hair,Achselhaar
+24,Cheek,Wange
+25,Chin,Kinn
+26,Shoulder,Schulter
+27,Arm,Arm
+28,Elbow,Ellbogen
+29,Hand,Hand
+30,Back of the hand,Handrücken
+31,Palm,Handfläche
+32,Finger,Finger
+33,Thumb,Daumen
+34,Index finger,Zeigefinger
+35,Middle finger,Mittelfinger
+36,Ring finger,Ringfinger
+37,Small finger,Kleinfinger
+38,Fingernail,Fingernagel
+39,Thigh,Oberschenkel
+40,Lower leg,Unterschenkel
+41,Shin,Schienbein
+42,Calf,Wade
+43,Knee,Knie
+44,Popliteal fossa,Kniekehle
+45,Foot,Fuß
+46,Instep,Fußrücken
+47,Sole,Sohle
+48,Heel,Ferse
+49,Ankle,Fußknöchel
+50,Foot tendon,Fußsehne
+51,Toe,Zehe
+52,Toenail,Zehennagel
+53,Body,Körper
+54,Neck,Hals
+55,Neck,Nacken
+56,Throat,Kehle
+57,Armpit,Achselhöhle
+58,Shoulder blade,Schulterblatt
+59,Rib,Rippen
+60,Chest,Brust
+61,Nipple,Brustwarze
+62,Female breast,Weibliche Brust
+63,Belly,Bauch
+64,Navel,Nabel
+65,Back,Rücken
+66,Buttocks,Gesaß
+67,Penis,Penis
+68,Scrotum,Scrotum
+69,Testicle,Testikel
+70,Membrum muliebre,Membrum muliebre
+71,Vagina,Vagina
+72,Clitoris,Clitoris
+73,Anus,Anus
+74,Skin,Haut
+75,Fur,Fell
+76,Bone,Knochen
+77,Blood,Blut
+78,Vein,Ader
+79,Pulse,Puls
+80,Flesh,Fleisch
+81,Tendon,Sehne
+82,Heart,Herz
+83,Guts,Eingeweide
+84,Stomach,Magen
+85,Intestine,Darm
+86,Fat,Fett
+87,Saliva,Speichel
+88,Urine,Urin
+89,Sweat,Schweiß
+90,Tear,Träne
+91,Feces,Kot
+92,Flatus,Flatus
+93,Breath,Atem
+94,Wound,Wunde
+95,Purupuru (skin disease),Purupuru (Hautkrankheit)
+96,Beak,Schnabel
+97,Tail,Schwanz
+98,Wing,Flügel
+99,Feather,Feder
+100,Fin,Flosse
+101,Water,Wasser
+102,River,Fluß
+103,Brook,Bach
+104,Lagoon,Lagune
+105,"Cachoeira (rapids, waterfall)","Cachoeira (Stromschnelle, Wasserfall)"
+106,Narrow river arm (paraná miri),Schmaler Flußarm (Paraná miri)
+107,Fire,Feuer
+108,Smoke,Rauch
+109,Ash,Asche
+110,Coal,Kohle
+111,Firewood,Brennholz
+112,Sky,Himmel
+113,Cloud,Wolke
+114,Rain,Regen
+115,Fog,Nebel
+116,Dew,Tau
+117,Drizzle,Feiner Nebelregen
+118,Wind,Wind
+119,Lightning,Blitz
+120,Thunder,Donner
+121,Rainbow,Regenbogen
+122,Sun,Sonne
+123,Shadow,Schatten
+124,Year,Jahr
+125,Rainy season,Regenzeit
+126,Dry season,Trockenzeit
+127,Day,Tag
+128,Night,Nacht
+129,Morning,Morgen
+130,Noon,Mittag
+131,Eve,Abend
+132,Dawn,Morgenrot
+133,Moon,Mond
+134,New moon,Neuer Mond
+135,Full moon,Vollmond
+136,Moon halo,Ringförmiger Mondhof
+137,Lunar eclipse,Mondfinsternis
+138,Solar eclipse,Sonnenfinstemis
+139,Star,Stern
+140,Pleiades,Plejaden
+141,Milky way,Milchstraße
+142,Ground,Erdboden
+143,Field,Feld
+144,Path,Weg
+145,Mountain,Berg
+146,Forest,Wald
+147,Island,Insel
+148,Beach,Strand
+149,Stone,Stein
+150,Pumice,Bimsstein
+151,Whiter clay,Weißer Ton
+152,Yellow tone,Gelber Ton
+153,Hole,Loch
+154,Grave,Grab
+155,Sea,Meer
+156,Rio solimões,Rio Solimões
+157,Rio yapurá,Rio Yapurá
+158,Rio apaporis,Rio Apaporis
+159,"Village, home","Dorf, Heimat"
+160,Home,Heimat
+161,Your home,deine Heimat
+162,House,Haus
+163,Entrance,Eingang
+164,Exit,Ausgang
+165,Trapdoor,Falltür
+166,Buttress posts,Strebepfosten
+167,Wall,Wand
+168,Horizontal battens that hold the paxiúbal batts of the wall together in the middle,"Horizontallatten, die die Paxiúbalatten der Wand in der Mitte zusammenhalten"
+169,Beams that sit on the paxiúbalatten on the wall and support the roof,"Balken, die auf den Paxiúbalatten der Wand aufsitzen und das Dach tragen"
+170,Sloping rafters,Schräge Dachsparren
+171,Roof cladding made from leaves of the caraná palm tree,Dachbekleidung aus Blättern der Caraná Palme
+172,Horizontal barriers to which these caraná leaves are attached,"Horizontalsperren, an denen diese Caraná Blätter befestigt sind"
+173,Chimney,Rauchfang
+174,Planting,Pflanzung
+175,Torch,Fackel
+176,Yeasts,Hefen
+177,Storage place in forest (l. g .. mitasáua),Lagerplatz in Walde (l. g.. mitasáua)
+178,Scaffolding in the house to put things on or hang on,"Gerüst im Haus, um Sachen darauf zu legen oder daran zu hängen"
+179,Stool,Sitzschemel
+180,Curauá fibers,Curauáfasern
+181,Hammock,Hängmatte
+182,Cotton hammock,Hängematte aus Baumwolle
+183,Hammock ropes,Hängemattenstricke
+184,Cotton,Baumwolle
+185,Cloth,Tuch
+186,Carrying basket of women,Tragkorb der Weiber
+187,Men's carrying basket to get coca leaves,Tragbkorb der Männer um Coca-Blätter zu holen
+188,Hanging basket,Hangkörbchen
+189,"Flat basket for mandioca (beijús), etc.",Flacher Korb für Mandiocafladen (Beijús) usw.
+190,"Large, flat, fine, mandioca strainer","Großes, flaches, feines, Mandiocasieb"
+191,"Large, flat, coarser mandoca strainer","Großes, flaches, gröberes Mandocasieb"
+192,"Flat, coarse basket for storing fruits, bulbs, etc.","Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw."
+193,Deep basket for storing farinha (mandioca flour),Tiefer Korb zum Aufbewahren von Farinha (Mandiocamehl)
+194,Cylinder made of tree bark for storing manioc dough,Zylinder aus Baumrinde zum Aufbewahren von Mandiocamasse
+195,"Small, round, very fine sieve to sieve coca powder.","Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben."
+196,Mat for covering vessels,Matte zum Zudecken von Gefäßen
+197,Braided tube (tipiti) for squeezing the manioc dough,Geflochtener Schlauch (tipiti) zum Auspressen der Mandiocamasse
+198,Square men's tucum cord bag for small items,Viereckige Tasche der Männer aus Tucumschnüren für Kleinkram
+199,Knitting frame z. manufacture these bags,Strickrahmen z. Verfertigen dieser Taschen
+200,Fire fans,Feuerfächer
+201,Calabash ,Kalabasse 
+202,Big calabash,große Kalabasse
+203,Small calabash for scooping,kleine Kalabasse zum Schöpfen
+204,Cooking pot,Kochtopf
+205,Iron saucepan,Eiserner Kochtopf
+206,Large kashiri pot,Großer Kaschiritopf
+207,Deep bowl in which you can ferment the mandioca,"Tiefe Topfschale, in der man Mandiocamasse gären läßt"
+208,"Large, flatter saucepan for manicuéra (boiled mandioca juice)","Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)"
+209,Clay vessel for the drink,Tongefäß für das Getränk
+210,Water pot with two handles,Wassertopf mit zwei Henkein
+211,Clay bowl,Tonschale
+212,Bowl for coca,Schale für Coca
+213,Clay bowl with foot as handle,Tonschale mit Fuß als Handgriff
+214,Pottery clay,Töpferton
+215,Hourglass-shaped frame made of chopsticks for vessels,Sanduhrförmiges Gestell aus Stäbchen für Gefäße
+216,Mortar,Mörser
+217,Pestle,Stössel
+218,Stove top,Herdplatte
+219,Earthenware,Tönerne
+220,Gridiron,Bratrost
+221,Manioc grater,Mandiocareibebrett
+222,Wooden cylinder in which coca is tapped,"Holzzylinder, in dem Coca geklopft wird"
+223,Coca hammer,Cocaklopfer
+224,Raffia bags for coca,Bastsäckchen für Coca
+225,Hollow bird bones for sucking coca,"Hohler Vogelknochen, um Coca zu saugen"
+226,Calabash with lid as a coca container,Kalabasse mit Deckel als Cocabehälter
+227,Wooden lid for this calabash,Holzdeckel zu dieser Kalabasse
+228,Bone spoon used to take coca,"Knochenlöffel, mit dem Coca genommen wird"
+229,Axe,Beil
+230,Stone axe,Steinbeil
+231,Knife,Messer
+232,Forest knife,Waldmesser
+233,Tree,Einbaum
+234,Rudder,Ruder
+235,Grid on the boat for protection against backflow,Lattengitter im Boot Schutzgegen das Kielwasser
+236,Sun canopy (tolda) over the boat,Sonnendach (tolda) über dem Boot
+237,Bow,Bogen
+238,Bowstring,Bogensehne
+239,Arrow,Pfeil
+240,Large poisoned arrows for high hunting,Große vergiftete Pfeile für Hochjagd
+241,Case for the tips of these poison arrows,Futteral für die Spitzen dieser Giftpfeile
+242,Fish arrow with double iron point,Fischpfeil mit doppelter Eisenspitze
+243,Harpoon arrow,Harpunenpfeil
+244,Iron harpoon of this arrow,Eiserne Harpune dieses Pfeils
+245,Tip of the harpoon,Spitze der Harpune
+246,Barb of the tip,Widerhaken der Spitze
+247,Wrap around the top,Umwicklung der Spitze
+248,Wooden stick into which the harpoon is inserted,"Holzastab, in den die Harpune gestecket wird"
+249,Pipe shaft of the harpoon arrow,Rohrschaft des Harpunenpfeils
+250,Hand end of the tubular shaft,Handende des Rohrschaftes
+251,Harpoon cord,Schnur der Harpune
+252,Pitch,Pech
+253,Club,Keule
+254,String of mace,Schnur der Keule
+255,Blowgun,Blasrohr
+256,Blowpipe arrow,Blasrohrpfeilchen
+257,Mouthpiece of the blowpipe,Mundstück des Blasrohres
+258,Quiver for the poison arrows,Köcher für die Giftpfeilchen
+259,Poison dart,Pfeilgift
+260,Tree silk (samaúma) to wrap the blowpipe sticks,Baumseide (Samaúma) zum Umwickeln der
+261,Poison lance,Giftlanze
+262,Flutteral for the tips of the poison lances,Flutteral für die Spitzen der Giftlanzen
+263,Point of the poison lance,Spitze der Giftlanze
+264,Shield,Schild
+265,War shield,Kriegsschild
+266,Fishnet,Fischnetz
+267,Big trap,Große Reuse
+268,Small trap,Kleine Reuse
+269,Fish trap,Fischfalle
+270,Fishing rod,Angel
+271,Fishing line,Angelschnur
+272,Gun,Gewehr
+273,Gunpowder,Pulver
+274,Shot,Schrot
+275,Hip cord,Hüftschnur
+276,Man's loincloth,Schambinde des Mannes
+277,Woman's loincloth,Schamschurz der Frau
+278,Wide raffia belt (men's costume),Breiter Bastgürtel (Tracht der Männer)
+279,Bracelets made of raffia (men's costume),Armbänder aus Bast (Tracht der Männer)
+280,Softer strips of raffia to tie belts and bracelets,"Weichere Baststreifen, um Gürtel und Armbänder festzubinden"
+281,Male braid,Männerzopf
+282,Raffia wrap around the braid,Bastumwicklung des Zopfes
+283,Mirror,Spiegel
+284,Needle,Nadel
+285,Earring,Ohrring
+286,Pearls,Perlen
+287,Suitcase,Koffer
+288,Comb,Kamm
+289,"Fine head feathers, gala jewelery (lingoa yamáhapoa geral: kangatára) mahápoali (macaw feathers)","Feine Kopffederbinde, Galaschmuck (lingoa yamáhapoa geral: kangatára) mahápoali (Ararafedern)"
+290,Headdress made of toucan feathers in straw ,Kopfputz aus Tukanfederchen in Strohreif
+291,Straw frost on this jewelry,Strohreif zu diesem Schmuck
+292,Dance device that represents a fish trap and is worn on the braid,"Tanzgerät, das eine Fischreuse darstellt und am Zopf getragen wird"
+293,Macaw tail feather that is worn on this dance device,"Araraschwanzfeder, die an diesem Tanzgerät getragen wird"
+294,Long nose piercing made of smoothed palm wood,Langer Nasenstab aus geglättetem Palmholz
+295,Carved tucumá fruit peel bracelet,Armband aus geschnitzten Tucumáfruchtschalen
+296,Knee band woven from curauá fibers,Kniebänderz aus Curauáfasern gewebt
+297,"Quartz cylinder, men's breast jewelry","Quarzzylinder, Brustschmuck der Männer"
+298,Black seeds that are always associated with this quartz jewelry,"Shwarze Samen, die stets mit diesem Quarzschmuck verbunden sind"
+299,Necklace made from black cocoons,Halskette aus schwarzen Cocons
+300,Necklace made from gray grass seeds (sta.maria capim),Halskette aus grauen Grassamen (Sta. Maria Capim)
+301,Cerimonial mask,Tanzmaskenanzug
+302,Raffia jacket of the mask suit,Bastjacke des Maskenanzuges
+303,Raffia hanging of the mask suit,Bastbehang des Maskenanzuges
+304,Face cover made of raffia,Gesichtsüberzug aus Bast
+305,Wooden headpiece of the mask suit,Hölzerner Kopfaufsatz des Maskenanzuges
+306,Ears on this headpiece,Ohren an diesem Kopfaufsatz
+307,White down feathers on those ears,Weiße Flaumfedern an diesen Ohren
+308,Edge painting of the headpiece,Randbemalung des Kofaufsatzes
+309,Braid of the mask suit,Zopf des Maskenanzuges
+310,Dance rattle (pumpkin rattle),Tanzrassel (Kürbisrassel)
+311,"The clatter of dance from halved fruit pods, which are worn around the ankle","Tanzklappern aus halbierten Fruchtschalen, die um den Fußköchel getragen werden"
+312,Dance pole made of hollowed ambaúva wood,Tanzstab aus ausgehöhltem Ambaúvaholz
+313,Handle of the dance rattle,Stiel der Tanzrassel
+314,Slot of the dance rattle,Schlitz der Tanzrassel
+315,Incised pattern on the dance rattle,Ritzmuster auf der Tanzrassel
+316,Ordinary flute pipe made of pipe,Gewöhnliche Flötenpfeife aus Rohr
+317,Panpipe,Panpeife
+318,Wooden horn,Hölzerne Signaltute
+319,Sound signal horn,Signaltute aus Ton
+320,Big signal drum,Große Signaltrommel
+321,"Round dance, singing","Rundtanz, Gesang"
+322,Yuruparý dance festival,Yuruparý-Tanzfest
+323,Let's dance!,laßt uns tanzen!
+324,Yuruparý whip,Yuruparý-Peitsche
+325,Small flute pipe,Kleine Flötenpfeife
+326,Larger flute pipe,Größere Flötenpfeife
+327,Big flute pipe,Große Flötenpfeife
+328,Very large flute pipe,Sehr große Flötenpfeife
+329,Bag,Tute
+330,Big bag,Große Tute
+331,Fermented alcoholic drink,Kaschiri
+332,"Manicuéra (sweet, boiled mandioca juice)","Manicuéra (süßer, abgekochter Mandiocasaft)"
+333,Cachaça (rum),Cachaça (Rum)
+334,Coca,Coca
+335,Ash from ambaúva leaves as an additive to coca,Asche aus Ambaúvablättern als Zusatz zu Coca
+336,"Spherical, polished calabash for coca (only worn during festivities)","Kugelige, polierte Kalabasse für Coca (nur bei Festlichkeiten getragen)"
+337,Hollow heron bones to this device,Hohler Reiherknochen zu diesem Gerät
+338,Wax sticks made from inambú feathers that are dipped in beeswax and then bent together,"Wachsstöcke aus Inambúfedern, die in Bienenwachs getaucht und dann zusammengebogen werden"
+339,Human,Mensch
+340,People,Leute
+341,Man,Mann
+342,Husband,Ehemann
+343,Father,Vater
+344,Daddy,Papa
+345,Mother,Mutter
+346,Mummy,Mama
+347,Father-in-law,Schwievatter
+348,Mother-in-law,Schwiegermutter
+349,Child,Kind
+350,Infant,Säugling
+351,My son,mein Sohn
+352,Grandson,Enkel
+353,Boy,Knabe
+354,Youth,Jüngling
+355,Brother,Bruder
+356,Older brother,älterer Bruder
+357,Younger brother,jüngerer Bruder
+358,Brother in law,Schwager
+359,Sister,Schwester
+360,Older sister,ältere Schwester
+361,Younger sister,üngere Schwester
+362,Sister in law,Schwägerin
+363,Woman,Weib
+364,Wife,Gattin
+365,His wife,seine Gattin
+366,Girl,Mädchen
+367,Daughter,Tochter
+368,Granddaughter,Enkelin
+369,Widow,Witwe
+370,Uncle,Oheim
+371,Aunt,Tante
+372,Cousin (male),Vetter
+373,Cousin (female),Base
+374,Old man,Greis
+375,Old woman,Greisin
+376,Grandfather,Großvater
+377,Grandmother,Großmutter
+378,Chief,Häuptling
+379,White man,Weißer
+380,Magician,Zauberarzt
+381,Drug,Arzneimittel
+382,Poison,Krankheitsgift
+383,Fever,Fieber
+384,Dysentery,Dysenterie
+385,Tobacco,Tabak
+386,Tobacco leaf,Tabakblatt
+387,Big cigar,Große Zigarre
+388,Cigar fork,Zigarrengabel
+389,Snuff,Schnupftabak
+390,Sniffing device,Schnupfapparat
+391,Snuffbox,Schnupftabakdose
+392,Large snail shell that is used as a snuffbox,"Große Schneckenschale, die als Schnupftabakdose verwendet wird"
+393,"Wound scratches (triangular calabash shard, studded with teeth of the trahíra fish)","Wundkratzer (dreieckige Kalabassenscherbe, mit Zähnchen d.Trahíra-Fisches besetzt)"
+394,God,Gott
+395,Ghost,Gespenst
+396,Forest spirit,Waldgeist
+397,Soul,Seele
+398,Language,Sprache
+399,Capuchin monkey,Affe (Macaco prego)
+400,Howler monkey,Brüllaffe
+401,Uacari monkey,Uacarí-Affe
+402,Oayapisá monkey,Oayapisá-Affe
+403,Yuruparý monkey,Yuruparý-Affe
+404,Caiarára monkey,Caiarára-Affe
+405,Barrigudo monkey,Barrigudo-Affe
+406,Macaquinho,Macaquinho
+407,Bat,Fledermaus
+408,Small bat,Kleine Fledermaus
+409,Micura,Micura
+410,"Jaguar, more colorful","Jaguar, bunter"
+411,"Jaguar, black","Jaguar, schwarzer"
+412,Puma,Puma
+413,Maracajá,Maracajá
+414,Deer,Hirsch
+415,Stag,Hirsch (Rothirsch)
+416,Otter,Fischotter
+417,Tapir,Tapir
+418,Capybara,Capivara
+419,Paca,Paca
+420,Agutí,Agutí
+421,Agutiuaya ,Agutiuaya
+422,Coati,Cuatí
+423,Cuatipurú,Cuatipurú
+424,Small cuatipurú,Kleines Cuatipurú
+425,"Rat, mouse","Ratte, Maus"
+426,Mouse,Maus
+427,Armadillo,Gürteltier
+428,Giant armadillo,Riesengürteltiers
+429,Armadillo shell,Schale des Gürteltiers
+430,Sloth,Faultier
+431,Giant anteater,Großer Ameisenbär
+432,Little anteater,Kleiner Ameisenbär
+433,Taitetú pig,Taitetú-Schwein
+434,Taiasu pig,Taiasú-Schwein
+435,Pig teeth,Schweinszähne
+436,"Pig, european","Schwein, europaisches"
+437,Dog,Hund
+438,Cat,Katze
+439,Manatee,Manatí
+440,Dolphin,Delphin
+441,Bird (= passarinho),Vogel (=passarinho)
+442,Egg,Ei
+443,Red macaw,"Arara, rot"
+444,Blue macaw,"Arara, blau"
+445,Periquito,Periquito
+446,Parrot,Paragei
+447,Anacã,Anacã
+448,Mutum,Mutum
+449,Urumutum,Urumutum
+450,Jacú,Jacú
+451,Cujubim,Cujubim
+452,Jacamý,Jacamý
+453,Corocoró,Corocoró
+454,Great inambú,Großes Inambú
+455,Little inambú,Kleines Inambú
+456,Dove,Taube
+457,Tucáno,Tucáno
+458,Yapu,Yapú
+459,Japeim,Japeim
+460,Woodpecker (arapaso),Specht (Arapaso)
+461,Thunder,Trovão
+462,Taiasuirá,Taiasuirá
+463,Aracuã,Aracuã
+464,Anacoró,Anacoró
+465,Andurĩ,Andurĩ
+466,Little white swallow,Kleine weiße Schwalbe
+467,Nightjar,Nachtschwalbe
+468,Uratauí,Uratauí
+469,Humming-bird,Kolibri
+470,Bird,Vogel
+471,"Rooster, chicken","Hahn, Huhn"
+472,Duck,Ente
+473,Little colorful duck,Kleine bunte Ente
+474,Martim pescador (type of kingfisher),Martim pescador (Art Eisvogel)
+475,Carará,Carará
+476,Mergulhão,Mergulhão
+477,Little gull,Kleine Möve
+478,Saracúra (type of coot),Saracúra (Art Wasserhuhn)
+479,Socó,Socó
+480,White heron,Weißer Reiher
+481,Yaburú,Yaburú
+482,Maguarý,Maguarý
+483,Tuyuyú,Tuyuyú
+484,Urubú,Urubú
+485,Great gavião,Großer Gavião
+486,Hawk,Habicht
+487,Cancão,Cancão
+488,Big owl,Große Eule
+489,Little owl,Kleine Eule
+490,Lung,Lunge
+491,Liver,Leber
+492,Wattle,Kehllappen
+493,Fish,Fisch
+494,Scales,Schuppen
+495,Fishbone,Gräten
+496,Stingray,Rochen
+497,Sorubim,Sorubim
+498,Piranha,Piranha
+499,Electric eel,Zitteraal
+500,Pirarára,Pirarára
+501,Pirahíba,Pirahíba
+502,Tucunaré,Tucunaré
+503,Pacu,Pacú
+504,Aracú,Aracú
+505,Acará,Acará
+506,Trahira,Trahira
+507,Yataiuarana,Yataiuarana
+508,Jacundá,Jacundá
+509,Mandubé,Mandubé
+510,Pirarucú,Pirarucú
+511,Peixe cachorro,Peixe cachorro
+512,Candirú,Candirú
+513,Alligator,Alligator
+514,Iguana,Leguan
+515,Lizard,Eidechse
+516,Frog,Frosch
+517,Toad,Kröte
+518,Frog or toad,Frosch oder Kröter
+519,Tartaruga,Tartaruga
+520,Big-headed amazon river turtle,Cabeçudo
+521,Jabutí,Jabutí
+522,Shell of the cabeçudo,Schild der Cabeçudo
+523,Snake,Schlange
+524,Big water snake,Große Wasserschlange
+525,Boa,Jiboya
+526,Jararáca,Jararáca
+527,Surucucú,Surucucú
+528,Earth worm,Erdergenwurm
+529,Palm weevil larva,Baumregenwurm
+530,Ant,Ameise
+531,Saúba ant,Saúba-Ameise
+532,Maniuára ant,Maniuára-Ameise
+533,Tocandíra ant,Tocandíra-Ameise
+534,Termites,Termiten
+535,Taracuá,Taracuá
+536,Fly,Fliege
+537,Mosquito,Mosquito
+538,Small mosquito,Kleine Mosquito
+539,Pium,Pium
+540,Mutuca,Mutuca
+541,Bee,Biene
+542,Honey,Honig
+543,Wasp,Wespe
+544,Grasshopper,Heuschrecke
+545,Cricket,Grille
+546,Dragonfly,Wasserjungfer
+547,Butterfly,Shmetterling
+548,Big blue butterfly,Großer blauer Schmetterling
+549,Caterpillar,Raupe
+550,Dung beetles,Mistkäfer
+551,Firefly,Leuchtkäfer
+552,Barata,Barata
+553,Tick,Carapato
+554,Very small tick,Sehr kleine Carapato
+555,Louse,Laus
+556,Flea,Floh
+557,Sand flea,Sandfloh
+558,Micuim,Micuim
+559,Spider,Spinne
+560,Crab,Krebs
+561,Shrimp,Camarão
+562,Scorpion,Skorpion
+563,Water spider,Wasserspinne
+564,Millipede,Tausendfuß
+565,Maruim,Maruim
+566,Páca,Páca
+567,Shell,Muschel
+568,Slug,Schnecke
+569,Tree,Baum
+570,Leaf,Blatt
+571,Branch,Ast
+572,Bark,Rinde
+573,Root,Wurzel
+574,Thron,Dorn
+575,Seeds,Samen
+576,Resin,Harz
+577,"Peel, pod","Schale, Hülse (d.Frucht)"
+578,Blossom,Blüte
+579,Fruit,Frucht
+580,Shrub,Strauch
+581,Grass,Gras
+582,Corn,Mais
+583,Mandioca,Mandioca
+584,Mandioca flour (farinha),Mandiocamehl (Farinha)
+585,Mandioca (beijú),Mandiocafladen (Beijú)
+586,Curatá,Curatá
+587,Tapioca,Tapioca
+588,Banana,Banane
+589,Potatoes,Batate
+590,"Cará, inyame","Cará, Inyame"
+591,Capsicum,Capsicum
+592,Peppersauce,Pfeffersauce
+593,Tucupí,Tucupí
+594,Pineapple,Ananas
+595,Tame,Zahme
+596,Savage,Wilde
+597,Cocoa,Kakao
+598,Yapurá,Yapurá
+599,Cucura,Cucura
+600,Umarí,Umarí
+601,Abíu,Abíu
+602,Iua,Iua
+603,Copoasú,Copoasú
+604,Copoaï,Copoaï
+605,Cumaru,Cumarú
+606,Cubiu,Cubiu
+607,Pinupinú (medicinal plant),Pinupinú (Medizinalpflanze)
+608,Pokeá nut,Pokeá-Nuß
+609,Ukuki,Ukuki
+610,Pumpkin,Kürbis
+611,Timbó,Timbó
+612,Sipó,Sipó
+613,Rubber,Kautschuk
+614,Rubber,Gummi
+615,Gummy milk,Gummi-Milch
+616,Bamboo,Bambus
+617,Giant reed,Pfeilrohr
+618,Sugar cane,Zuckerrohr
+619,Urucú,Urucú
+620,Carayurú,Carayurú
+621,Genipapo,Genipapo
+622,Mold on mandioca cake,Schimmel auf Mandiocafladen
+623,Mirití,Mirití
+624,Tucum,Tucum
+625,Tucumá,Tucumá
+626,Caraná,Caraná
+627,Puxiúba,Puxiúba
+628,Piassába,Piassába
+629,Yauary,Yauarý
+630,Busú,Busú
+631,Açaí,Assaï
+632,Pupunha,Pupunha
+633,Patauá,Patauá
+634,Bacaba,Bacaba
+635,Little,Wenig
+636,A lot of,Viel
+637,Half,Halb
+638,Full,Voll
+639,Everything,Alles
+640,I,Ich
+641,You,Du
+642,He,Er
+643,Another,Ein anderer
+644,We,Wir
+645,Your,Ihr
+646,They,Sie
+647,Other,Andere
+648,My bow,Mein Bogen
+649,Your bow,Dein Bogen
+650,Your coca,Deine Coca
+651,His bow,Sein Bogen
+652,Our house,Unser Haus
+653,Your house,Euer Haus
+654,Your house,Ihr Haus
+655,Large,Groß
+656,Small,Klein
+657,High,Hoch
+658,Deep,Tief
+659,Long,Lang
+660,Short,Kurz
+661,Wide,Breit
+662,Skinny,Mager
+663,Heavy,Schwer
+664,Light,Leicht
+665,Cold,Kalt
+666,Very cold,sehr kalt
+667,Warm,Warm
+668,Dry,Trocken
+669,Wet,Naß
+670,Rotten,Verfaut
+671,Ill,Krank
+672,Dead,Tot
+673,Hard,Hart
+674,Soft,Weich
+675,Pregnant,Schwanger
+676,Good,Gut
+677,Nice,Schön
+678,Bad,Schlecht
+679,Brave,Tapfer
+680,Cowardly,Feig
+681,White,Weiß
+682,Black,Schwarz
+683,Dirty,Schmutzig
+684,Dark,Dunkel
+685,Red,Rot
+686,Blue,Blau
+687,Green,Grün
+688,Yellow,Gelb
+689,Yesterday,Gestern
+690,Today,Heute
+691,Now,Jetzt
+692,Immediately,Sogleich
+693,One day,Dereinst
+694,Right,Rechts
+695,Left,Links
+696,Here,Hier
+697,Near,Nahe
+698,There,Dort
+699,Remote,Fern
+700,There,Dorther
+701,Front of (the house),Vor (dem Haus)
+702,Behind the house,Hinter dem Haus
+703,"Over, on the house","Über, auf dem Haus"
+704,On the tree,Auf dem Baum
+705,Under the house,Unter dem Haus
+706,"In the house, inside the house","In dem Haus, Im innern des Hauses"
+707,Yes,Ja
+708,No,Nein
+709,To breathe,Atmen
+710,"Get up, get up","Aufstehen, sich erheben"
+711,To bathe,Baden
+712,To have cohabitation,Beischlaf vollziehen
+713,To tie,Binden
+714,To bury,Begraben
+715,Stay,Bleiben
+716,Grind,Braten
+717,"Burn, burn","Brennen, verbrennen"
+718,A burnt house,ein Haus verbrennen
+719,To bring,Bringen
+720,Bring water!,Bring’ Wasser!
+721,Bring ’here!,Bring’ hierher!
+722,Blow the flute,Flöte blasen
+723,To think,Denken
+724,To drown,Ertrinken
+725,To eat,Essen
+726,To fall,Fallen
+727,"We want to catch, let's catch!","Wir wollen fangen, laßt uns fangen!"
+728,Lets catch a woman!,laßt uns ein Weib holen [fangen]!
+729,To fly,Fliegen
+730,To flow,Fließen
+731,The river flows,der Fluß strömt
+732,To fish,Fischen
+733,To fear,Fürchten
+734,To yawn,Gähnen
+735,To give birth,Gebären
+736,Give me water!,Gib mir Wasser!
+737,I want water,ich will Wasser haben!
+738,Emit a flatus,Einen Flatus von sich geben
+739,To walk,Gehen
+740,To dig,Graben
+741,To grab,Greifen
+742,Do you have water?,Hast du Wasser?
+743,Do you have farinha?,Hast du Farinha?
+744,To hit,Hauen
+745,To listen,Hören
+746,To starve,Hungern
+747,I am hungry,ich habe Hunger
+748,To cough,Husten
+749,To hunt,Jagen
+750,To poop,Kacken
+751,To fight,Kämpfen
+752,To chew,Kauen
+753,To climb,Klettern
+754,To cook,Kochen
+755,To come,Kommen
+756,Come here!,du kommst. komm! komm her!
+757,It comes rain,Est kommt Regen
+758,I go to you,Ich gehe mir dir
+759,To you,mit dir
+760,To crawl,Kriechen
+761,I'm sick,Ich bin krank
+762,To laugh,Lachen
+763,To do,Machen
+764,"To paint, paint","Malen, bemalen"
+765,To sew,Nähen
+766,To sneeze,Niesen
+767,To whistle,Pfeifen
+768,To piss,Pissen
+769,To smoke,Rauchen
+770,To talk,Reden
+771,To smell,Riechen
+772,To row,Rudern
+773,To call,Rufen
+774,I swing in the hammock,Ich schaukle mich in der Hängematte
+775,You swing in the hammock,Du schaukelst dich in der Hängematte
+776,To shoot,Schießen
+777,To sleep,Schlafen
+778,I want to sleep,Ich will schlafen
+779,To beat,Schlagen
+780,To grind,Schleifen
+781,To swallow,Schlucken
+782,Snoring,Schnarchen
+783,To cut,Schneiden
+784,I cut with my knife,Ich schneide mit meinem Messer
+785,To swim,Schwimmen
+786,To see,Sehen
+787,To sing,Singen
+788,To sit,Sitzen
+789,To speak,Sprechen
+790,To leap,Springen
+791,To sting,Stechen
+792,To stand,Stehen
+793,To die,Sterben
+794,To dive,Tauchen
+795,To kill,Töten
+796,To drink,Trinken
+797,Turning back,Umkehren
+798,To grow,Wachsen
+799,To comb ,Waben
+800,To cry,Weinen
+801,To throw,Werfen
+802,To want,Wollen
+803,To count,Zählen
+804,To show,Zeigen
+805,To pull,Ziehen
+806,To tremble,Zittern
+807,Forward! let's go,Vorwärts! Laßt uns gehen
+808,Well! (invitation to eat etc.),Wohlan! (Aufforderung zum Essen usw.)
