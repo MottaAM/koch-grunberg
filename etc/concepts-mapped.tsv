@@ -1,0 +1,1213 @@
+NUMBER	ENGLISH	GERMAN	PORTUGUESE	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
+1	Tongue	Zunge	Língua	1205	TONGUE	2
+2	Mouth	Mund	Boca	674	MOUTH	2
+3	Lips	Lippen	Lábios	478	LIP	2
+4	Tooth	Zahn	Dente	1380	TOOTH	2
+5	Nose	Nase	Nariz	1221	NOSE	2
+6	Nostril	Nasenloch	Narina	1178	NOSTRIL	2
+7	Eye	Auge	Olho	1248	EYE	2
+8	Ear	Ohr	Orelha	1247	EAR	2
+9	Ear hole as an ear canal	Ohrloch als Gehörgang	Ouvido		???	
+10	Hole in the earlobe	Loch im Ohrläppchen	Furo no lobo da orelha		???	
+11	Reamer in the earlobe	Sitift im Ohrläppchen	Alargador no lobo da orelha		???	
+12	Hole in the lower lip	Loch im der Unterlippe	Furo no lábio inferior		???	
+13	Long and thin cylinder in the lower lip	Stift in der  Unterlippe	Cilindro longo e fino no lábio inferior		???	
+14	Hole in the nasal septum	Loch in der Nasenscheidewand	Furo no septo nasal		???	
+15	Pin in the nasal septum	Stift in der Nasenscheidewand	Talo da pena no septo nasal		???	
+16	Forehead	Stirn	Testa	123	FOREHEAD	2
+#<<<						
+17	Head	Kopf	Cabeça	2992	TIP (OF OBJECT)	2
+17	Head	Kopf	Cabeça	1256	HEAD	2
+#>>>						
+18	Head hair	Kopfhaar	Cabelo	2648	HAIR (HEAD)	2
+19	Eyebrows	Augenbrauen	Sobrancelhas	1173	EYEBROW	2
+20	Eyelashes	Augenwimpern	Cílios	1540	EYELASH	2
+21	Beard	Bart	Barba	678	BEARD	2
+22	Pubic hair	Schamhaar	Pelo pubiano	36	PUBIC HAIR	2
+23	Underarm hair	Achselhaar	Pelo nas axilas		???	
+24	Cheek	Wange	Bochecha	1730	CHEEK	2
+25	Chin	Kinn	Queixo	1510	CHIN	2
+26	Shoulder	Schulter	Ombro	1482	SHOULDER	2
+27	Arm	Arm	Braço	1673	ARM	2
+28	Elbow	Ellbogen	Cotovelo	981	ELBOW	2
+29	Hand	Hand	Mão	1277	HAND	2
+30	Back of the hand	Handrücken	Costas da mão		???	
+#<<<						
+31	Palm	Handfläche	Palma da mão	1181	PALM TREE	2
+31	Palm	Handfläche	Palma da mão	1183	PALM OF HAND	2
+#>>>						
+32	Finger	Finger	Dedo	1303	FINGER	2
+33	Thumb	Daumen	Polegar	1781	THUMB	2
+34	Index finger	Zeigefinger	Dedo indicador	577	FOREFINGER	2
+35	Middle finger	Mittelfinger	Dedo médio	3387	MIDDLE FINGER	2
+36	Ring finger	Ringfinger	Dedo anelar		???	
+37	Small finger	Kleinfinger	Dedo mínimo		???	
+38	Fingernail	Fingernagel	Unha	1258	FINGERNAIL	2
+39	Thigh	Oberschenkel	Coxa	471	UPPER LEG (THIGH)	2
+40	Lower leg	Unterschenkel	Parte da perna abaixo do joelho e acima do tornozelo	447	LOWER LEG	2
+41	Shin	Schienbein	Canela da perna	186	SHIN	2
+#<<<						
+42	Calf	Wade	Panturrilha	498	CALF OF LEG	2
+42	Calf	Wade	Panturrilha	1989	CALF	2
+#>>>						
+43	Knee	Knie	Joelho	1371	KNEE	2
+44	Popliteal fossa	Kniekehle	Parte detrás do joelho		???	
+#<<<						
+45	Foot	Fuß	Pé	1301	FOOT	2
+45	Foot	Fuß	Pé	2098	FOOT OR LEG	2
+#>>>						
+46	Instep	Fußrücken	Peito do pé	3736	INSTEP	2
+47	Sole	Sohle	Sola do pé	2666	SOLE (FOOT)	2
+48	Heel	Ferse	Calcamnhar	980	HEEL	2
+49	Ankle	Fußknöchel	Tornozelo	803	ANKLE	2
+50	Foot tendon	Fußsehne	Tendão do pé		???	
+51	Toe	Zehe	Dedão	1389	TOE	2
+#<<<						
+52	Toenail	Zehennagel	Unha do dedão	2662	TOENAIL	2
+52	Toenail	Zehennagel	Unha do dedão	1896	FINGERNAIL OR TOENAIL	2
+#>>>						
+53	Body	Körper	Corpo	1480	BODY	2
+54	Neck	Hals	Pescoço	1333	NECK	2
+55	Neck	Nacken	Nuca	1333	NECK	2
+56	Throat	Kehle	Gargante	1346	THROAT	2
+57	Armpit	Achselhöhle	Axila	1886	ARMPIT	2
+58	Shoulder blade	Schulterblatt	Escápula	172	SHOULDERBLADE	2
+59	Rib	Rippen	Costela	801	RIB	2
+60	Chest	Brust	Peito	1592	CHEST	2
+61	Nipple	Brustwarze	Mamilo	796	NIPPLE	2
+62	Female breast	Weibliche Brust	Peito feminino	1402	BREAST	2
+63	Belly	Bauch	Barriga	1251	BELLY	2
+64	Navel	Nabel	Umbigo	1838	NAVEL	2
+#<<<						
+65	Back	Rücken	Costas	1291	BACK	2
+65	Back	Rücken	Costas	2910	BACK (DIRECTION)	2
+65	Back	Rücken	Costas	2323	BACK (PART)	2
+65	Back	Rücken	Costas	2911	BACKWARD	2
+#>>>						
+66	Buttocks	Gesaß	Nádegas	834	BUTTOCKS	2
+67	Penis	Penis	Pênis	1222	PENIS	2
+#<<<						
+68	Scrotum	Scrotum	Escroto	2834	SCROTUM	2
+68	Scrotum	Scrotum	Escroto	797	TESTICLES	2
+#>>>						
+69	Testicle	Testikel	Testículo	797	TESTICLES	2
+70	Membrum muliebre	Membrum muliebre	Membrum muliebre		???	
+71	Vagina	Vagina	Vagina	1836	VAGINA	2
+72	Clitoris	Clitoris	Clitóris	3257	CLITORIS	2
+73	Anus	Anus	Ânus	1935	ANUS	2
+#<<<						
+74	Skin	Haut	Pele	763	SKIN	2
+74	Skin	Haut	Pele	2614	SKIN (ANIMAL)	2
+74	Skin	Haut	Pele	2613	SKIN (HUMAN)	2
+74	Skin	Haut	Pele	291	PULL OFF (SKIN)	2
+#>>>						
+#<<<						
+75	Fur	Fell	Pelo	325	FELT	2
+75	Fur	Fell	Pelo	580	FUR	2
+#>>>						
+76	Bone	Knochen	Osso	1394	BONE	2
+77	Blood	Blut	Sangue	946	BLOOD	2
+78	Vein	Ader	Veia	1924	VEIN	2
+79	Pulse	Puls	Pulso	3267	PULSE	2
+#<<<						
+80	Flesh	Fleisch	Carne	2615	FLESH OR MEAT	2
+80	Flesh	Fleisch	Carne	2259	FLESH	2
+#>>>						
+81	Tendon	Sehne	Tendão	1137	TENDON	2
+82	Heart	Herz	Coração	1223	HEART	2
+83	Guts	Eingeweide	Vísceras	1334	GUTS	2
+#<<<						
+84	Stomach	Magen	Estômago	1251	BELLY	2
+84	Stomach	Magen	Estômago	819	STOMACH	2
+#>>>						
+85	Intestine	Darm	Intestino	1991	INTESTINES	2
+#<<<						
+86	Fat	Fett	Gordura	323	FAT (ORGANIC SUBSTANCE)	2
+86	Fat	Fett	Gordura	2449	FAT (OF MEAT AND FOOD)	2
+86	Fat	Fett	Gordura	1279	FAT (OBESE)	2
+86	Fat	Fett	Gordura	2555	OIL (FROM PLANTS)	2
+86	Fat	Fett	Gordura	1282	FAT (FROM ANIMALS)	2
+#>>>						
+87	Saliva	Speichel	Saliva	1503	SALIVA	2
+88	Urine	Urin	Urina	1142	URINE	2
+#<<<						
+89	Sweat	Schweiß	Suor	125	SWEAT (SUBSTANCE)	2
+89	Sweat	Schweiß	Suor	2458	PERSPIRE OR SWEAT	2
+#>>>						
+#<<<						
+90	Tear	Träne	Lágrima	1651	TEAR (OF EYE)	2
+90	Tear	Träne	Lágrima	1735	TEAR (SHRED)	2
+#>>>						
+91	Feces	Kot	Fezes	675	FAECES (EXCREMENT)	2
+92	Flatus	Flatus	Flatulência		???	
+93	Breath	Atem	Hálito	870	BREATH	2
+94	Wound	Wunde	Ferida	1109	WOUND	2
+95	Purupuru (skin disease)	Purupuru (Hautkrankheit)	Pupupuru (doença de pele)		???	
+96	Beak	Schnabel	Bico	73	BEAK	2
+97	Tail	Schwanz	Cauda	1220	TAIL	2
+98	Wing	Flügel	Asa	1257	WING	2
+99	Feather	Feder	Pena	1201	FEATHER	2
+100	Fin	Flosse	Nadadeira	213	FIN	2
+#<<<						
+101	Water	Wasser	Água	2516	WATER BUFFALO	2
+101	Water	Wasser	Água	3078	IRRIGATE	2
+101	Water	Wasser	Água	948	WATER	2
+#>>>						
+#<<<						
+102	River	Fluß	Rio	666	RIVER	2
+102	River	Fluß	Rio	3311	FLOWING BODY OF WATER	2
+#>>>						
+103	Brook	Bach	Riacho	3821	BROOK	2
+104	Lagoon	Lagune	Lagoa	623	LAGOON	2
+105	Cachoeira (rapids, waterfall)	Cachoeira (Stromschnelle, Wasserfall)	Cachoeira	943	WATERFALL	4
+106	Narrow river arm (paraná miri)	Schmaler Flußarm (Paraná miri)	Paraná-mirim		???	
+107	Fire	Feuer	Fogo	221	FIRE	2
+#<<<						
+108	Smoke	Rauch	Fumaça	1689	SMOKE (INHALE)	2
+108	Smoke	Rauch	Fumaça	2859	SMOKE (EMIT SMOKE)	2
+108	Smoke	Rauch	Fumaça	778	SMOKE (EXHAUST)	2
+#>>>						
+109	Ash	Asche	Cinzas	646	ASH	2
+110	Coal	Kohle	Carvão	2658	COAL	2
+111	Firewood	Brennholz	Lenha	10	FIREWOOD	2
+112	Sky	Himmel	Céu	1732	SKY	2
+#<<<						
+113	Cloud	Wolke	Nuvem	1489	CLOUD	2
+113	Cloud	Wolke	Nuvem	448	STORM CLOUDS	2
+#>>>						
+#<<<						
+114	Rain	Regen	Chuva	2108	RAINING OR RAIN	2
+114	Rain	Regen	Chuva	1253	RAIN (RAINING)	2
+114	Rain	Regen	Chuva	658	RAIN (PRECIPITATION)	2
+#>>>						
+115	Fog	Nebel	Névoa	249	FOG	2
+116	Dew	Tau	Orvalho	1977	DEW	2
+117	Drizzle	Feiner Nebelregen	Garoa	1016	DRIZZLE	2
+118	Wind	Wind	Vento	960	WIND	2
+119	Lightning	Blitz	Relâmpago	1654	LIGHTNING	2
+#<<<						
+120	Thunder	Donner	Trovão	1150	THUNDER	2
+120	Thunder	Donner	Trovão	2378	THUNDER (VERB)	2
+#>>>						
+121	Rainbow	Regenbogen	Arco-íris	1733	RAINBOW	2
+122	Sun	Sonne	Sol	1343	SUN	2
+123	Shadow	Schatten	Sombra	1388	SHADE	2
+124	Year	Jahr	Ano	1226	YEAR	2
+125	Rainy season	Regenzeit	Estação chuvosa	453	RAINY SEASON	2
+126	Dry season	Trockenzeit	Estação seca	452	DRY SEASON	2
+#<<<						
+127	Day	Tag	Dia	1260	DAY (24 HOURS)	2
+127	Day	Tag	Dia	1225	DAY (NOT NIGHT)	2
+#>>>						
+128	Night	Nacht	Noite	1233	NIGHT	2
+129	Morning	Morgen	Manhã	1339	MORNING	2
+130	Noon	Mittag	Meio-dia	12	MIDDAY	2
+131	Eve	Abend	Véspera		???	
+132	Dawn	Morgenrot	Amanhecer	729	DAWN	2
+133	Moon	Mond	Lua	1313	MOON	2
+134	New moon	Neuer Mond	Lua nova	3691	NEW MOON	2
+135	Full moon	Vollmond	Lua cheia	3690	FULL MOON	2
+136	Moon halo	Ringförmiger Mondhof	Halo lunar		???	
+137	Lunar eclipse	Mondfinsternis	Eclipse lunar		???	
+138	Solar eclipse	Sonnenfinstemis	Eclipse solar		???	
+139	Star	Stern	Estrela	1430	STAR	2
+140	Pleiades	Plejaden	Plêiades		???	
+141	Milky way	Milchstraße	Via Láctea	2289	MILKY WAY	2
+#<<<						
+142	Ground	Erdboden	Chão	2159	GROUND	2
+142	Ground	Erdboden	Chão	1228	EARTH (SOIL)	2
+#>>>						
+#<<<						
+143	Field	Feld	Campo	212	FIELD	2
+143	Field	Feld	Campo	140	PADDY FIELD	2
+#>>>						
+144	Path	Weg	Caminho	2252	PATH	2
+145	Mountain	Berg	Montanha	639	MOUNTAIN	2
+146	Forest	Wald	Floresta	420	FOREST	2
+147	Island	Insel	Ilha	622	ISLAND	2
+#<<<						
+148	Beach	Strand	Praia	113	SHORE	2
+148	Beach	Strand	Praia	3460	BEACH	2
+#>>>						
+#<<<						
+149	Stone	Stein	Pedra	857	STONE	2
+149	Stone	Stein	Pedra	668	ROCK	2
+149	Stone	Stein	Pedra	1762	STONE (OF FRUIT)	2
+#>>>						
+150	Pumice	Bimsstein	Pedra-pomes		???	
+151	Whiter clay	Weißer Ton	Tabatinga (tipo de argila mais clara)		???	
+152	Yellow tone	Gelber Ton	Argila amarelada		???	
+153	Hole	Loch	Buraco	1667	HOLE	2
+154	Grave	Grab	Tumba	1773	GRAVE	2
+155	Sea	Meer	Mar	1474	SEA	2
+156	Rio solimões	Rio Solimões	Rio Solimões		???	
+157	Rio yapurá	Rio Yapurá	Rio Japurá		???	
+158	Rio apaporis	Rio Apaporis	Rio Apapóris		???	
+#<<<						
+159	Village, home	Dorf, Heimat	VIla, Lar	3609	TOWN OR VILLAGE	4
+159	Village, home	Dorf, Heimat	VIla, Lar	930	VILLAGE	4
+159	Village, home	Dorf, Heimat	VIla, Lar	2406	HOME	4
+159	Village, home	Dorf, Heimat	VIla, Lar	1252	HOUSE	4
+#>>>						
+#<<<						
+160	Home	Heimat	Lar	2406	HOME	2
+160	Home	Heimat	Lar	1252	HOUSE	2
+#>>>						
+161	Your home	deine Heimat	Seu lar		???	
+162	House	Haus	Casa	1252	HOUSE	2
+163	Entrance	Eingang	Entrada		???	
+#<<<						
+164	Exit	Ausgang	Saída	1107	GO OUT	2
+164	Exit	Ausgang	Saída	1752	LEAVE	2
+#>>>						
+165	Trapdoor	Falltür	Alçapão		???	
+166	Buttress posts	Strebepfosten	Contraforte		???	
+#<<<						
+167	Wall	Wand	Parede	3830	WALL	2
+167	Wall	Wand	Parede	933	WALL (OF HOUSE)	2
+#>>>						
+168	Horizontal battens that hold the paxiúbal batts of the wall together in the middle	Horizontallatten, die die Paxiúbalatten der Wand in der Mitte zusammenhalten			???	
+169	Beams that sit on the paxiúbalatten on the wall and support the roof	Balken, die auf den Paxiúbalatten der Wand aufsitzen und das Dach tragen			???	
+170	Sloping rafters	Schräge Dachsparren	caibros inclinados		???	
+171	Roof cladding made from leaves of the caraná palm tree	Dachbekleidung aus Blättern der Caraná Palme	Revestimento do telhado feito de folhas de caraná		???	
+172	Horizontal barriers to which these caraná leaves are attached	Horizontalsperren, an denen diese Caraná Blätter befestigt sind	Barreiras horizontais onde essas folhas de caraná são conectadas		???	
+173	Chimney	Rauchfang	Chaminé	1305	CHIMNEY	2
+174	Planting	Pflanzung	Plantio		???	
+175	Torch	Fackel	Tocha	1919	TORCH	2
+176	Yeasts	Hefen	Levedura	967	YEAST	4
+177	Storage place in forest (l. g .. mitasáua)	Lagerplatz in Walde (l. g.. mitasáua)	Local armazenar coisas na floresta		???	
+178	Scaffolding in the house to put things on or hang on	Gerüst im Haus, um Sachen darauf zu legen oder daran zu hängen	Plataforma na casa para colocar ou pendurar coisas		???	
+179	Stool	Sitzschemel	Banco	2058	STOOL	2
+180	Curauá fibers	Curauáfasern	Fibra de carauá		???	
+181	Hammock	Hängmatte	Rede	2019	HAMMOCK	2
+182	Cotton hammock	Hängematte aus Baumwolle	Rede de algodão		???	
+183	Hammock ropes	Hängemattenstricke	Corda da rede		???	
+184	Cotton	Baumwolle	Algodão	1850	COTTON	2
+185	Cloth	Tuch	Tecido	1616	CLOTH	2
+186	Carrying basket of women	Tragkorb der Weiber	Cesto de carga para mulheres		???	
+187	Men's carrying basket to get coca leaves	Tragbkorb der Männer um Coca-Blätter zu holen	Cesto de carga para homens coletarem folhas de coca		???	
+188	Hanging basket	Hangkörbchen	Cesto para pendrar		???	
+#<<<						
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	460	BREAK (OF ROPE)	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	718	PAY	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	3080	SPLIT OPEN	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	1840	BUILD	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	2017	MIX	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	178	RIPE	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	3044	BOVINE	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	2628	PLANT STEM	4
+189	Flat basket for mandioca (beijús), etc.	Flacher Korb für Mandiocafladen (Beijús) usw.	Cesto plano para mandioca (beijus) etc.	285	THRESH	4
+#>>>						
+#<<<						
+190	Large, flat, fine, mandioca strainer	Großes, flaches, feines, Mandiocasieb	Coador grande, plano e fino para mandioca	2157	FINE OR THIN	4
+190	Large, flat, fine, mandioca strainer	Großes, flaches, feines, Mandiocasieb	Coador grande, plano e fino para mandioca	711	TALL	4
+190	Large, flat, fine, mandioca strainer	Großes, flaches, feines, Mandiocasieb	Coador grande, plano e fino para mandioca	218	FINE (PENALTY)	4
+190	Large, flat, fine, mandioca strainer	Großes, flaches, feines, Mandiocasieb	Coador grande, plano e fino para mandioca	1633	FLAT	4
+190	Large, flat, fine, mandioca strainer	Großes, flaches, feines, Mandiocasieb	Coador grande, plano e fino para mandioca	770	EARRING	4
+190	Large, flat, fine, mandioca strainer	Großes, flaches, feines, Mandiocasieb	Coador grande, plano e fino para mandioca	1202	BIG	4
+190	Large, flat, fine, mandioca strainer	Großes, flaches, feines, Mandiocasieb	Coador grande, plano e fino para mandioca	1539	BASKET	4
+#>>>						
+#<<<						
+191	Large, flat, coarser mandoca strainer	Großes, flaches, gröberes Mandocasieb	Coador grande, plano e rústico para mandioca	711	TALL	4
+191	Large, flat, coarser mandoca strainer	Großes, flaches, gröberes Mandocasieb	Coador grande, plano e rústico para mandioca	1633	FLAT	4
+191	Large, flat, coarser mandoca strainer	Großes, flaches, gröberes Mandocasieb	Coador grande, plano e rústico para mandioca	770	EARRING	4
+191	Large, flat, coarser mandoca strainer	Großes, flaches, gröberes Mandocasieb	Coador grande, plano e rústico para mandioca	1202	BIG	4
+191	Large, flat, coarser mandoca strainer	Großes, flaches, gröberes Mandocasieb	Coador grande, plano e rústico para mandioca	1539	BASKET	4
+#>>>						
+#<<<						
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	1840	BUILD	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	3044	BOVINE	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	2628	PLANT STEM	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	2617	BULB	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	285	THRESH	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	718	PAY	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	2017	MIX	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	178	RIPE	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	1633	FLAT	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	460	BREAK (OF ROPE)	4
+192	Flat, coarse basket for storing fruits, bulbs, etc.	Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw.	Cesto plano e rústico para armezenar frutas, bulbos etc.	3080	SPLIT OPEN	4
+#>>>						
+193	Deep basket for storing farinha (mandioca flour)	Tiefer Korb zum Aufbewahren von Farinha (Mandiocamehl)	Cesto fundo para armazenar farinha (farinha de mandioca)		???	
+194	Cylinder made of tree bark for storing manioc dough	Zylinder aus Baumrinde zum Aufbewahren von Mandiocamasse	Cilindro feito de casca de árvore para armezenar massa de mandioca		???	
+#<<<						
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	2687	STEELYARD (BALANCE)	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	606	GRASS	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	1979	CHISEL	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	2774	LITTLE FINGER	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	1395	ROUND	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	1227	BOARD	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	2484	SMALL (NOT TALL)	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	1246	SMALL	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	2302	CIRCULAR (ROUND IN TWO DIMENSIONS)	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	908	DRUM	4
+195	Small, round, very fine sieve to sieve coca powder.	Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben.	Peneira pequena, redonda e bem fina para pó de coca	1207	YOUNG	4
+#>>>						
+196	Mat for covering vessels	Matte zum Zudecken von Gefäßen	Tapete apra cobrir os recipientes		???	
+197	Braided tube (tipiti) for squeezing the manioc dough	Geflochtener Schlauch (tipiti) zum Auspressen der Mandiocamasse	Tubo transado (tipiti) para espremer a massa da mandioca		???	
+198	Square men's tucum cord bag for small items	Viereckige Tasche der Männer aus Tucumschnüren für Kleinkram	Saco quadrado  masculino de cordão de tucum para itens pequenos		???	
+199	Knitting frame z. manufacture these bags	Strickrahmen z. Verfertigen dieser Taschen			???	
+200	Fire fans	Feuerfächer	Abano		???	
+#<<<						
+201	Calabash 	Kalabasse 	Cabaça	411	GOURD	4
+201	Calabash 	Kalabasse 	Cabaça	3918	CALABASH	4
+#>>>						
+202	Big calabash	große Kalabasse	Cabaça grande		???	
+203	Small calabash for scooping	kleine Kalabasse zum Schöpfen	Cabaça pequena para escavar		???	
+204	Cooking pot	Kochtopf	Panela	3653	COOKING POT	2
+205	Iron saucepan	Eiserner Kochtopf	Panela de ferro		???	
+206	Large kashiri pot	Großer Kaschiritopf	Jarro grande para caxiri		???	
+207	Deep bowl in which you can ferment the mandioca	Tiefe Topfschale, in der man Mandiocamasse gären läßt	Tigela funda para fermentar a mandioca		???	
+#<<<						
+208	Large, flatter saucepan for manicuéra (boiled mandioca juice)	Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)	Panela grande mais plana para manicuera	711	TALL	4
+208	Large, flatter saucepan for manicuéra (boiled mandioca juice)	Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)	Panela grande mais plana para manicuera	1202	BIG	4
+208	Large, flatter saucepan for manicuéra (boiled mandioca juice)	Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)	Panela grande mais plana para manicuera	1539	BASKET	4
+208	Large, flatter saucepan for manicuéra (boiled mandioca juice)	Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)	Panela grande mais plana para manicuera	770	EARRING	4
+#>>>						
+209	Clay vessel for the drink	Tongefäß für das Getränk	Recipiente de argila para bebidas		???	
+210	Water pot with two handles	Wassertopf mit zwei Henkein	Jarro de água com duas alças		???	
+211	Clay bowl	Tonschale	Tigela de argila		???	
+212	Bowl for coca	Schale für Coca	Tigela para coca		???	
+213	Clay bowl with foot as handle	Tonschale mit Fuß als Handgriff			???	
+214	Pottery clay	Töpferton	Argila		???	
+215	Hourglass-shaped frame made of chopsticks for vessels	Sanduhrförmiges Gestell aus Stäbchen für Gefäße			???	
+#<<<						
+216	Mortar	Mörser	Pilão	224	MORTAR	2
+216	Mortar	Mörser	Pilão	1731	MORTAR BINDER	2
+#>>>						
+217	Pestle	Stössel	Socador (do pilão)	225	PESTLE	2
+218	Stove top	Herdplatte	Chapa, forno para beiju		???	
+219	Earthenware	Tönerne	Louça de barro		???	
+220	Gridiron	Bratrost	Grelha		???	
+221	Manioc grater	Mandiocareibebrett	Ralador de mandioca, ralo de mandioca		???	
+222	Wooden cylinder in which coca is tapped	Holzzylinder, in dem Coca geklopft wird	Cilindro de madeira onde a coca é macerada 		???	
+223	Coca hammer	Cocaklopfer	Martelo para coca		???	
+224	Raffia bags for coca	Bastsäckchen für Coca	Sacos de ráfia para coca		???	
+225	Hollow bird bones for sucking coca	Hohler Vogelknochen, um Coca zu saugen	Ossos ocos de ave para sugar coca		???	
+226	Calabash with lid as a coca container	Kalabasse mit Deckel als Cocabehälter	Cabaça com tampa para ser um conteiner de coca		???	
+227	Wooden lid for this calabash	Holzdeckel zu dieser Kalabasse	Tampa de madeira para essa cabaça		???	
+228	Bone spoon used to take coca	Knochenlöffel, mit dem Coca genommen wird	Colher de osso para pegar coca		???	
+229	Axe	Beil	Machado	677	AXE	2
+230	Stone axe	Steinbeil	Machado de madeira	677	AXE	4
+231	Knife	Messer	Faca	1352	KNIFE	2
+232	Forest knife	Waldmesser	Faca de sobrevivência		???	
+233	Tree	Einbaum	Árvore	906	TREE	2
+234	Rudder	Ruder	Leme	108	RUDDER	2
+235	Grid on the boat for protection against backflow	Lattengitter im Boot Schutzgegen das Kielwasser	Grade de rede no barco para proteção contra o refluxo		???	
+236	Sun canopy (tolda) over the boat	Sonnendach (tolda) über dem Boot	Tolda do barco		???	
+237	Bow	Bogen	Arco	994	BOW	2
+238	Bowstring	Bogensehne	Corda do arco	2119	BOW STRING	2
+239	Arrow	Pfeil	Flecha	977	ARROW	2
+240	Large poisoned arrows for high hunting	Große vergiftete Pfeile für Hochjagd	Flechas grandes envenedadas para caçar		???	
+241	Case for the tips of these poison arrows	Futteral für die Spitzen dieser Giftpfeile	Estojo para as pontas dessas flechas envenenadas		???	
+242	Fish arrow with double iron point	Fischpfeil mit doppelter Eisenspitze	Flecha para peixe com ponta dupla de ferro		???	
+243	Harpoon arrow	Harpunenpfeil	Flecha de arpão		???	
+244	Iron harpoon of this arrow	Eiserne Harpune dieses Pfeils	Arpão de ferro dessa flecha		???	
+245	Tip of the harpoon	Spitze der Harpune	Ponta do arpão		???	
+246	Barb of the tip	Widerhaken der Spitze	Farpa da ponta		???	
+247	Wrap around the top	Umwicklung der Spitze	Invólucro envolta da ponta		???	
+248	Wooden stick into which the harpoon is inserted	Holzastab, in den die Harpune gestecket wird	Graveto de madeira onde o arpão é inserido		???	
+249	Pipe shaft of the harpoon arrow	Rohrschaft des Harpunenpfeils	Tubo da flecha do arpão		???	
+250	Hand end of the tubular shaft	Handende des Rohrschaftes	Final do tubo		???	
+251	Harpoon cord	Schnur der Harpune	Corda do arpão		???	
+252	Pitch	Pech	Breu	664	RESIN	2
+253	Club	Keule	Clava 	1763	CLUB	2
+254	String of mace	Schnur der Keule	Corda do martelo		???	
+255	Blowgun	Blasrohr	Zarabatana	432	BLOWGUN	2
+256	Blowpipe arrow	Blasrohrpfeilchen	Flecha para zarabatana		???	
+257	Mouthpiece of the blowpipe	Mundstück des Blasrohres	Bocal da zarabatana		???	
+258	Quiver for the poison arrows	Köcher für die Giftpfeilchen	Aljava de flechas envenenadas		???	
+259	Poison dart	Pfeilgift	Dardo envenenado		???	
+260	Tree silk (samaúma) to wrap the blowpipe sticks	Baumseide (Samaúma) zum Umwickeln der			???	
+261	Poison lance	Giftlanze	Lança envenenada		???	
+262	Flutteral for the tips of the poison lances	Flutteral für die Spitzen der Giftlanzen			???	
+263	Point of the poison lance	Spitze der Giftlanze	Ponta da lança envenenada		???	
+264	Shield	Schild	Escudo	1064	SHIELD	2
+265	War shield	Kriegsschild	Escudo de guerra		???	
+266	Fishnet	Fischnetz	Rede de pesca	388	FISHNET	2
+267	Big trap	Große Reuse	Armadilha grande		???	
+268	Small trap	Kleine Reuse	Armadilha pequena		???	
+269	Fish trap	Fischfalle	Armadilha para peixe	389	FISH TRAP	2
+270	Fishing rod	Angel	Vara de pesca		???	
+271	Fishing line	Angelschnur	Linha de pesca	19	FISHING LINE	2
+272	Gun	Gewehr	Arma de fogo	1566	GUN	2
+273	Gunpowder	Pulver	Pólvora	1798	GUNPOWDER	2
+274	Shot	Schrot	Tiro		???	
+275	Hip cord	Hüftschnur	Cordão da cintura		???	
+276	Man's loincloth	Schambinde des Mannes	Tanga masculina		???	
+277	Woman's loincloth	Schamschurz der Frau	Tanga feminina		???	
+278	Wide raffia belt (men's costume)	Breiter Bastgürtel (Tracht der Männer)	Cinto largo de ráfia (traje masculino)		???	
+279	Bracelets made of raffia (men's costume)	Armbänder aus Bast (Tracht der Männer)	Braceletes feitos de ráfia (traje masculino)		???	
+280	Softer strips of raffia to tie belts and bracelets	Weichere Baststreifen, um Gürtel und Armbänder festzubinden	Pedaços mais maleáveis de ráfia para amarrar cintos e braceletes		???	
+281	Male braid	Männerzopf	Trança masculina		???	
+282	Raffia wrap around the braid	Bastumwicklung des Zopfes	Ráfia enrolada em torno da trança		???	
+283	Mirror	Spiegel	Espelho	1171	MIRROR	2
+284	Needle	Nadel	Agulha	1382	NEEDLE (FOR SEWING)	2
+285	Earring	Ohrring	Brinco	770	EARRING	2
+286	Pearls	Perlen	Pérolas	3325	PEARL	4
+287	Suitcase	Koffer	Mala		???	
+#<<<						
+288	Comb	Kamm	Pente	2070	COMB (VERB)	2
+288	Comb	Kamm	Pente	188	COMB OF BIRD	2
+288	Comb	Kamm	Pente	1475	COMB	2
+#>>>						
+289	Fine head feathers, gala jewelery (lingoa yamáhapoa geral: kangatára) mahápoali (macaw feathers)	Feine Kopffederbinde, Galaschmuck (lingoa yamáhapoa geral: kangatára) mahápoali (Ararafedern)	Cocar, indumentária		???	
+290	Headdress made of toucan feathers in straw 	Kopfputz aus Tukanfederchen in Strohreif	Cocar feito com penas de tucano e palha		???	
+291	Straw frost on this jewelry	Strohreif zu diesem Schmuck			???	
+292	Dance device that represents a fish trap and is worn on the braid	Tanzgerät, das eine Fischreuse darstellt und am Zopf getragen wird	Dispositivo de dança que representa uma armadilha de peixe e é usado na trança		???	
+293	Macaw tail feather that is worn on this dance device	Araraschwanzfeder, die an diesem Tanzgerät getragen wird	Pena da cauda da arara que é usada nesse dispositivo de dança		???	
+294	Long nose piercing made of smoothed palm wood	Langer Nasenstab aus geglättetem Palmholz	Piercing de nariz longo feito de madeira de palmeira polida		???	
+295	Carved tucumá fruit peel bracelet	Armband aus geschnitzten Tucumáfruchtschalen	Bracelete curvado de pele da fruta tucumá		???	
+296	Knee band woven from curauá fibers	Kniebänderz aus Curauáfasern gewebt	Faixa para o joelho de fibra de tucumá		???	
+297	Quartz cylinder, men's breast jewelry	Quarzzylinder, Brustschmuck der Männer	Cilindro de quartzo, jóia maculina para os peitos		???	
+298	Black seeds that are always associated with this quartz jewelry	Shwarze Samen, die stets mit diesem Quarzschmuck verbunden sind	Sementes pretas que são sempre associadas a esse cilindro de quartzo		???	
+299	Necklace made from black cocoons	Halskette aus schwarzen Cocons	Colar feito de casulos pretos		???	
+300	Necklace made from gray grass seeds (sta.maria capim)	Halskette aus grauen Grassamen (Sta. Maria Capim)	Colar feito de sementes de erva-de-santa-maria		???	
+301	Cerimonial mask	Tanzmaskenanzug	Máscara para cerimônias		???	
+302	Raffia jacket of the mask suit	Bastjacke des Maskenanzuges	Jaqueta de ráfia para o traje com máscaras		???	
+303	Raffia hanging of the mask suit	Bastbehang des Maskenanzuges	Fios de ráfia pendentes do traje		???	
+304	Face cover made of raffia	Gesichtsüberzug aus Bast	Cobertura para o resto feito de ráfia		???	
+305	Wooden headpiece of the mask suit	Hölzerner Kopfaufsatz des Maskenanzuges	Chapéu de madeira do taje		???	
+306	Ears on this headpiece	Ohren an diesem Kopfaufsatz	Orelhas nesse chapéu		???	
+307	White down feathers on those ears	Weiße Flaumfedern an diesen Ohren	Penas brancas nessas orelhas		???	
+308	Edge painting of the headpiece	Randbemalung des Kofaufsatzes	Pintura nos cantos desse chapéu		???	
+309	Braid of the mask suit	Zopf des Maskenanzuges	Trança da máscara do taje 		???	
+310	Dance rattle (pumpkin rattle)	Tanzrassel (Kürbisrassel)	Chocalho de dança (chocalho de abóbora)		???	
+311	The clatter of dance from halved fruit pods, which are worn around the ankle	Tanzklappern aus halbierten Fruchtschalen, die um den Fußköchel getragen werden			???	
+312	Dance pole made of hollowed ambaúva wood	Tanzstab aus ausgehöhltem Ambaúvaholz	Poste de dança feito de madeira oca de Ambaúva		???	
+313	Handle of the dance rattle	Stiel der Tanzrassel	Cabo do chocalho de dança		???	
+314	Slot of the dance rattle	Schlitz der Tanzrassel	Buraco do chocalho de dança		???	
+315	Incised pattern on the dance rattle	Ritzmuster auf der Tanzrassel	Padrão entalhado no chocalho de dança		???	
+316	Ordinary flute pipe made of pipe	Gewöhnliche Flötenpfeife aus Rohr	Flauta comum feita de tubo		???	
+317	Panpipe	Panpeife	Flauta de pã		???	
+318	Wooden horn	Hölzerne Signaltute	Trumpa de madeira		???	
+319	Sound signal horn	Signaltute aus Ton	Trompa do sinal de som		???	
+320	Big signal drum	Große Signaltrommel	Tambor grande de sinal		???	
+321	Round dance, singing	Rundtanz, Gesang	Dança de roda enquanto canta		???	
+322	Yuruparý dance festival	Yuruparý-Tanzfest	Vestival de dança Jurupari		???	
+323	Let's dance!	laßt uns tanzen!	Vamos dançar!		???	
+324	Yuruparý whip	Yuruparý-Peitsche	Chicote Jurupari		???	
+325	Small flute pipe	Kleine Flötenpfeife	Flauta de pã pequena		???	
+326	Larger flute pipe	Größere Flötenpfeife	Flauta de pã maior		???	
+327	Big flute pipe	Große Flötenpfeife	Flauta de pã grande		???	
+328	Very large flute pipe	Sehr große Flötenpfeife	Flauta de pã muito grande		???	
+329	Bag	Tute	Bolsa	2468	BAG	2
+330	Big bag	Große Tute	Bolsa grande		???	
+331	Fermented alcoholic drink	Kaschiri	Caxiri		???	
+332	Manicuéra (sweet, boiled mandioca juice)	Manicuéra (süßer, abgekochter Mandiocasaft)	Manicuera		???	
+333	Cachaça (rum)	Cachaça (Rum)	Cachaça		???	
+334	Coca	Coca	Coca	137	COCA	2
+335	Ash from ambaúva leaves as an additive to coca	Asche aus Ambaúvablättern als Zusatz zu Coca	Cinzas das folhas de ambuava como um aditivo à coca		???	
+336	Spherical, polished calabash for coca (only worn during festivities)	Kugelige, polierte Kalabasse für Coca (nur bei Festlichkeiten getragen)	Cabaça esférica e polida para coca (apenas usadas nos festivais)	2303	SPHERICAL (ROUND IN THREE DIMENSIONS)	4
+337	Hollow heron bones to this device	Hohler Reiherknochen zu diesem Gerät	Ossos ocos de garça desse dispositivo		???	
+338	Wax sticks made from inambú feathers that are dipped in beeswax and then bent together	Wachsstöcke aus Inambúfedern, die in Bienenwachs getaucht und dann zusammengebogen werden	Paus de cera feitos de penas de inambu, as quais são mergulhadas em cera de abelha e coladas juntas		???	
+339	Human	Mensch	Humano	683	PERSON	2
+340	People	Leute	Pessoas	789	PEOPLE	2
+#<<<						
+341	Man	Mann	Homem	683	PERSON	2
+341	Man	Mann	Homem	1554	MAN	2
+341	Man	Mann	Homem	2106	MALE PERSON	2
+#>>>						
+342	Husband	Ehemann	Marido	1200	HUSBAND	2
+343	Father	Vater	Pai	1217	FATHER	2
+344	Daddy	Papa	Papai		???	
+345	Mother	Mutter	Mãe	1216	MOTHER	2
+346	Mummy	Mama	Mamãe		???	
+347	Father-in-law	Schwievatter	Sogro	1055	FATHER-IN-LAW	2
+348	Mother-in-law	Schwiegermutter	Sogra	1050	MOTHER-IN-LAW	2
+#<<<						
+349	Child	Kind	Criança	2099	CHILD	2
+349	Child	Kind	Criança	1801	CHILD (DESCENDANT)	2
+349	Child	Kind	Criança	1304	CHILD (YOUNG HUMAN)	2
+#>>>						
+350	Infant	Säugling	Bebê	1289	BABY	2
+351	My son	mein Sohn	meu filho	1620	SON	2
+352	Grandson	Enkel	Neto	1618	GRANDSON	2
+353	Boy	Knabe	Menino	1366	BOY	2
+#<<<						
+354	Youth	Jüngling	Jovem	76	YOUNG MAN	4
+354	Youth	Jüngling	Jovem	1366	BOY	4
+#>>>						
+#<<<						
+355	Brother	Bruder	Irmão	1262	BROTHER	2
+355	Brother	Bruder	Irmão	559	BROTHER (OF MAN)	2
+#>>>						
+356	Older brother	älterer Bruder	Irmão mais velho	1759	OLDER BROTHER	2
+357	Younger brother	jüngerer Bruder	Irmão mais novo	1760	YOUNGER BROTHER	2
+358	Brother in law	Schwager	Cunhado	2314	BROTHER-IN-LAW	2
+359	Sister	Schwester	Irmã	1263	SISTER	2
+360	Older sister	ältere Schwester	Irmã mais velha	1758	OLDER SISTER	2
+361	Younger sister	üngere Schwester	Irmã mais nova	1761	YOUNGER SISTER	2
+362	Sister in law	Schwägerin	Cunhada	2317	SISTER-IN-LAW	2
+363	Woman	Weib	Mulher	962	WOMAN	2
+364	Wife	Gattin	Esposa	1199	WIFE	2
+365	His wife	seine Gattin	Esposa dele		???	
+366	Girl	Mädchen	Menina	1646	GIRL	2
+367	Daughter	Tochter	Filha	1357	DAUGHTER	2
+368	Granddaughter	Enkelin	Neta	1619	GRANDDAUGHTER	2
+369	Widow	Witwe	Viúva	1756	WIDOW	2
+370	Uncle	Oheim	Tio	1327	UNCLE	2
+#<<<						
+371	Aunt	Tante	Tia	3042	MATERNAL AUNT (MOTHER'S OLDER SISTER)	2
+371	Aunt	Tante	Tia	1272	AUNT	2
+#>>>						
+#<<<						
+372	Cousin (male)	Vetter	Primo	3823	FEMALE COUSIN	4
+372	Cousin (male)	Vetter	Primo	2384	COUSIN OR SISTER-IN-LAW	4
+372	Cousin (male)	Vetter	Primo	1643	COUSIN	4
+372	Cousin (male)	Vetter	Primo	3822	MALE COUSIN	4
+#>>>						
+#<<<						
+373	Cousin (female)	Base	Prima	3823	FEMALE COUSIN	4
+373	Cousin (female)	Base	Prima	2384	COUSIN OR SISTER-IN-LAW	4
+373	Cousin (female)	Base	Prima	1643	COUSIN	4
+373	Cousin (female)	Base	Prima	3822	MALE COUSIN	4
+#>>>						
+#<<<						
+374	Old man	Greis	Velho	406	OLD MAN	2
+374	Old man	Greis	Velho	1229	OLD	2
+#>>>						
+375	Old woman	Greisin	Velha	907	OLD WOMAN	2
+376	Grandfather	Großvater	Avô	1383	GRANDFATHER	2
+377	Grandmother	Großmutter	Avó	1496	GRANDMOTHER	2
+378	Chief	Häuptling	Chefe	301	CHIEFTAIN	2
+379	White man	Weißer	Homem branco	2839	WHITE MAN	2
+380	Magician	Zauberarzt	Mago	2137	MAGICIAN	2
+381	Drug	Arzneimittel	Droga	1372	MEDICINE	2
+382	Poison	Krankheitsgift	veneno	655	POISON	2
+383	Fever	Fieber	Febre	1534	FEVER	2
+384	Dysentery	Dysenterie	Diarreia		???	
+385	Tobacco	Tabak	Tabaco	974	TOBACCO	2
+386	Tobacco leaf	Tabakblatt	Folha de tabaco		???	
+387	Big cigar	Große Zigarre	Charuto grande		???	
+388	Cigar fork	Zigarrengabel	Forquilha para cigarro		???	
+389	Snuff	Schnupftabak	Rapé		???	
+390	Sniffing device	Schnupfapparat	Aparelho de rapé		???	
+391	Snuffbox	Schnupftabakdose	Porta-tabaco		???	
+392	Large snail shell that is used as a snuffbox	Große Schneckenschale, die als Schnupftabakdose verwendet wird	Concha grande de lesma usada como um porta-tabaco		???	
+393	Wound scratches (triangular calabash shard, studded with teeth of the trahíra fish)	Wundkratzer (dreieckige Kalabassenscherbe, mit Zähnchen d.Trahíra-Fisches besetzt)	 Feridas (fragmento triangular de cabaça)		???	
+#<<<						
+394	God	Gott	Deus	3231	DEITY	2
+394	God	Gott	Deus	1944	GOD	2
+#>>>						
+#<<<						
+395	Ghost	Gespenst	Fantasma	1175	GHOST	2
+395	Ghost	Gespenst	Fantasma	53	SPIRIT	2
+#>>>						
+396	Forest spirit	Waldgeist	Espírito da floresta		???	
+397	Soul	Seele	Alma	811	SOUL	2
+398	Language	Sprache	Língua	1307	LANGUAGE	2
+399	Capuchin monkey	Affe (Macaco prego)	Macaco-prego	439	CEBUS MONKEY	4
+400	Howler monkey	Brüllaffe	Bugio	433	HOWLER MONKEY	2
+401	Uacari monkey	Uacarí-Affe	Uacari		???	
+402	Oayapisá monkey	Oayapisá-Affe	Macaco uaiapuçá (japuçá/uapuçá)		???	
+403	Yuruparý monkey	Yuruparý-Affe	Macaco jurupari		???	
+404	Caiarára monkey	Caiarára-Affe	Baiarara		???	
+405	Barrigudo monkey	Barrigudo-Affe	Macaco barrigudo		???	
+406	Macaquinho	Macaquinho	Macaquinho		???	
+407	Bat	Fledermaus	Morcego	1793	BAT	2
+408	Small bat	Kleine Fledermaus	Morcego pequeno		???	
+409	Micura	Micura	Mucura (saruê) 		???	
+410	Jaguar, more colorful	Jaguar, bunter	Onça pintada	1250	JAGUAR	4
+#<<<						
+411	Jaguar, black	Jaguar, schwarzer	Onça preta	1250	JAGUAR	4
+411	Jaguar, black	Jaguar, schwarzer	Onça preta	2633	BLACK OR DARK	4
+411	Jaguar, black	Jaguar, schwarzer	Onça preta	163	BLACK	4
+#>>>						
+412	Puma	Puma	Suçuarana, Onça-Parda	1891	PUMA	2
+413	Maracajá	Maracajá	Gato-maracajá 		???	
+#<<<						
+414	Deer	Hirsch	Veado-Campeiro	1936	DEER	2
+414	Deer	Hirsch	Veado-Campeiro	3826	ROE DEER	2
+#>>>						
+415	Stag	Hirsch (Rothirsch)	Veado-Vermelho	1936	DEER	4
+416	Otter	Fischotter	Lontra	15	OTTER	2
+417	Tapir	Tapir	Anta	312	TAPIR	2
+418	Capybara	Capivara	Capivara	314	CAPYBARA	2
+419	Paca	Paca	Paca	316	PACA	2
+420	Agutí	Agutí	Cutia		???	
+421	Agutiuaya 	Agutiuaya	Cutiara 		???	
+422	Coati	Cuatí	Quati	2389	COATI (COATIMUNDI)	2
+423	Cuatipurú	Cuatipurú	Quatipuru (tipo de esquilo)		???	
+424	Small cuatipurú	Kleines Cuatipurú	Quatipuru pequeno		???	
+425	Rat, mouse	Ratte, Maus	Rato, camundongo	2139	MUROID (MOUSE OR RAT)	2
+#<<<						
+426	Mouse	Maus	Camundongo	1491	MOUSE	2
+426	Mouse	Maus	Camundongo	2139	MUROID (MOUSE OR RAT)	2
+#>>>						
+427	Armadillo	Gürteltier	Tatu	1885	ARMADILLO	2
+428	Giant armadillo	Riesengürteltiers	Tatu grande		???	
+429	Armadillo shell	Schale des Gürteltiers	Casco de tatu		???	
+430	Sloth	Faultier	Bicho-preguiça	2446	SLOTH	2
+431	Giant anteater	Großer Ameisenbär	Tamanduá bandeira		???	
+432	Little anteater	Kleiner Ameisenbär	Tamanduá mirim		???	
+433	Taitetú pig	Taitetú-Schwein	Caititu		???	
+434	Taiasu pig	Taiasú-Schwein	Queixada		???	
+435	Pig teeth	Schweinszähne	Dente de porco		???	
+#<<<						
+436	Pig, european	Schwein, europaisches	Porco europeu	1337	PIG	4
+436	Pig, european	Schwein, europaisches	Porco europeu	3154	WILD BOAR	4
+436	Pig, european	Schwein, europaisches	Porco europeu	2564	PIGLET	4
+436	Pig, european	Schwein, europaisches	Porco europeu	2169	PIG (CLASSIFIER)	4
+#>>>						
+437	Dog	Hund	Cão	2009	DOG	2
+#<<<						
+438	Cat	Katze	Gato	3825	MALE CAT	2
+438	Cat	Katze	Gato	1208	CAT	2
+#>>>						
+439	Manatee	Manatí	Peixe-boi		???	
+440	Dolphin	Delphin	Golfinho	1479	DOLPHIN	2
+#<<<						
+441	Bird (= passarinho)	Vogel (=passarinho)	Passarinho	937	BIRD	4
+441	Bird (= passarinho)	Vogel (=passarinho)	Passarinho	3320	SNARE (TRAP)	4
+#>>>						
+442	Egg	Ei	Ovo	744	EGG	2
+443	Red macaw	Arara, rot	Arara vermelha		???	
+444	Blue macaw	Arara, blau	Arara azul		???	
+445	Periquito	Periquito	Periquito		???	
+446	Parrot	Paragei	Papagaio	882	PARROT	2
+447	Anacã	Anacã	Anacã		???	
+448	Mutum	Mutum	Mutum	315	CURASSOW	4
+449	Urumutum	Urumutum	Urumutum		???	
+450	Jacú	Jacú	Jacu		???	
+451	Cujubim	Cujubim	Cujubi		???	
+452	Jacamý	Jacamý	Jacamim		???	
+453	Corocoró	Corocoró	Coró-coró		???	
+454	Great inambú	Großes Inambú	Inambu grande		???	
+455	Little inambú	Kleines Inambú	Inambu pequeno		???	
+456	Dove	Taube	Pombo	1853	DOVE	2
+457	Tucáno	Tucáno	Tucano		???	
+458	Yapu	Yapú	Japu		???	
+459	Japeim	Japeim	Japiim		???	
+460	Woodpecker (arapaso)	Specht (Arapaso)	Pica-pau (Arapaçu)	2447	WOODPECKER	4
+#<<<						
+461	Thunder	Trovão	Trovão	1150	THUNDER	2
+461	Thunder	Trovão	Trovão	2378	THUNDER (VERB)	2
+#>>>						
+462	Taiasuirá	Taiasuirá	Taiasuirá		???	
+463	Aracuã	Aracuã	Aracuã		???	
+464	Anacoró	Anacoró	Anacoró		???	
+465	Andurĩ	Andurĩ	Andorinha		???	
+466	Little white swallow	Kleine weiße Schwalbe	Andorinha branca pequena		???	
+467	Nightjar	Nachtschwalbe	Noitibó		???	
+468	Uratauí	Uratauí	Uratau		???	
+469	Humming-bird	Kolibri	Beija-flor	1589	HUMMINGBIRD	2
+470	Bird	Vogel	Pássaro	937	BIRD	2
+#<<<						
+471	Rooster, chicken	Hahn, Huhn	Galo, frango	2512	CHICK	4
+471	Rooster, chicken	Hahn, Huhn	Galo, frango	2081	CHICKEN (CLASSIFIER)	4
+471	Rooster, chicken	Hahn, Huhn	Galo, frango	1318	CHICKEN	4
+471	Rooster, chicken	Hahn, Huhn	Galo, frango	265	FOWL	4
+471	Rooster, chicken	Hahn, Huhn	Galo, frango	1201	FEATHER	4
+471	Rooster, chicken	Hahn, Huhn	Galo, frango	1514	HEN	4
+471	Rooster, chicken	Hahn, Huhn	Galo, frango	1511	ROOSTER	4
+#>>>						
+472	Duck	Ente	Pato	1360	DUCK	2
+473	Little colorful duck	Kleine bunte Ente	Pato pequeno colorido		???	
+474	Martim pescador (type of kingfisher)	Martim pescador (Art Eisvogel)	Martim pescador		???	
+475	Carará	Carará	Carará		???	
+476	Mergulhão	Mergulhão	Mergulhão		???	
+477	Little gull	Kleine Möve	Gaivota-pequena		???	
+478	Saracúra (type of coot)	Saracúra (Art Wasserhuhn)	Saracura		???	
+479	Socó	Socó	Socó		???	
+480	White heron	Weißer Reiher	Garça-branca		???	
+481	Yaburú	Yaburú	Jaburu		???	
+482	Maguarý	Maguarý	Maguari		???	
+483	Tuyuyú	Tuyuyú	Tuiuiú		???	
+484	Urubú	Urubú	Urubu		???	
+485	Great gavião	Großer Gavião	Gavião grande		???	
+#<<<						
+486	Hawk	Habicht	Gavião	307	HAWK	2
+486	Hawk	Habicht	Gavião	3258	FALCON	2
+#>>>						
+487	Cancão	Cancão	Cancão		???	
+488	Big owl	Große Eule	Coruja grande		???	
+489	Little owl	Kleine Eule	Corujinha		???	
+490	Lung	Lunge	Pulmão	688	LUNG	2
+491	Liver	Leber	Fígado	1224	LIVER	2
+492	Wattle	Kehllappen	Barbela de ave		???	
+#<<<						
+493	Fish	Fisch	Peixe	2638	FISHING	2
+493	Fish	Fisch	Peixe	227	FISH	2
+#>>>						
+494	Scales	Schuppen	Escamas	266	SCALE	2
+495	Fishbone	Gräten	Espinha de peixe	3799	FISHBONE	2
+496	Stingray	Rochen	Arraia	1910	STINGRAY	2
+497	Sorubim	Sorubim	Sorubim		???	
+498	Piranha	Piranha	Piranha	317	PIRANHA	2
+499	Electric eel	Zitteraal	Enguia elétrica	2443	ELECTRIC EEL	2
+500	Pirarára	Pirarára	Piraraba		???	
+501	Pirahíba	Pirahíba	Piraíba		???	
+502	Tucunaré	Tucunaré	Tucunaré		???	
+503	Pacu	Pacú	Pacu	3922	PACU	4
+504	Aracú	Aracú	Aracu		???	
+505	Acará	Acará	Acará		???	
+506	Trahira	Trahira	Traíra		???	
+507	Yataiuarana	Yataiuarana	Jatuarana		???	
+508	Jacundá	Jacundá	Jacundá		???	
+509	Mandubé	Mandubé	Mandubé		???	
+510	Pirarucú	Pirarucú	Pirarucu		???	
+511	Peixe cachorro	Peixe cachorro	Peixe-cachorro		???	
+512	Candirú	Candirú	Candiru		???	
+513	Alligator	Alligator	Jacaré	1581	ALLIGATOR	2
+514	Iguana	Leguan	Iguana	1578	IGUANA	2
+515	Lizard	Eidechse	Lagarto	632	LIZARD	2
+516	Frog	Frosch	Rã	503	FROG	2
+517	Toad	Kröte	Sapo	894	TOAD	2
+#<<<						
+518	Frog or toad	Frosch oder Kröter	Rã ou sapo	3245	FROG (SMALL)	4
+518	Frog or toad	Frosch oder Kröter	Rã ou sapo	503	FROG	4
+518	Frog or toad	Frosch oder Kröter	Rã ou sapo	894	TOAD	4
+#>>>						
+519	Tartaruga	Tartaruga	Tartaruga		???	
+520	Big-headed amazon river turtle	Cabeçudo	Cabeçudo (tipo de tartaruga)		???	
+521	Jabutí	Jabutí	Jabuti		???	
+522	Shell of the cabeçudo	Schild der Cabeçudo	Casco de cabeçudo		???	
+523	Snake	Schlange	Cobra	730	SNAKE	2
+524	Big water snake	Große Wasserschlange	Cobra d'água grande		???	
+525	Boa	Jiboya	Jiboia		???	
+526	Jararáca	Jararáca	Jararaca		???	
+527	Surucucú	Surucucú	Surucucu		???	
+528	Earth worm	Erdergenwurm	Minhoca	2350	EARTHWORM	2
+529	Palm weevil larva	Baumregenwurm	Mochiva (larva de besouro que fica na árvore)		???	
+530	Ant	Ameise	Formiga	587	ANT	2
+531	Saúba ant	Saúba-Ameise	Saúva		???	
+532	Maniuára ant	Maniuára-Ameise	Maniuara		???	
+533	Tocandíra ant	Tocandíra-Ameise	Tocandira		???	
+534	Termites	Termiten	Cupim	883	TERMITE	4
+535	Taracuá	Taracuá	Taracuá (tipo de formiga)		???	
+#<<<						
+536	Fly	Fliege	Mosca	1504	FLY (INSECT)	2
+536	Fly	Fliege	Mosca	1441	FLY (MOVE THROUGH AIR)	2
+#>>>						
+537	Mosquito	Mosquito	Mosquito	1509	MOSQUITO	2
+538	Small mosquito	Kleine Mosquito	Mosquito pequeno		???	
+539	Pium	Pium	Pium		???	
+540	Mutuca	Mutuca	Mutuca		???	
+541	Bee	Biene	Abelha	665	BEE	2
+542	Honey	Honig	Mel	942	HONEY	2
+543	Wasp	Wespe	Vespa	1517	WASP	2
+544	Grasshopper	Heuschrecke	Gafanhoto	607	GRASSHOPPER	2
+545	Cricket	Grille	Grilo	2354	CRICKET	2
+546	Dragonfly	Wasserjungfer	Libélula	2352	DRAGONFLY	2
+547	Butterfly	Shmetterling	Borboleta	1791	BUTTERFLY	2
+548	Big blue butterfly	Großer blauer Schmetterling	Borboleta grande azul		???	
+549	Caterpillar	Raupe	Lagarta	2247	CATERPILLAR	2
+550	Dung beetles	Mistkäfer	Besouro rola-bosta		???	
+551	Firefly	Leuchtkäfer	Vagalume	206	FIREFLY	2
+552	Barata	Barata	Barata		???	
+553	Tick	Carapato	Carrapato	1527	TICK	2
+554	Very small tick	Sehr kleine Carapato	Carrapato muito pequeno		???	
+#<<<						
+555	Louse	Laus	Piolho	1392	LOUSE	2
+555	Louse	Laus	Piolho	310	HEAD LOUSE	2
+#>>>						
+556	Flea	Floh	Pulga	232	FLEA	2
+557	Sand flea	Sandfloh	Bicho-de-pé		???	
+558	Micuim	Micuim	Micuim		???	
+559	Spider	Spinne	Aranha	843	SPIDER	2
+560	Crab	Krebs	Caranguejo	2348	CRAB	2
+561	Shrimp	Camarão	Camarão	2349	SHRIMP	2
+562	Scorpion	Skorpion	Escorpião	1538	SCORPION	2
+563	Water spider	Wasserspinne	Aranha d'água		???	
+564	Millipede	Tausendfuß	Centopeia		???	
+565	Maruim	Maruim	Maruim		???	
+566	Páca	Páca	Paca		???	
+567	Shell	Muschel	Concha	598	SHELL	2
+568	Slug	Schnecke	Lesma	1543	SNAIL	4
+569	Tree	Baum	Árvore	906	TREE	2
+#<<<						
+570	Leaf	Blatt	Folha	628	LEAF	2
+570	Leaf	Blatt	Folha	2250	LEAF (LEAFLIKE OBJECT)	2
+#>>>						
+#<<<						
+571	Branch	Ast	Galho	1531	BRANCH	2
+571	Branch	Ast	Galho	3223	BRANCH OR TWIG	2
+#>>>						
+#<<<						
+572	Bark	Rinde	Casca da árvore	1204	BARK	2
+572	Bark	Rinde	Casca da árvore	1206	BARKING	2
+#>>>						
+573	Root	Wurzel	Raiz	670	ROOT	2
+574	Thron	Dorn	Espinho		???	
+575	Seeds	Samen	Semente	714	SEED	4
+576	Resin	Harz	Resina	664	RESIN	2
+#<<<						
+577	Peel, pod	Schale, Hülse (d.Frucht)	Casca da fruta	275	PEEL	4
+577	Peel, pod	Schale, Hülse (d.Frucht)	Casca da fruta	3660	SHELL (SOMETHING)	4
+577	Peel, pod	Schale, Hülse (d.Frucht)	Casca da fruta	2373	SKIN (OF FRUIT)	4
+#>>>						
+578	Blossom	Blüte	Flor	3287	BLOOM	4
+579	Fruit	Frucht	Fruta	1507	FRUIT	2
+580	Shrub	Strauch	Arbusto	751	SHRUB	2
+581	Grass	Gras	Grama	606	GRASS	2
+#<<<						
+582	Corn	Mais	Milho	605	GRAIN	2
+582	Corn	Mais	Milho	506	MAIZE	2
+#>>>						
+583	Mandioca	Mandioca	Mandioca		???	
+584	Mandioca flour (farinha)	Mandiocamehl (Farinha)	Farinha de mandioca		???	
+585	Mandioca (beijú)	Mandiocafladen (Beijú)	Beiju		???	
+586	Curatá	Curatá	Curatá		???	
+587	Tapioca	Tapioca	Tapioca	925	CASSAVA	4
+#<<<						
+588	Banana	Banane	Banana	399	PLANTAIN	2
+588	Banana	Banane	Banana	868	BANANA	2
+#>>>						
+589	Potatoes	Batate	Batata	593	POTATO	2
+590	Cará, inyame	Cará, Inyame	Inhame		???	
+591	Capsicum	Capsicum	Capsicum (gênero de plantas que inclui pimenta e pimentão)	1385	PEPPER	4
+592	Peppersauce	Pfeffersauce	Molho de pimenta		???	
+593	Tucupí	Tucupí	Tucupi		???	
+594	Pineapple	Ananas	Abacaxi	2440	PINEAPPLE	2
+595	Tame	Zahme	Domesticado	2838	TAME	2
+596	Savage	Wilde	Selvagem		???	
+597	Cocoa	Kakao	Cacao	2442	COCOA BEAN	2
+598	Yapurá	Yapurá	Japurá		???	
+599	Cucura	Cucura	Cucura		???	
+600	Umarí	Umarí	Umari		???	
+601	Abíu	Abíu	Abiu		???	
+602	Iua	Iua	Iuá-pixuna		???	
+603	Copoasú	Copoasú	Cupuaçu		???	
+604	Copoaï	Copoaï	Cupuí		???	
+605	Cumaru	Cumarú	Cumaru		???	
+606	Cubiu	Cubiu	Cubiu		???	
+607	Pinupinú (medicinal plant)	Pinupinú (Medizinalpflanze)			???	
+608	Pokeá nut	Pokeá-Nuß	Tipo de noz		???	
+609	Ukuki	Ukuki	Ucuqui		???	
+610	Pumpkin	Kürbis	Abóbora	864	PUMPKIN	2
+611	Timbó	Timbó	Timbó		???	
+612	Sipó	Sipó	Sipó		???	
+613	Rubber	Kautschuk	Látex		???	
+614	Rubber	Gummi	Borracha		???	
+615	Gummy milk	Gummi-Milch	Seiva		???	
+616	Bamboo	Bambus	Bambu	1927	BAMBOO	2
+617	Giant reed	Pfeilrohr	Cana-do-reino		???	
+618	Sugar cane	Zuckerrohr	Cana-de-açúcar	146	SUGAR CANE	2
+619	Urucú	Urucú	Urucum		???	
+620	Carayurú	Carayurú	Carayurú		???	
+621	Genipapo	Genipapo	Genipapo		???	
+622	Mold on mandioca cake	Schimmel auf Mandiocafladen	Mofo no bolo de mandioca		???	
+623	Mirití	Mirití	Buriti		???	
+624	Tucum	Tucum	Tucum		???	
+625	Tucumá	Tucumá	Tucumã		???	
+626	Caraná	Caraná	Caraná		???	
+627	Puxiúba	Puxiúba	Paxiúba		???	
+628	Piassába	Piassába	Piaçaba		???	
+629	Yauary	Yauarý	Jauari		???	
+630	Busú	Busú	Ubuçu		???	
+631	Açaí	Assaï	Açaí		???	
+632	Pupunha	Pupunha	Pupunha		???	
+633	Patauá	Patauá	Patauá		???	
+634	Bacaba	Bacaba	Bacaba		???	
+#<<<						
+635	Little	Wenig	Pequeno	1246	SMALL	2
+635	Little	Wenig	Pequeno	2924	A LITTLE	2
+#>>>						
+636	A lot of	Viel	Muito	1198	MANY	3
+#<<<						
+637	Half	Halb	Metade	3836	HALF (HALF OF)	2
+637	Half	Halb	Metade	816	HALF	2
+#>>>						
+638	Full	Voll	Cheio	1429	FULL	2
+639	Everything	Alles	Tudo	98	ALL	2
+640	I	Ich	Eu	1209	I	2
+#<<<						
+641	You	Du	Você	1213	YOU	2
+641	You	Du	Você	1215	THOU	2
+641	You	Du	Você	2312	YOU (OBLIQUE CASE OF YOU)	2
+#>>>						
+#<<<						
+642	He	Er	Ele	1211	HE	2
+642	He	Er	Ele	2642	HE OR SHE	2
+#>>>						
+643	Another	Ein anderer	Outro	197	OTHER	2
+#<<<						
+644	We	Wir	Nós	1212	WE	2
+644	We	Wir	Nós	1130	WE (EXCLUSIVE)	2
+#>>>						
+#<<<						
+645	Your	Ihr	Seu	2274	YOUR (PLURAL)	2
+645	Your	Ihr	Seu	732	YOUR (SINGULAR)	2
+#>>>						
+646	They	Sie	Eles	817	THEY	2
+647	Other	Andere	Outro	197	OTHER	2
+648	My bow	Mein Bogen	Meu arco		???	
+649	Your bow	Dein Bogen	Seu arco		???	
+650	Your coca	Deine Coca	Sua coca		???	
+651	His bow	Sein Bogen	O arco dele		???	
+652	Our house	Unser Haus	A nossa casa		???	
+653	Your house	Euer Haus	Sua casa		???	
+654	Your house	Ihr Haus	Sua casa		???	
+655	Large	Groß	Grande	1202	BIG	2
+656	Small	Klein	Pequeno	1246	SMALL	2
+#<<<						
+657	High	Hoch	Alto	1265	HIGH	2
+657	High	Hoch	Alto	2790	HIGH OR TALL	2
+657	High	Hoch	Alto	3347	HIGH OR UP	2
+#>>>						
+658	Deep	Tief	Fundo	1593	DEEP	2
+#<<<						
+659	Long	Lang	Longo	1203	LONG	2
+659	Long	Lang	Longo	3473	LONG (FOR SOMETHING)	2
+659	Long	Lang	Longo	418	FOR A LONG TIME	2
+#>>>						
+660	Short	Kurz	Curto	1645	SHORT	2
+#<<<						
+661	Wide	Breit	Largo	1243	WIDE	2
+661	Wide	Breit	Largo	1244	THICK	2
+661	Wide	Breit	Largo	2531	BROAD	2
+#>>>						
+662	Fat (adjective)	Fett	Gordo	1279	FAT (OBESE)	3
+663	Skinny	Mager	Magro	1400	THIN (SLIM)	2
+664	Heavy	Schwer	Pesado	1210	HEAVY	2
+#<<<						
+665	Light	Leicht	Leve	1052	LIGHT (WEIGHT)	2
+665	Light	Leicht	Leve	250	LIGHT (COLOR)	2
+665	Light	Leicht	Leve	630	LIGHT (RADIATION)	2
+665	Light	Leicht	Leve	737	LIGHT (IGNITE)	2
+#>>>						
+#<<<						
+666	Cold	Kalt	Frio	102	COMMON COLD (DISEASE)	2
+666	Cold	Kalt	Frio	2483	COLD (OF WEATHER)	2
+666	Cold	Kalt	Frio	1287	COLD	2
+666	Cold	Kalt	Frio	2932	COLD (CHILL)	2
+#>>>						
+667	Very cold	sehr kalt	muito Frio		???	
+#<<<						
+668	Warm	Warm	Quente	1232	WARM	2
+668	Warm	Warm	Quente	2272	HOT OR WARM	2
+#>>>						
+#<<<						
+669	Dry	Trocken	Seco	1398	DRY	2
+669	Dry	Trocken	Seco	1786	DRY UP	2
+#>>>						
+670	Wet	Naß	Molhado	1726	WET	2
+671	Rotten	Verfaut	Estragado (podre)	1728	ROTTEN	2
+672	Ill	Krank	Doente	1847	SICK	2
+673	Dead	Tot	Morto	1625	DEAD	2
+#<<<						
+674	Hard	Hart	Duro	584	DIFFICULT	2
+674	Hard	Hart	Duro	1884	HARD	2
+#>>>						
+675	Soft	Weich	Mole	1856	SOFT	2
+#<<<						
+676	Pregnant	Schwanger	Grávida	3827	PREGNANT (OF ANIMALS)	2
+676	Pregnant	Schwanger	Grávida	1123	PREGNANT	2
+#>>>						
+677	Good	Gut	Bom	1035	GOOD	2
+678	Nice	Schön	Legal		???	
+679	Bad	Schlecht	Mau	1292	BAD	2
+680	Brave	Tapfer	Corajoso	3	BRAVE	2
+681	Cowardly	Feig	Covarde	3812	COWARDLY	2
+682	White	Weiß	Branco	1335	WHITE	2
+683	Black	Schwarz	Preto	163	BLACK	2
+684	Dirty	Schmutzig	Sujo	1230	DIRTY	2
+685	Dark	Dunkel	Escuro	706	DARK	2
+686	Red	Rot	Vermelho	156	RED	2
+687	Blue	Blau	Azul	837	BLUE	2
+#<<<						
+688	Green	Grün	Verde	1425	GREEN	2
+688	Green	Grün	Verde	2382	BLUE OR GREEN	2
+#>>>						
+689	Yellow	Gelb	Amarelo	1424	YELLOW	2
+690	Yesterday	Gestern	Ontem	1174	YESTERDAY	2
+691	Today	Heute	Hoje	1283	TODAY	2
+692	Now	Jetzt	agora	1376	NOW	2
+693	Immediately	Sogleich	Imediatamente	1963	IMMEDIATELY	2
+694	One day	Dereinst	Um dia	1260	DAY (24 HOURS)	2
+#<<<						
+695	Right	Rechts	Direita	2183	RIGHT HAND	2
+695	Right	Rechts	Direita	1019	RIGHT	2
+695	Right	Rechts	Direita	1725	CORRECT (RIGHT)	2
+#>>>						
+#<<<						
+696	Left	Links	Esquerda	2182	LEFT HAND	2
+696	Left	Links	Esquerda	244	LEFT	2
+696	Left	Links	Esquerda	1752	LEAVE	2
+#>>>						
+697	Here	Hier	Aqui	136	HERE	2
+698	Near	Nahe	Perto	1942	NEAR	2
+699	There	Dort	Lá	1937	THERE	2
+700	Remote	Fern	Longe		???	
+701	There	Dorther	De lá	1937	THERE	2
+#<<<						
+702	Front of (the house)	Vor (dem Haus)	Na frente (da casa)	1883	IN FRONT OF	4
+702	Front of (the house)	Vor (dem Haus)	Na frente (da casa)	1882	BEFORE	4
+#>>>						
+703	Behind the house	Hinter dem Haus	Atrás da casa		???	
+#<<<						
+704	Over, on the house	Über, auf dem Haus	Em cima da casa	1741	ABOVE	4
+704	Over, on the house	Über, auf dem Haus	Em cima da casa	1766	FINISH	4
+#>>>						
+705	On the tree	Auf dem Baum	Na árvore		???	
+706	Under the house	Unter dem Haus	Embaixo da casa		???	
+707	In the house, inside the house	In dem Haus, Im innern des Hauses	Na casa, dentro da casa		???	
+708	Yes	Ja	Sim	1268	YES	2
+709	No	Nein	Não	1269	NO	2
+710	To breathe	Atmen	Respirar	1407	BREATHE	1
+#<<<						
+711	Get up, get up	Aufstehen, sich erheben	Se levantar	3350	GET UP FROM BED	4
+711	Get up, get up	Aufstehen, sich erheben	Se levantar	1602	WAKE UP	4
+711	Get up, get up	Aufstehen, sich erheben	Se levantar	1512	RISE (ONESELF)	4
+#>>>						
+712	To bathe	Baden	Tomar banho	138	BATHE	1
+713	To have cohabitation	Beischlaf vollziehen	Ter coabitação 		???	
+#<<<						
+714	To tie	Binden	Amarrar	1917	TIE	1
+714	To tie	Binden	Amarrar	1094	FASTEN	1
+#>>>						
+715	To bury	Begraben	Enterrar	1719	BURY	1
+716	Stay	Bleiben	Ficar	987	REMAIN	2
+717	Grind	Braten	Ralar	1033	GRIND	2
+#<<<						
+718	Burn, burn	Brennen, verbrennen	Queimar	1428	BURNING	4
+718	Burn, burn	Brennen, verbrennen	Queimar	3383	SCALD (BURN ONESELF WITH LIQUID)	4
+718	Burn, burn	Brennen, verbrennen	Queimar	1962	ROAST (SOMETHING)	4
+718	Burn, burn	Brennen, verbrennen	Queimar	3622	BURN (INJURY)	4
+718	Burn, burn	Brennen, verbrennen	Queimar	141	BURN (SOMETHING)	4
+718	Burn, burn	Brennen, verbrennen	Queimar	3539	BURN LAND	4
+718	Burn, burn	Brennen, verbrennen	Queimar	2102	BURN	4
+#>>>						
+719	A burnt house	ein Haus verbrennen	uma casa queimada		???	
+720	To bring	Bringen	Trazer	692	BRING	1
+721	Bring water!	Bring’ Wasser!	Traz água!		???	
+722	Bring ’here!	Bring’ hierher!	Traz pra cá!		???	
+723	Blow the flute	Flöte blasen	Toca a flauta		???	
+#<<<						
+724	To think	Denken	Pensar	2271	THINK	1
+724	To think	Denken	Pensar	1415	THINK (REFLECT)	1
+#>>>						
+725	To drown	Ertrinken	Afogar	1904	DROWN	1
+726	To eat	Essen	Comer	1336	EAT	1
+727	To fall	Fallen	Cair	1280	FALL	1
+728	We want to catch, let's catch!	Wir wollen fangen, laßt uns fangen!	A gente quer pegar, bora pegar!		???	
+729	Lets catch a woman!	laßt uns ein Weib holen [fangen]!	vamos pegar uma mulher!		???	
+730	To fly	Fliegen	Voar	1441	FLY (MOVE THROUGH AIR)	1
+731	To flow	Fließen	Fluir	2003	FLOW	1
+732	The river flows	der Fluß strömt	O rio flui flui		???	
+733	To fish	Fischen	Pescar	2638	FISHING	1
+734	To fear	Fürchten	Ter medo	1419	FEAR (BE AFRAID)	1
+735	To yawn	Gähnen	Bocejar	1028	YAWN	1
+736	To give birth	Gebären	Parir	1195	GIVE BIRTH	1
+737	Give me water!	Gib mir Wasser!	Me dá água!		???	
+738	I want water	ich will Wasser haben!	eu quero água!		???	
+739	Emit a flatus	Einen Flatus von sich geben	Peidar		???	
+#<<<						
+740	To walk	Gehen	Andar	1443	WALK	1
+740	To walk	Gehen	Andar	2890	WALK (TAKE A WALK)	1
+#>>>						
+741	To dig	Graben	Cavar	1418	DIG	1
+742	To grab	Greifen	Pegar	855	SEIZE	1
+743	Do you have water?	Hast du Wasser?	Você tem água?		???	
+744	Do you have farinha?	Hast du Farinha?	Você tem farinha?		???	
+#<<<						
+745	To hit	Hauen	Bater	353	STRIKE	1
+745	To hit	Hauen	Bater	1433	HIT	1
+#>>>						
+746	To listen	Hören	Ouvir	1608	LISTEN	1
+747	To starve	Hungern	Morrer de fome		???	
+748	I am hungry	ich habe Hunger	Tenho fome		???	
+749	To cough	Husten	Tossir	879	COUGH	1
+750	To hunt	Jagen	Caçar	1435	HUNT	1
+751	To poop	Kacken	Defecar		???	
+752	To fight	Kämpfen	Lutar	1423	FIGHT	1
+753	To chew	Kauen	Mastigar	321	CHEW	1
+754	To climb	Klettern	Escalar	1102	CLIMB	1
+755	To cook	Kochen	Cozinhar	1100	COOK (SOMETHING)	1
+756	To come	Kommen	Vir	1446	COME	1
+757	Come here!	du kommst. komm! komm her!	venha aqui!	3555	COME HERE	2
+758	It comes rain	Est kommt Regen	Tá vindo chuva		???	
+759	I go to you	Ich gehe mir dir	Eu vou até você		???	
+#<<<						
+760	To you	mit dir	até você	1213	YOU	4
+760	To you	mit dir	até você	2844	YOU (FORMAL ADDRESS)	4
+760	To you	mit dir	até você	3293	YOU (HONORIFIC)	4
+760	To you	mit dir	até você	2312	YOU (OBLIQUE CASE OF YOU)	4
+760	To you	mit dir	até você	2111	YOU TWO	4
+760	To you	mit dir	até você	3292	THOU (HONORIFIC)	4
+760	To you	mit dir	até você	2304	THEE (OBLIQUE CASE OF YOU)	4
+760	To you	mit dir	até você	1215	THOU	4
+760	To you	mit dir	até você	1209	I	4
+#>>>						
+#<<<						
+761	To crawl	Kriechen	Rastejar	3456	CRAWL OR CREEP	1
+761	To crawl	Kriechen	Rastejar	96	CRAWL	1
+#>>>						
+762	I'm sick	Ich bin krank	Estou doete		???	
+763	To laugh	Lachen	Rir	1355	LAUGH	1
+764	To do	Machen	Fazer	813	DO	1
+#<<<						
+765	To paint, paint	Malen, bemalen	Pintar	3194	PAINT (SOMETHING) OR PAINTING	3
+765	To paint, paint	Malen, bemalen	Pintar	3122	PAINT (SOMETHING)	3
+765	To paint, paint	Malen, bemalen	Pintar	2001	PAINTING	3
+#>>>						
+766	To sew	Nähen	Costurar	1457	SEW	1
+767	To sneeze	Niesen	Espirrar	1621	SNEEZE	1
+768	To whistle	Pfeifen	Assoviar	1025	WHISTLE	1
+769	To piss	Pissen	Urinar	592	PISS	1
+770	To smoke	Rauchen	Fumar	1689	SMOKE (INHALE)	1
+771	To talk	Reden	Falar	2708	TALK	1
+#<<<						
+772	To smell	Riechen	Cheirar	2124	SMELL	1
+772	To smell	Riechen	Cheirar	1586	SMELL (PERCEIVE)	1
+#>>>						
+773	To row	Rudern	Remar	1849	ROW	1
+774	To call	Rufen	Chamar	1084	CALL	1
+775	I swing in the hammock	Ich schaukle mich in der Hängematte	Eu balanço a rede		???	
+776	You swing in the hammock	Du schaukelst dich in der Hängematte	Você balança a rede		???	
+777	To shoot	Schießen	Atirar	1172	SHOOT	1
+778	To sleep	Schlafen	Dormir	1585	SLEEP	1
+779	I want to sleep	Ich will schlafen	Eu quero dormir		???	
+#<<<						
+780	To beat	Schlagen	Bater	2133	STRIKE OR BEAT	1
+780	To beat	Schlagen	Bater	1665	BEAT	1
+#>>>						
+781	To grind	Schleifen	Moer	1033	GRIND	1
+782	To swallow	Schlucken	Engolir	897	SWALLOW	1
+783	Snoring	Schnarchen	Roncar		???	
+784	To cut	Schneiden	Cortar	1432	CUT	1
+785	I cut with my knife	Ich schneide mit meinem Messer	Eu corto com a minha faca		???	
+786	To swim	Schwimmen	Nadar	1439	SWIM	1
+787	To see	Sehen	Ver	1409	SEE	1
+788	To sing	Singen	Cantar	1261	SING	1
+#<<<						
+789	To sit	Sitzen	Sentar	1416	SIT	1
+789	To sit	Sitzen	Sentar	1649	SIT DOWN	1
+#>>>						
+790	To speak	Sprechen	Falar	1623	SPEAK	1
+791	To leap	Springen	Pular	1829	JUMP	4
+792	To sting	Stechen	Ferror	571	STING	1
+793	To stand	Stehen	FIcar em pé	1442	STAND	1
+794	To die	Sterben	Morrer	1494	DIE	1
+795	To dive	Tauchen	Mergulhar	119	DIVE	1
+796	To kill	Töten	Matar	1417	KILL	1
+797	To drink	Trinken	Beber	1401	DRINK	1
+798	Turning back	Umkehren	Voltar		???	
+#<<<						
+799	To grow	Wachsen	Crescer	3461	GROW PLANTS	1
+799	To grow	Wachsen	Crescer	479	GROW	1
+#>>>						
+#<<<						
+800	To comb 	Waben	Pentear	1475	COMB	3
+800	To comb 	Waben	Pentear	2070	COMB (VERB)	3
+#>>>						
+801	To cry	Weinen	Chorar	1839	CRY	1
+802	To throw	Werfen	Arrmessar	1456	THROW	1
+803	To want	Wollen	Querer	1784	WANT	1
+804	To count	Zählen	Contar	1420	COUNT	1
+805	To show	Zeigen	Mostrar	1039	SHOW	1
+806	To pull	Ziehen	Empurrar	1455	PULL	1
+807	To tremble	Zittern	Tremer	52	SHIVER	1
+808	Forward! let's go	Vorwärts! Laßt uns gehen	Bora! Vamo lá		???	
+#<<<						
+809	Well! (invitation to eat etc.)	Wohlan! (Aufforderung zum Essen usw.)	Bora! (convite para comer etc.)	954	WELL	4
+809	Well! (invitation to eat etc.)	Wohlan! (Aufforderung zum Essen usw.)	Bora! (convite para comer etc.)	1035	GOOD	4
+809	Well! (invitation to eat etc.)	Wohlan! (Aufforderung zum Essen usw.)	Bora! (convite para comer etc.)	1606	INSIDE	4
+809	Well! (invitation to eat etc.)	Wohlan! (Aufforderung zum Essen usw.)	Bora! (convite para comer etc.)	849	SPRING (OF WATER)	4
+809	Well! (invitation to eat etc.)	Wohlan! (Aufforderung zum Essen usw.)	Bora! (convite para comer etc.)	2144	SPRING OR WELL	4
+809	Well! (invitation to eat etc.)	Wohlan! (Aufforderung zum Essen usw.)	Bora! (convite para comer etc.)	3828	HEALTHINESS	4
+809	Well! (invitation to eat etc.)	Wohlan! (Aufforderung zum Essen usw.)	Bora! (convite para comer etc.)	1364	HEALTHY	4
+#>>>						
+#	454/809	56%			
+

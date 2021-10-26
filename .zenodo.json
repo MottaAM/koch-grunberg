@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Koch-Gr\u00fcnberg's \"Bet\u00f3ya-Sprachen\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Koch-Gr\u00fcnberg, T."
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Thiago Chac\u00f3n",
+            "type": "Other"
+        },
+        {
+            "name": "Mateus Motta",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Koch-Gr\u00fcnberg, T. (1914). Bet\u00f3ya-Sprachen Nordwestbrasiliens und der angrenzenden Gebiete (fortsetzung). Anthropos, 9(5/6), 812\u2013832. http://www.jstor.org/stable/40443137</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
