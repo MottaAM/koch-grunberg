@@ -35,6 +35,14 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         args.log.info("added sources")
 
+        # modify replacements
+        reps = self.raw_dir.read_csv("preprocess-sounds.tsv", delimiter="\t",
+                dicts=True)
+        for row in reps:
+            self.form_spec.replacements += [(row["KG"], row["IPA"])]
+        args.log.info(self.form_spec.replacements)
+
+
         # add concept
         concepts = {}
         for concept in self.concepts:
