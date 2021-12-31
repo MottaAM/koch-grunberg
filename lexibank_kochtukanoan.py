@@ -24,7 +24,7 @@ class CustomConcept(Concept):
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "kochgruenbergtukanoan"
+    id = "kochtukanoan"
     concept_class = CustomConcept
     form_spec = FormSpec(
             separators="~;,/", missing_data=[], first_form_only=True,
@@ -77,7 +77,7 @@ class Dataset(BaseDataset):
                                 Language_ID=language,
                                 Parameter_ID=concepts[row["Alemão"]],
                                 Value=entry,
-                                Source="KochGrünberg2014[{0}]".format(row["Pagina"])
+                                Source="Koch1914[{0}]".format(row["Pagina"])
                                 )
                     else:
                         errors.add(("concept missing", row["Alemão"]))

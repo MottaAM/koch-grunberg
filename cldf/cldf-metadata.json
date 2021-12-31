@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/MottaAM/koch-grunberg-tukanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "af9434e",
+            "dc:created": "7ee3ba2",
             "dc:title": "Repository"
         },
         {
@@ -43,14 +43,14 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "kochgruenbergtukanoan",
+    "rdf:ID": "kochtukanoan",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 2299,
+            "dc:extent": 2303,
             "tableSchema": {
                 "columns": [
                     {
@@ -228,7 +228,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 803,
+            "dc:extent": 805,
             "tableSchema": {
                 "columns": [
                     {
