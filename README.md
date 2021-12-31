@@ -20,8 +20,8 @@ Available online at http://www.jstor.org/stable/40443137
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 83%](https://img.shields.io/badge/BIPA-83%25-yellowgreen.svg "BIPA: 83%")
-![CLTS SoundClass: 83%](https://img.shields.io/badge/CLTS%20SoundClass-83%25-yellowgreen.svg "CLTS SoundClass: 83%")
+![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
+![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
 
 - **Varieties:** 4
 - **Concepts:** 805
@@ -29,9 +29,9 @@ Available online at http://www.jstor.org/stable/40443137
 - **Sources:** 21
 - **Synonymy:** 1.17
 - **Invalid lexemes:** 0
-- **Tokens:** 15,370
-- **Segments:** 52 (9 BIPA errors, 9 CTLS sound class errors, 43 CLTS modified)
-- **Inventory size (avg):** 42.25
+- **Tokens:** 15,255
+- **Segments:** 49 (1 BIPA errors, 1 CTLS sound class errors, 48 CLTS modified)
+- **Inventory size (avg):** 41.25
 
 # Contributors
 

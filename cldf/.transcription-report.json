@@ -2,15 +2,13 @@
     "by_language": {
         "Desano": {
             "bipa_errors": [
-                "<<_>>",
-                "<<\u0301>>",
-                "<<\u0129>>",
-                "<<\u0320>>",
-                "<<\u032f>>",
-                "<<\u0325>>"
+                "?"
             ],
-            "general_errors": 63,
+            "general_errors": 11,
             "replacements": {
+                "+": [
+                    "+"
+                ],
                 "a": [
                     "a"
                 ],
@@ -44,6 +42,9 @@
                 "e\u0303\u02d0": [
                     "e\u0303\u02d0"
                 ],
+                "e\u032f/j": [
+                    "j"
+                ],
                 "g": [
                     "g"
                 ],
@@ -55,6 +56,9 @@
                 ],
                 "i\u02d0": [
                     "i\u02d0"
+                ],
+                "i\u0303": [
+                    "i\u0303"
                 ],
                 "i\u0303\u02d0": [
                     "i\u0303\u02d0"
@@ -71,6 +75,12 @@
                 "n": [
                     "n"
                 ],
+                "o": [
+                    "o"
+                ],
+                "o\u0303\u02d0": [
+                    "o\u0303\u02d0"
+                ],
                 "p": [
                     "p"
                 ],
@@ -79,6 +89,9 @@
                 ],
                 "t": [
                     "t"
+                ],
+                "t\u0283": [
+                    "t\u0283"
                 ],
                 "u": [
                     "u"
@@ -116,9 +129,6 @@
                 "\u0254\u0303": [
                     "\u0254\u0303"
                 ],
-                "\u0254\u0303\u02d0": [
-                    "\u0254\u0303\u02d0"
-                ],
                 "\u025b": [
                     "\u025b"
                 ],
@@ -142,49 +152,43 @@
                 ]
             },
             "sclass_errors": [
-                "<<_>>",
-                "<<\u0301>>",
-                "<<\u0129>>",
-                "<<\u0320>>",
-                "<<\u032f>>",
-                "<<\u0325>>"
+                "?"
             ],
             "segments": {
-                "<<_>>": 11,
-                "<<\u0129>>": 19,
-                "<<\u0301>>": 5,
-                "<<\u0320>>": 4,
-                "<<\u0325>>": 2,
-                "<<\u032f>>": 22,
+                "+": 11,
+                "?": 11,
                 "a": 437,
                 "a\u02d0": 145,
                 "b": 125,
                 "d": 94,
-                "e": 139,
-                "e\u02d0": 22,
+                "e": 138,
+                "e\u02d0": 20,
+                "e\u032f/j": 1,
                 "g": 123,
                 "h": 65,
-                "i": 418,
+                "i": 402,
                 "i\u02d0": 83,
-                "j": 169,
+                "j": 185,
                 "k": 181,
                 "m": 179,
                 "n": 182,
+                "o": 2,
                 "p": 171,
                 "s": 132,
                 "t": 129,
-                "u": 314,
-                "u\u02d0": 39,
-                "w": 14,
+                "u": 309,
+                "u\u02d0": 35,
+                "w": 19,
                 "x": 113,
                 "\u00e3": 29,
                 "\u00e3\u02d0": 3,
                 "\u00e7": 56,
                 "\u0127": 3,
+                "\u0129": 14,
                 "\u0129\u02d0": 4,
                 "\u014b": 10,
                 "\u0169": 12,
-                "\u0254": 304,
+                "\u0254": 302,
                 "\u0254\u02d0": 74,
                 "\u0254\u0303": 6,
                 "\u025b": 120,
@@ -200,12 +204,13 @@
         },
         "Koretu": {
             "bipa_errors": [
-                "<<\u0301>>",
-                "<<\u0129>>",
-                "<<\u032f>>"
+                "?"
             ],
-            "general_errors": 22,
+            "general_errors": 1,
             "replacements": {
+                "+": [
+                    "+"
+                ],
                 "a": [
                     "a"
                 ],
@@ -239,6 +244,9 @@
                 "e\u0303\u02d0": [
                     "e\u0303\u02d0"
                 ],
+                "e\u032f/j": [
+                    "j"
+                ],
                 "g": [
                     "g"
                 ],
@@ -250,6 +258,9 @@
                 ],
                 "i\u02d0": [
                     "i\u02d0"
+                ],
+                "i\u0303": [
+                    "i\u0303"
                 ],
                 "i\u0303\u02d0": [
                     "i\u0303\u02d0"
@@ -266,6 +277,12 @@
                 "n": [
                     "n"
                 ],
+                "o": [
+                    "o"
+                ],
+                "o\u0303\u02d0": [
+                    "o\u0303\u02d0"
+                ],
                 "p": [
                     "p"
                 ],
@@ -274,6 +291,9 @@
                 ],
                 "t": [
                     "t"
+                ],
+                "t\u0283": [
+                    "t\u0283"
                 ],
                 "u": [
                     "u"
@@ -311,9 +331,6 @@
                 "\u0254\u0303": [
                     "\u0254\u0303"
                 ],
-                "\u0254\u0303\u02d0": [
-                    "\u0254\u0303\u02d0"
-                ],
                 "\u025b": [
                     "\u025b"
                 ],
@@ -337,14 +354,10 @@
                 ]
             },
             "sclass_errors": [
-                "<<\u0301>>",
-                "<<\u0129>>",
-                "<<\u032f>>"
+                "?"
             ],
             "segments": {
-                "<<\u0129>>": 1,
-                "<<\u0301>>": 1,
-                "<<\u032f>>": 20,
+                "?": 1,
                 "a": 277,
                 "a\u02d0": 77,
                 "b": 6,
@@ -353,24 +366,26 @@
                 "e\u02d0": 3,
                 "g": 7,
                 "h": 110,
-                "i": 327,
+                "i": 311,
                 "i\u02d0": 21,
-                "j": 48,
+                "j": 64,
                 "k": 209,
                 "m": 84,
                 "n": 68,
+                "o": 3,
                 "p": 42,
                 "s": 103,
                 "t": 110,
-                "u": 111,
+                "u": 107,
                 "u\u02d0": 12,
+                "w": 4,
                 "x": 3,
                 "\u00e3": 4,
                 "\u00e7": 1,
                 "\u0127": 62,
                 "\u0251": 3,
                 "\u0251\u02d0": 1,
-                "\u0254": 185,
+                "\u0254": 182,
                 "\u0254\u02d0": 42,
                 "\u0254\u0303": 1,
                 "\u025b": 104,
@@ -385,13 +400,13 @@
         },
         "Yahuna": {
             "bipa_errors": [
-                "<<\u1e33>>",
-                "<<\u0161>>",
-                "<<_>>",
-                "<<\u032f>>"
+                "?"
             ],
-            "general_errors": 40,
+            "general_errors": 3,
             "replacements": {
+                "+": [
+                    "+"
+                ],
                 "a": [
                     "a"
                 ],
@@ -425,6 +440,9 @@
                 "e\u0303\u02d0": [
                     "e\u0303\u02d0"
                 ],
+                "e\u032f/j": [
+                    "j"
+                ],
                 "g": [
                     "g"
                 ],
@@ -436,6 +454,9 @@
                 ],
                 "i\u02d0": [
                     "i\u02d0"
+                ],
+                "i\u0303": [
+                    "i\u0303"
                 ],
                 "i\u0303\u02d0": [
                     "i\u0303\u02d0"
@@ -452,6 +473,12 @@
                 "n": [
                     "n"
                 ],
+                "o": [
+                    "o"
+                ],
+                "o\u0303\u02d0": [
+                    "o\u0303\u02d0"
+                ],
                 "p": [
                     "p"
                 ],
@@ -460,6 +487,9 @@
                 ],
                 "t": [
                     "t"
+                ],
+                "t\u0283": [
+                    "t\u0283"
                 ],
                 "u": [
                     "u"
@@ -497,9 +527,6 @@
                 "\u0254\u0303": [
                     "\u0254\u0303"
                 ],
-                "\u0254\u0303\u02d0": [
-                    "\u0254\u0303\u02d0"
-                ],
                 "\u025b": [
                     "\u025b"
                 ],
@@ -523,16 +550,11 @@
                 ]
             },
             "sclass_errors": [
-                "<<\u1e33>>",
-                "<<\u0161>>",
-                "<<_>>",
-                "<<\u032f>>"
+                "?"
             ],
             "segments": {
-                "<<_>>": 8,
-                "<<\u0161>>": 1,
-                "<<\u032f>>": 28,
-                "<<\u1e33>>": 3,
+                "+": 8,
+                "?": 3,
                 "a": 1154,
                 "a\u02d0": 130,
                 "b": 72,
@@ -541,25 +563,27 @@
                 "e\u02d0": 3,
                 "g": 60,
                 "h": 158,
-                "i": 590,
+                "i": 577,
                 "i\u02d0": 49,
-                "j": 225,
+                "j": 238,
                 "k": 446,
                 "m": 212,
                 "n": 148,
+                "o": 1,
                 "p": 263,
                 "s": 47,
-                "t": 189,
-                "u": 363,
+                "t": 188,
+                "t\u0283": 1,
+                "u": 348,
                 "u\u02d0": 39,
-                "w": 2,
+                "w": 17,
                 "x": 5,
                 "\u00e3": 2,
                 "\u00e3\u02d0": 2,
                 "\u00e7": 2,
                 "\u0127": 16,
                 "\u0251": 2,
-                "\u0254": 314,
+                "\u0254": 313,
                 "\u0254\u02d0": 45,
                 "\u025b": 235,
                 "\u025b\u02d0": 43,
@@ -572,15 +596,13 @@
         },
         "Yupua": {
             "bipa_errors": [
-                "<<\u030c>>",
-                "<<_>>",
-                "<<\u0301>>",
-                "<<\u1e33>>",
-                "<<\u0129>>",
-                "<<\u032f>>"
+                "?"
             ],
-            "general_errors": 54,
+            "general_errors": 3,
             "replacements": {
+                "+": [
+                    "+"
+                ],
                 "a": [
                     "a"
                 ],
@@ -614,6 +636,9 @@
                 "e\u0303\u02d0": [
                     "e\u0303\u02d0"
                 ],
+                "e\u032f/j": [
+                    "j"
+                ],
                 "g": [
                     "g"
                 ],
@@ -625,6 +650,9 @@
                 ],
                 "i\u02d0": [
                     "i\u02d0"
+                ],
+                "i\u0303": [
+                    "i\u0303"
                 ],
                 "i\u0303\u02d0": [
                     "i\u0303\u02d0"
@@ -641,6 +669,12 @@
                 "n": [
                     "n"
                 ],
+                "o": [
+                    "o"
+                ],
+                "o\u0303\u02d0": [
+                    "o\u0303\u02d0"
+                ],
                 "p": [
                     "p"
                 ],
@@ -649,6 +683,9 @@
                 ],
                 "t": [
                     "t"
+                ],
+                "t\u0283": [
+                    "t\u0283"
                 ],
                 "u": [
                     "u"
@@ -686,9 +723,6 @@
                 "\u0254\u0303": [
                     "\u0254\u0303"
                 ],
-                "\u0254\u0303\u02d0": [
-                    "\u0254\u0303\u02d0"
-                ],
                 "\u025b": [
                     "\u025b"
                 ],
@@ -712,20 +746,11 @@
                 ]
             },
             "sclass_errors": [
-                "<<\u030c>>",
-                "<<_>>",
-                "<<\u0301>>",
-                "<<\u1e33>>",
-                "<<\u0129>>",
-                "<<\u032f>>"
+                "?"
             ],
             "segments": {
-                "<<_>>": 20,
-                "<<\u0129>>": 1,
-                "<<\u0301>>": 1,
-                "<<\u030c>>": 2,
-                "<<\u032f>>": 29,
-                "<<\u1e33>>": 1,
+                "+": 20,
+                "?": 3,
                 "a": 437,
                 "a\u02d0": 58,
                 "b": 70,
@@ -734,29 +759,30 @@
                 "e\u02d0": 7,
                 "g": 104,
                 "h": 37,
-                "i": 264,
+                "i": 247,
                 "i\u02d0": 45,
-                "j": 145,
+                "j": 162,
                 "k": 86,
                 "m": 122,
                 "n": 46,
-                "p": 101,
+                "p": 99,
                 "s": 102,
                 "t": 113,
-                "u": 265,
+                "u": 253,
                 "u\u02d0": 18,
-                "w": 1,
+                "w": 13,
                 "x": 29,
                 "\u00e3": 6,
                 "\u00e3\u02d0": 1,
                 "\u00e7": 56,
+                "\u00f5\u02d0": 1,
                 "\u0127": 6,
+                "\u0129": 1,
                 "\u014b": 8,
                 "\u0169": 3,
                 "\u0254": 138,
                 "\u0254\u02d0": 21,
                 "\u0254\u0303": 1,
-                "\u0254\u0303\u02d0": 1,
                 "\u025b": 92,
                 "\u025b\u02d0": 21,
                 "\u0268": 210,
@@ -775,719 +801,140 @@
                 "Desano",
                 "129_morning",
                 "yam\u0129\u0301\u00e3",
-                "j a m <s> <<\u0129>> </s> <s> <<\u0301>> </s> \u00e3"
+                "j a m <s> ? </s> \u00e3"
             ],
             [
-                "Desano-134_newmoon-1",
+                "Desano-129_morning-2",
                 "Desano",
-                "134_newmoon",
-                "mamadai\u032fy\u00e1ge\u0325",
-                "m a m a d a i <s> <<\u032f>> </s> j a g \u0268"
-            ],
-            [
-                "Desano-137_lunareclipse-1",
-                "Desano",
-                "137_lunareclipse",
-                "a\u0304b\u00e9\u0320_tsi\u0304n\u0129e",
-                "a\u02d0 b \u025b <s> <<_>> </s> t s i\u02d0 n <s> <<\u0129>> </s> e"
-            ],
-            [
-                "Desano-138_solareclipse-1",
-                "Desano",
-                "138_solareclipse",
-                "a\u0304b\u00e9\u0320_tsi\u0304n\u0129e",
-                "a\u02d0 b \u025b <s> <<_>> </s> t s i\u02d0 n <s> <<\u0129>> </s> e"
-            ],
-            [
-                "Desano-13_longandthincylinderinthelowerlip-1",
-                "Desano",
-                "13_longandthincylinderinthelowerlip",
-                "disx\u032fs\u00edpulitsai\u032fa\u0301nidex\u032fka",
-                "d i s \u00e7 s i p u \u027a i t s a i <s> <<\u032f>> </s> a n i d e \u00e7 k a"
-            ],
-            [
-                "Desano-239_arrow-1",
-                "Desano",
-                "239_arrow",
-                "a\u0304\u0301noi\u032fye",
-                "a\u02d0 n \u0254 i <s> <<\u032f>> </s> j e"
-            ],
-            [
-                "Desano-269_fishtrap-1",
-                "Desano",
-                "269_fishtrap",
-                "\u00faai\u032fru",
-                "u a i <s> <<\u032f>> </s> \u027e u"
-            ],
-            [
-                "Desano-277_womansloincloth-1",
-                "Desano",
-                "277_womansloincloth",
-                "yai\u032fiu\u00e1xsuru",
-                "j a i <s> <<\u032f>> </s> i u a x s u \u027e u"
-            ],
-            [
-                "Desano-277_womansloincloth-2",
-                "Desano",
-                "277_womansloincloth",
-                "yai\u032fiu\u00e1xsulu",
-                "j a i <s> <<\u032f>> </s> i u a x s u \u027a u"
-            ],
-            [
-                "Desano-291_strawfrostonthisjewelry-1",
-                "Desano",
-                "291_strawfrostonthisjewelry",
-                "pe\u0304\u0301\u0320yal\u0129e",
-                "p \u025b\u02d0 j a \u027a <s> <<\u0129>> </s> e"
-            ],
-            [
-                "Desano-32_finger-1",
-                "Desano",
-                "32_finger",
-                "moho\u0304\u0301tseri_dix\u032fpelu",
-                "m \u0254 h \u0254\u02d0 t s e \u027e i <s> <<_>> </s> d i \u00e7 p e \u027a u"
-            ],
-            [
-                "Desano-349_child-1",
-                "Desano",
-                "349_child",
-                "max\u0129\u1ebd\u0301",
-                "m a x <s> <<\u0129>> </s> \u1ebd"
+                "129_morning",
+                "yam\u0129\u0301\u00e3",
+                "j a m <s> ? </s> \u00e3"
             ],
             [
                 "Desano-357_youngerbrother-1",
                 "Desano",
                 "357_youngerbrother",
                 "kam\u0129\u0301\u00e3",
-                "k a m <s> <<\u0129>> </s> <s> <<\u0301>> </s> \u00e3"
+                "k a m <s> ? </s> \u00e3"
             ],
             [
                 "Desano-361_youngersister-1",
                 "Desano",
                 "361_youngersister",
                 "kam\u0129\u0301\u00e3",
-                "k a m <s> <<\u0129>> </s> <s> <<\u0301>> </s> \u00e3"
-            ],
-            [
-                "Desano-368_granddaughter-1",
-                "Desano",
-                "368_granddaughter",
-                "y\u00e9panameo\u032f",
-                "j e p a n a m e \u0254 <s> <<\u032f>> </s>"
+                "k a m <s> ? </s> \u00e3"
             ],
             [
                 "Desano-374_oldman-1",
                 "Desano",
                 "374_oldman",
                 "be\u0304\u0325g\u00e9\u0325",
-                "b e\u02d0 <s> <<\u0325>> </s> g \u0268"
+                "b <s> ? </s> g \u0268"
             ],
             [
                 "Desano-375_oldwoman-1",
                 "Desano",
                 "375_oldwoman",
                 "be\u0304\u0325l\u00f3",
-                "b e\u02d0 <s> <<\u0325>> </s> \u027a \u0254"
+                "b <s> ? </s> \u027a \u0254"
             ],
             [
                 "Desano-385_tobacco-1",
                 "Desano",
                 "385_tobacco",
                 "mu\u0304\u0320n\u00fa\u0320",
-                "m u\u02d0 <s> <<\u0320>> </s> n \u028a"
+                "m <s> ? </s> n \u028a"
             ],
             [
                 "Desano-389_snuff-1",
                 "Desano",
                 "389_snuff",
                 "mu\u0304\u0320nu\u0320ui\u032fhi\u0304nim\u00faka",
-                "m u\u02d0 <s> <<\u0320>> </s> n \u028a u i <s> <<\u032f>> </s> h i\u02d0 n i m u k a"
-            ],
-            [
-                "Desano-390_sniffingdevice-1",
-                "Desano",
-                "390_sniffingdevice",
-                "ui\u032fh\u00edniseneno",
-                "u i <s> <<\u032f>> </s> h i n i s e n e n \u0254"
-            ],
-            [
-                "Desano-398_language-1",
-                "Desano",
-                "398_language",
-                "ue\u0304\u0320r\u00e9\u0320n\u0129i\u0304n\u0129\u0304",
-                "u \u025b\u02d0 \u027e \u025b n <s> <<\u0129>> </s> i\u02d0 n \u0129\u02d0"
-            ],
-            [
-                "Desano-40_lowerleg-1",
-                "Desano",
-                "40_lowerleg",
-                "ny\u0129a\u0304\u0301",
-                "n j <s> <<\u0129>> </s> a\u02d0"
-            ],
-            [
-                "Desano-416_otter-1",
-                "Desano",
-                "416_otter",
-                "diai\u032fyoa",
-                "d i a i <s> <<\u032f>> </s> j \u0254 a"
-            ],
-            [
-                "Desano-42_calf-1",
-                "Desano",
-                "42_calf",
-                "ny\u0129\u1e45\u00e1liru",
-                "n j <s> <<\u0129>> </s> \u014b a \u027a i \u027e u"
-            ],
-            [
-                "Desano-437_dog-1",
-                "Desano",
-                "437_dog",
-                "d\u00edai\u032fyi",
-                "d i a i <s> <<\u032f>> </s> j i"
-            ],
-            [
-                "Desano-44_poplitealfossa-1",
-                "Desano",
-                "44_poplitealfossa",
-                "ny\u0129\u00e3\u0301\u1ebddoxka",
-                "n j <s> <<\u0129>> </s> \u00e3 \u1ebd d \u0254 x k a"
-            ],
-            [
-                "Desano-531_saubaant-1",
-                "Desano",
-                "531_saubaant",
-                "y\u00e3\u0129m\u1ebd\u00e3",
-                "j \u00e3 <s> <<\u0129>> </s> m \u1ebd \u00e3"
+                "m <s> ? </s> n \u028a u j h i\u02d0 n i m u k a"
             ],
             [
                 "Desano-551_firefly-1",
                 "Desano",
                 "551_firefly",
                 "gaxbitu\u0304\u0320ge\u0325",
-                "g a x b i t u\u02d0 <s> <<\u0320>> </s> g \u0268"
-            ],
-            [
-                "Desano-585_mandiocabeiju-1",
-                "Desano",
-                "585_mandiocabeiju",
-                "a\u0304noi\u032fye\u0320",
-                "a\u02d0 n \u0254 i <s> <<\u032f>> </s> j \u025b"
-            ],
-            [
-                "Desano-620_carayuru-1",
-                "Desano",
-                "620_carayuru",
-                "go\u0304noi\u032fy\u00e1",
-                "g \u0254\u02d0 n \u0254 i <s> <<\u032f>> </s> j a"
+                "g a x b i t <s> ? </s> g \u0268"
             ],
             [
                 "Desano-627_puxiuba-1",
                 "Desano",
                 "627_puxiuba",
                 "yo\u0304m\u00f3loyu\u0304\u0320li",
-                "j \u0254\u02d0 m \u0254 \u027a \u0254 j u\u02d0 <s> <<\u0320>> </s> \u027a i"
+                "j \u0254\u02d0 m \u0254 \u027a \u0254 j <s> ? </s> \u027a i"
             ],
             [
-                "Desano-648_mybow-1",
+                "Desano-656_small-1",
                 "Desano",
-                "648_mybow",
-                "ya\u0304\u0301be\u0320ro_buir\u00edbe\u0320ro",
-                "j a\u02d0 b \u025b \u027e \u0254 <s> <<_>> </s> b u i \u027e i b \u025b \u027e \u0254"
-            ],
-            [
-                "Desano-649_yourbow-1",
-                "Desano",
-                "649_yourbow",
-                "m\u00e9\u0325yabe\u0320ro_buir\u00edbe\u0320ro",
-                "m \u0268 j a b \u025b \u027e \u0254 <s> <<_>> </s> b u i \u027e i b \u025b \u027e \u0254"
-            ],
-            [
-                "Desano-651_hisbow-1",
-                "Desano",
-                "651_hisbow",
-                "\u0129\u0304\u1e45\u1ebdy\u00e1be\u0320ro_buir\u00edbe\u0320ro",
-                "\u0129\u02d0 \u014b \u1ebd j a b \u025b \u027e \u0254 <s> <<_>> </s> b u i \u027e i b \u025b \u027e \u0254"
-            ],
-            [
-                "Koretu-203_smallcalabashforscooping-1",
-                "Koretu",
-                "203_smallcalabashforscooping",
-                "ko\u0304\u0301rokolei\u032fkia",
-                "k \u0254\u02d0 \u027e \u0254 k \u0254 \u027a e i <s> <<\u032f>> </s> k i a"
-            ],
-            [
-                "Koretu-21_beard-1",
-                "Koretu",
-                "21_beard",
-                "sigoi\u032ftagi\u00e1\u1e25oiri",
-                "s i g \u0254 i <s> <<\u032f>> </s> t a g i a \u0127 \u0254 i \u027e i"
-            ],
-            [
-                "Koretu-21_beard-2",
-                "Koretu",
-                "21_beard",
-                "goi\u032ftaki\u00e1\u1e25oiri",
-                "g \u0254 i <s> <<\u032f>> </s> t a k i a \u0127 \u0254 i \u027e i"
-            ],
-            [
-                "Koretu-289_fineheadfeathersgalajewelerylingoayamahapoageralkangataramahapoalimacawfeathers-1",
-                "Koretu",
-                "289_fineheadfeathersgalajewelerylingoayamahapoageralkangataramahapoalimacawfeathers",
-                "ma\u0304\u0301hoi\u032fre\u0325",
-                "m a\u02d0 h \u0254 i <s> <<\u032f>> </s> \u027e \u0268"
-            ],
-            [
-                "Koretu-32_finger-1",
-                "Koretu",
-                "32_finger",
-                "simaoi\u032fe",
-                "s i m a \u0254 i <s> <<\u032f>> </s> e"
-            ],
-            [
-                "Koretu-37_smallfinger-1",
-                "Koretu",
-                "37_smallfinger",
-                "sim\u00e1u\u0320kiakio\u032f",
-                "s i m a \u028a k i a k i \u0254 <s> <<\u032f>> </s>"
-            ],
-            [
-                "Koretu-407_bat-1",
-                "Koretu",
-                "407_bat",
-                "h\u00f3io\u032f",
-                "h \u0254 i \u0254 <s> <<\u032f>> </s>"
-            ],
-            [
-                "Koretu-412_puma-1",
-                "Koretu",
-                "412_puma",
-                "uai\u032fyumalie\u0320i",
-                "u a i <s> <<\u032f>> </s> j u m a \u027a i \u025b i"
-            ],
-            [
-                "Koretu-416_otter-1",
-                "Koretu",
-                "416_otter",
-                "liayau\u032f",
-                "\u027a i a j a u <s> <<\u032f>> </s>"
-            ],
-            [
-                "Koretu-442_egg-1",
-                "Koretu",
-                "442_egg",
-                "uai\u032fh\u00edalia\u0304re\u0325",
-                "u a i <s> <<\u032f>> </s> h i a \u027a i a\u02d0 \u027e \u0268"
-            ],
-            [
-                "Koretu-450_jacu-1",
-                "Koretu",
-                "450_jacu",
-                "ma\u0304\u0301lai\u032fe\u0325",
-                "m a\u02d0 \u027a a i <s> <<\u032f>> </s> \u0268"
-            ],
-            [
-                "Koretu-451_cujubim-1",
-                "Koretu",
-                "451_cujubim",
-                "k\u00fayui\u032f",
-                "k u j u i <s> <<\u032f>> </s>"
-            ],
-            [
-                "Koretu-452_jacamy-1",
-                "Koretu",
-                "452_jacamy",
-                "mo\u0304\u0301ai\u032fe\u0325",
-                "m \u0254\u02d0 a i <s> <<\u032f>> </s> \u0268"
-            ],
-            [
-                "Koretu-475_carara-1",
-                "Koretu",
-                "475_carara",
-                "k\u00edai\u032fua",
-                "k i a i <s> <<\u032f>> </s> u a"
-            ],
-            [
-                "Koretu-497_sorubim-1",
-                "Koretu",
-                "497_sorubim",
-                "k\u00faai\u032f",
-                "k u a i <s> <<\u032f>> </s>"
-            ],
-            [
-                "Koretu-502_tucunare-1",
-                "Koretu",
-                "502_tucunare",
-                "po\u1e25o\u0304\u0301uai\u032f",
-                "p \u0254 \u0127 \u0254\u02d0 u a i <s> <<\u032f>> </s>"
-            ],
-            [
-                "Koretu-54_neck-1",
-                "Koretu",
-                "54_neck",
-                "siua\u1e25\u00edkie\u032f",
-                "s i u a \u0127 i k i e <s> <<\u032f>> </s>"
-            ],
-            [
-                "Koretu-584_mandiocaflourfarinha-1",
-                "Koretu",
-                "584_mandiocaflourfarinha",
-                "au\u032fit\u00edre\u0325",
-                "a u <s> <<\u032f>> </s> i t i \u027e \u0268"
+                "656_small",
+                "\u00e3m\u0129\u0129\u0301\u00e3",
+                "\u00e3 m \u0129 <s> ? </s> \u00e3"
             ],
             [
                 "Koretu-589_potatoes-1",
                 "Koretu",
                 "589_potatoes",
                 "yah\u0129\u0301re\u0325",
-                "j a h <s> <<\u0129>> </s> <s> <<\u0301>> </s> \u027e \u0268"
-            ],
-            [
-                "Koretu-99_feather-1",
-                "Koretu",
-                "99_feather",
-                "t\u00e9\u0320\u1e25au\u032fi\u0304ri",
-                "t \u025b \u0127 a u <s> <<\u032f>> </s> i\u02d0 \u027e i"
-            ],
-            [
-                "Yahuna-119_lightning-2",
-                "Yahuna",
-                "119_lightning",
-                "ui\u032fp\u00f3a",
-                "u i <s> <<\u032f>> </s> p \u0254 a"
-            ],
-            [
-                "Yahuna-119_lightning-4",
-                "Yahuna",
-                "119_lightning",
-                "ui\u032fpodya\u0304\u0301e\u0320ga",
-                "u i <s> <<\u032f>> </s> p \u0254 d j a\u02d0 \u025b g a"
-            ],
-            [
-                "Yahuna-120_thunder-1",
-                "Yahuna",
-                "120_thunder",
-                "ui\u032fp\u00f3haiga",
-                "u i <s> <<\u032f>> </s> p \u0254 h a i g a"
-            ],
-            [
-                "Yahuna-121_rainbow-1",
-                "Yahuna",
-                "121_rainbow",
-                "omau\u032fal\u00eda",
-                "\u0254 m a u <s> <<\u032f>> </s> a \u027a i a"
-            ],
-            [
-                "Yahuna-131_eve-1",
-                "Yahuna",
-                "131_eve",
-                "m\u00e1laai\u032fdyu",
-                "m a \u027a a a i <s> <<\u032f>> </s> d j u"
-            ],
-            [
-                "Yahuna-133_moon-1",
-                "Yahuna",
-                "133_moon",
-                "y\u00e1migakiai\u032fdy\u00e1",
-                "j a m i g a k i a i <s> <<\u032f>> </s> d j a"
-            ],
-            [
-                "Yahuna-134_newmoon-1",
-                "Yahuna",
-                "134_newmoon",
-                "ma\u0304\u0301makiai\u032fdy\u00e1",
-                "m a\u02d0 m a k i a i <s> <<\u032f>> </s> d j a"
-            ],
-            [
-                "Yahuna-135_fullmoon-1",
-                "Yahuna",
-                "135_fullmoon",
-                "ayak\u00e1_hiadyaa\u0304n\u00edke\u0320ka",
-                "a j a k a <s> <<_>> </s> h i a d j a a\u02d0 n i k \u025b k a"
-            ],
-            [
-                "Yahuna-245_tipoftheharpoon-1",
-                "Yahuna",
-                "245_tipoftheharpoon",
-                "kau\u032fhanik\u00eda",
-                "k a u <s> <<\u032f>> </s> h a n i k i a"
-            ],
-            [
-                "Yahuna-258_quiverforthepoisonarrows-1",
-                "Yahuna",
-                "258_quiverforthepoisonarrows",
-                "poakau\u032f\u00eda",
-                "p \u0254 a k a u <s> <<\u032f>> </s> i a"
-            ],
-            [
-                "Yahuna-273_gunpowder-2",
-                "Yahuna",
-                "273_gunpowder",
-                "pe\u0320k\u00e1ue\u032f",
-                "p \u025b k a u e <s> <<\u032f>> </s>"
-            ],
-            [
-                "Yahuna-279_braceletsmadeofraffiamenscostume-1",
-                "Yahuna",
-                "279_braceletsmadeofraffiamenscostume",
-                "hu'ts\u030c\u00eda",
-                "h u \u0294 t <s> <<\u0161>> </s> i a"
-            ],
-            [
-                "Yahuna-322_yuruparydancefestival-1",
-                "Yahuna",
-                "322_yuruparydancefestival",
-                "u\u00e9\u0320koa_mala\u0304\u0301be\u0320\u0304na",
-                "u \u025b k \u0254 a <s> <<_>> </s> m a \u027a a\u02d0 b \u025b\u02d0 n a"
-            ],
-            [
-                "Yahuna-323_letsdance-1",
-                "Yahuna",
-                "323_letsdance",
-                "u\u00e9\u0320koa_mala\u0304\u0301be\u0320\u0304na",
-                "u \u025b k \u0254 a <s> <<_>> </s> m a \u027a a\u02d0 b \u025b\u02d0 n a"
-            ],
-            [
-                "Yahuna-328_verylargeflutepipe-1",
-                "Yahuna",
-                "328_verylargeflutepipe",
-                "y\u00e1tai\u032fga",
-                "j a t a i <s> <<\u032f>> </s> g a"
+                "j a h <s> ? </s> \u027e \u0268"
             ],
             [
                 "Yahuna-332_manicuerasweetboiledmandiocajuice-1",
                 "Yahuna",
                 "332_manicuerasweetboiledmandiocajuice",
                 "n\u00f3\u1e33oa",
-                "n \u0254 <s> <<\u1e33>> </s> \u0254 a"
-            ],
-            [
-                "Yahuna-396_forestspirit-4",
-                "Yahuna",
-                "396_forestspirit",
-                "nokoli\u0304\u0301yau\u032fa",
-                "n \u0254 k \u0254 \u027a i\u02d0 j a u <s> <<\u032f>> </s> a"
-            ],
-            [
-                "Yahuna-417_tapir-1",
-                "Yahuna",
-                "417_tapir",
-                "uai\u032fbik\u00ednaga",
-                "u a i <s> <<\u032f>> </s> b i k i n a g a"
-            ],
-            [
-                "Yahuna-439_manatee-1",
-                "Yahuna",
-                "439_manatee",
-                "diau\u032fe\u0320k\u00eda",
-                "d i a u <s> <<\u032f>> </s> \u025b k i a"
+                "n \u0254 <s> ? </s> \u0254 a"
             ],
             [
                 "Yahuna-453_corocoro-1",
                 "Yahuna",
                 "453_corocoro",
                 "\u1e33o\u00e1kuru",
-                "<s> <<\u1e33>> </s> \u0254 a k u \u027e u"
+                "<s> ? </s> \u0254 a k u \u027e u"
             ],
             [
-                "Yahuna-466_littlewhiteswallow-1",
+                "Yahuna-769_topiss-2",
                 "Yahuna",
-                "466_littlewhiteswallow",
-                "pul\u00edtsio\u032fka",
-                "p u \u027a i t s i \u0254 <s> <<\u032f>> </s> k a"
-            ],
-            [
-                "Yahuna-485_greatgaviao-1",
-                "Yahuna",
-                "485_greatgaviao",
-                "au\u032fap\u00e1kie\u0320ka",
-                "a u <s> <<\u032f>> </s> a p a k i \u025b k a"
-            ],
-            [
-                "Yahuna-487_cancao-1",
-                "Yahuna",
-                "487_cancao",
-                "ka\u0304gak\u00e1ue\u032f",
-                "k a\u02d0 g a k a u e <s> <<\u032f>> </s>"
-            ],
-            [
-                "Yahuna-53_body-1",
-                "Yahuna",
-                "53_body",
-                "dipau\u032f\u00edya",
-                "d i p a u <s> <<\u032f>> </s> i j a"
-            ],
-            [
-                "Yahuna-53_body-2",
-                "Yahuna",
-                "53_body",
-                "dipau\u032f\u00eda",
-                "d i p a u <s> <<\u032f>> </s> i a"
-            ],
-            [
-                "Yahuna-553_tick-1",
-                "Yahuna",
-                "553_tick",
-                "uai\u032fbikino\u0304\u0301liaka",
-                "u a i <s> <<\u032f>> </s> b i k i n \u0254\u02d0 \u027a i a k a"
-            ],
-            [
-                "Yahuna-59_rib-1",
-                "Yahuna",
-                "59_rib",
-                "yatau\u032fi\u00eda",
-                "j a t a u <s> <<\u032f>> </s> i i a"
-            ],
-            [
-                "Yahuna-622_moldonmandiocacake-1",
-                "Yahuna",
-                "622_moldonmandiocacake",
-                "tau\u032fa\u0304\u0301nipatunie\u032f",
-                "t a u <s> <<\u032f>> </s> a\u02d0 n i p a t u n i e <s> <<\u032f>> </s>"
-            ],
-            [
-                "Yahuna-633_pataua-1",
-                "Yahuna",
-                "633_pataua",
-                "yau\u032fm\u00eda",
-                "j a u <s> <<\u032f>> </s> m i a"
-            ],
-            [
-                "Yahuna-651_hisbow-1",
-                "Yahuna",
-                "651_hisbow",
-                "apikalik\u00e1_te\u0320muyi\u0304\u0301liuiia",
-                "a p i k a \u027a i k a <s> <<_>> </s> t \u025b m u j i\u02d0 \u027a i u i i a"
-            ],
-            [
-                "Yahuna-84_stomach-1",
-                "Yahuna",
-                "84_stomach",
-                "yau\u032fa\u0304lak\u00e1",
-                "j a u <s> <<\u032f>> </s> a\u02d0 \u027a a k a"
-            ],
-            [
-                "Yahuna-89_sweat-1",
-                "Yahuna",
-                "89_sweat",
-                "ih\u00edui\u032ftsia",
-                "i h i u i <s> <<\u032f>> </s> t s i a"
-            ],
-            [
-                "Yupua-129_morning-2",
-                "Yupua",
-                "129_morning",
-                "uaho\u00e1gamai\u032f",
-                "u a h \u0254 a g a m a i <s> <<\u032f>> </s>"
+                "769_topiss",
+                "\u1e33eole\u0304\u0301\u0320yu",
+                "<s> ? </s> e \u0254 \u027a \u025b\u02d0 j u"
             ],
             [
                 "Yupua-139_star-1",
                 "Yupua",
                 "139_star",
                 "yo\u1e33\u00f3ro",
-                "j \u0254 <s> <<\u1e33>> </s> \u0254 \u027e \u0254"
-            ],
-            [
-                "Yupua-234_rudder-1",
-                "Yupua",
-                "234_rudder",
-                "ue\u0320ai\u032fp\u00e1i",
-                "u \u025b a i <s> <<\u032f>> </s> p a i"
+                "j \u0254 <s> ? </s> \u0254 \u027e \u0254"
             ],
             [
                 "Yupua-270_fishingrod-1",
                 "Yupua",
                 "270_fishingrod",
                 "bitai\u032fg\u00f3p\u030ce\u0320ka",
-                "b i t a i <s> <<\u032f>> </s> g \u0254 p <s> <<\u030c>> </s> \u025b k a"
+                "b i t a j g \u0254 <s> ? </s> \u025b k a"
             ],
             [
                 "Yupua-274_shot-1",
                 "Yupua",
                 "274_shot",
                 "pe\u0320ag\u00f3p\u030ceka",
-                "p \u025b a g \u0254 p <s> <<\u030c>> </s> e k a"
-            ],
-            [
-                "Yupua-331_fermentedalcoholicdrink-1",
-                "Yupua",
-                "331_fermentedalcoholicdrink",
-                "b\u00e1apayau\u032falu",
-                "b a a p a j a u <s> <<\u032f>> </s> a \u027a u"
-            ],
-            [
-                "Yupua-331_fermentedalcoholicdrink-2",
-                "Yupua",
-                "331_fermentedalcoholicdrink",
-                "b\u00e1apayau\u032faru",
-                "b a a p a j a u <s> <<\u032f>> </s> a \u027e u"
-            ],
-            [
-                "Yupua-37_smallfinger-1",
-                "Yupua",
-                "37_smallfinger",
-                "muh\u00faua\u032ftsutsi\u0304\u0301ge\u0325le\u0325",
-                "m u h u u a <s> <<\u032f>> </s> t s u t s i\u02d0 g \u0268 \u027a \u0268"
-            ],
-            [
-                "Yupua-394_god-1",
-                "Yupua",
-                "394_god",
-                "ko\u0304\u0301yau\u032fi",
-                "k \u0254\u02d0 j a u <s> <<\u032f>> </s> i"
-            ],
-            [
-                "Yupua-412_puma-2",
-                "Yupua",
-                "412_puma",
-                "yi\u0304\u0301diau\u032fe\u0325",
-                "j i\u02d0 d i a u <s> <<\u032f>> </s> \u0268"
-            ],
-            [
-                "Yupua-418_capybara-1",
-                "Yupua",
-                "418_capybara",
-                "diau\u032fike\u0325",
-                "d i a u <s> <<\u032f>> </s> i k \u0268"
-            ],
-            [
-                "Yupua-428_giantarmadillo-1",
-                "Yupua",
-                "428_giantarmadillo",
-                "ui\u032fke\u0325pam\u00f3lo",
-                "u i <s> <<\u032f>> </s> k \u0268 p a m \u0254 \u027a \u0254"
-            ],
-            [
-                "Yupua-552_barata-1",
-                "Yupua",
-                "552_barata",
-                "a\u0304\u0301lau\u032fa",
-                "a\u02d0 \u027a a u <s> <<\u032f>> </s> a"
-            ],
-            [
-                "Yupua-68_scrotum-1",
-                "Yupua",
-                "68_scrotum",
-                "uaxp\u0129\u0301\u00f5\u0304pe\u0320",
-                "u a x p <s> <<\u0129>> </s> <s> <<\u0301>> </s> \u0254\u0303\u02d0 p \u025b"
+                "p \u025b a g \u0254 <s> ? </s> e k a"
             ]
         ],
-        "bad_words_count": 155,
+        "bad_words_count": 18,
         "bipa_errors": [
-            "<<\u030c>>",
-            "<<\u0161>>",
-            "<<_>>",
-            "<<\u0301>>",
-            "<<\u0129>>",
-            "<<\u0320>>",
-            "<<\u1e33>>",
-            "<<\u032f>>",
-            "<<\u0325>>"
+            "?"
         ],
-        "general_errors": 179,
+        "general_errors": 18,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 42.25,
+        "inventory_size": 41.25,
         "replacements": {
+            "+": [
+                "+"
+            ],
             "a": [
                 "a"
             ],
@@ -1521,6 +968,9 @@
             "e\u0303\u02d0": [
                 "e\u0303\u02d0"
             ],
+            "e\u032f/j": [
+                "j"
+            ],
             "g": [
                 "g"
             ],
@@ -1532,6 +982,9 @@
             ],
             "i\u02d0": [
                 "i\u02d0"
+            ],
+            "i\u0303": [
+                "i\u0303"
             ],
             "i\u0303\u02d0": [
                 "i\u0303\u02d0"
@@ -1548,6 +1001,12 @@
             "n": [
                 "n"
             ],
+            "o": [
+                "o"
+            ],
+            "o\u0303\u02d0": [
+                "o\u0303\u02d0"
+            ],
             "p": [
                 "p"
             ],
@@ -1556,6 +1015,9 @@
             ],
             "t": [
                 "t"
+            ],
+            "t\u0283": [
+                "t\u0283"
             ],
             "u": [
                 "u"
@@ -1593,9 +1055,6 @@
             "\u0254\u0303": [
                 "\u0254\u0303"
             ],
-            "\u0254\u0303\u02d0": [
-                "\u0254\u0303\u02d0"
-            ],
             "\u025b": [
                 "\u025b"
             ],
@@ -1619,60 +1078,49 @@
             ]
         },
         "sclass_errors": [
-            "<<\u030c>>",
-            "<<\u0161>>",
-            "<<_>>",
-            "<<\u0301>>",
-            "<<\u0129>>",
-            "<<\u0320>>",
-            "<<\u1e33>>",
-            "<<\u032f>>",
-            "<<\u0325>>"
+            "?"
         ],
         "segments": {
-            "<<_>>": 39,
-            "<<\u0129>>": 21,
-            "<<\u0161>>": 1,
-            "<<\u0301>>": 7,
-            "<<\u030c>>": 2,
-            "<<\u0320>>": 4,
-            "<<\u0325>>": 2,
-            "<<\u032f>>": 99,
-            "<<\u1e33>>": 4,
+            "+": 39,
+            "?": 18,
             "a": 2305,
             "a\u02d0": 410,
             "b": 273,
             "d": 221,
-            "e": 241,
-            "e\u02d0": 35,
+            "e": 240,
+            "e\u02d0": 33,
+            "e\u032f/j": 1,
             "g": 294,
             "h": 370,
-            "i": 1599,
+            "i": 1537,
             "i\u02d0": 198,
-            "j": 587,
+            "j": 649,
             "k": 922,
             "m": 597,
             "n": 444,
-            "p": 577,
+            "o": 6,
+            "p": 575,
             "s": 384,
-            "t": 541,
-            "u": 1053,
-            "u\u02d0": 108,
-            "w": 17,
+            "t": 540,
+            "t\u0283": 1,
+            "u": 1017,
+            "u\u02d0": 104,
+            "w": 53,
             "x": 150,
             "\u00e3": 41,
             "\u00e3\u02d0": 6,
             "\u00e7": 115,
+            "\u00f5\u02d0": 1,
             "\u0127": 87,
+            "\u0129": 15,
             "\u0129\u02d0": 4,
             "\u014b": 18,
             "\u0169": 15,
             "\u0251": 5,
             "\u0251\u02d0": 1,
-            "\u0254": 941,
+            "\u0254": 935,
             "\u0254\u02d0": 182,
             "\u0254\u0303": 8,
-            "\u0254\u0303\u02d0": 1,
             "\u025b": 551,
             "\u025b\u02d0": 153,
             "\u0268": 566,
