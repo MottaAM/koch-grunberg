@@ -38,8 +38,8 @@ class Dataset(BaseDataset):
         # modify replacements
         reps = self.raw_dir.read_csv("preprocess-sounds.tsv", delimiter="\t",
                 dicts=True)
-        for row in reps:
-            self.form_spec.replacements += [(row["KG"], row["IPA"])]
+        #for row in reps:
+        #    self.form_spec.replacements += [(row["KG"], row["IPA"])]
         args.log.info(self.form_spec.replacements)
 
 

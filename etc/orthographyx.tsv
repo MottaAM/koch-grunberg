@@ -1,0 +1,662 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+k	k	hóatanikerokaíkaka, síhake̠ke̥	Yahuna, Koretu, Desano, Yupua	100	U+006b
+l	l	dṓlo, me̥ḥolaláḥani	Desano, Yupua, Yahuna, Koretu	100	U+006c
+a	a	mamálaḥe̠, tsapé̠ualalanika	Yahuna, Yupua, Desano, Koretu	100	U+0061
+i	i	sikotitile̥, gubū́tsinidix̯peru	Desano, Yahuna, Koretu, Yupua	100	U+0069
+a$	a	tsiúpona, uipóa	Yahuna, Desano, Yupua, Koretu	100	U+0061 U+0024
+p	p	óxpe̥le̥, nikapé̠pe̠tū́liaka	Yahuna, Desano, Yupua, Koretu	100	U+0070
+r	r	uērériru, mohṓtsirupē̠ru	Desano, Koretu, Yahuna, Yupua	100	U+0072
+m	m	mamálaḥe̠, yamimage̠áue̠	Yahuna, Desano, Yupua, Koretu	100	U+006d
+n	n	sínoni, tsiúpona	Yahuna, Desano, Koretu, Yupua	100	U+006e
+t	t	pitatī́tiaka, pitatóti	Yahuna, Yupua, Koretu, Desano	100	U+0074
+o	o	tsiúpona, yakotáya	Desano, Yahuna, Koretu, Yupua	100	U+006f
+i$	i	nix̯ti, yímogati	Desano, Koretu, Yupua, Yahuna	100	U+0069 U+0024
+^m	m	makáge̥, mamálaḥe̠	Desano, Yahuna, Yupua, Koretu	100	U+005e U+006d
+u	u	muhúua̯tsutsī́ge̥le̥, guhī́kuli	Desano, Yahuna, Yupua, Koretu	100	U+0075
+h	h	hihohutía, imíliha	Yahuna, Desano, Yupua, Koretu	100	U+0068
+e̥$	e̥	sé̠se̠talage̥, óxpe̥le̥	Koretu, Yupua, Desano	100	U+0065 U+0325 U+0024
+ó	ó	uitóa, yoxkólo	Yahuna, Desano, Yupua, Koretu	100	U+00f3
+g	g	siī́ṅgee̥, sé̠se̠talage̥	Yupua, Yahuna, Desano, Koretu	100	U+0067
+^k	k	karíua, kē̠rá	Yahuna, Desano, Koretu, Yupua	100	U+005e U+006b
+ā́	á	lā́ko, wā́dali	Yahuna, Koretu, Desano, Yupua	100	U+0101 U+0301
+u$	u	gámu, yikadípu	Desano, Yupua, Koretu, Yahuna	100	U+0075 U+0024
+^p	p	pē̠ká, pōtía	Yahuna, Desano, Yupua, Koretu	100	U+005e U+0070
+o$	o	dṓlo, dé̠ko	Desano, Koretu, Yupua, Yahuna	100	U+006f U+0024
+ā	ā	uālá, tāpía	Yahuna, Desano, Koretu, Yupua	100	U+0101
+e̠	e̠	sé̠se̠talage̥, kope̠re̠ká	Yahuna, Koretu, Yupua, Desano	100	U+0065 U+0320
+á	á	makáge̥, yutáka	Yahuna, Yupua, Desano, Koretu	100	U+00e1
+b	b	be̥xbé̥bogabu, sé̠se̠buti	Desano, Yupua, Yahuna, Koretu	100	U+0062
+é̠	é̠	dé̠ko, ābé̠_tsīnĩe	Yahuna, Koretu, Desano, Yupua	100	U+00e9 U+0320
+e̥	e̥	yuxke̥de̥xká, me̥pe̥lí	Desano, Yupua, Koretu, Yahuna	100	U+0065 U+0325
+á$	á	uālá, kē̠rá	Yahuna, Desano, Yupua, Koretu	100	U+00e1 U+0024
+^b	b	bōlá, bū́lu	Desano, Yupua, Yahuna, Koretu	100	U+005e U+0062
+^d	d	dex̯kó, dṓlo	Desano, Yahuna, Yupua, Koretu	100	U+005e U+0064
+x	x	yuxke̥de̥xká, yuxké̥de̥xkagaxtsī́ro	Desano, Yupua, Yahuna, Koretu	100	U+0078
+^h	h	huhía, háya	Koretu, Yahuna, Yupua, Desano	100	U+005e U+0068
+^s	s	siī́ṅgee̥, sé̠se̠talage̥	Koretu, Yupua, Yahuna	100	U+005e U+0073
+ī́	í	siī́ṅgee̥, nī́ya	Desano, Yupua, Yahuna, Koretu	100	U+012b U+0301
+d	d	diadyúi, wā́dali	Yupua, Desano, Yahuna	97	U+0064
+^t	t	tāpía, te̠tā́re̥	Yahuna, Koretu, Yupua, Desano	96	U+005e U+0074
+^g	g	gámu, gā́pi	Desano, Yupua, Yahuna, Koretu	95	U+005e U+0067
+é̥	é̥	ké̥re̥, tsé̥me̥oa	Yupua, Koretu, Desano	94	U+00e9 U+0325
+^n	n	ne̠é̠, nīmá	Desano, Yahuna, Yupua, Koretu	92	U+005e U+006e
+í	í	imíliha, síḥuḥē̠re̥	Koretu, Yahuna, Desano, Yupua	91	U+00ed
+e̠$	e̠	mamálaḥe̠, mikā́be̠	Yahuna, Koretu, Desano, Yupua	86	U+0065 U+0320 U+0024
+x̯	x̯	dex̯kó, koatx̯ā́etx̯e̥	Yupua, Desano, Yahuna	84	U+0078 U+032f
+^y	y	yī́, yé̥ipai	Desano, Yupua, Koretu, Yahuna	82	U+005e U+0079
+ḥ	ḥ	síḥuḥē̠re̥, áḥe̠a	Koretu, Yahuna, Yupua, Desano	78	U+1e25
+^ya	ya	yatsā́liye̠, yamĩ́ã	Yahuna, Yupua, Desano, Koretu	78	U+005e U+0079 U+0061
+ē̠	ē̠	síḥuḥē̠re̥, mē̠ní	Desano, Yahuna, Koretu, Yupua	77	U+0113 U+0320
+s	s	yaue̠sé̠, óḥoasisi	Koretu, Yupua, Desano, Yahuna	75	U+0073
+ṓ	<?>	dṓlo, mohṓpama	Koretu, Desano, Yupua, Yahuna	71	U+1e53
+ts	ts	yatsā́liye̠, muhúua̯tsutsī́ge̥le̥	Desano, Yahuna, Yupua	66	U+0074 U+0073
+ḗ̠	<?>	yapuhḗ̠rika, uhḗ̠ku̠ru̠	Yahuna, Desano, Koretu, Yupua	65	U+1e17 U+0320
+ō	ō	kōlé̠, kōré̠	Desano, Yahuna, Koretu, Yupua	63	U+014d
+e	e	dex̯kó, mohṓtseri_dix̯pelu	Desano, Koretu, Yupua, Yahuna	61	U+0065
+ía$	ía	ihía, tāpía	Yahuna, Yupua	59	U+00ed U+0061 U+0024
+^ts	ts	tsé̥me̥oa, tsiúpona	Desano, Yahuna, Yupua, Koretu	59	U+005e U+0074 U+0073
+í$	í	six̯sí, mē̠ní	Desano, Yupua, Yahuna, Koretu	59	U+00ed U+0024
+ī	ī	ābé̠_tsīnĩe, nīmá	Desano, Yahuna, Yupua, Koretu	57	U+012b
+^u	u	uālá, ué̠koa_malā́bē̠na	Desano, Yahuna, Yupua, Koretu	57	U+005e U+0075
+ú	ú	tsútsi, uáimúmi	Yupua, Desano, Yahuna, Koretu	56	U+00fa
+ia	ia	diadyúi, liáme̥kiatu	Koretu, Yahuna, Desano, Yupua	53	U+0069 U+0061
+ū́	ú	gubū́pama, kū́li	Desano, Yahuna, Koretu, Yupua	46	U+016b U+0301
+^ua	ua	uapúa, uaxtx̯ú	Yahuna, Yupua, Desano, Koretu	46	U+005e U+0075 U+0061
+é	é	yéta, gaéi	Desano, Yupua, Koretu, Yahuna	45	U+00e9
+oa$	oa	ókoa, hókoa	Yahuna, Yupua, Desano	42	U+006f U+0061 U+0024
+ó$	ó	dex̯kó, minó	Desano, Yahuna, Yupua, Koretu	41	U+00f3 U+0024
+ia$	ia	tapoiḥia, lu̠pú̠komihia	Yahuna, Koretu, Yupua	40	U+0069 U+0061 U+0024
+^l	l	lā́ko, láe̥	Yahuna, Koretu, Yupua	39	U+005e U+006c
+_	_	ābé̠_tsīnĩe, yée̥_uáge̥_apé̠na	Yupua, Desano, Yahuna	39	U+005f
+é̥$	é̥	e̥me̥é̥, se̥x̯sé̥	Desano, Yupua, Yahuna	36	U+00e9 U+0325 U+0024
+é̠$	é̠	kōlé̠, yaue̠sé̠	Desano, Yupua, Yahuna, Koretu	35	U+00e9 U+0320 U+0024
+ú$	ú	uā́lix̯ú, kumalú	Desano, Yupua, Yahuna	31	U+00fa U+0024
+x̯s	x̯s	six̯sí, ye̠x̯sé̠	Desano, Yupua, Koretu	30	U+0078 U+032f U+0073
+^ā	ā	ābé̠_tsīnĩe, ānyáka	Yahuna, Desano, Yupua	29	U+005e U+0101
+^o	o	oóe̠ka, oā́pu̠līka	Desano, Koretu, Yahuna	29	U+005e U+006f
+iá	iá	diákea, diákala	Koretu, Yahuna, Desano	27	U+0069 U+00e1
+e$	e	sī́ne, héhe	Desano, Yupua, Koretu, Yahuna	26	U+0065 U+0024
+y	y	diḗypōleru, mīdyóabe̠	Desano, Yupua, Yahuna	26	U+0079
+^a	a	axpī́ro, aháke̥	Desano, Yahuna, Yupua, Koretu	25	U+005e U+0061
+úa$	úa	uapúa, yapúa	Yahuna	25	U+00fa U+0061 U+0024
+^ṓ	<?>	ṓa, ṓpe̠a	Yahuna, Yupua, Desano, Koretu	24	U+005e U+1e53
+u̠	u̠	lu̠pu̠koá, lu̠pu̠kóa	Desano, Yahuna, Koretu, Yupua	24	U+0075 U+0320
+ū	ū	uxsípūli, gūnyabirikā́	Desano, Yahuna, Yupua	23	U+016b
+^i	i	ihía, imíliha	Yahuna, Koretu, Desano, Yupua	23	U+005e U+0069
+ía	ía	kíasiri, híatoli	Koretu, Yupua, Yahuna, Desano	22	U+00ed U+0061
+^yu	yu	yuxke̥de̥xká, yutáka	Desano, Yahuna, Yupua	22	U+005e U+0079 U+0075
+oa	oa	koapái, ué̠koa_malā́bē̠na	Yahuna, Desano, Yupua, Koretu	21	U+006f U+0061
+xs	xs	uxsípūli, maxsá	Desano, Yupua	21	U+0078 U+0073
+^ō	ō	ōlé̠a, ōpé̠li	Desano, Yahuna	20	U+005e U+014d
+e̠a$	e̠a	áḥe̠a, ṓpe̠a	Yahuna, Koretu, Desano	20	U+0065 U+0320 U+0061 U+0024
+ya$	ya	siā́ya, bóya	Yupua, Yahuna, Koretu, Desano	19	U+0079 U+0061 U+0024
+^yi	yi	yibáukuni, yihínyu	Yahuna, Yupua	18	U+005e U+0079 U+0069
+ya	ya	būdyaboía, pāyamóalika	Yahuna, Desano, Koretu	18	U+0079 U+0061
+^yo	yo	yoxkólo, yohó	Desano, Yupua, Yahuna, Koretu	18	U+005e U+0079 U+006f
+ṅ	<?>	siī́ṅgee̥, ĩ̄ṅẽyábe̠ro_buiríbe̠ro	Desano, Yupua	16	U+1e45
+^ó	ó	óaka, óxpe̥le̥	Yahuna, Yupua, Koretu	16	U+005e U+00f3
+^ā́	á	ā́logaga, ā́ge̥_ai̯uálisú	Yahuna, Yupua, Desano, Koretu	16	U+005e U+0101 U+0301
+'m	m	kū́'me̥, yá'ma	Koretu, Yahuna, Desano, Yupua	15	U+0027 U+006d
+^ī	ī	īrirí, īnakuliuḗ̠he̠naka	Yahuna, Desano	14	U+005e U+012b
+ē	ē	pe̠áyēri, yēlékume	Desano, Yupua	13	U+0113
+^yá	yá	yátai̯ga, yábu	Yupua, Koretu, Yahuna	13	U+005e U+0079 U+00e1
+yu$	yu	yimī́nyu, yihínyu	Yahuna, Yupua	13	U+0079 U+0075 U+0024
+yá$	yá	ānyá, kālanyá	Yahuna, Yupua, Desano	13	U+0079 U+00e1 U+0024
+^ū	ū	ūlía, ūpúa	Yahuna, Desano	12	U+005e U+016b
+iu	iu	liuḗ̠yie̠ká, kaliuāna	Yahuna, Koretu, Desano	12	U+0069 U+0075
+^e̥	e̥	e̥me̥é̥, e̥mé̥	Desano, Yupua	12	U+005e U+0065 U+0325
+ua	ua	pū́puaga, tsapé̠ualalanika	Yahuna, Desano, Yupua	12	U+0075 U+0061
+ái$	ái	koapái, uaxsagái	Yahuna, Yupua	12	U+00e1 U+0069 U+0024
+ye̥$	ye̥	ṓdye̥, tū́dye̥	Yahuna, Yupua	12	U+0079 U+0065 U+0325 U+0024
+ui	ui	ĩ̄ṅẽyábe̠ro_buiríbe̠ro, mé̥yabe̠ro_buiríbe̠ro	Desano, Yahuna	11	U+0075 U+0069
+^é̥	é̥	é̥ba, é̥me̥	Yupua, Koretu, Desano	11	U+005e U+00e9 U+0325
+xh	xh	buxhū́lu, tsīunduxhā́ko	Desano, Yupua	11	U+0078 U+0068
+^uai	uai	uaihī́ro, uaikuā́re̥	Yahuna, Desano, Koretu	11	U+005e U+0075 U+0061 U+0069
+é$	é	meé, hotōnié	Desano, Koretu, Yupua	11	U+00e9 U+0024
+ua$	ua	gáhua, mahapṓua	Yahuna, Yupua, Koretu, Desano	11	U+0075 U+0061 U+0024
+ḗ	<?>	ṅḗē, diḗypōleru	Desano, Yupua, Yahuna, Koretu	10	U+1e17
+^uá	uá	uáme̥a, uálē̠ka	Yupua, Yahuna, Desano	10	U+005e U+0075 U+00e1
+^w	w	wā́dali, wií	Desano, Yahuna	10	U+005e U+0077
+áya$	áya	háya, yakotáya	Yahuna, Yupua, Koretu	9	U+00e1 U+0079 U+0061 U+0024
+oi	oi	ḥe̥ḥóḥoire̥, pū́poitobe̠	Koretu, Yahuna	9	U+006f U+0069
+yi	yi	iádyiri, nyikalíye̠	Yahuna, Yupua, Desano	9	U+0079 U+0069
+'n	n	mi'nóa, mē̠'ní	Yahuna, Koretu	9	U+0027 U+006e
+^ue	ue	uex̯képamu, uex̯kowe̥lī́e	Desano, Yupua	9	U+005e U+0075 U+0065
+^ui	ui	uitóa, uipóa	Yahuna, Yupua, Desano	9	U+005e U+0075 U+0069
+u̠$	u̠	sírise̠pu̠, uhḗ̠ku̠ru̠	Koretu, Desano	8	U+0075 U+0320 U+0024
+oá$	oá	lu̠pu̠koá, ya'koá	Yahuna, Desano, Yupua	8	U+006f U+00e1 U+0024
+^ye̠	ye̠	ye̠x̯sé̠, ye̠x̯sé̠pulu	Desano, Yahuna, Yupua	8	U+005e U+0079 U+0065 U+0320
+^ue̥	ue̥	ue̥li, ue̥é̥	Yupua, Desano	8	U+005e U+0075 U+0065 U+0325
+iá$	iá	hiá, uaxpiniakoliá	Yahuna, Koretu, Desano, Yupua	8	U+0069 U+00e1 U+0024
+^ḥ	ḥ	ḥe̥ḥóḥoire̥, ḥé̥he̥	Koretu	8	U+005e U+1e25
+yá	yá	ānyáka, pē̠yáru	Yahuna, Desano	8	U+0079 U+00e1
+ī́$	í	yī́, tsaī́	Yupua, Yahuna, Desano	8	U+012b U+0301 U+0024
+úa	úa	uanúame̠pe̠, ūkúame	Yahuna, Yupua, Desano	7	U+00fa U+0061
+oá	oá	moákahe̠a, ḳoákuru	Yahuna, Desano, Yupua	7	U+006f U+00e1
+^ue̠	ue̠	ue̠sé̠, ue̠ré̠i̯	Yupua, Desano, Yahuna	7	U+005e U+0075 U+0065 U+0320
+au	au	kautu, tsauī́dyu	Yahuna, Koretu, Yupua	7	U+0061 U+0075
+^ú	ú	úma, úkirika	Yupua, Yahuna, Koretu	7	U+005e U+00fa
+^ī́	í	ī́ne̥, ī́mu	Yupua, Yahuna, Desano	6	U+005e U+012b U+0301
+'k	k	ya'kátsana, mḗ̠'kiari	Yahuna, Koretu, Desano	6	U+0027 U+006b
+ā́$	á	gūnyabirikā́, tā́	Desano, Yupua	6	U+0101 U+0301 U+0024
+^ye	ye	yehátsirigoali, yex̯sálipe̥ali	Desano	6	U+005e U+0079 U+0065
+w	w	uex̯kowe̥lī́e, me̥ā́yawii	Desano, Yupua, Yahuna	6	U+0077
+ie̠	ie̠	hḗ̠hie̠kie̥, hḗ̠kie̠ri	Yahuna, Koretu	6	U+0069 U+0065 U+0320
+^oa	oa	oatá, oalákaka	Yahuna, Koretu	6	U+005e U+006f U+0061
+^yee̥	ye̥ː	yee̥bóodyée̥, yee̥tsíe̠i̯	Yupua	6	U+005e U+0079 U+0065 U+0065 U+0325
+^yai	yai	yairó, yaihóaga	Yahuna, Desano, Koretu	6	U+005e U+0079 U+0061 U+0069
+'t	t	pé̠'tōre̥, pí'taka	Koretu, Yahuna	5	U+0027 U+0074
+^ē̠	ē̠	ē̠yā́lo, ē̠nyamihia	Yahuna, Desano, Koretu	5	U+005e U+0113 U+0320
+^ui̯	ui̯	ui̯póhaiga, ui̯póa	Yahuna, Yupua, Desano	5	U+005e U+0075 U+0069 U+032f
+óh	óh	ui̯póhaiga, hóhona	Yahuna, Koretu, Yupua	5	U+00f3 U+0068
+ā́s	ā́s	mā́sa, yā́si	Yupua, Koretu, Yahuna	5	U+0101 U+0301 U+0073
+áua$	áua	yoaláua, báua	Yahuna	5	U+00e1 U+0075 U+0061 U+0024
+ea	ea	ã̄nyã́pakeaka, meamítiye̥	Yahuna, Koretu	5	U+0065 U+0061
+ai$	ai	yé̥ipai, mai	Yupua, Yahuna	5	U+0061 U+0069 U+0024
+^uái	uái	uáimúmi, uáiroka	Yupua, Yahuna	5	U+005e U+0075 U+00e1 U+0069
+ā$	ā	yūlikā, uaiōā	Desano, Yupua	5	U+0101 U+0024
+oe̠	oe̠	mix̯hoe̠be̠, wiipoe̠káke̠	Yahuna, Desano	5	U+006f U+0065 U+0320
+ii$	iː	ikū́lii, bii	Desano, Koretu	5	U+0069 U+0069 U+0024
+áu	áu	yibáukuni, mibáubadyube̠	Yahuna, Koretu	5	U+00e1 U+0075
+ii	iː	wiipoe̠káke̠, wiikaluxkáke̠	Desano, Yupua	5	U+0069 U+0069
+^í	í	íne̥me̥, íṅigobe̠ri	Desano, Yupua, Koretu	4	U+005e U+00ed
+^á	á	áḥe̠a, ámu	Yahuna, Yupua	4	U+005e U+00e1
+io	io	tā́pioto, uaxpī́kioli	Yahuna, Desano	4	U+0069 U+006f
+mh	mh	kālamhé, yoā́limhi	Desano	4	U+006d U+0068
+ṹ	ṹ	ue̥nṹõ, tsṹũrũ	Desano, Yupua	4	U+1e79
+uá	uá	muákahe̠, yapuáḥe̠a	Yahuna, Yupua	4	U+0075 U+00e1
+iua	iua	taā́piuaho, siuaḥíkie̯	Yahuna, Koretu	4	U+0069 U+0075 U+0061
+ós	ós	bóso, mósa	Yupua, Yahuna, Koretu	4	U+00f3 U+0073
+ie̥$	ie̥	uarákie̥, loké̥kie̥	Koretu	4	U+0069 U+0065 U+0325 U+0024
+ai	ai	ui̯póhaiga, yé̥ulagai_kóe̠x̯u	Yahuna, Yupua	4	U+0061 U+0069
+ĩ́ã$	ĩ́ã	yamĩ́ã, kamĩ́ã	Desano	4	U+0129 U+0301 U+00e3 U+0024
+yu	yu	kirī́kapunyuto, nyumálika	Yahuna, Desano	4	U+0079 U+0075
+ãẽ$	ãẽ	góamãẽ, minimãẽ	Desano, Yupua	4	U+00e3 U+1ebd U+0024
+e̠a	e̠a	kṓlike̠alo, hḗ̠ne̠ke̠alo	Koretu, Yupua, Yahuna	4	U+0065 U+0320 U+0061
+áy$	áy	iipáy, uē̠lopáy	Yahuna	4	U+00e1 U+0079 U+0024
+ai̯	ai̯	yátai̯ga, bitai̯góp̌e̠ka	Yahuna, Yupua, Desano	4	U+0061 U+0069 U+032f
+eo	eo	ḳeolḗ̠yu, lu̠pu̠é̠meoka	Yahuna	4	U+0065 U+006f
+aa	aː	maagóxko, tsamaapiáe̠ka	Yupua, Yahuna	4	U+0061 U+0061
+ie$	ie	kuayḗ̠rie, gā́lie	Yahuna	4	U+0069 U+0065 U+0024
+ee̥$	e̥ː	siī́ṅgee̥	Yupua	4	U+0065 U+0065 U+0325 U+0024
+úi$	úi	búi, gúi	Yupua, Koretu	4	U+00fa U+0069 U+0024
+é̠s	é̠s	sé̠se̠talage̥, sé̠se̠buti	Yupua	4	U+00e9 U+0320 U+0073
+iye̠$	iye̠	yatsā́liye̠, dialiye̠	Desano	4	U+0069 U+0079 U+0065 U+0320 U+0024
+uí	uí	kuísipóali, puítsamu	Desano	3	U+0075 U+00ed
+oi̯	oi̯	sigoi̯tagiáḥoiri, goi̯takiáḥoiri	Koretu	3	U+006f U+0069 U+032f
+aua	aua	gé̥apauatx̯u, pitauaḥoa	Yupua, Yahuna	3	U+0061 U+0075 U+0061
+ẽ$	ẽ	ṹẽ, pṹẽ	Yupua, Desano	3	U+1ebd U+0024
+yã́	yã́	ã̄nyã́pakeaka, ā̃nyã́nyaru	Yahuna, Desano	3	U+0079 U+00e3 U+0301
+ie̥	ie̥	tṓkie̥āne̥, pie̥le̥	Yupua, Koretu	3	U+0069 U+0065 U+0325
+íi	íi	píidika, bíitu	Yupua, Yahuna	3	U+00ed U+0069
+iia$	iːa	diia, diuḗ̠diia	Yahuna	3	U+0069 U+0069 U+0061 U+0024
+au̯	au̯	kau̯hanikía, tau̯ā́nipatunie̯	Yahuna, Koretu	3	U+0061 U+0075 U+032f
+^yū	yū	yūli, yūmú	Desano	3	U+005e U+0079 U+016b
+e̠á	e̠á	pe̠áme̠ye̠, ē̠ke̠ápiāri	Desano, Koretu	3	U+0065 U+0320 U+00e1
+uá$	uá	uaḥuá, būluá	Desano, Yupua	3	U+0075 U+00e1 U+0024
+^áue̠	áue̠	áue̠pé̥lage̠, áue̠mame̥	Yupua	3	U+005e U+00e1 U+0075 U+0065 U+0320
+ái	ái	táiāre̥, náige̠	Koretu, Yupua	3	U+00e1 U+0069
+ĩe$	ĩe	ābé̠_tsīnĩe, pḗ̠yalĩe	Desano	3	U+0129 U+0065 U+0024
+'p	p	ya'pía, do'pã́ã	Yahuna, Desano	3	U+0027 U+0070
+aá$	áː	maá, tsaá	Desano, Yahuna	3	U+0061 U+00e1 U+0024
+íue̠	íue̠	me̠líue̠sḗ̠re̥, te̠alíue̠koa	Koretu, Yahuna	3	U+00ed U+0075 U+0065 U+0320
+uía$	uía	muía, kuía	Yahuna	3	U+0075 U+00ed U+0061 U+0024
+ās	ās	hé̠āse̥, pāsikope̠a	Yupua, Yahuna, Koretu	3	U+0101 U+0073
+úi	úi	púibu, kúikoīre̥	Koretu, Desano	3	U+00fa U+0069
+aya$	aya	hā́naya, uáikóaya	Yupua, Koretu, Desano	3	U+0061 U+0079 U+0061 U+0024
+e̠u	e̠u	te̠ube̠uíya, te̠ube̠hó	Yahuna, Koretu	3	U+0065 U+0320 U+0075
+áe̥$	áe̥	láe̥, háe̥	Koretu, Yupua	3	U+00e1 U+0065 U+0325 U+0024
+ã́ã$	ã́ã	yee̥mã́ã, dopã́ã	Desano, Yupua	3	U+00e3 U+0301 U+00e3 U+0024
+íua$	íua	karíua, kalíua	Yupua, Koretu	3	U+00ed U+0075 U+0061 U+0024
+ū̠	ū̠	gaxbitū̠ge̥, mū̠nu̠ui̯hīnimúka	Desano	3	U+016b U+0320
+ē$	ē	ṅḗē, yē̠yéāē	Yupua, Desano	3	U+0113 U+0024
+iya$	iya	né̠iya, yainé̠iya	Yahuna	3	U+0069 U+0079 U+0061 U+0024
+^uai̯	uai̯	uai̯bikínaga, uai̯bikinṓliaka	Yahuna, Koretu	3	U+005e U+0075 U+0061 U+0069 U+032f
+^yoa	yoa	yoaláua, yoa'má	Yupua, Yahuna	3	U+005e U+0079 U+006f U+0061
+^e̠	e̠	e̠ólaka, e̠ālí	Desano, Yahuna	3	U+005e U+0065 U+0320
+^oá	oá	oáme̠naga, oálala	Yahuna, Desano, Koretu	3	U+005e U+006f U+00e1
+aí$	aí	yoamaí, iamaí	Yupua, Yahuna	3	U+0061 U+00ed U+0024
+éh	éh	héhe, yéhe̥	Koretu, Yupua	3	U+00e9 U+0068
+ea$	ea	diákea, húhea	Desano, Koretu	3	U+0065 U+0061 U+0024
+^aú	aú	aútone̠ne̥, aúlikiare̥	Koretu	3	U+005e U+0061 U+00fa
+áu$	áu	kakáu, háu	Yahuna, Yupua	3	U+00e1 U+0075 U+0024
+ḗ$	<?>	mḗ, hḗ	Yupua, Yahuna, Koretu	3	U+1e17 U+0024
+^e	e	ex̯tóga, ehéai̯yā	Desano	3	U+005e U+0065
+iuiia$	iuiia	apikaliká_te̠muyī́liuiia, yī́liuiia	Yahuna	3	U+0069 U+0075 U+0069 U+0069 U+0061 U+0024
+e̠i̯$	e̠i̯	tx̯óe̠i̯, tx̯óle̠i̯	Yupua	3	U+0065 U+0320 U+0069 U+032f U+0024
+ai̯uá	ai̯uá	de̠ko_ai̯uálix̯u, ā́ge̥_ai̯uálisú	Yupua	3	U+0061 U+0069 U+032f U+0075 U+00e1
+i̯$	i̯	ue̠ré̠i̯, te̠x̯té̠i̯	Yupua	3	U+0069 U+032f U+0024
+ú̠	ú̠	lu̠pú̠komihia, sikoxú̠la	Yahuna, Koretu	2	U+00fa U+0320
+^yí	yí	yímogati	Yupua	2	U+005e U+0079 U+00ed
+úu$	úu	dikagúu, ge̥tx̯agúu	Yupua	2	U+00fa U+0075 U+0024
+úua	úua	muhúuatse̠ru, muhúuasu	Yupua	2	U+00fa U+0075 U+0061
+aí	aí	hóatanikerokaíkaka, saítakurse̥	Yahuna, Koretu	2	U+0061 U+00ed
+io̯$	io̯	simáu̠kiakio̯, hóio̯	Koretu	2	U+0069 U+006f U+032f U+0024
+yĩ	yĩ	nyĩā́, nyĩṅáliru	Desano	2	U+0079 U+0129
+^ṹ	ṹ	ṹẽ, ṹẽdiíle̥	Yupua	2	U+005e U+1e79
+ií	íː	õãdiíle̥, ṹẽdiíle̥	Yupua	2	U+0069 U+00ed
+ī̃	ĩ̄	nyī̃ã́ẽõã, uyī̃ṅã́ẽõã	Desano	2	U+012b U+0303
+ã́ẽõã$	ã́ẽõã	nyī̃ã́ẽõã, uyī̃ṅã́ẽõã	Desano	2	U+00e3 U+0301 U+1ebd U+00f5 U+00e3 U+0024
+e̥a	e̥a	ge̥apáuasu, yex̯sálipe̥ali	Yupua, Desano	2	U+0065 U+0325 U+0061
+au̯ía$	au̯ía	dipau̯ía, poakau̯ía	Yahuna	2	U+0061 U+0075 U+032f U+00ed U+0061 U+0024
+e̥a$	e̥a	uáme̥a	Yahuna	2	U+0065 U+0325 U+0061 U+0024
+ie̯$	ie̯	siuaḥíkie̯, tau̯ā́nipatunie̯	Yahuna, Koretu	2	U+0069 U+0065 U+032f U+0024
+ẽá	ẽá	mẽápatole, mẽápatore	Desano	2	U+1ebd U+00e1
+e̠á$	e̠á	ye̠me̠á, take̠á	Yahuna	2	U+0065 U+0320 U+00e1 U+0024
+g$	g	pe̥lág, yape̥lág	Yupua	2	U+0067 U+0024
+ĩ́	ĩ́	uaxpĩ́ȭpe̠, yahĩ́re̥	Yupua, Koretu	2	U+0129 U+0301
+ye	ye	yēyex̯ké̥pe̥xkero, axpinotóyeri	Desano	2	U+0079 U+0065
+é̠h	é̠h	ué̠hāli, yé̠hē̠re̥	Desano, Koretu	2	U+00e9 U+0320 U+0068
+iú	iú	tsiúpona	Desano	2	U+0069 U+00fa
+íi$	íi	níi, yadíi	Yupua	2	U+00ed U+0069 U+0024
+^yau̯	yau̯	yau̯ālaká, yau̯mía	Yahuna	2	U+005e U+0079 U+0061 U+0075 U+032f
+ḗ̠h	<?>	īnakuliuḗ̠he̠naka, hḗ̠hie̠kie̥	Yahuna, Koretu	2	U+1e17 U+0320 U+0068
+^ū́a$	úa	ū́a	Yahuna	2	U+005e U+016b U+0301 U+0061 U+0024
+^ē	ē	ēme̥tsi, ēmíparo	Desano	2	U+005e U+0113
+uayá$	uayá	yapātuayá, patuayá	Yupua	2	U+0075 U+0061 U+0079 U+00e1 U+0024
+oe̠$	oe̠	lā́roe̠, góe̠ripoe̠	Koretu, Desano	2	U+006f U+0065 U+0320 U+0024
+^aya	aya	ayaká_hiadyaāníke̠ka, ayaté̠uahirikádyu	Yahuna	2	U+005e U+0061 U+0079 U+0061
+iai̯	iai̯	yámigakiai̯dyá, mā́makiai̯dyá	Yahuna	2	U+0069 U+0061 U+0069 U+032f
+ḳ	ḳ	nóḳoa, yoḳóro	Yupua, Yahuna	2	U+1e33
+áa$	áa	máa, mālianáa	Yupua, Desano	2	U+00e1 U+0061 U+0024
+^yaue̠	yaue̠	yaue̠sé̠	Yupua	2	U+005e U+0079 U+0061 U+0075 U+0065 U+0320
+ií$	íː	wií, mií	Yahuna, Desano	2	U+0069 U+00ed U+0024
+aa$	aː	húmaa, bū́tumaa	Yahuna, Koretu	2	U+0061 U+0061 U+0024
+úe$	úe	púe, ke̠húe	Yupua, Yahuna	2	U+00fa U+0065 U+0024
+ue	ue	puekā́lu, pē̠yóuero	Yupua, Desano	2	U+0075 U+0065
+^ã̄	ã̄	ã̄nyã́pakeaka	Yahuna	2	U+005e U+00e3 U+0304
+ũ	ũ	tsṹũrũ, nũṹ	Desano	2	U+0169
+iū	iū	taā́piūlikukia, miūla	Yupua, Yahuna	2	U+0069 U+016b
+e̥e$	e̥e	gā́le̥e	Yupua	2	U+0065 U+0325 U+0065 U+0024
+p̌	p̌	pe̠agóp̌eka, bitai̯góp̌e̠ka	Yupua	2	U+0070 U+030c
+áue̯$	áue̯	kāgakáue̯, pe̠káue̯	Yahuna	2	U+00e1 U+0075 U+0065 U+032f U+0024
+^u̠a	u̠a	u̠atóḥuru, u̠atóua	Koretu	2	U+005e U+0075 U+0320 U+0061
+^yai̯iuá	yai̯iuá	yai̯iuáxsulu, yai̯iuáxsuru	Desano	2	U+005e U+0079 U+0061 U+0069 U+032f U+0069 U+0075 U+00e1
+íu	íu	díuru, díulu	Desano	2	U+00ed U+0075
+^ii	iː	iipáy, iipáya	Yahuna	2	U+005e U+0069 U+0069
+ā́h	ā́h	yā́he̠, mā́hoi̯re̥	Koretu	2	U+0101 U+0301 U+0068
+aú	aú	haúku, haúlapikoa	Yahuna, Koretu	2	U+0061 U+00fa
+e̥o	e̥o	dupué̠me̥oka, lupué̠me̥oka	Yahuna	2	U+0065 U+0325 U+006f
+oya$	oya	sḗ̠boya, tx̯ḗ̠boya	Yupua	2	U+006f U+0079 U+0061 U+0024
+iyi	iyi	miyitatábe̠, mamiyimí	Yahuna	2	U+0069 U+0079 U+0069
+áa	áa	báapayau̯aru, báapayau̯alu	Yupua	2	U+00e1 U+0061
+ayau̯a	ayau̯a	báapayau̯aru, báapayau̯alu	Yupua	2	U+0061 U+0079 U+0061 U+0075 U+032f U+0061
+^uai$	uai	uai	Desano	2	U+005e U+0075 U+0061 U+0069 U+0024
+ē̥	ē̥	bē̥gé̥, bē̥ló	Desano	2	U+0113 U+0325
+é̥h	é̥h	mé̥he̥, ḥé̥he̥	Koretu	2	U+00e9 U+0325 U+0068
+^uayáu	uayáu	uayáule̠ruka, uayáule̠ru	Yahuna	2	U+005e U+0075 U+0061 U+0079 U+00e1 U+0075
+^īs	īs	īsí	Yupua	2	U+005e U+012b U+0073
+yo$	yo	ṓdyo, yé̠yo	Yahuna	2	U+0079 U+006f U+0024
+iyo$	iyo	yee̥tī́niyo, hóiyo	Yupua, Koretu	2	U+0069 U+0079 U+006f U+0024
+aúa	aúa	kaúala, laúariko	Yupua, Koretu	2	U+0061 U+00fa U+0061
+ui$	ui	bui, tsaháme̥_nomi_be̥kákui	Yupua, Desano	2	U+0075 U+0069 U+0024
+'h	h	tā'há, mí'hi	Koretu	2	U+0027 U+0068
+íya	íya	mālíyawii, kapilíyaka	Yahuna, Desano	2	U+00ed U+0079 U+0061
+uúa$	úːa	huúa, puúa	Yahuna	2	U+0075 U+00fa U+0061 U+0024
+^uaí	uaí	uaíhāke̥, uaíhia	Koretu	2	U+005e U+0075 U+0061 U+00ed
+ai̯e̥$	ai̯e̥	mā́lai̯e̥, mṓai̯e̥	Koretu	2	U+0061 U+0069 U+032f U+0065 U+0325 U+0024
+^ḳ	ḳ	ḳeolḗ̠yu, ḳoákuru	Yahuna	2	U+005e U+1e33
+^ū́	ú	ū́tia, ū́mua	Yahuna	2	U+005e U+016b U+0301
+uay	uay	kuayḗ̠rie, kuayḗ̠ri	Yahuna	2	U+0075 U+0061 U+0079
+aíua	aíua	paíuaga, piraíuaka	Yahuna	2	U+0061 U+00ed U+0075 U+0061
+^ḗ̠	<?>	ḗ̠olo, ḗ̠bo	Yupua, Desano	2	U+005e U+1e17 U+0320
+ye$	ye	uaī́ye, mālié̠ye	Yahuna	2	U+0079 U+0065 U+0024
+ph	pʰ	gōlóphūna, gōróphūna	Desano	2	U+0070 U+0068
+yú	yú	pē̠yúpe̠ru̠, uadyúlika	Yahuna, Desano	2	U+0079 U+00fa
+ayau	ayau	tsayauā́laga, tsayauā́naga	Yahuna	2	U+0061 U+0079 U+0061 U+0075
+yú$	yú	mūnyú, keaudyú	Yahuna, Desano	2	U+0079 U+00fa U+0024
+yúi$	yúi	diadyúi	Yupua	2	U+0079 U+00fa U+0069 U+0024
+eá$	eá	me̥leá, meá	Desano	2	U+0065 U+00e1 U+0024
+^ṅ	<?>	ṅḗē, ṅāmí	Yupua, Desano	2	U+005e U+1e45
+ū́$	ú	pū́	Yupua, Desano	2	U+016b U+0301 U+0024
+yúa$	yúa	pūnyúa, hādyúa	Yahuna	2	U+0079 U+00fa U+0061 U+0024
+e̥á$	e̥á	me̥á, ge̥á	Yupua, Desano	2	U+0065 U+0325 U+00e1 U+0024
+e̥ya	e̥ya	mé̥e̥yapātupáhi, ige̥yapātupáhi	Yupua	2	U+0065 U+0325 U+0079 U+0061
+yau̯e̠	yau̯e̠	mé̥āyau̯e̠é̠, e̥yé̥yau̯e̠é̠	Yupua	2	U+0079 U+0061 U+0075 U+032f U+0065 U+0320
+^ue̥a	ue̥a	ue̥agé̥gero, ue̥alṓgelo	Desano	2	U+005e U+0075 U+0065 U+0325 U+0061
+ṓh	<?>	yṓhe̠, tṓhone̠	Koretu	2	U+1e53 U+0068
+e̥y	e̥y	he̥yḗ̠ke̥ke̥, uhḗ̠ge̥yée̥	Yupua, Koretu	2	U+0065 U+0325 U+0079
+aue̯	aue̯	kālaue̯lī́na, kānaue̯lī́na	Desano	2	U+0061 U+0075 U+0065 U+032f
+e̠e̠	e̠e̠	kóalime̠e̠be̠, mé̥e̥pe̠e̠_yee̥uaatoho	Yupua, Yahuna	2	U+0065 U+0320 U+0065 U+0320
+e̥oa$	e̥oa	tsé̥me̥oa	Yupua	2	U+0065 U+0325 U+006f U+0061 U+0024
+ue̯	ue̯	wiī́ue̯x̯ka, yuxké̥ue̯x̯ka	Desano	2	U+0075 U+0065 U+032f
+^ia	ia	iamaí, iateanié̠l	Yupua, Koretu	2	U+005e U+0069 U+0061
+ay	ay	inayḗ̠ná, kē̠tayé̥	Yahuna, Desano	2	U+0061 U+0079
+^yiy	yiy	yiyā́nye̥, yiyā́nyu	Yahuna	2	U+005e U+0079 U+0069 U+0079
+õ	õ	hõkiahá, tsõláli	Koretu, Desano	2	U+00f5
+ioaa$	ioaa	dé̠ko_uālioaa, dé̠ko_oā́lioaa	Yupua	2	U+0069 U+006f U+0061 U+0061 U+0024
+ĩĩ	ĩː	ue̠ré̠nĩĩni, nĩĩní	Desano	2	U+0129 U+0129
+eau	eau	keaudyé̥, keaudyú	Yahuna	2	U+0065 U+0061 U+0075
+^ḗ	<?>	ḗge̥le	Yupua	1	U+005e U+1e17
+iaū́	iaū́	sikiaū́lo	Koretu	1	U+0069 U+0061 U+016b U+0301
+ai̯á	ai̯á	disx̯sípulitsai̯ánidex̯ka	Desano	1	U+0061 U+0069 U+032f U+00e1
+oay	oay	sikoayéke̥	Koretu	1	U+006f U+0061 U+0079
+úe̥	úe̥	kúe̥le̥	Yupua	1	U+00fa U+0065 U+0325
+^uayú	uayú	uayúpona	Desano	1	U+005e U+0075 U+0061 U+0079 U+00fa
+ẽ́	ẽ́	komẽ́pero	Desano	1	U+1ebd U+0301
+aoi̯e$	aoi̯e	simaoi̯e	Koretu	1	U+0061 U+006f U+0069 U+032f U+0065 U+0024
+úua̯	úua̯	muhúua̯tsutsī́ge̥le̥	Yupua	1	U+00fa U+0075 U+0061 U+032f
+áu̠	áu̠	simáu̠kiakio̯	Koretu	1	U+00e1 U+0075 U+0320
+ao	ao	simaoráso	Koretu	1	U+0061 U+006f
+áo	áo	nyīkáome̠	Yahuna	1	U+00e1 U+006f
+^õã	õã	õãdiíle̥	Yupua	1	U+005e U+00f5 U+00e3
+íye̠$	íye̠	nyikalíye̠	Yahuna	1	U+00ed U+0079 U+0065 U+0320 U+0024
+ẽ	ẽ	ṹẽdiíle̥	Yupua	1	U+1ebd
+íiye̠$	íiye̠	nyikalíiye̠	Yahuna	1	U+00ed U+0069 U+0079 U+0065 U+0320 U+0024
+úye̠	úye̠	siukúye̠hu	Koretu	1	U+00fa U+0079 U+0065 U+0320
+yĩã́ẽ	yĩã́ẽ	nyĩã́ẽdoxka	Desano	1	U+0079 U+0129 U+00e3 U+0301 U+1ebd
+yẽã́ẽ	yẽã́ẽ	nyẽã́ẽdoxka	Desano	1	U+0079 U+1ebd U+00e3 U+0301 U+1ebd
+^ā̃	ã̄	ā̃nyã́nyaru	Desano	1	U+005e U+0101 U+0303
+^uy	uy	uyī̃ṅã́ẽõã	Desano	1	U+005e U+0075 U+0079
+úio$	úio	sikoxúio	Koretu	1	U+00fa U+0069 U+006f U+0024
+áua	áua	ge̥apáuasu	Yupua	1	U+00e1 U+0075 U+0061
+au̯íya$	au̯íya	dipau̯íya	Yahuna	1	U+0061 U+0075 U+032f U+00ed U+0079 U+0061 U+0024
+õ$	õ	ue̥nṹõ	Desano	1	U+00f5 U+0024
+^yau	yau	yaué̥	Yupua	1	U+005e U+0079 U+0061 U+0075
+eẽ́	ẽ́ː	komeẽ́pero	Desano	1	U+0065 U+1ebd U+0301
+^uayu	uayu	uayume̠ká	Yahuna	1	U+005e U+0075 U+0061 U+0079 U+0075
+au̯iía$	au̯iía	yatau̯iía	Yahuna	1	U+0061 U+0075 U+032f U+0069 U+00ed U+0061 U+0024
+íya$	íya	kālimakíya	Yahuna	1	U+00ed U+0079 U+0061 U+0024
+oū	oū	sítoūkia	Koretu	1	U+006f U+016b
+ũũ	ũ	tsũũpínũõã	Desano	1	U+0169 U+0169
+ũõã$	ũõã	tsũũpínũõã	Desano	1	U+0169 U+00f5 U+00e3 U+0024
+ȭ	<?>	uaxpĩ́ȭpe̠	Yupua	1	U+022d
+^ye̠$	ye̠	ye̠	Desano	1	U+005e U+0079 U+0065 U+0320 U+0024
+ō$	ō	bū́lugō	Yupua	1	U+014d U+0024
+^yaúe$	yaúe	yaúe	Yupua	1	U+005e U+0079 U+0061 U+00fa U+0065 U+0024
+iyá$	iyá	yē̠niyá	Yahuna	1	U+0069 U+0079 U+00e1 U+0024
+yie̠	yie̠	liuḗ̠yie̠ká	Yahuna	1	U+0079 U+0069 U+0065 U+0320
+yía$	yía	yē̠nyía	Yahuna	1	U+0079 U+00ed U+0061 U+0024
+^yáoa	yáoa	yáoama	Yupua	1	U+005e U+0079 U+00e1 U+006f U+0061
+ye̠$	ye̠	é̥ye̠	Desano	1	U+0079 U+0065 U+0320 U+0024
+^yáui	yáui	yáuike̥tsi	Yupua	1	U+005e U+0079 U+00e1 U+0075 U+0069
+úu	úu	yanúuli	Yupua	1	U+00fa U+0075
+'l	l	ṓ'lé̠a	Yahuna	1	U+0027 U+006c
+íui̯	íui̯	ihíui̯tsia	Yahuna	1	U+00ed U+0075 U+0069 U+032f
+yia	yia	dyiaká	Yahuna	1	U+0079 U+0069 U+0061
+iaya$	iaya	diaya	Yupua	1	U+0069 U+0061 U+0079 U+0061 U+0024
+^r	r	ritāre̥	Koretu	1	U+005e U+0072
+ū́yi$	ū́yi	bū́yi	Yupua	1	U+016b U+0301 U+0079 U+0069 U+0024
+'ḥ	'ḥ	mé̥'ḥo	Koretu	1	U+0027 U+1e25
+au̯a	au̯a	omau̯alía	Yahuna	1	U+0061 U+0075 U+032f U+0061
+^au	au	aué̠	Yupua	1	U+005e U+0061 U+0075
+'ia$	ia	hā́'ia	Koretu	1	U+0027 U+0069 U+0061 U+0024
+^aiya	aiya	aiyagá	Yahuna	1	U+005e U+0061 U+0069 U+0079 U+0061
+íaye	íaye	ihíayeā́ika	Yahuna	1	U+00ed U+0061 U+0079 U+0065
+ī́h	ī́h	tapoī́híasi	Koretu	1	U+012b U+0301 U+0068
+úaa$	úaː	uasúaa	Yupua	1	U+00fa U+0061 U+0061 U+0024
+ai̯$	ai̯	uahoágamai̯	Yupua	1	U+0061 U+0069 U+032f U+0024
+^aia	aia	aianámati	Koretu	1	U+005e U+0061 U+0069 U+0061
+aai̯	aːi̯	málaai̯dyu	Yahuna	1	U+0061 U+0061 U+0069 U+032f
+e̠áue̠$	e̠áue̠	yamimage̠áue̠	Yupua	1	U+0065 U+0320 U+00e1 U+0075 U+0065 U+0320 U+0024
+aiya	aiya	yámigakaiyagá	Yahuna	1	U+0061 U+0069 U+0079 U+0061
+ai̯yá	ai̯yá	mamadai̯yáge̥	Desano	1	U+0061 U+0069 U+032f U+0079 U+00e1
+aiá	aiá	haiámamāke̥	Koretu	1	U+0061 U+0069 U+00e1
+úua$	úua	áue̠túua	Yupua	1	U+00fa U+0075 U+0061 U+0024
+aia	aia	haiakulísi	Koretu	1	U+0061 U+0069 U+0061
+aía$	aía	kaía	Yahuna	1	U+0061 U+00ed U+0061 U+0024
+iái	iái	kiáire̥	Koretu	1	U+0069 U+00e1 U+0069
+'ía$	ía	ka'ía	Yahuna	1	U+0027 U+00ed U+0061 U+0024
+e̠e̥	e̠e̥	tite̠e̥mé̥ma	Yupua	1	U+0065 U+0320 U+0065 U+0325
+ē̃	ẽ̄	nē̃ē̃́	Desano	1	U+0113 U+0303
+ē̃́$	ẽ́	nē̃ē̃́	Desano	1	U+0113 U+0303 U+0301 U+0024
+ē̃ē̃	ẽ̄ẽ̄	nē̃ē̃no	Desano	1	U+0113 U+0303 U+0113 U+0303
+íai	íai	kíaito	Koretu	1	U+00ed U+0061 U+0069
+^é̠	é̠	é̠oa	Yahuna	1	U+005e U+00e9 U+0320
+^uiíya$	uiíya	uiíya	Yahuna	1	U+005e U+0075 U+0069 U+00ed U+0079 U+0061 U+0024
+^uiía$	uiía	uiía	Yahuna	1	U+005e U+0075 U+0069 U+00ed U+0061 U+0024
+^uiua	uiua	uiuahoa	Yahuna	1	U+005e U+0075 U+0069 U+0075 U+0061
+iy	iy	diyóa	Yahuna	1	U+0069 U+0079
+á̠u$	á̠u	ká̠u	Koretu	1	U+00e1 U+0320 U+0075 U+0024
+ũẽ́$	ũẽ́	pũẽ́	Desano	1	U+0169 U+1ebd U+0301 U+0024
+^io	io	iotáḥae	Koretu	1	U+005e U+0069 U+006f
+ae$	ae	iotáḥae	Koretu	1	U+0061 U+0065 U+0024
+'ó	ó	i'ótāre̥	Koretu	1	U+0027 U+00f3
+iía$	íːa	piía	Yahuna	1	U+0069 U+00ed U+0061 U+0024
+^yáe	yáe	yáegé̥le̥	Yupua	1	U+005e U+0079 U+00e1 U+0065
+^ṓs	<?>	ṓsetsalino	Desano	1	U+005e U+1e53 U+0073
+^ãyã́	ãyã́	ãyã́ḥāke̥	Koretu	1	U+005e U+00e3 U+0079 U+00e3 U+0301
+íy$	íy	uahupíy	Yahuna	1	U+00ed U+0079 U+0024
+ei̯	ei̯	kṓrokolei̯kia	Koretu	1	U+0065 U+0069 U+032f
+^yui	yui	yuiró	Desano	1	U+005e U+0079 U+0075 U+0069
+eya	eya	taāpitualikeyapúa	Yahuna	1	U+0065 U+0079 U+0061
+e̠ye̠$	e̠ye̠	pe̠áme̠ye̠	Desano	1	U+0065 U+0320 U+0079 U+0065 U+0320 U+0024
+^ā́h	ā́h	ā́hia	Yahuna	1	U+005e U+0101 U+0301 U+0068
+ũ$	ũ	tsṹũrũ	Desano	1	U+0169 U+0024
+^ue̠ai̯	ue̠ai̯	ue̠ai̯pái	Yupua	1	U+005e U+0075 U+0065 U+0320 U+0061 U+0069 U+032f
+uii$	uiː	yuxke̥tsíruii	Desano	1	U+0075 U+0069 U+0069 U+0024
+oi̯ye$	oi̯ye	ā́noi̯ye	Desano	1	U+006f U+0069 U+032f U+0079 U+0065 U+0024
+oye$	oye	ā́noye	Desano	1	U+006f U+0079 U+0065 U+0024
+e̠uíya$	e̠uíya	te̠ube̠uíya	Yahuna	1	U+0065 U+0320 U+0075 U+00ed U+0079 U+0061 U+0024
+oaí	oaí	se̠mokoloaígabi	Yahuna	1	U+006f U+0061 U+00ed
+ae̠	ae̠	sālítae̠ga	Yahuna	1	U+0061 U+0065 U+0320
+íe̥$	íe̥	toatíe̥	Yupua	1	U+00ed U+0065 U+0325 U+0024
+oio$	oio	ḥé̥ḥoio	Koretu	1	U+006f U+0069 U+006f U+0024
+uo	uo	pū́puoga	Yahuna	1	U+0075 U+006f
+ū́ya	ū́ya	bū́yapoka	Desano	1	U+016b U+0301 U+0079 U+0061
+úue̥	úue̥	puhúue̥é̥li	Yupua	1	U+00fa U+0075 U+0065 U+0325
+uyá$	uyá	buyá	Desano	1	U+0075 U+0079 U+00e1 U+0024
+^úai̯	úai̯	úai̯ru	Desano	1	U+005e U+00fa U+0061 U+0069 U+032f
+nh	nh	pe̠ánhua	Desano	1	U+006e U+0068
+e̠áye	e̠áye	pe̠áyeri	Desano	1	U+0065 U+0320 U+00e1 U+0079 U+0065
+aya	aya	pé̠kayape̠	Yahuna	1	U+0061 U+0079 U+0061
+iai	iai	he̠kiaiē̠re̥	Koretu	1	U+0069 U+0061 U+0069
+^uáya	uáya	uáyalidā	Desano	1	U+005e U+0075 U+00e1 U+0079 U+0061
+yo	yo	oaḗ̠yoka	Yahuna	1	U+0079 U+006f
+š	š	hu'tšía	Yahuna	1	U+0161
+a̠$	a̠	ké̥la̠	Koretu	1	U+0061 U+0320 U+0024
+yí	yí	kanyíríka	Yahuna	1	U+0079 U+00ed
+uuí	uːí	amuuítoa	Yahuna	1	U+0075 U+0075 U+00ed
+iáe̠	iáe̠	tsamaapiáe̠ka	Yahuna	1	U+0069 U+00e1 U+0065 U+0320
+aie̥$	aie̥	ópaie̥	Koretu	1	U+0061 U+0069 U+0065 U+0325 U+0024
+^úa	úa	úaḥoa	Yahuna	1	U+005e U+00fa U+0061
+íoa	íoa	kahíoaka	Yahuna	1	U+00ed U+006f U+0061
+īs	īs	hīsínoko	Yahuna	1	U+012b U+0073
+ie	ie	axpíndieriru	Desano	1	U+0069 U+0065
+ĩẽ́$	ĩẽ́	maxĩẽ́	Desano	1	U+0129 U+1ebd U+0301 U+0024
+ã́e̥$	ã́e̥	yee̥mã́e̥	Yupua	1	U+00e3 U+0301 U+0065 U+0325 U+0024
+ã̄e̥$	ã̄e̥	yée̥mã̄e̥	Yupua	1	U+00e3 U+0304 U+0065 U+0325 U+0024
+^yua	yua	yuamahí	Yahuna	1	U+005e U+0079 U+0075 U+0061
+^áo$	áo	áo	Yahuna	1	U+005e U+00e1 U+006f U+0024
+ãõ$	ãõ	yémãõ	Desano	1	U+00e3 U+00f5 U+0024
+eo̯$	eo̯	yépanameo̯	Desano	1	U+0065 U+006f U+032f U+0024
+éw	éw	uaxpéweyo	Desano	1	U+00e9 U+0077
+eyo$	eyo	uaxpéweyo	Desano	1	U+0065 U+0079 U+006f U+0024
+^aá$	áː	aá	Yahuna	1	U+005e U+0061 U+00e1 U+0024
+e̥á	e̥á	be̥ámo	Desano	1	U+0065 U+0325 U+00e1
+uú$	úː	guú	Yupua	1	U+0075 U+00fa U+0024
+oi$	oi	soi	Yupua	1	U+006f U+0069 U+0024
+ú̠$	ú̠	mū̠nú̠	Desano	1	U+00fa U+0320 U+0024
+u̠ui̯	u̠ui̯	mū̠nu̠ui̯hīnimúka	Desano	1	U+0075 U+0320 U+0075 U+0069 U+032f
+ou	ou	mī́nouīnukia	Yahuna	1	U+006f U+0075
+úaye̥$	úaye̥	me̥lapuhúaye̥	Yupua	1	U+00fa U+0061 U+0079 U+0065 U+0325 U+0024
+'yoa$	'yoa	yé̠'yoa	Yahuna	1	U+0027 U+0079 U+006f U+0061 U+0024
+yoa$	yoa	yé̠yoa	Yahuna	1	U+0079 U+006f U+0061 U+0024
+yau̯i$	yau̯i	kṓyau̯i	Yupua	1	U+0079 U+0061 U+0075 U+032f U+0069 U+0024
+yau̯a$	yau̯a	nokolī́yau̯a	Yahuna	1	U+0079 U+0061 U+0075 U+032f U+0061 U+0024
+iuáa	iuáa	uátiuáage̥	Yupua	1	U+0069 U+0075 U+00e1 U+0061
+ĩ	ĩ	uē̠ré̠nĩīnĩ̄	Desano	1	U+0129
+ĩ̄$	ĩ̄	uē̠ré̠nĩīnĩ̄	Desano	1	U+0129 U+0304 U+0024
+^ḗs	<?>	ḗsi	Koretu	1	U+005e U+1e17 U+0073
+^uau$	uau	uau	Desano	1	U+005e U+0075 U+0061 U+0075 U+0024
+^uaúa$	uaúa	uaúa	Yahuna	1	U+005e U+0075 U+0061 U+00fa U+0061 U+0024
+^oyo	oyo	oyobe̥gé̥	Desano	1	U+005e U+006f U+0079 U+006f
+^yaía$	yaía	yaía	Yahuna	1	U+005e U+0079 U+0061 U+00ed U+0061 U+0024
+íai$	íai	híai	Koretu	1	U+00ed U+0061 U+0069 U+0024
+iyai$	iyai	hiyai	Koretu	1	U+0069 U+0079 U+0061 U+0069 U+0024
+^yí$	yí	yí	Yupua	1	U+005e U+0079 U+00ed U+0024
+ī$	ī	yī́yī	Yupua	1	U+012b U+0024
+iye$	iye	yainé̠iye	Yahuna	1	U+0069 U+0079 U+0065 U+0024
+^yái	yái	yáitopike̥	Koretu	1	U+005e U+0079 U+00e1 U+0069
+iaúe̥$	iaúe̥	yīdiaúe̥	Yupua	1	U+0069 U+0061 U+00fa U+0065 U+0325 U+0024
+^uai̯yu	uai̯yu	uai̯yumalie̠i	Koretu	1	U+005e U+0075 U+0061 U+0069 U+032f U+0079 U+0075
+ie̠i$	ie̠i	uai̯yumalie̠i	Koretu	1	U+0069 U+0065 U+0320 U+0069 U+0024
+iau̯e̥$	iau̯e̥	yī́diau̯e̥	Yupua	1	U+0069 U+0061 U+0075 U+032f U+0065 U+0325 U+0024
+io$	io	ya'másio	Koretu	1	U+0069 U+006f U+0024
+iai̯yoa$	iai̯yoa	diai̯yoa	Desano	1	U+0069 U+0061 U+0069 U+032f U+0079 U+006f U+0061 U+0024
+iayáu$	iayáu	diayáu	Yahuna	1	U+0069 U+0061 U+0079 U+00e1 U+0075 U+0024
+iayau̯$	iayau̯	liayau̯	Koretu	1	U+0069 U+0061 U+0079 U+0061 U+0075 U+032f U+0024
+iaúe	iaúe	diaúex̯ke̥	Desano	1	U+0069 U+0061 U+00fa U+0065
+iau̯i	iau̯i	diau̯ike̥	Yupua	1	U+0069 U+0061 U+0075 U+032f U+0069
+ūía$	ūía	būía	Yahuna	1	U+016b U+00ed U+0061 U+0024
+e̠ía$	e̠ía	be̠ía	Yahuna	1	U+0065 U+0320 U+00ed U+0061 U+0024
+e̠i	e̠i	be̠imakíika	Yahuna	1	U+0065 U+0320 U+0069
+^ue̠á	ue̠á	ue̠ága	Yahuna	1	U+005e U+0075 U+0065 U+0320 U+00e1
+ḗ̠s	<?>	sḗ̠se̠	Koretu	1	U+1e17 U+0320 U+0073
+íai̯yi$	íai̯yi	díai̯yi	Desano	1	U+00ed U+0061 U+0069 U+032f U+0079 U+0069 U+0024
+^ye̠u	ye̠u	ye̠ué̠koa	Yahuna	1	U+005e U+0079 U+0065 U+0320 U+0075
+iau̯e̠	iau̯e̠	diau̯e̠kía	Yahuna	1	U+0069 U+0061 U+0075 U+032f U+0065 U+0320
+^uiyá	uiyá	uiyága	Yahuna	1	U+005e U+0075 U+0069 U+0079 U+00e1
+ã́ẽ	ã́ẽ	minimã́ẽndiuli	Desano	1	U+00e3 U+0301 U+1ebd
+uái$	uái	buluái	Yupua	1	U+0075 U+00e1 U+0069 U+0024
+uia$	uia	tuia	Yahuna	1	U+0075 U+0069 U+0061 U+0024
+ia̠	ia̠	hā́sikia̠li	Koretu	1	U+0069 U+0061 U+0320
+aúe̠	aúe̠	makaúe̠dya	Yupua	1	U+0061 U+00fa U+0065 U+0320
+yui	yui	kúdyuiga	Yahuna	1	U+0079 U+0075 U+0069
+úyui̯$	úyui̯	kúyui̯	Koretu	1	U+00fa U+0079 U+0075 U+0069 U+032f U+0024
+^ã̄ã̄́$	ã̄ã́	ã̄ã̄́	Desano	1	U+005e U+00e3 U+0304 U+00e3 U+0304 U+0301 U+0024
+^uauá	uauá	uauáka	Yahuna	1	U+005e U+0075 U+0061 U+0075 U+00e1
+io̯	io̯	pulítsio̯ka	Yahuna	1	U+0069 U+006f U+032f
+áue$	áue	báue	Yahuna	1	U+00e1 U+0075 U+0065 U+0024
+uaua$	uaua	ókopukluaua	Yahuna	1	U+0075 U+0061 U+0075 U+0061 U+0024
+íaya	íaya	díayasi	Yupua	1	U+00ed U+0061 U+0079 U+0061
+yue̠	yue̠	kā́dyue̠ka	Yahuna	1	U+0079 U+0075 U+0065 U+0320
+íai̯ua$	íai̯ua	kíai̯ua	Koretu	1	U+00ed U+0061 U+0069 U+032f U+0075 U+0061 U+0024
+oía$	oía	būdyaboía	Yahuna	1	U+006f U+00ed U+0061 U+0024
+^áua	áua	áualiga	Yahuna	1	U+005e U+00e1 U+0075 U+0061
+^au̯a	au̯a	au̯apákie̠ka	Yahuna	1	U+005e U+0061 U+0075 U+032f U+0061
+^uái$	uái	uái	Yupua	1	U+005e U+0075 U+00e1 U+0069 U+0024
+^uaie$	uaie	uaie	Yahuna	1	U+005e U+0075 U+0061 U+0069 U+0065 U+0024
+^uáí	uáí	uáíté̥te̥	Yupua	1	U+005e U+0075 U+00e1 U+00ed
+^uaiua	uaiua	uaiuaká	Yahuna	1	U+005e U+0075 U+0061 U+0069 U+0075 U+0061
+úai̯$	úai̯	kúai̯	Koretu	1	U+00fa U+0061 U+0069 U+032f U+0024
+áuai$	áuai	moháuai	Desano	1	U+00e1 U+0075 U+0061 U+0069 U+0024
+úuai$	úuai	púuai	Yupua	1	U+00fa U+0075 U+0061 U+0069 U+0024
+uai̯$	uai̯	poḥṓuai̯	Koretu	1	U+0075 U+0061 U+0069 U+032f U+0024
+^áū	áū	áūli	Yupua	1	U+005e U+00e1 U+016b
+ue$	ue	gáhue	Yahuna	1	U+0075 U+0065 U+0024
+oíya	oíya	onoíyagoxso	Desano	1	U+006f U+00ed U+0079 U+0061
+oía	oía	ōnoíagoxso	Desano	1	U+006f U+00ed U+0061
+^ue̠uá	ue̠uá	ue̠uálu	Yupua	1	U+005e U+0075 U+0065 U+0320 U+0075 U+00e1
+ā̠́	á̠	kā̠́e̥	Koretu	1	U+0101 U+0320 U+0301
+^ãyẽ́	ãyẽ́	ãyẽ́hāke̥	Koretu	1	U+005e U+00e3 U+0079 U+1ebd U+0301
+íua	íua	butsíuahua	Yahuna	1	U+00ed U+0075 U+0061
+^yãĩ	yãĩ	yãĩmẽã	Desano	1	U+005e U+0079 U+00e3 U+0129
+ẽã$	ẽã	yãĩmẽã	Desano	1	U+1ebd U+00e3 U+0024
+ẽ́ã$	ẽ́ã	mẽ́ã	Yupua	1	U+1ebd U+0301 U+00e3 U+0024
+ẽ̄ã́$	ẽ̄ã́	mẽ̄ã́	Desano	1	U+1ebd U+0304 U+00e3 U+0301 U+0024
+au̯a$	au̯a	ā́lau̯a	Yupua	1	U+0061 U+0075 U+032f U+0061 U+0024
+aua$	aua	hā́raua	Koretu	1	U+0061 U+0075 U+0061 U+0024
+^iía$	íːa	iía	Yahuna	1	U+005e U+0069 U+00ed U+0061 U+0024
+ẽ́ẽ$	ẽ́ẽ	yīmasaṅẽ́ẽ	Yupua	1	U+1ebd U+0301 U+1ebd U+0024
+e̠oa	e̠oa	kóle̠oabu	Yupua	1	U+0065 U+0320 U+006f U+0061
+iuí$	iuí	maliuí	Yahuna	1	U+0069 U+0075 U+00ed U+0024
+ei$	ei	tsei	Desano	1	U+0065 U+0069 U+0024
+ṹ$	ṹ	nũṹ	Desano	1	U+1e79 U+0024
+'g	g	ná'ge̠	Yupua	1	U+0027 U+0067
+áya	áya	táyare̥	Koretu	1	U+00e1 U+0079 U+0061
+^au̯i	au̯i	au̯itíre̥	Koretu	1	U+005e U+0061 U+0075 U+032f U+0069
+oi̯ye̠$	oi̯ye̠	ānoi̯ye̠	Desano	1	U+006f U+0069 U+032f U+0079 U+0065 U+0320 U+0024
+^áue$	áue	áue	Yahuna	1	U+005e U+00e1 U+0075 U+0065 U+0024
+aúioa	aúioa	haúioake̠re̥	Koretu	1	U+0061 U+00fa U+0069 U+006f U+0061
+^yaú	yaú	yaúre̥	Koretu	1	U+005e U+0079 U+0061 U+00fa
+^iyo	iyo	iyotū́li	Yahuna	1	U+005e U+0069 U+0079 U+006f
+yaya	yaya	mānyayapúa	Yahuna	1	U+0079 U+0061 U+0079 U+0061
+^e̠o	e̠o	e̠omix̯sí	Yupua	1	U+005e U+0065 U+0320 U+006f
+rs	rs	saítakurse̥	Koretu	1	U+0072 U+0073
+^uaá$	uáː	uaá	Desano	1	U+005e U+0075 U+0061 U+00e1 U+0024
+^iúa$	iúa	iúa	Yahuna	1	U+005e U+0069 U+00fa U+0061 U+0024
+íe$	íe	āníe	Yahuna	1	U+00ed U+0065 U+0024
+oi̯yá$	oi̯yá	gōnoi̯yá	Desano	1	U+006f U+0069 U+032f U+0079 U+00e1 U+0024
+yí$	yí	ge̥lāyí	Yupua	1	U+0079 U+00ed U+0024
+oyū̠	oyū̠	yōmóloyū̠li	Desano	1	U+006f U+0079 U+016b U+0320
+iáaya$	iáaya	siáaya	Yupua	1	U+0069 U+00e1 U+0061 U+0079 U+0061 U+0024
+ae̠$	ae̠	pusíḥae̠	Koretu	1	U+0061 U+0065 U+0320 U+0024
+^yií$	yíː	yií	Yahuna	1	U+005e U+0079 U+0069 U+00ed U+0024
+áí$	áí	yite̠mupáí	Yahuna	1	U+00e1 U+00ed U+0024
+^ĩ̄	ĩ̄	ĩ̄ṅẽyábe̠ro_buiríbe̠ro	Desano	1	U+005e U+0129 U+0304
+ẽyá	ẽyá	ĩ̄ṅẽyábe̠ro_buiríbe̠ro	Desano	1	U+1ebd U+0079 U+00e1
+uy	uy	apikaliká_te̠muyī́liuiia	Yahuna	1	U+0075 U+0079
+aíyau̯e̠	aíyau̯e̠	maíyau̯e̠é̠	Yupua	1	U+0061 U+00ed U+0079 U+0061 U+0075 U+032f U+0065 U+0320
+ayá	ayá	īnayáwii	Desano	1	U+0061 U+0079 U+00e1
+^e̥y	e̥y	e̥yé̥yau̯e̠é̠	Yupua	1	U+005e U+0065 U+0325 U+0079
+iuiía$	iuiía	nāliuiía	Yahuna	1	U+0069 U+0075 U+0069 U+00ed U+0061 U+0024
+'b	b	ho'baká	Yahuna	1	U+0027 U+0062
+^ã	ã	ãmĩĩ́ã	Desano	1	U+005e U+00e3
+ĩĩ́ã$	ĩ́ːã	ãmĩĩ́ã	Desano	1	U+0129 U+0129 U+0301 U+00e3 U+0024
+ãẽ́	ãẽ́	e̥mãẽ́gero	Desano	1	U+00e3 U+1ebd U+0301
+aia$	aia	hā́naia	Koretu	1	U+0061 U+0069 U+0061 U+0024
+^yauí$	yauí	yauí	Yupua	1	U+005e U+0079 U+0061 U+0075 U+00ed U+0024
+e̥i	e̥i	he̥iḗ̠ke̥ke̥	Koretu	1	U+0065 U+0325 U+0069
+áe̥	áe̥	táe̥ne̠	Koretu	1	U+00e1 U+0065 U+0325
+oáa$	oáa	boxhoáa	Desano	1	U+006f U+00e1 U+0061 U+0024
+^uiía	uiía	uiíaka	Yahuna	1	U+005e U+0075 U+0069 U+00ed U+0061
+iu̯$	iu̯	hī́niu̯	Yahuna	1	U+0069 U+0075 U+032f U+0024
+y$	y	be̥katū́dy	Yupua	1	U+0079 U+0024
+yayi$	yayi	kirḗ̠yayi	Yahuna	1	U+0079 U+0061 U+0079 U+0069 U+0024
+^nh	nh	nhī́po	Desano	1	U+005e U+006e U+0068
+íau̯a$	íau̯a	díau̯a	Yupua	1	U+00ed U+0061 U+0075 U+032f U+0061 U+0024
+e̠í$	e̠í	himíane̠í	Yahuna	1	U+0065 U+0320 U+00ed U+0024
+yã́ã$	yã́ã	dopakēyã́ã	Desano	1	U+0079 U+00e3 U+0301 U+00e3 U+0024
+iáye̠$	iáye̠	diáye̠	Desano	1	U+0069 U+00e1 U+0079 U+0065 U+0320 U+0024
+^oe̠	oe̠	oe̠ní	Yupua	1	U+005e U+006f U+0065 U+0320
+íaye̠$	íaye̠	díaye̠	Desano	1	U+00ed U+0061 U+0079 U+0065 U+0320 U+0024
+^íye̠$	íye̠	íye̠	Desano	1	U+005e U+00ed U+0079 U+0065 U+0320 U+0024
+a̠	a̠	yoé̠mata̠óihi	Yahuna	1	U+0061 U+0320
+'ā́	á	yō'ā́loge̠	Desano	1	U+0027 U+0101 U+0301
+'e̠$	e̠	yṓ'e̠	Yahuna	1	U+0027 U+0065 U+0320 U+0024
+ioaí	ioaí	tsioaíni	Desano	1	U+0069 U+006f U+0061 U+00ed
+áyu$	áyu	yidiatáyu	Yahuna	1	U+00e1 U+0079 U+0075 U+0024
+l$	l	iateanié̠l	Koretu	1	U+006c U+0024
+áye̥$	áye̥	yidiatáye̥	Yahuna	1	U+00e1 U+0079 U+0065 U+0325 U+0024
+uáiu̯$	uáiu̯	guáiu̯	Yupua	1	U+0075 U+00e1 U+0069 U+0075 U+032f U+0024
+ū́y	úy	mū́yāli	Yahuna	1	U+016b U+0301 U+0079
+íe̠i̯$	íe̠i̯	yee̥tsíe̠i̯	Yupua	1	U+00ed U+0065 U+0320 U+0069 U+032f U+0024
+x̯h	x̯h	mix̯hoe̠be̠	Yahuna	1	U+0078 U+032f U+0068
+^u̠	u̠	u̠hé̠kialó	Koretu	1	U+005e U+0075 U+0320
+ai̯y	ai̯y	ehéai̯yā	Desano	1	U+0061 U+0069 U+032f U+0079
+ouo̯úo$	ouo̯úo	houo̯úo	Koretu	1	U+006f U+0075 U+006f U+032f U+00fa U+006f U+0024
+^ai	ai	airike̠	Desano	1	U+005e U+0061 U+0069
+úai̯e̥$	úai̯e̥	yasḗ̠bo_puhúai̯e̥	Yupua	1	U+00fa U+0061 U+0069 U+032f U+0065 U+0325 U+0024
+áai̯$	áai̯	báai̯	Yupua	1	U+00e1 U+0061 U+0069 U+032f U+0024
+ye̠	ye̠	mambaā́ye̠é̠	Yahuna	1	U+0079 U+0065 U+0320
+ã	ã	opãkiá	Koretu	1	U+00e3
+ue̠i$	ue̠i	ké̥ue̠i	Koretu	1	U+0075 U+0065 U+0320 U+0069 U+0024
+ū́ye̥$	ū́ye̥	hahía_liákahulū́ye̥	Yahuna	1	U+016b U+0301 U+0079 U+0065 U+0325 U+0024
+ū́yu$	ū́yu	hahía_diákahulū́yu	Yahuna	1	U+016b U+0301 U+0079 U+0075 U+0024
+ouá$	ouá	houá	Koretu	1	U+006f U+0075 U+00e1 U+0024
+iyu$	iyu	meamítiyu	Yahuna	1	U+0069 U+0079 U+0075 U+0024
+iye̥$	iye̥	meamítiye̥	Yahuna	1	U+0069 U+0079 U+0065 U+0325 U+0024
+áui	áui	tx̯akáuiīx̯u	Yupua	1	U+00e1 U+0075 U+0069
+áui̯	áui̯	ge̥láui̯ri	Desano	1	U+00e1 U+0075 U+0069 U+032f
+ayú$	ayú	kē̠tayú	Yahuna	1	U+0061 U+0079 U+00fa U+0024
+^yeuá	yeuá	yeuáge̥	Yupua	1	U+005e U+0079 U+0065 U+0075 U+00e1
+yee̥uaa	yee̥uaa	mé̥e̥pe̠e̠_yee̥uaatoho	Yupua	1	U+0079 U+0065 U+0065 U+0325 U+0075 U+0061 U+0061
+ūya	ūya	tūyadīyee̥	Yupua	1	U+016b U+0079 U+0061
+yee̥$	ye̥ː	tūyadīyee̥	Yupua	1	U+0079 U+0065 U+0065 U+0325 U+0024
+^iá	iá	iádyiri	Desano	1	U+005e U+0069 U+00e1
+^yií	yíː	yiípi	Yupua	1	U+005e U+0079 U+0069 U+00ed
+e̥ai̯$	e̥ai̯	ge̥latx̯ibe̥ai̯	Yupua	1	U+0065 U+0325 U+0061 U+0069 U+032f U+0024
+^uya	uya	uyakóta	Koretu	1	U+005e U+0075 U+0079 U+0061
+^uia	uia	uiakóta	Koretu	1	U+005e U+0075 U+0069 U+0061
+uu	uː	guulí	Yupua	1	U+0075 U+0075
+oo	oː	noolí	Yupua	1	U+006f U+006f
+ue̠uá$	ue̠uá	hue̠uá	Koretu	1	U+0075 U+0065 U+0320 U+0075 U+00e1 U+0024
+yū́	yú	pīyū́li	Desano	1	U+0079 U+016b U+0301
+e̠áy	e̠áy	pe̠áyēri	Desano	1	U+0065 U+0320 U+00e1 U+0079
+ioi̯y	ioi̯y	kalī́x̯e̥_kānioi̯yā́ni	Desano	1	U+0069 U+006f U+0069 U+032f U+0079
+ú̠a$	ú̠a	hu̠rú̠a	Koretu	1	U+00fa U+0320 U+0061 U+0024
+^yay	yay	yayé̥ipahi_nii_yé̥isu	Yupua	1	U+005e U+0079 U+0061 U+0079
+iaa$	iaː	hṓkiaa	Koretu	1	U+0069 U+0061 U+0061 U+0024
+iyúa	iyúa	miyúabe̠	Yahuna	1	U+0069 U+0079 U+00fa U+0061
+^ú̠	ú̠	ú̠ru̠ha	Koretu	1	U+005e U+00fa U+0320
+a̠úa	a̠úa	mihomita̠úabe̠	Yahuna	1	U+0061 U+0320 U+00fa U+0061
+yai$	yai	túdyai	Yupua	1	U+0079 U+0061 U+0069 U+0024
+ũẽ́	ũẽ́	pũẽ́_be̥ā́li	Desano	1	U+0169 U+1ebd U+0301
+iuaya	iuaya	miuayatábe̠	Yahuna	1	U+0069 U+0075 U+0061 U+0079 U+0061
+iū́	iú	tsiū́puli	Desano	1	U+0069 U+016b U+0301
+áuo̯	áuo̯	tāláuo̯li	Desano	1	U+00e1 U+0075 U+006f U+032f
+áai	áai	te̥xtáaitx̯é̥	Yupua	1	U+00e1 U+0061 U+0069
+ḗ̠$	<?>	balalikḗ̠	Desano	1	U+1e17 U+0320 U+0024
