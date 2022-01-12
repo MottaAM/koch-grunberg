@@ -1,10 +1,8 @@
 {
     "by_language": {
         "Desano": {
-            "bipa_errors": [
-                "?"
-            ],
-            "general_errors": 11,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -84,6 +82,9 @@
                 "p": [
                     "p"
                 ],
+                "q": [
+                    "q"
+                ],
                 "s": [
                     "s"
                 ],
@@ -138,6 +139,12 @@
                 "\u0268": [
                     "\u0268"
                 ],
+                "\u0268\u02d0": [
+                    "\u0268\u02d0"
+                ],
+                "\u0278": [
+                    "\u0278"
+                ],
                 "\u027a": [
                     "\u027a"
                 ],
@@ -147,16 +154,16 @@
                 "\u028a": [
                     "\u028a"
                 ],
+                "\u028a\u02d0": [
+                    "\u028a\u02d0"
+                ],
                 "\u0294": [
                     "\u0294"
                 ]
             },
-            "sclass_errors": [
-                "?"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 11,
-                "?": 11,
                 "a": 437,
                 "a\u02d0": 145,
                 "b": 125,
@@ -184,7 +191,7 @@
                 "\u00e3\u02d0": 3,
                 "\u00e7": 56,
                 "\u0127": 3,
-                "\u0129": 14,
+                "\u0129": 19,
                 "\u0129\u02d0": 4,
                 "\u014b": 10,
                 "\u0169": 12,
@@ -194,19 +201,19 @@
                 "\u025b": 120,
                 "\u025b\u02d0": 60,
                 "\u0268": 141,
+                "\u0268\u02d0": 2,
                 "\u027a": 245,
                 "\u027e": 186,
                 "\u028a": 16,
+                "\u028a\u02d0": 4,
                 "\u0294": 7,
                 "\u1ebd": 20,
                 "\u1ebd\u02d0": 5
             }
         },
         "Koretu": {
-            "bipa_errors": [
-                "?"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -286,6 +293,9 @@
                 "p": [
                     "p"
                 ],
+                "q": [
+                    "q"
+                ],
                 "s": [
                     "s"
                 ],
@@ -340,6 +350,12 @@
                 "\u0268": [
                     "\u0268"
                 ],
+                "\u0268\u02d0": [
+                    "\u0268\u02d0"
+                ],
+                "\u0278": [
+                    "\u0278"
+                ],
                 "\u027a": [
                     "\u027a"
                 ],
@@ -349,15 +365,15 @@
                 "\u028a": [
                     "\u028a"
                 ],
+                "\u028a\u02d0": [
+                    "\u028a\u02d0"
+                ],
                 "\u0294": [
                     "\u0294"
                 ]
             },
-            "sclass_errors": [
-                "?"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "?": 1,
                 "a": 277,
                 "a\u02d0": 77,
                 "b": 6,
@@ -383,6 +399,7 @@
                 "\u00e3": 4,
                 "\u00e7": 1,
                 "\u0127": 62,
+                "\u0129": 1,
                 "\u0251": 3,
                 "\u0251\u02d0": 1,
                 "\u0254": 182,
@@ -399,10 +416,8 @@
             }
         },
         "Yahuna": {
-            "bipa_errors": [
-                "?"
-            ],
-            "general_errors": 3,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -482,6 +497,9 @@
                 "p": [
                     "p"
                 ],
+                "q": [
+                    "q"
+                ],
                 "s": [
                     "s"
                 ],
@@ -536,6 +554,12 @@
                 "\u0268": [
                     "\u0268"
                 ],
+                "\u0268\u02d0": [
+                    "\u0268\u02d0"
+                ],
+                "\u0278": [
+                    "\u0278"
+                ],
                 "\u027a": [
                     "\u027a"
                 ],
@@ -545,16 +569,16 @@
                 "\u028a": [
                     "\u028a"
                 ],
+                "\u028a\u02d0": [
+                    "\u028a\u02d0"
+                ],
                 "\u0294": [
                     "\u0294"
                 ]
             },
-            "sclass_errors": [
-                "?"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 8,
-                "?": 3,
                 "a": 1154,
                 "a\u02d0": 130,
                 "b": 72,
@@ -571,6 +595,7 @@
                 "n": 148,
                 "o": 1,
                 "p": 263,
+                "q": 3,
                 "s": 47,
                 "t": 188,
                 "t\u0283": 1,
@@ -595,10 +620,8 @@
             }
         },
         "Yupua": {
-            "bipa_errors": [
-                "?"
-            ],
-            "general_errors": 3,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -678,6 +701,9 @@
                 "p": [
                     "p"
                 ],
+                "q": [
+                    "q"
+                ],
                 "s": [
                     "s"
                 ],
@@ -732,6 +758,12 @@
                 "\u0268": [
                     "\u0268"
                 ],
+                "\u0268\u02d0": [
+                    "\u0268\u02d0"
+                ],
+                "\u0278": [
+                    "\u0278"
+                ],
                 "\u027a": [
                     "\u027a"
                 ],
@@ -741,16 +773,16 @@
                 "\u028a": [
                     "\u028a"
                 ],
+                "\u028a\u02d0": [
+                    "\u028a\u02d0"
+                ],
                 "\u0294": [
                     "\u0294"
                 ]
             },
-            "sclass_errors": [
-                "?"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 20,
-                "?": 3,
                 "a": 437,
                 "a\u02d0": 58,
                 "b": 70,
@@ -766,6 +798,7 @@
                 "m": 122,
                 "n": 46,
                 "p": 99,
+                "q": 1,
                 "s": 102,
                 "t": 113,
                 "u": 253,
@@ -786,6 +819,7 @@
                 "\u025b": 92,
                 "\u025b\u02d0": 21,
                 "\u0268": 210,
+                "\u0278": 2,
                 "\u027a": 124,
                 "\u027e": 20,
                 "\u028a": 1,
@@ -795,142 +829,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Desano-129_morning-1",
-                "Desano",
-                "129_morning",
-                "yam\u0129\u0301\u00e3",
-                "j a m <s> ? </s> \u00e3"
-            ],
-            [
-                "Desano-129_morning-2",
-                "Desano",
-                "129_morning",
-                "yam\u0129\u0301\u00e3",
-                "j a m <s> ? </s> \u00e3"
-            ],
-            [
-                "Desano-357_youngerbrother-1",
-                "Desano",
-                "357_youngerbrother",
-                "kam\u0129\u0301\u00e3",
-                "k a m <s> ? </s> \u00e3"
-            ],
-            [
-                "Desano-361_youngersister-1",
-                "Desano",
-                "361_youngersister",
-                "kam\u0129\u0301\u00e3",
-                "k a m <s> ? </s> \u00e3"
-            ],
-            [
-                "Desano-374_oldman-1",
-                "Desano",
-                "374_oldman",
-                "be\u0304\u0325g\u00e9\u0325",
-                "b <s> ? </s> g \u0268"
-            ],
-            [
-                "Desano-375_oldwoman-1",
-                "Desano",
-                "375_oldwoman",
-                "be\u0304\u0325l\u00f3",
-                "b <s> ? </s> \u027a \u0254"
-            ],
-            [
-                "Desano-385_tobacco-1",
-                "Desano",
-                "385_tobacco",
-                "mu\u0304\u0320n\u00fa\u0320",
-                "m <s> ? </s> n \u028a"
-            ],
-            [
-                "Desano-389_snuff-1",
-                "Desano",
-                "389_snuff",
-                "mu\u0304\u0320nu\u0320ui\u032fhi\u0304nim\u00faka",
-                "m <s> ? </s> n \u028a u j h i\u02d0 n i m u k a"
-            ],
-            [
-                "Desano-551_firefly-1",
-                "Desano",
-                "551_firefly",
-                "gaxbitu\u0304\u0320ge\u0325",
-                "g a x b i t <s> ? </s> g \u0268"
-            ],
-            [
-                "Desano-627_puxiuba-1",
-                "Desano",
-                "627_puxiuba",
-                "yo\u0304m\u00f3loyu\u0304\u0320li",
-                "j \u0254\u02d0 m \u0254 \u027a \u0254 j <s> ? </s> \u027a i"
-            ],
-            [
-                "Desano-656_small-1",
-                "Desano",
-                "656_small",
-                "\u00e3m\u0129\u0129\u0301\u00e3",
-                "\u00e3 m \u0129 <s> ? </s> \u00e3"
-            ],
-            [
-                "Koretu-589_potatoes-1",
-                "Koretu",
-                "589_potatoes",
-                "yah\u0129\u0301re\u0325",
-                "j a h <s> ? </s> \u027e \u0268"
-            ],
-            [
-                "Yahuna-332_manicuerasweetboiledmandiocajuice-1",
-                "Yahuna",
-                "332_manicuerasweetboiledmandiocajuice",
-                "n\u00f3\u1e33oa",
-                "n \u0254 <s> ? </s> \u0254 a"
-            ],
-            [
-                "Yahuna-453_corocoro-1",
-                "Yahuna",
-                "453_corocoro",
-                "\u1e33o\u00e1kuru",
-                "<s> ? </s> \u0254 a k u \u027e u"
-            ],
-            [
-                "Yahuna-769_topiss-2",
-                "Yahuna",
-                "769_topiss",
-                "\u1e33eole\u0304\u0301\u0320yu",
-                "<s> ? </s> e \u0254 \u027a \u025b\u02d0 j u"
-            ],
-            [
-                "Yupua-139_star-1",
-                "Yupua",
-                "139_star",
-                "yo\u1e33\u00f3ro",
-                "j \u0254 <s> ? </s> \u0254 \u027e \u0254"
-            ],
-            [
-                "Yupua-270_fishingrod-1",
-                "Yupua",
-                "270_fishingrod",
-                "bitai\u032fg\u00f3p\u030ce\u0320ka",
-                "b i t a j g \u0254 <s> ? </s> \u025b k a"
-            ],
-            [
-                "Yupua-274_shot-1",
-                "Yupua",
-                "274_shot",
-                "pe\u0320ag\u00f3p\u030ceka",
-                "p \u025b a g \u0254 <s> ? </s> e k a"
-            ]
-        ],
-        "bad_words_count": 18,
-        "bipa_errors": [
-            "?"
-        ],
-        "general_errors": 18,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 41.25,
+        "inventory_size": 41.75,
         "replacements": {
             "+": [
                 "+"
@@ -1010,6 +915,9 @@
             "p": [
                 "p"
             ],
+            "q": [
+                "q"
+            ],
             "s": [
                 "s"
             ],
@@ -1064,6 +972,12 @@
             "\u0268": [
                 "\u0268"
             ],
+            "\u0268\u02d0": [
+                "\u0268\u02d0"
+            ],
+            "\u0278": [
+                "\u0278"
+            ],
             "\u027a": [
                 "\u027a"
             ],
@@ -1073,16 +987,16 @@
             "\u028a": [
                 "\u028a"
             ],
+            "\u028a\u02d0": [
+                "\u028a\u02d0"
+            ],
             "\u0294": [
                 "\u0294"
             ]
         },
-        "sclass_errors": [
-            "?"
-        ],
+        "sclass_errors": [],
         "segments": {
             "+": 39,
-            "?": 18,
             "a": 2305,
             "a\u02d0": 410,
             "b": 273,
@@ -1100,6 +1014,7 @@
             "n": 444,
             "o": 6,
             "p": 575,
+            "q": 4,
             "s": 384,
             "t": 540,
             "t\u0283": 1,
@@ -1112,7 +1027,7 @@
             "\u00e7": 115,
             "\u00f5\u02d0": 1,
             "\u0127": 87,
-            "\u0129": 15,
+            "\u0129": 21,
             "\u0129\u02d0": 4,
             "\u014b": 18,
             "\u0169": 15,
@@ -1124,9 +1039,12 @@
             "\u025b": 551,
             "\u025b\u02d0": 153,
             "\u0268": 566,
+            "\u0268\u02d0": 2,
+            "\u0278": 2,
             "\u027a": 641,
             "\u027e": 404,
             "\u028a": 42,
+            "\u028a\u02d0": 4,
             "\u0294": 51,
             "\u1ebd": 28,
             "\u1ebd\u02d0": 5
