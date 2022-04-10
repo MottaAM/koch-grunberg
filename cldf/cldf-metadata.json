@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/MottaAM/koch-grunberg-tukanoan",
             "rdf:type": "prov:Entity",
-            "dc:created": "39337e9",
+            "dc:created": "a8a00b3",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.10.1"
         },
         {
             "dc:title": "python-packages",
