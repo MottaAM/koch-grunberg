@@ -11,7 +11,7 @@ def run(wordlist):
     part.add_cognate_ids("cogids", "cogid", idtype="strict")
     alms = Alignments(part, ref="cogids")
     alms.align()
-    D = {0: cols+["cogids", "cogid", "alignment"]}
+    D = {0: cols+["cogids", "cogid", "morphemes", "alignment"]}
     for idx in alms:
-        D[idx] = [alms[idx, h] for h in D[0]]
+        D[idx] = [alms[idx, h] or "" for h in D[0]]
     return Wordlist(D)
