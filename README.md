@@ -30,8 +30,8 @@ Available online at http://www.jstor.org/stable/40443137
 - **Synonymy:** 1.17
 - **Invalid lexemes:** 0
 - **Tokens:** 15,255
-- **Segments:** 48 (0 BIPA errors, 0 CTLS sound class errors, 48 CLTS modified)
-- **Inventory size (avg):** 40.50
+- **Segments:** 51 (0 BIPA errors, 0 CTLS sound class errors, 51 CLTS modified)
+- **Inventory size (avg):** 41.50
 
 # Contributors
 
