@@ -20,18 +20,12 @@ Available online at http://www.jstor.org/stable/40443137
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 4
 - **Concepts:** 805
 - **Lexemes:** 2,303
 - **Sources:** 21
 - **Synonymy:** 1.17
-- **Invalid lexemes:** 0
-- **Tokens:** 15,255
-- **Segments:** 51 (0 BIPA errors, 0 CTLS sound class errors, 51 CLTS modified)
-- **Inventory size (avg):** 41.50
 
 # Contributors
 
