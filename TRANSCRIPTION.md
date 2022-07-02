@@ -23,10 +23,10 @@
 | Desano-18_hairhead-1 | Desano | 18_hairhead | póali |
 | Desano-19_eyebrow-1 | Desano | 19_eyebrow | kuísipóali |
 | Desano-1_tongue-1 | Desano | 1_tongue | nḗ̠riru |
-| Desano-20_eyelashe-1 | Desano | 20_eyelashe | kuísipóali |
+| Desano-20_eyelash-1 | Desano | 20_eyelash | kuísipóali |
 | Desano-21_beard-1 | Desano | 21_beard | dix̯sípoali |
 | Desano-22_pubichair-1 | Desano | 22_pubichair | gé̥lapoali |
-| Desano-23_underarmhair-1 | Desano | 23_underarmhair | kādoxkápoali |
+| Desano-23_armpithair-1 | Desano | 23_armpithair | kādoxkápoali |
 | Desano-24_cheek-1 | Desano | 24_cheek | uayúpona |
 | Desano-25_chin-1 | Desano | 25_chin | dix̯sípuliru |
 | Desano-26_shoulder-1 | Desano | 26_shoulder | komẽ́pero |
@@ -46,7 +46,7 @@
 | Koretu-18_hairhead-1 | Koretu | 18_hairhead | sī́roḥōre |
 | Koretu-19_eyebrow-1 | Koretu | 19_eyebrow | siagóne̥keri |
 | Koretu-1_tongue-1 | Koretu | 1_tongue | siáme̠lako |
-| Koretu-20_eyelashe-1 | Koretu | 20_eyelashe | siakorasé̠ḥoiri |
+| Koretu-20_eyelash-1 | Koretu | 20_eyelash | siakorasé̠ḥoiri |
 | Koretu-21_beard-1 | Koretu | 21_beard | sigoi̯tagiáḥoiri |
 | Koretu-21_beard-2 | Koretu | 21_beard | goi̯takiáḥoiri |
 | Koretu-26_shoulder-1 | Koretu | 26_shoulder | sikiakóme̠no |
@@ -72,8 +72,8 @@
 | Yahuna-18_hairhead-2 | Yahuna | 18_hairhead | de̥pókomihia |
 | Yahuna-19_eyebrow-1 | Yahuna | 19_eyebrow | yakólipite̠koa |
 | Yahuna-1_tongue-1 | Yahuna | 1_tongue | nē̠nóke̠ka |
-| Yahuna-20_eyelashe-1 | Yahuna | 20_eyelashe | yakotáya |
-| Yahuna-20_eyelashe-2 | Yahuna | 20_eyelashe | yakotáya |
+| Yahuna-20_eyelash-1 | Yahuna | 20_eyelash | yakotáya |
+| Yahuna-20_eyelash-2 | Yahuna | 20_eyelash | yakotáya |
 | Yahuna-21_beard-1 | Yahuna | 21_beard | dihe̠táya |
 | Yahuna-21_beard-2 | Yahuna | 21_beard | lihe̠táya |
 | Yahuna-22_pubichair-1 | Yahuna | 22_pubichair | pūluitá |
@@ -99,7 +99,7 @@
 | Yupua-19_eyebrow-1 | Yupua | 19_eyebrow | yímogati |
 | Yupua-1_tongue-1 | Yupua | 1_tongue | dṓlo |
 | Yupua-1_tongue-2 | Yupua | 1_tongue | dṓlo |
-| Yupua-20_eyelashe-1 | Yupua | 20_eyelashe | yímogati |
+| Yupua-20_eyelash-1 | Yupua | 20_eyelash | yímogati |
 | Yupua-21_beard-1 | Yupua | 21_beard | dix̯sipoa |
 | Yupua-22_pubichair-1 | Yupua | 22_pubichair | nūlipóa |
 | Yupua-26_shoulder-1 | Yupua | 26_shoulder | dikagúu |
