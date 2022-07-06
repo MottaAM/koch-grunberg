@@ -1,4445 +1,2186 @@
 Grapheme	IPA
-a	a
-á	a
-ā	a.a
-ā́	a.a
-e̠	ɛ
-é̠	ɛ
-ē̠	ɛ.ɛ
-ḗ̠	ɛ.ɛ
-e	e
-é	e
-ē	e.e
-ḗ	e.e
-i	i
-í	i
-ī	i.i
-ī́	i.i
-e̥	ɨ
-é̥	ɨ
-a̠	ɑ
-á̠	ɑ
-ā̠	ɑ.ɑ
-ā̠́	ɑ.ɑ
-o	ɔ
-ó	ɔ
-ō	ɔ.ɔ
-ṓ	ɔ.ɔ
-u̠	ʊ
-ú̠	ʊ
-u	u
-ú	u
-ū	u.u
-ū́	u.u
-ã	ã
-ã́	ã
-ẽ	ẽ
-ẽ́	ẽ
-õ	ɔ̃
-ṍ	ɔ̃
-ũ	ũ
-ṹ	ũ
-ā̃	ã.ã
-ã̄	ã.ã
-ā̃́	ã.ã
-ã̄́	ã.ã
-ē̃	ẽ.ẽ
-ẽ̄	ẽ.ẽ
-ē̃́	ẽ.ẽ
-ẽ̄́	ẽ.ẽ
-ī̃	ĩ.ĩ
-ĩ̄	ĩ.ĩ
-ī̃́	ĩ.ĩ
-ĩ̄́	ĩ.ĩ
-ō̃	ɔ̃.ɔ̃
-ȭ	ɔ̃.ɔ̃
-ō̃́	ɔ̃.ɔ̃
-ȭ́	ɔ̃.ɔ̃
-ū̃	ũ.ũ
-ũ̄	ũ.ũ
-ū̃́	ũ.ũ
-ũ̄́	ũ.ũ
-p	p
-b	b
-m	m
-w	w
-t	t
-tx̯	tʃ
-tš	tʃ
-ts	ts
-d	d
-n	n
-s	s
-r	ɾ
-l	ɺ
-y	j
-x̯p	h p
-x̯t	h t
-x̯k	h k
-x̯s	h s
-x̯ts	h ts
-x̯tx̯	h tʃ
-x̯tš	h tʃ
-x̯g	h g
-xg	h g
-k	k
-g	g
-ṅ	ŋ
-ḥ	h
-'	ʔ
-h	h
-š	ʃ
-ḳ	k
-ū̠	ʊ.ʊ 
 _	+
-i̯	j
-ĩ	ĩ
-ĩ́ȭ	ĩ ɔ̃.ɔ̃
-ē̥	ɨ.ɨ
-u̯	w
-p̌	ɸ
-ĩ́	ĩ
-aua	a w a
-aue	a w e
-aui	a w i
-auo	a w ɔ
-aue̥	a w ɨ
-auu̠	a w ʊ
-aue̠	a w ɛ
-aua̠	a w ɑ
-auá	a w a
-aué	a w e
-auí	a w i
-auó	a w ɔ
-aué̥	a w ɨ
-auú̠	a w ʊ
-aué̠	a w ɛ
-auá̠	a w ɑ
-eua	e w a
-eue	e w e
-eui	e w i
-euo	e w ɔ
-eue̥	e w ɨ
-euu̠	e w ʊ
-eue̠	e w ɛ
-eua̠	e w ɑ
-euá	e w a
-eué	e w e
-euí	e w i
-euó	e w ɔ
-eué̥	e w ɨ
-euú̠	e w ʊ
-eué̠	e w ɛ
-euá̠	e w ɑ
-iua	i w a
-iue	i w e
-iui	i w i
-iuo	i w ɔ
-iue̥	i w ɨ
-iuu̠	i w ʊ
-iue̠	i w ɛ
-iua̠	i w ɑ
-iuá	i w a
-iué	i w e
-iuí	i w i
-iuó	i w ɔ
-iué̥	i w ɨ
-iuú̠	i w ʊ
-iué̠	i w ɛ
-iuá̠	i w ɑ
-oua	ɔ w a
-oue	ɔ w e
-oui	ɔ w i
-ouo	ɔ w ɔ
-oue̥	ɔ w ɨ
-ouu̠	ɔ w ʊ
-oue̠	ɔ w ɛ
-oua̠	ɔ w ɑ
-ouá	ɔ w a
-oué	ɔ w e
-ouí	ɔ w i
-ouó	ɔ w ɔ
-oué̥	ɔ w ɨ
-ouú̠	ɔ w ʊ
-oué̠	ɔ w ɛ
-ouá̠	ɔ w ɑ
-e̥ua	ɨ w a
-e̥ue	ɨ w e
-e̥ui	ɨ w i
-e̥uo	ɨ w ɔ
-e̥ue̥	ɨ w ɨ
-e̥uu̠	ɨ w ʊ
-e̥ue̠	ɨ w ɛ
-e̥ua̠	ɨ w ɑ
-e̥uá	ɨ w a
-e̥ué	ɨ w e
-e̥uí	ɨ w i
-e̥uó	ɨ w ɔ
-e̥ué̥	ɨ w ɨ
-e̥uú̠	ɨ w ʊ
-e̥ué̠	ɨ w ɛ
-e̥uá̠	ɨ w ɑ
-u̠ua	ʊ w a
-u̠ue	ʊ w e
-u̠ui	ʊ w i
-u̠uo	ʊ w ɔ
-u̠ue̥	ʊ w ɨ
-u̠uu̠	ʊ w ʊ
-u̠ue̠	ʊ w ɛ
-u̠ua̠	ʊ w ɑ
-u̠uá	ʊ w a
-u̠ué	ʊ w e
-u̠uí	ʊ w i
-u̠uó	ʊ w ɔ
-u̠ué̥	ʊ w ɨ
-u̠uú̠	ʊ w ʊ
-u̠ué̠	ʊ w ɛ
-u̠uá̠	ʊ w ɑ
-e̠ua	ɛ w a
-e̠ue	ɛ w e
-e̠ui	ɛ w i
-e̠uo	ɛ w ɔ
-e̠ue̥	ɛ w ɨ
-e̠uu̠	ɛ w ʊ
-e̠ue̠	ɛ w ɛ
-e̠ua̠	ɛ w ɑ
-e̠uá	ɛ w a
-e̠ué	ɛ w e
-e̠uí	ɛ w i
-e̠uó	ɛ w ɔ
-e̠ué̥	ɛ w ɨ
-e̠uú̠	ɛ w ʊ
-e̠ué̠	ɛ w ɛ
-e̠uá̠	ɛ w ɑ
-a̠ua	ɑ w a
-a̠ue	ɑ w e
-a̠ui	ɑ w i
-a̠uo	ɑ w ɔ
-a̠ue̥	ɑ w ɨ
-a̠uu̠	ɑ w ʊ
-a̠ue̠	ɑ w ɛ
-a̠ua̠	ɑ w ɑ
-a̠uá	ɑ w a
-a̠ué	ɑ w e
-a̠uí	ɑ w i
-a̠uó	ɑ w ɔ
-a̠ué̥	ɑ w ɨ
-a̠uú̠	ɑ w ʊ
-a̠ué̠	ɑ w ɛ
-a̠uá̠	ɑ w ɑ
-áua	a w a
-áue	a w e
-áui	a w i
-áuo	a w ɔ
-áue̥	a w ɨ
-áuu̠	a w ʊ
-áue̠	a w ɛ
-áua̠	a w ɑ
-áuá	a w a
-áué	a w e
-áuí	a w i
-áuó	a w ɔ
-áué̥	a w ɨ
-áuú̠	a w ʊ
-áué̠	a w ɛ
-áuá̠	a w ɑ
-éua	e w a
-éue	e w e
-éui	e w i
-éuo	e w ɔ
-éue̥	e w ɨ
-éuu̠	e w ʊ
-éue̠	e w ɛ
-éua̠	e w ɑ
-éuá	e w a
-éué	e w e
-éuí	e w i
-éuó	e w ɔ
-éué̥	e w ɨ
-éuú̠	e w ʊ
-éué̠	e w ɛ
-éuá̠	e w ɑ
-íua	i w a
-íue	i w e
-íui	i w i
-íuo	i w ɔ
-íue̥	i w ɨ
-íuu̠	i w ʊ
-íue̠	i w ɛ
-íua̠	i w ɑ
-íuá	i w a
-íué	i w e
-íuí	i w i
-íuó	i w ɔ
-íué̥	i w ɨ
-íuú̠	i w ʊ
-íué̠	i w ɛ
-íuá̠	i w ɑ
-óua	ɔ w a
-óue	ɔ w e
-óui	ɔ w i
-óuo	ɔ w ɔ
-óue̥	ɔ w ɨ
-óuu̠	ɔ w ʊ
-óue̠	ɔ w ɛ
-óua̠	ɔ w ɑ
-óuá	ɔ w a
-óué	ɔ w e
-óuí	ɔ w i
-óuó	ɔ w ɔ
-óué̥	ɔ w ɨ
-óuú̠	ɔ w ʊ
-óué̠	ɔ w ɛ
-óuá̠	ɔ w ɑ
-é̥ua	ɨ w a
-é̥ue	ɨ w e
-é̥ui	ɨ w i
-é̥uo	ɨ w ɔ
-é̥ue̥	ɨ w ɨ
-é̥uu̠	ɨ w ʊ
-é̥ue̠	ɨ w ɛ
-é̥ua̠	ɨ w ɑ
-é̥uá	ɨ w a
-é̥ué	ɨ w e
-é̥uí	ɨ w i
-é̥uó	ɨ w ɔ
-é̥ué̥	ɨ w ɨ
-é̥uú̠	ɨ w ʊ
-é̥ué̠	ɨ w ɛ
-é̥uá̠	ɨ w ɑ
-ú̠ua	ʊ w a
-ú̠ue	ʊ w e
-ú̠ui	ʊ w i
-ú̠uo	ʊ w ɔ
-ú̠ue̥	ʊ w ɨ
-ú̠uu̠	ʊ w ʊ
-ú̠ue̠	ʊ w ɛ
-ú̠ua̠	ʊ w ɑ
-ú̠uá	ʊ w a
-ú̠ué	ʊ w e
-ú̠uí	ʊ w i
-ú̠uó	ʊ w ɔ
-ú̠ué̥	ʊ w ɨ
-ú̠uú̠	ʊ w ʊ
-ú̠ué̠	ʊ w ɛ
-ú̠uá̠	ʊ w ɑ
-é̠ua	ɛ w a
-é̠ue	ɛ w e
-é̠ui	ɛ w i
-é̠uo	ɛ w ɔ
-é̠ue̥	ɛ w ɨ
-é̠uu̠	ɛ w ʊ
-é̠ue̠	ɛ w ɛ
-é̠ua̠	ɛ w ɑ
-é̠uá	ɛ w a
-é̠ué	ɛ w e
-é̠uí	ɛ w i
-é̠uó	ɛ w ɔ
-é̠ué̥	ɛ w ɨ
-é̠uú̠	ɛ w ʊ
-é̠ué̠	ɛ w ɛ
-é̠uá̠	ɛ w ɑ
-á̠ua	ɑ w a
-á̠ue	ɑ w e
-á̠ui	ɑ w i
-á̠uo	ɑ w ɔ
-á̠ue̥	ɑ w ɨ
-á̠uu̠	ɑ w ʊ
-á̠ue̠	ɑ w ɛ
-á̠ua̠	ɑ w ɑ
-á̠uá	ɑ w a
-á̠ué	ɑ w e
-á̠uí	ɑ w i
-á̠uó	ɑ w ɔ
-á̠ué̥	ɑ w ɨ
-á̠uú̠	ɑ w ʊ
-á̠ué̠	ɑ w ɛ
-á̠uá̠	ɑ w ɑ
-aia	a j a
-aie	a j e
-aio	a j ɔ
-aiu	a j u
-aie̥	a j ɨ
-aiu̠	a j ʊ
-aie̠	a j ɛ
-aia̠	a j ɑ
-aiá	a j a
-aié	a j e
-aió	a j ɔ
-aiú	a j u
-aié̥	a j ɨ
-aiú̠	a j ʊ
-aié̠	a j ɛ
-aiá̠	a j ɑ
-eia	e j a
-eie	e j e
-eio	e j ɔ
-eiu	e j u
-eie̥	e j ɨ
-eiu̠	e j ʊ
-eie̠	e j ɛ
-eia̠	e j ɑ
-eiá	e j a
-eié	e j e
-eió	e j ɔ
-eiú	e j u
-eié̥	e j ɨ
-eiú̠	e j ʊ
-eié̠	e j ɛ
-eiá̠	e j ɑ
-uia	u j a
-uie	u j e
-uio	u j ɔ
-uiu	u j u
-uie̥	u j ɨ
-uiu̠	u j ʊ
-uie̠	u j ɛ
-uia̠	u j ɑ
-uiá	u j a
-uié	u j e
-uió	u j ɔ
-uiú	u j u
-uié̥	u j ɨ
-uiú̠	u j ʊ
-uié̠	u j ɛ
-uiá̠	u j ɑ
-oia	ɔ j a
-oie	ɔ j e
-oio	ɔ j ɔ
-oiu	ɔ j u
-oie̥	ɔ j ɨ
-oiu̠	ɔ j ʊ
-oie̠	ɔ j ɛ
-oia̠	ɔ j ɑ
-oiá	ɔ j a
-oié	ɔ j e
-oió	ɔ j ɔ
-oiú	ɔ j u
-oié̥	ɔ j ɨ
-oiú̠	ɔ j ʊ
-oié̠	ɔ j ɛ
-oiá̠	ɔ j ɑ
-e̥ia	ɨ j a
-e̥ie	ɨ j e
-e̥io	ɨ j ɔ
-e̥iu	ɨ j u
-e̥ie̥	ɨ j ɨ
-e̥iu̠	ɨ j ʊ
-e̥ie̠	ɨ j ɛ
-e̥ia̠	ɨ j ɑ
-e̥iá	ɨ j a
-e̥ié	ɨ j e
-e̥ió	ɨ j ɔ
-e̥iú	ɨ j u
-e̥ié̥	ɨ j ɨ
-e̥iú̠	ɨ j ʊ
-e̥ié̠	ɨ j ɛ
-e̥iá̠	ɨ j ɑ
-u̠ia	ʊ j a
-u̠ie	ʊ j e
-u̠io	ʊ j ɔ
-u̠iu	ʊ j u
-u̠ie̥	ʊ j ɨ
-u̠iu̠	ʊ j ʊ
-u̠ie̠	ʊ j ɛ
-u̠ia̠	ʊ j ɑ
-u̠iá	ʊ j a
-u̠ié	ʊ j e
-u̠ió	ʊ j ɔ
-u̠iú	ʊ j u
-u̠ié̥	ʊ j ɨ
-u̠iú̠	ʊ j ʊ
-u̠ié̠	ʊ j ɛ
-u̠iá̠	ʊ j ɑ
-e̠ia	ɛ j a
-e̠ie	ɛ j e
-e̠io	ɛ j ɔ
-e̠iu	ɛ j u
-e̠ie̥	ɛ j ɨ
-e̠iu̠	ɛ j ʊ
-e̠ie̠	ɛ j ɛ
-e̠ia̠	ɛ j ɑ
-e̠iá	ɛ j a
-e̠ié	ɛ j e
-e̠ió	ɛ j ɔ
-e̠iú	ɛ j u
-e̠ié̥	ɛ j ɨ
-e̠iú̠	ɛ j ʊ
-e̠ié̠	ɛ j ɛ
-e̠iá̠	ɛ j ɑ
-a̠ia	ɑ j a
-a̠ie	ɑ j e
-a̠io	ɑ j ɔ
-a̠iu	ɑ j u
-a̠ie̥	ɑ j ɨ
-a̠iu̠	ɑ j ʊ
-a̠ie̠	ɑ j ɛ
-a̠ia̠	ɑ j ɑ
-a̠iá	ɑ j a
-a̠ié	ɑ j e
-a̠ió	ɑ j ɔ
-a̠iú	ɑ j u
-a̠ié̥	ɑ j ɨ
-a̠iú̠	ɑ j ʊ
-a̠ié̠	ɑ j ɛ
-a̠iá̠	ɑ j ɑ
-áia	a j a
-áie	a j e
-áio	a j ɔ
-áiu	a j u
-áie̥	a j ɨ
-áiu̠	a j ʊ
-áie̠	a j ɛ
-áia̠	a j ɑ
-áiá	a j a
-áié	a j e
-áió	a j ɔ
-áiú	a j u
-áié̥	a j ɨ
-áiú̠	a j ʊ
-áié̠	a j ɛ
-áiá̠	a j ɑ
-éia	e j a
-éie	e j e
-éio	e j ɔ
-éiu	e j u
-éie̥	e j ɨ
-éiu̠	e j ʊ
-éie̠	e j ɛ
-éia̠	e j ɑ
-éiá	e j a
-éié	e j e
-éió	e j ɔ
-éiú	e j u
-éié̥	e j ɨ
-éiú̠	e j ʊ
-éié̠	e j ɛ
-éiá̠	e j ɑ
-óia	ɔ j a
-óie	ɔ j e
-óio	ɔ j ɔ
-óiu	ɔ j u
-óie̥	ɔ j ɨ
-óiu̠	ɔ j ʊ
-óie̠	ɔ j ɛ
-óia̠	ɔ j ɑ
-óiá	ɔ j a
-óié	ɔ j e
-óió	ɔ j ɔ
-óiú	ɔ j u
-óié̥	ɔ j ɨ
-óiú̠	ɔ j ʊ
-óié̠	ɔ j ɛ
-óiá̠	ɔ j ɑ
-úia	u j a
-úie	u j e
-úio	u j ɔ
-úiu	u j u
-úie̥	u j ɨ
-úiu̠	u j ʊ
-úie̠	u j ɛ
-úia̠	u j ɑ
-úiá	u j a
-úié	u j e
-úió	u j ɔ
-úiú	u j u
-úié̥	u j ɨ
-úiú̠	u j ʊ
-úié̠	u j ɛ
-úiá̠	u j ɑ
-é̥ia	ɨ j a
-é̥ie	ɨ j e
-é̥io	ɨ j ɔ
-é̥iu	ɨ j u
-é̥ie̥	ɨ j ɨ
-é̥iu̠	ɨ j ʊ
-é̥ie̠	ɨ j ɛ
-é̥ia̠	ɨ j ɑ
-é̥iá	ɨ j a
-é̥ié	ɨ j e
-é̥ió	ɨ j ɔ
-é̥iú	ɨ j u
-é̥ié̥	ɨ j ɨ
-é̥iú̠	ɨ j ʊ
-é̥ié̠	ɨ j ɛ
-é̥iá̠	ɨ j ɑ
-ú̠ia	ʊ j a
-ú̠ie	ʊ j e
-ú̠io	ʊ j ɔ
-ú̠iu	ʊ j u
-ú̠ie̥	ʊ j ɨ
-ú̠iu̠	ʊ j ʊ
-ú̠ie̠	ʊ j ɛ
-ú̠ia̠	ʊ j ɑ
-ú̠iá	ʊ j a
-ú̠ié	ʊ j e
-ú̠ió	ʊ j ɔ
-ú̠iú	ʊ j u
-ú̠ié̥	ʊ j ɨ
-ú̠iú̠	ʊ j ʊ
-ú̠ié̠	ʊ j ɛ
-ú̠iá̠	ʊ j ɑ
-é̠ia	ɛ j a
-é̠ie	ɛ j e
-é̠io	ɛ j ɔ
-é̠iu	ɛ j u
-é̠ie̥	ɛ j ɨ
-é̠iu̠	ɛ j ʊ
-é̠ie̠	ɛ j ɛ
-é̠ia̠	ɛ j ɑ
-é̠iá	ɛ j a
-é̠ié	ɛ j e
-é̠ió	ɛ j ɔ
-é̠iú	ɛ j u
-é̠ié̥	ɛ j ɨ
-é̠iú̠	ɛ j ʊ
-é̠ié̠	ɛ j ɛ
-é̠iá̠	ɛ j ɑ
-á̠ia	ɑ j a
-á̠ie	ɑ j e
-á̠io	ɑ j ɔ
-á̠iu	ɑ j u
-á̠ie̥	ɑ j ɨ
-á̠iu̠	ɑ j ʊ
-á̠ie̠	ɑ j ɛ
-á̠ia̠	ɑ j ɑ
-á̠iá	ɑ j a
-á̠ié	ɑ j e
-á̠ió	ɑ j ɔ
-á̠iú	ɑ j u
-á̠ié̥	ɑ j ɨ
-á̠iú̠	ɑ j ʊ
-á̠ié̠	ɑ j ɛ
-á̠iá̠	ɑ j ɑ
-au̯a	a w a
-au̯e	a w e
-au̯i	a w i
-au̯o	a w ɔ
-au̯u	a w u
-au̯e̥	a w ɨ
-au̯u̠	a w ʊ
-au̯e̠	a w ɛ
-au̯a̠	a w ɑ
-au̯á	a w a
-au̯é	a w e
-au̯í	a w i
-au̯ó	a w ɔ
-au̯ú	a w u
-au̯é̥	a w ɨ
-au̯ú̠	a w ʊ
-au̯é̠	a w ɛ
-au̯á̠	a w ɑ
-eu̯a	e w a
-eu̯e	e w e
-eu̯i	e w i
-eu̯o	e w ɔ
-eu̯u	e w u
-eu̯e̥	e w ɨ
-eu̯u̠	e w ʊ
-eu̯e̠	e w ɛ
-eu̯a̠	e w ɑ
-eu̯á	e w a
-eu̯é	e w e
-eu̯í	e w i
-eu̯ó	e w ɔ
-eu̯ú	e w u
-eu̯é̥	e w ɨ
-eu̯ú̠	e w ʊ
-eu̯é̠	e w ɛ
-eu̯á̠	e w ɑ
-iu̯a	i w a
-iu̯e	i w e
-iu̯i	i w i
-iu̯o	i w ɔ
-iu̯u	i w u
-iu̯e̥	i w ɨ
-iu̯u̠	i w ʊ
-iu̯e̠	i w ɛ
-iu̯a̠	i w ɑ
-iu̯á	i w a 
-iu̯é	i w e
-iu̯í	i w i
-iu̯ó	i w ɔ
-iu̯ú	i w u
-iu̯é̥	i w ɨ
-iu̯ú̠	i w ʊ
-iu̯é̠	i w ɛ
-iu̯á̠	i w ɑ
-ou̯a	ɔ w a
-ou̯e	ɔ w e
-ou̯i	ɔ w i
-ou̯o	ɔ w ɔ
-ou̯u	ɔ w u
-ou̯e̥	ɔ w ɨ
-ou̯u̠	ɔ w ʊ
-ou̯e̠	ɔ w ɛ
-ou̯a̠	ɔ w ɑ
-ou̯á	ɔ w a
-ou̯é	ɔ w e
-ou̯í	ɔ w i
-ou̯ó	ɔ w ɔ
-ou̯ú	ɔ w u
-ou̯é̥	ɔ w ɨ
-ou̯ú̠	ɔ w ʊ
-ou̯é̠	ɔ w ɛ
-ou̯á̠	ɔ w ɑ
-uu̯a	u w a
-uu̯e	u w e
-uu̯i	u w i
-uu̯o	u w ɔ
-uu̯u	u w u
-uu̯e̥	u w ɨ
-uu̯u̠	u w ʊ
-uu̯e̠	u w ɛ
-uu̯a̠	u w ɑ
-uu̯á	u w a
-uu̯é	u w e
-uu̯í	u w i
-uu̯ó	u w ɔ
-uu̯ú	u w u
-uu̯é̥	u w ɨ
-uu̯ú̠	u w ʊ
-uu̯é̠	u w ɛ
-uu̯á̠	u w ɑ
-e̥u̯a	ɨ w a
-e̥u̯e	ɨ w e
-e̥u̯i	ɨ w i
-e̥u̯o	ɨ w ɔ
-e̥u̯u	ɨ w u
-e̥u̯e̥	ɨ w ɨ
-e̥u̯u̠	ɨ w ʊ
-e̥u̯e̠	ɨ w ɛ
-e̥u̯a̠	ɨ w ɑ
-e̥u̯á	ɨ w a
-e̥u̯é	ɨ w e
-e̥u̯í	ɨ w i
-e̥u̯ó	ɨ w ɔ
-e̥u̯ú	ɨ w u
-e̥u̯é̥	ɨ w ɨ
-e̥u̯ú̠	ɨ w ʊ
-e̥u̯é̠	ɨ w ɛ
-e̥u̯á̠	ɨ w ɑ
-u̠u̯a	ʊ w a
-u̠u̯e	ʊ w e
-u̠u̯i	ʊ w i
-u̠u̯o	ʊ w ɔ
-u̠u̯u	ʊ w u
-u̠u̯e̥	ʊ w ɨ
-u̠u̯u̠	ʊ w ʊ
-u̠u̯e̠	ʊ w ɛ
-u̠u̯a̠	ʊ w ɑ
-u̠u̯á	ʊ w a
-u̠u̯é	ʊ w e
-u̠u̯í	ʊ w i
-u̠u̯ó	ʊ w ɔ
-u̠u̯ú	ʊ w u
-u̠u̯é̥	ʊ w ɨ
-u̠u̯ú̠	ʊ w ʊ
-u̠u̯é̠	ʊ w ɛ
-u̠u̯á̠	ʊ w ɑ
-e̠u̯a	ɛ w a
-e̠u̯e	ɛ w e
-e̠u̯i	ɛ w i
-e̠u̯o	ɛ w ɔ
-e̠u̯u	ɛ w u
-e̠u̯e̥	ɛ w ɨ
-e̠u̯u̠	ɛ w ʊ
-e̠u̯e̠	ɛ w ɛ
-e̠u̯a̠	ɛ w ɑ
-e̠u̯á	ɛ w a
-e̠u̯é	ɛ w e
-e̠u̯í	ɛ w i
-e̠u̯ó	ɛ w ɔ
-e̠u̯ú	ɛ w u
-e̠u̯é̥	ɛ w ɨ
-e̠u̯ú̠	ɛ w ʊ
-e̠u̯é̠	ɛ w ɛ
-e̠u̯á̠	ɛ w ɑ
-a̠u̯a	ɑ w a
-a̠u̯e	ɑ w e
-a̠u̯i	ɑ w i
-a̠u̯o	ɑ w ɔ
-a̠u̯u	ɑ w u
-a̠u̯e̥	ɑ w ɨ
-a̠u̯u̠	ɑ w ʊ
-a̠u̯e̠	ɑ w ɛ
-a̠u̯a̠	ɑ w ɑ
-a̠u̯á	ɑ w a
-a̠u̯é	ɑ w e
-a̠u̯í	ɑ w i
-a̠u̯ó	ɑ w ɔ
-a̠u̯ú	ɑ w u
-a̠u̯é̥	ɑ w ɨ
-a̠u̯ú̠	ɑ w ʊ
-a̠u̯é̠	ɑ w ɛ
-a̠u̯á̠	ɑ w ɑ
-áu̯a	a w a
-áu̯e	a w e
-áu̯i	a w i
-áu̯o	a w ɔ
-áu̯u	a w u
-áu̯e̥	a w ɨ
-áu̯u̠	a w ʊ
-áu̯e̠	a w ɛ
-áu̯a̠	a w ɑ
-áu̯á	a w a
-áu̯é	a w e
-áu̯í	a w i
-áu̯ó	a w ɔ
-áu̯ú	a w u
-áu̯é̥	a w ɨ
-áu̯ú̠	a w ʊ
-áu̯é̠	a w ɛ
-áu̯á̠	a w ɑ
-éu̯a	e w a
-éu̯e	e w e
-éu̯i	e w i
-éu̯o	e w ɔ
-éu̯u	e w u
-éu̯e̥	e w ɨ
-éu̯u̠	e w ʊ
-éu̯e̠	e w ɛ
-éu̯a̠	e w ɑ
-éu̯á	e w a
-éu̯é	e w e
-éu̯í	e w i
-éu̯ó	e w ɔ
-éu̯ú	e w u
-éu̯é̥	e w ɨ
-éu̯ú̠	e w ʊ
-éu̯é̠	e w ɛ
-éu̯á̠	e w ɑ
-íu̯a	i w a
-íu̯e	i w e
-íu̯i	i w i
-íu̯o	i w ɔ
-íu̯u	i w u
-íu̯e̥	i w ɨ
-íu̯u̠	i w ʊ
-íu̯e̠	i w ɛ
-íu̯a̠	i w ɑ
-íu̯á	i w a
-íu̯é	i w e
-íu̯í	i w i
-íu̯ó	i w ɔ
-íu̯ú	i w u
-íu̯é̥	i w ɨ
-íu̯ú̠	i w ʊ
-íu̯é̠	i w ɛ
-íu̯á̠	i w ɑ
-óu̯a	ɔ w a
-óu̯e	ɔ w e
-óu̯i	ɔ w i
-óu̯o	ɔ w ɔ
-óu̯u	ɔ w u
-óu̯e̥	ɔ w ɨ
-óu̯u̠	ɔ w ʊ
-óu̯e̠	ɔ w ɛ
-óu̯a̠	ɔ w ɑ
-óu̯á	ɔ w a
-óu̯é	ɔ w e
-óu̯í	ɔ w i
-óu̯ó	ɔ w ɔ
-óu̯ú	ɔ w u
-óu̯é̥	ɔ w ɨ
-óu̯ú̠	ɔ w ʊ
-óu̯é̠	ɔ w ɛ
-óu̯á̠	ɔ w ɑ
-úu̯a	u w a
-úu̯e	u w e
-úu̯i	u w i
-úu̯o	u w ɔ
-úu̯u	u w u
-úu̯e̥	u w ɨ
-úu̯u̠	u w ʊ
-úu̯e̠	u w ɛ
-úu̯a̠	u w ɑ
-úu̯á	u w a
-úu̯é	u w e
-úu̯í	u w i
-úu̯ó	u w ɔ
-úu̯ú	u w u
-úu̯é̥	u w ɨ
-úu̯ú̠	u w ʊ
-úu̯é̠	u w ɛ
-úu̯á̠	u w ɑ
-é̥u̯a	ɨ w a
-é̥u̯e	ɨ w e
-é̥u̯i	ɨ w i
-é̥u̯o	ɨ w ɔ
-é̥u̯u	ɨ w u
-é̥u̯e̥	ɨ w ɨ
-é̥u̯u̠	ɨ w ʊ
-é̥u̯e̠	ɨ w ɛ
-é̥u̯a̠	ɨ w ɑ
-é̥u̯á	ɨ w a
-é̥u̯é	ɨ w e
-é̥u̯í	ɨ w i
-é̥u̯ó	ɨ w ɔ
-é̥u̯ú	ɨ w u
-é̥u̯é̥	ɨ w ɨ
-é̥u̯ú̠	ɨ w ʊ
-é̥u̯é̠	ɨ w ɛ
-é̥u̯á̠	ɨ w ɑ
-ú̠u̯a	ʊ w a
-ú̠u̯e	ʊ w e
-ú̠u̯i	ʊ w i
-ú̠u̯o	ʊ w ɔ
-ú̠u̯u	ʊ w u
-ú̠u̯e̥	ʊ w ɨ
-ú̠u̯u̠	ʊ w ʊ
-ú̠u̯e̠	ʊ w ɛ
-ú̠u̯a̠	ʊ w ɑ
-ú̠u̯á	ʊ w a
-ú̠u̯é	ʊ w e
-ú̠u̯í	ʊ w i
-ú̠u̯ó	ʊ w ɔ
-ú̠u̯ú	ʊ w u
-ú̠u̯é̥	ʊ w ɨ
-ú̠u̯ú̠	ʊ w ʊ
-ú̠u̯é̠	ʊ w ɛ
-ú̠u̯á̠	ʊ w ɑ
-é̠u̯a	ɛ w a
-é̠u̯e	ɛ w e
-é̠u̯i	ɛ w i
-é̠u̯o	ɛ w ɔ
-é̠u̯u	ɛ w u
-é̠u̯e̥	ɛ w ɨ
-é̠u̯u̠	ɛ w ʊ
-é̠u̯e̠	ɛ w ɛ
-é̠u̯a̠	ɛ w ɑ
-é̠u̯á	ɛ w a
-é̠u̯é	ɛ w e
-é̠u̯í	ɛ w i
-é̠u̯ó	ɛ w ɔ
-é̠u̯ú	ɛ w u
-é̠u̯é̥	ɛ w ɨ
-é̠u̯ú̠	ɛ w ʊ
-é̠u̯é̠	ɛ w ɛ
-é̠u̯á̠	ɛ w ɑ
-á̠u̯a	ɑ w a
-á̠u̯e	ɑ w e
-á̠u̯i	ɑ w i
-á̠u̯o	ɑ w ɔ
-á̠u̯u	ɑ w u
-á̠u̯e̥	ɑ w ɨ
-á̠u̯u̠	ɑ w ʊ
-á̠u̯e̠	ɑ w ɛ
-á̠u̯a̠	ɑ w ɑ
-á̠u̯á	ɑ w a
-á̠u̯é	ɑ w e
-á̠u̯í	ɑ w i
-á̠u̯ó	ɑ w ɔ
-á̠u̯ú	ɑ w u
-á̠u̯é̥	ɑ w ɨ
-á̠u̯ú̠	ɑ w ʊ
-á̠u̯é̠	ɑ w ɛ
-á̠u̯á̠	ɑ w ɑ
-aa	a.a
-ae	a.e
-ai	a.i
-ao	a.ɔ
-au	a.u
-ae̥	a.ɨ
-au̠	a.ʊ
-ae̠	a.ɛ
-aa̠	a.ɑ
-aá	a.a
-aé	a.e
-aí	a.i
-aó	a.ɔ
-aú	a.u
-aé̥	a.ɨ
-aú̠	a.ʊ
-aé̠	a.ɛ
-aá̠	a.ɑ
-ae̯	a.e
-ai̯	a.i
-aa̯	a.a
-ao̯	a.ɔ
-ea	e.a
-ee	e.e
-ei	e.i
-eo	e.ɔ
-eu	e.u
-ee̥	e.ɨ
-eu̠	e.ʊ
-ee̠	e.ɛ
-ea̠	e.ɑ
-eá	e.a
-eé	e.e
-eí	e.i
-eó	e.ɔ
-eú	e.u
-eé̥	ɨ.ɨ
-eú̠	e.ʊ
-eé̠	e.ɛ
-eá̠	e.ɑ
-ee̯	e.e
-ei̯	e.i
-ea̯	e.a
-eo̯	e.ɔ
-ia	j a
-ie	j e
-ii	i.i
-io	j ɔ
-iu	j u
-ie̥	j ɨ
-iu̠	j ʊ
-ie̠	j ɛ
-ia̠	j ɑ
-iá	j a
-ié	j e
-ií	i.i
-ió	j ɔ
-iú	j u
-ié̥	j ɨ
-iú̠	j ʊ
-ié̠	j ɛ
-iá̠	j ɑ
-ie̯	j e
-ii̯	i.i
-ia̯	j a
-io̯	j ɔ
-oa	w a
-oe	ɔ.e
-oi	ɔ.i
-oo	ɔ.ɔ
-ou	ɔ.u
-oe̥	ɔ.ɨ
-ou̠	ɔ.ʊ
-oe̠	ɔ.ɛ
-oa̠	w ɑ
-oá	w a
-oé	ɔ.e
-oí	ɔ.i
-oó	ɔ.ɔ
-oú	ɔ.u
-oé̥	ɔ.ɨ
-oú̠	ɔ.ʊ
-oé̠	ɔ.ɛ
-oá̠	w ɑ
-oe̯	ɔ.e
-oi̯	ɔ.i
-oa̯	w a
-oo̯	ɔ.ɔ
-ua	w a
-ue	w e
-ui	w i
-uo	w ɔ
-uu	u.u
-ue̥	w ɨ
-uu̠	w ʊ
-ue̠	w ɛ
-ua̠	w ɑ
-uá	w a
-ué	w e
-uí	w i
-uó	w ɔ
-uú	u.u
-ué̥	w ɨ
-uú̠	w ʊ
-ué̠	w ɛ
-uá̠	w ɑ
-ue̯	w e
-ui̯	w i
-ua̯	w a
-uo̯	w ɔ
-e̥a	ɨ.a
-e̥e	ɨ.e
-e̥i	ɨ.i
-e̥o	ɨ.ɔ
-e̥u	ɨ.u
-e̥e̥	ɨ.ɨ
-e̥u̠	ɨ.ʊ
-e̥e̠	ɨ.ɛ
-e̥a̠	ɨ.ɑ
-e̥á	ɨ.a
-e̥é	ɨ.e
-e̥í	ɨ.i
-e̥ó	ɨ.ɔ
-e̥ú	ɨ.u
-e̥é̥	ɨ.ɨ
-e̥ú̠	ɨ.ʊ
-e̥é̠	ɨ.ɛ
-e̥á̠	ɨ.ɑ
-e̥e̯	ɨ.e
-e̥i̯	ɨ.i
-e̥a̯	ɨ.a
-e̥o̯	ɨ.ɔ
-u̠a	w a
-u̠e	w e
-u̠i	w i
-u̠o	w ɔ
-u̠u	ʊ.u
-u̠e̥	w ɨ
-u̠u̠	ʊ.ʊ
-u̠e̠	w ɛ
-u̠a̠	w ɑ
-u̠á	w a
-u̠é	w e
-u̠í	w i
-u̠ó	w ɔ
-u̠ú	ʊ.u
-u̠é̥	w ɨ
-u̠ú̠	ʊ.ʊ
-u̠é̠	w ɛ
-u̠á̠	w ɑ
-u̠e̯	w e
-u̠i̯	w i
-u̠a̯	w a
-u̠o̯	w ɔ
-e̠a	ɛ.a
-e̠e	ɛ.e
-e̠i	ɛ.i
-e̠o	ɛ.ɔ
-e̠u	ɛ.u
-e̠e̥	ɛ.ɨ
-e̠u̠	ɛ.ʊ
-e̠e̠	ɛ.ɛ
-e̠a̠	ɛ.ɑ
-e̠á	ɛ.a
-e̠é	ɛ.e
-e̠í	ɛ.i
-e̠ó	ɛ.ɔ
-e̠ú	ɛ.u
-e̠é̥	ɛ.ɨ
-e̠ú̠	ɛ.ʊ
-e̠é̠	ɛ.ɛ
-e̠á̠	ɛ.ɑ
-e̠e̯	ɛ.e
-e̠i̯	ɛ.i
-e̠a̯	ɛ.a
-e̠o̯	ɛ.ɔ
-a̠a	ɑ.a
-a̠e	ɑ.e
-a̠i	ɑ.i
-a̠o	ɑ.ɔ
-a̠u	ɑ.u
-a̠e̥	ɑ.ɨ
-a̠u̠	ɑ.ʊ
-a̠e̠	ɑ.ɛ
-a̠a̠	ɑ.ɑ
-a̠á	ɑ.a
-a̠é	ɑ.e
-a̠í	ɑ.i
-a̠ó	ɑ.ɔ
-a̠ú	ɑ.u
-a̠é̥	ɑ.ɨ
-a̠ú̠	ɑ.ʊ
-a̠é̠	ɑ.ɛ
-a̠á̠	ɑ.ɑ
-a̠e̯	ɑ.e
-a̠i̯	ɑ.i
-a̠a̯	ɑ.a
-a̠o̯	ɑ.ɔ
-áa	a.a
-áe	a.e
-ái	a.i
-áo	a.ɔ
-áu	a.u
-áe̥	a.ɨ
-áu̠	a.ʊ
-áe̠	a.ɛ
-áa̠	a.ɑ
-áá	a.a
-áé	a.e
-áí	a.i
-áó	a.ɔ
-áú	a.u
-áé̥	a.ɨ
-áú̠	a.ʊ
-áé̠	a.ɛ
-áá̠	a.ɑ
-áe̯	a.e
-ái̯	a.i
-áa̯	a.a
-áo̯	a.ɔ
-éa	e.a
-ée	e.e
-éi	e.i
-éo	e.ɔ
-éu	e.u
-ée̥	e.ɨ
-éu̠	e.ʊ
-ée̠	e.ɛ
-éa̠	e.ɑ
-éá	e.a
-éé	e.e
-éí	e.i
-éó	e.ɔ
-éú	e.u
-éé̥	e.ɨ
-éú̠	e.ʊ
-éé̠	e.ɛ
-éá̠	e.ɑ
-ée̯	e.e
-éi̯	e.i
-éa̯	e.a
-éo̯	e.ɔ
-ía	j a
-íe	j e
-íi	i.i
-ío	j ɔ
-íu	j u
-íe̥	j ɨ
-íu̠	j ʊ
-íe̠	j ɛ
-ía̠	j ɑ
-íá	j a
-íé	j e
-íí	i.i
-íó	j ɔ
-íú	j u
-íé̥	j ɨ
-íú̠	j ʊ
-íé̠	j ɛ
-íá̠	j ɑ
-íe̯	j e
-íi̯	i.i
-ía̯	j a
-ío̯	j ɔ
-óa	w a
-óe	ɔ.e
-ói	ɔ.i
-óo	ɔ.ɔ
-óu	ɔ.u
-óe̥	w ɨ
-óu̠	ɔ.ʊ
-óe̠	ɔ.ɛ
-óa̠	w ɑ
-óá	w a
-óé	ɔ.e
-óí	ɔ.i
-óó	ɔ.ɔ
-óú	ɔ.u
-óé̥	ɔ.ɨ
-óú̠	ɔ.ʊ
-óé̠	ɔ.ɛ
-óá̠	w ɑ
-óe̯	ɔ.e
-ói̯	ɔ.i
-óa̯	w a
-óo̯	ɔ.ɔ
-úa	w a
-úe	w e
-úi	w i
-úo	w ɔ
-úu	u.u
-úe̥	w ɨ
-úu̠	w ʊ
-úe̠	w ɛ
-úa̠	w ɑ
-úá	w a
-úé	w e
-úí	w i
-úó	w ɔ
-úú	u.u
-úé̥	w ɨ
-úú̠	w ʊ
-úé̠	w ɛ
-úá̠	w ɑ
-úe̯	w e
-úi̯	w i
-úa̯	w a
-úo̯	w ɔ
-é̥a	ɨ.a
-é̥e	ɨ.e
-é̥i	ɨ.i
-é̥o	ɨ.ɔ
-é̥u	ɨ.u
-é̥e̥	ɨ.ɨ
-é̥u̠	ɨ.ʊ
-é̥e̠	ɨ.ɛ
-é̥a̠	ɨ.ɑ
-é̥á	ɨ.a
-é̥é	ɨ.e
-é̥í	ɨ.i
-é̥ó	ɨ.ɔ
-é̥ú	ɨ.u
-é̥é̥	ɨ.ɨ
-é̥ú̠	ɨ.ʊ
-é̥é̠	ɨ.ɛ
-é̥á̠	ɨ.ɑ
-é̥e̯	ɨ.e
-é̥i̯	ɨ.i
-é̥a̯	ɨ.a
-é̥o̯	ɨ.ɔ
-ú̠a	w a
-ú̠e	w e
-ú̠i	w i
-ú̠o	w ɔ
-ú̠u	ʊ.u
-ú̠e̥	w ɨ
-ú̠u̠	ʊ.ʊ
-ú̠e̠	w ɛ
-ú̠a̠	w ɑ
-ú̠á	w a
-ú̠é	w e
-ú̠í	w i
-ú̠ó	w ɔ
-ú̠ú	ʊ.u
-ú̠é̥	w ɨ
-ú̠ú̠	ʊ.ʊ
-ú̠é̠	w ɛ
-ú̠á̠	w ɑ
-ú̠e̯	w e
-ú̠i̯	w i
-ú̠a̯	w a
-ú̠o̯	w ɔ
-é̠a	ɛ.a
-é̠e	ɛ.e
-é̠i	ɛ.i
-é̠o	ɛ.ɔ
-é̠u	ɛ.u
-é̠e̥	ɛ.ɨ
-é̠u̠	ɛ.ʊ
-é̠e̠	ɛ.ɛ
-é̠a̠	ɛ.ɑ
-é̠á	ɛ.a
-é̠é	ɛ.e
-é̠í	ɛ.i
-é̠ó	ɛ.ɔ
-é̠ú	ɛ.u
-é̠é̥	ɛ.ɨ
-é̠ú̠	ɛ.ʊ
-é̠é̠	ɛ.ɛ
-é̠á̠	ɛ.ɑ
-é̠e̯	ɛ.e
-é̠i̯	ɛ.i
-é̠a̯	ɛ.a
-é̠o̯	ɛ.ɔ
-á̠a	ɑ.a
-á̠e	ɑ.e
-á̠i	ɑ.i
-á̠o	ɑ.ɔ
-á̠u	ɑ.u
-á̠e̥	ɑ.ɨ
-á̠u̠	ɑ.ʊ
-á̠e̠	ɑ.ɛ
-á̠a̠	ɑ.ɑ
-á̠á	ɑ.a
-á̠é	ɑ.e
-á̠í	ɑ.i
-á̠ó	ɑ.ɔ
-á̠ú	ɑ.u
-á̠é̥	ɑ.ɨ
-á̠ú̠	ɑ.ʊ
-á̠é̠	ɑ.ɛ
-á̠á̠	ɑ.ɑ
-á̠e̯	ɑ.e
-á̠i̯	ɑ.i
-á̠a̯	ɑ.a
-á̠o̯	ɑ.ɔ
-ũũ	ũ.ũ
-ṹũ	ũ.ũ
-ũṹ	ũ.ũ
-ũõã	ũ ɔ̃.ã
-õã	ɔ̃.ã	
-ṹẽ	w̃ ẽ
-pũẽ́	p ũ.ẽ
-ãẽ	ã.ẽ
-ã́ẽ	ã.ẽ
-ãẽ́	ã.ẽ
-gṹẽ	g ũ.ẽ
-mĩ́ã	m ĩ.ã
-nĩ́ã	n ĩ.ã
-nṹõ	n ũ.ɔ̃
-ĩã́ẽ	ĩ ã.ẽ
-mẽá	m ẽ.a
-mẽã	m ẽ.ã
-mẽ́ã	m ẽ.ã
-muía	m u j a
-miué̠a	m i w ɛ.a
-niu̯	n i.u
-é̠oa	ɛ w a
-ū́a	u.u a
-ue̥é̥	w ɨ.ɨ
-ue̥e̥	w ɨ.ɨ
-ué̥̥e̥	w ɨ.ɨ
-uií	w i.i
-uī́	w i.i
-iā́	j a.a
-siáa	s i a.a
-aúioa	a.u j ɔ.a
-oā	ɔ a.a
-óio̯	ɔ j ɔ
-ué̠a	w ɛ.a
-xh	h
-ai̯uá	a j u.a
-ouo̯úo	ɔ w ɔ w ɔ
-diaúe	d i.a w e
-íai̯ua	i.a j u.a
-ī́oa	i.i w a   
-uai̯	w a.i
-e̥iḗ̠	ɨ j ɛ.ɛ
-au̯ī	a w i.i
-uai	w a.i
-uái	w a.i
-uaí	w a.i
-é̥ue̠i	ɨ w ɛ.i 
-auī́	a w i.i
-aúe̠	a w ɛ
-áue̯	a w ɛ
-íe̠i̯	i ɛ.i
-áoa	a w a
-uaa	w a.a
-nioi̯	n i ɔ.i
-a̠úa	ɑ w a
-ue̥a	w ɨ.a
-aue̯	a w e
-au̯ā́	a w a.a
-e̠ía	ɛ j a
-uaúa	w a w a
-yau̯	j a.u
-iuī́	i w i.i
-wiī́ue̯	w i i.i w e
-luái	ɺ u a.i
-áuo̯	a w ɔ
-iuḗ̠	i w ɛ.ɛ
-diaúe̥	d i.a w ɨ
-uai̯y	w a.i j
-au̯ía	a w i.a
-au̯iía	a w i i.a
-hue̠uá	h u.ɛ w a
-yau̯ā	j a w a.a
-uauáka	w a w a k a
-ḥṓuai̯	h ɔ.ɔ w a.i
-yau̯e̠é̠	j a w ɛ.ɛ
-e̠uī́	ɛ w i.i	
-nĩe	n ĩ.e
-poa	p ɔ.a
-poe	p ɔ.e
-poi	p ɔ.i
-poe̥	p ɔ.ɨ
-poa̠	p ɔ.ɑ
-poe̠	p ɔ.ɛ
-poá	p ɔ.a
-poé	p ɔ.e
-poí	p ɔ.i
-poé̥	p ɔ.ɨ
-poá̠	p ɔ.ɑ
-poé̠	p ɔ.ɛ
-póa	p ɔ.a
-póe	p ɔ.e
-pói	p ɔ.i
-póe̥	p ɔ.ɨ
-póa̠	p ɔ.ɑ
-póe̠	p ɔ.ɛ
-póá	p ɔ.a
-póé	p ɔ.e
-póí	p ɔ.i
-póé̥	p ɔ.ɨ
-póá̠	p ɔ.ɑ
-póé̠	p ɔ.ɛ
-pua	p u.a
-pue	p u.e
-pui	p u.i
-puo	p u.ɔ
-pue̥	p u.ɨ
-pua̠	p u.ɑ
-pue̠	p u.ɛ
-puá	p u.a
-pué	p u.e
-puí	p u.i
-puó	p u.ɔ
-pué̥	p u.ɨ
-puá̠	p u.ɑ
-pué̠	p u.ɛ
-púa	p u.a
-púe	p u.e
-púi	p u.i
-púo	p u.ɔ
-púe̥	p u.ɨ
-púa̠	p u.ɑ
-púe̠	p u.ɛ
-púá	p u.a
-púé	p u.e
-púí	p u.i
-púó	p u.ɔ
-púé̥	p u.ɨ
-púá̠	p u.ɑ
-púé̠	p u.ɛ
-toa	t ɔ.a
-toe	t ɔ.e
-toi	t ɔ.i
-toe̥	t ɔ.ɨ
-toa̠	t ɔ.ɑ
-toe̠	t ɔ.ɛ
-toá	t ɔ.a
-toé	t ɔ.e
-toí	t ɔ.i
-toé̥	t ɔ.ɨ
-toá̠	t ɔ.ɑ
-toé̠	t ɔ.ɛ
-tóa	t ɔ.a
-tóe	t ɔ.e
-tói	t ɔ.i
-tóe̥	t ɔ.ɨ
-tóa̠	t ɔ.ɑ
-tóe̠	t ɔ.ɛ
-tóá	t ɔ.a
-tóé	t ɔ.e
-tóí	t ɔ.i
-tóé̥	t ɔ.ɨ
-tóá̠	t ɔ.ɑ
-tóé̠	t ɔ.ɛ
-koa	k ɔ.a
-koe	k ɔ.e
-koi	k ɔ.i
-koe̥	k ɔ.ɨ
-koa̠	k ɔ.ɑ
-koe̠	k ɔ.ɛ
-koá	k ɔ.a
-koé	k ɔ.e
-koí	k ɔ.i
-koé̥	k ɔ.ɨ
-koá̠	k ɔ.ɑ
-koé̠	k ɔ.ɛ
-kóa	k ɔ.a
-kóe	k ɔ.e
-kói	k ɔ.i
-kóe̥	k ɔ.ɨ
-kóa̠	k ɔ.ɑ
-kóe̠	k ɔ.ɛ
-kóá	k ɔ.a
-kóé	k ɔ.e
-kóí	k ɔ.i
-kóé̥	k ɔ.ɨ
-kóá̠	k ɔ.ɑ
-kóé̠	k ɔ.ɛ
-soa	s ɔ.a
-soe	s ɔ.e
-soi	s ɔ.i
-soe̥	s ɔ.ɨ
-soa̠	s ɔ.ɑ
-soe̠	s ɔ.ɛ
-soá	s ɔ.a
-soé	s ɔ.e
-soí	s ɔ.i
-soé̥	s ɔ.ɨ
-soá̠	s ɔ.ɑ
-soé̠	s ɔ.ɛ
-sóa	s ɔ.a
-sóe	s ɔ.e
-sói	s ɔ.i
-sóe̥	s ɔ.ɨ
-sóa̠	s ɔ.ɑ
-sóe̠	s ɔ.ɛ
-sóá	s ɔ.a
-sóé	s ɔ.e
-sóí	s ɔ.i
-sóé̥	s ɔ.ɨ
-sóá̠	s ɔ.ɑ
-sóé̠	s ɔ.ɛ
-boa	b ɔ.a
-boe	b ɔ.e
-boi	b ɔ.i
-boe̥	b ɔ.ɨ
-boa̠	b ɔ.ɑ
-boe̠	b ɔ.ɛ
-boá	b ɔ.a
-boé	b ɔ.e
-boí	b ɔ.i
-boé̥	b ɔ.ɨ
-boá̠	b ɔ.ɑ
-boé̠	b ɔ.ɛ
-bóa	b ɔ.a
-bóe	b ɔ.e
-bói	b ɔ.i
-bóe̥	b ɔ.ɨ
-bóa̠	b ɔ.ɑ
-bóe̠	b ɔ.ɛ
-bóá	b ɔ.a
-bóé	b ɔ.e
-bóí	b ɔ.i
-bóé̥	b ɔ.ɨ
-bóá̠	b ɔ.ɑ
-bóé̠	b ɔ.ɛ
-doa	d ɔ.a
-doe	d ɔ.e
-doi	d ɔ.i
-doe̥	d ɔ.ɨ
-doa̠	d ɔ.ɑ
-doe̠	d ɔ.ɛ
-doá	d ɔ.a
-doé	d ɔ.e
-doí	d ɔ.i
-doé̥	d ɔ.ɨ
-doá̠	d ɔ.ɑ
-doé̠	d ɔ.ɛ
-dóa	d ɔ.a
-dóe	d ɔ.e
-dói	d ɔ.i
-dóe̥	d ɔ.ɨ
-dóa̠	d ɔ.ɑ
-dóe̠	d ɔ.ɛ
-dóá	d ɔ.a
-dóé	d ɔ.e
-dóí	d ɔ.i
-dóé̥	d ɔ.ɨ
-dóá̠	d ɔ.ɑ
-dóé̠	d ɔ.ɛ
-goa	g ɔ.a
-goe	g ɔ.e
-goi	g ɔ.i
-goe̥	g ɔ.ɨ
-goa̠	g ɔ.ɑ
-goe̠	g ɔ.ɛ
-goá	g ɔ.a
-goé	g ɔ.e
-goí	g ɔ.i
-goé̥	g ɔ.ɨ
-goá̠	g ɔ.ɑ
-goé̠	g ɔ.ɛ
-góa	g ɔ.a
-góe	g ɔ.e
-gói	g ɔ.i
-góe̥	g ɔ.ɨ
-góa̠	g ɔ.ɑ
-góe̠	g ɔ.ɛ
-góá	g ɔ.a
-góé	g ɔ.e
-góí	g ɔ.i
-góé̥	g ɔ.ɨ
-góá̠	g ɔ.ɑ
-góé̠	g ɔ.ɛ
-moa	m ɔ.a
-moe	m ɔ.e
-moi	m ɔ.i
-moe̥	m ɔ.ɨ
-moa̠	m ɔ.ɑ
-moe̠	m ɔ.ɛ
-moá	m ɔ.a
-moé	m ɔ.e
-moí	m ɔ.i
-moé̥	m ɔ.ɨ
-moá̠	m ɔ.ɑ
-moé̠	m ɔ.ɛ
-móa	m ɔ.a
-móe	m ɔ.e
-mói	m ɔ.i
-móe̥	m ɔ.ɨ
-móa̠	m ɔ.ɑ
-móe̠	m ɔ.ɛ
-móá	m ɔ.a
-móé	m ɔ.e
-móí	m ɔ.i
-móé̥	m ɔ.ɨ
-móá̠	m ɔ.ɑ
-móé̠	m ɔ.ɛ
-noa	n ɔ.a
-noe	n ɔ.e
-noi	n ɔ.i
-noe̥	n ɔ.ɨ
-noa̠	n ɔ.ɑ
-noe̠	n ɔ.ɛ
-noá	n ɔ.a
-noé	n ɔ.e
-noí	n ɔ.i
-noé̥	n ɔ.ɨ
-noá̠	n ɔ.ɑ
-noé̠	n ɔ.ɛ
-nóa	n ɔ.a
-nóe	n ɔ.e
-nói	n ɔ.i
-nóe̥	n ɔ.ɨ
-nóa̠	n ɔ.ɑ
-nóe̠	n ɔ.ɛ
-nóá	n ɔ.a
-nóé	n ɔ.e
-nóí	n ɔ.i
-nóé̥	n ɔ.ɨ
-nóá̠	n ɔ.ɑ
-nóé̠	n ɔ.ɛ
-ṅoa	ŋ ɔ.a
-ṅoe	ŋ ɔ.e
-ṅoi	ŋ ɔ.i
-ṅoe̥	ŋ ɔ.ɨ
-ṅoa̠	ŋ ɔ.ɑ
-ṅoe̠	ŋ ɔ.ɛ
-ṅoá	ŋ ɔ.a
-ṅoé	ŋ ɔ.e
-ṅoí	ŋ ɔ.i
-ṅoé̥	ŋ ɔ.ɨ
-ṅoá̠	ŋ ɔ.ɑ
-ṅoé̠	ŋ ɔ.ɛ
-ṅóa	ŋ ɔ.a
-ṅóe	ŋ ɔ.e
-ṅói	ŋ ɔ.i
-ṅóe̥	ŋ ɔ.ɨ
-ṅóa̠	ŋ ɔ.ɑ
-ṅóe̠	ŋ ɔ.ɛ
-ṅóá	ŋ ɔ.a
-ṅóé	ŋ ɔ.e
-ṅóí	ŋ ɔ.i
-ṅóé̥	ŋ ɔ.ɨ
-ṅóá̠	ŋ ɔ.ɑ
-ṅóé̠	ŋ ɔ.ɛ
-hoa	h ɔ.a
-hoe	h ɔ.e
-hoi	h ɔ.i
-hoe̥	h ɔ.ɨ
-hoa̠	h ɔ.ɑ
-hoe̠	h ɔ.ɛ
-hoá	h ɔ.a
-hoé	h ɔ.e
-hoí	h ɔ.i
-hoé̥	h ɔ.ɨ
-hoá̠	h ɔ.ɑ
-hoé̠	h ɔ.ɛ
-hóa	h ɔ.a
-hóe	h ɔ.e
-hói	h ɔ.i
-hóe̥	h ɔ.ɨ
-hóa̠	h ɔ.ɑ
-hóe̠	h ɔ.ɛ
-hóá	h ɔ.a
-hóé	h ɔ.e
-hóí	h ɔ.i
-hóé̥	h ɔ.ɨ
-hóá̠	h ɔ.ɑ
-hóé̠	h ɔ.ɛ
-ḥoa	h ɔ.a
-ḥoe	h ɔ.e
-ḥoi	h ɔ.i
-ḥoe̥	h ɔ.ɨ
-ḥoa̠	h ɔ.ɑ
-ḥoe̠	h ɔ.ɛ
-ḥoá	h ɔ.a
-ḥoé	h ɔ.e
-ḥoí	h ɔ.i
-ḥoé̥	h ɔ.ɨ
-ḥoá̠	h ɔ.ɑ
-ḥoé̠	h ɔ.ɛ
-ḥóa	h ɔ.a
-ḥóe	h ɔ.e
-ḥói	h ɔ.i
-ḥóe̥	h ɔ.ɨ
-ḥóa̠	h ɔ.ɑ
-ḥóe̠	h ɔ.ɛ
-ḥóá	h ɔ.a
-ḥóé	h ɔ.e
-ḥóí	h ɔ.i
-ḥóé̥	h ɔ.ɨ
-ḥóá̠	h ɔ.ɑ
-ḥóé̠	h ɔ.ɛ
-yoa	j ɔ.a
-yoe	j ɔ.e
-yoi	j ɔ.i
-yoe̥	j ɔ.ɨ
-yoa̠	j ɔ.ɑ
-yoe̠	j ɔ.ɛ
-yoá	j ɔ.a
-yoé	j ɔ.e
-yoí	j ɔ.i
-yoé̥	j ɔ.ɨ
-yoá̠	j ɔ.ɑ
-yoé̠	j ɔ.ɛ
-yóa	j ɔ.a
-yóe	j ɔ.e
-yói	j ɔ.i
-yóe̥	j ɔ.ɨ
-yóa̠	j ɔ.ɑ
-yóe̠	j ɔ.ɛ
-yóá	j ɔ.a
-yóé	j ɔ.e
-yóí	j ɔ.i
-yóé̥	j ɔ.ɨ
-yóá̠	j ɔ.ɑ
-yóé̠	j ɔ.ɛ
-tua	t u.a
-tue	t u.e
-tui	t u.i
-tuo	t u.ɔ
-tue̥	t u.ɨ
-tua̠	t u.ɑ
-tue̠	t u.ɛ
-tuá	t u.a
-tué	t u.e
-tuí	t u.i
-tuó	t u.ɔ
-tué̥	t u.ɨ
-tuá̠	t u.ɑ
-tué̠	t u.ɛ
-túa	t u.a
-túe	t u.e
-túi	t u.i
-túo	t u.ɔ
-túe̥	t u.ɨ
-túa̠	t u.ɑ
-túe̠	t u.ɛ
-túá	t u.a
-túé	t u.e
-túí	t u.i
-túó	t u.ɔ
-túé̥	t u.ɨ
-túá̠	t u.ɑ
-túé̠	t u.ɛ
-kua	k u.a
-kue	k u.e
-kui	k u.i
-kuo	k u.ɔ
-kue̥	k u.ɨ
-kua̠	k u.ɑ
-kue̠	k u.ɛ
-kuá	k u.a
-kué	k u.e
-kuí	k u.i
-kuó	k u.ɔ
-kué̥	k u.ɨ
-kuá̠	k u.ɑ
-kué̠	k u.ɛ
-kúa	k u.a
-kúe	k u.e
-kúi	k u.i
-kúo	k u.ɔ
-kúe̥	k u.ɨ
-kúa̠	k u.ɑ
-kúe̠	k u.ɛ
-kúá	k u.a
-kúé	k u.e
-kúí	k u.i
-kúó	k u.ɔ
-kúé̥	k u.ɨ
-kúá̠	k u.ɑ
-kúé̠	k u.ɛ
-sua	s u.a
-sue	s u.e
-sui	s u.i
-suo	s u.ɔ
-sue̥	s u.ɨ
-sua̠	s u.ɑ
-sue̠	s u.ɛ
-suá	s u.a
-sué	s u.e
-suí	s u.i
-suó	s u.ɔ
-sué̥	s u.ɨ
-suá̠	s u.ɑ
-sué̠	s u.ɛ
-súa	s u.a
-súe	s u.e
-súi	s u.i
-súo	s u.ɔ
-súe̥	s u.ɨ
-súa̠	s u.ɑ
-súe̠	s u.ɛ
-súá	s u.a
-súé	s u.e
-súí	s u.i
-súó	s u.ɔ
-súé̥	s u.ɨ
-súá̠	s u.ɑ
-súé̠	s u.ɛ
-bua	b u.a
-bue	b u.e
-bui	b u.i
-buo	b u.ɔ
-bue̥	b u.ɨ
-bua̠	b u.ɑ
-bue̠	b u.ɛ
-buá	b u.a
-bué	b u.e
-buí	b u.i
-buó	b u.ɔ
-bué̥	b u.ɨ
-buá̠	b u.ɑ
-bué̠	b u.ɛ
-búa	b u.a
-búe	b u.e
-búi	b u.i
-búo	b u.ɔ
-búe̥	b u.ɨ
-búa̠	b u.ɑ
-búe̠	b u.ɛ
-búá	b u.a
-búé	b u.e
-búí	b u.i
-búó	b u.ɔ
-búé̥	b u.ɨ
-búá̠	b u.ɑ
-búé̠	b u.ɛ
-dua	d u.a
-due	d u.e
-dui	d u.i
-duo	d u.ɔ
-due̥	d u.ɨ
-dua̠	d u.ɑ
-due̠	d u.ɛ
-duá	d u.a
-dué	d u.e
-duí	d u.i
-duó	d u.ɔ
-dué̥	d u.ɨ
-duá̠	d u.ɑ
-dué̠	d u.ɛ
-dúa	d u.a
-dúe	d u.e
-dúi	d u.i
-dúo	d u.ɔ
-dúe̥	d u.ɨ
-dúa̠	d u.ɑ
-dúe̠	d u.ɛ
-dúá	d u.a
-dúé	d u.e
-dúí	d u.i
-dúó	d u.ɔ
-dúé̥	d u.ɨ
-dúá̠	d u.ɑ
-dúé̠	d u.ɛ
-gua	g u.a
-gue	g u.e
-gui	g u.i
-guo	g u.ɔ
-gue̥	g u.ɨ
-gua̠	g u.ɑ
-gue̠	g u.ɛ
-guá	g u.a
-gué	g u.e
-guí	g u.i
-guó	g u.ɔ
-gué̥	g u.ɨ
-guá̠	g u.ɑ
-gué̠	g u.ɛ
-gúa	g u.a
-gúe	g u.e
-gúi	g u.i
-gúo	g u.ɔ
-gúe̥	g u.ɨ
-gúa̠	g u.ɑ
-gúe̠	g u.ɛ
-gúá	g u.a
-gúé	g u.e
-gúí	g u.i
-gúó	g u.ɔ
-gúé̥	g u.ɨ
-gúá̠	g u.ɑ
-gúé̠	g u.ɛ
-mua	m u.a
-mue	m u.e
-mui	m u.i
-muo	m u.ɔ
-mue̥	m u.ɨ
-mua̠	m u.ɑ
-mue̠	m u.ɛ
-muá	m u.a
-mué	m u.e
-muí	m u.i
-muó	m u.ɔ
-mué̥	m u.ɨ
-muá̠	m u.ɑ
-mué̠	m u.ɛ
-múa	m u.a
-múe	m u.e
-múi	m u.i
-múo	m u.ɔ
-múe̥	m u.ɨ
-múa̠	m u.ɑ
-múe̠	m u.ɛ
-múá	m u.a
-múé	m u.e
-múí	m u.i
-múó	m u.ɔ
-múé̥	m u.ɨ
-múá̠	m u.ɑ
-múé̠	m u.ɛ
-nua	n u.a
-nue	n u.e
-nui	n u.i
-nuo	n u.ɔ
-nue̥	n u.ɨ
-nua̠	n u.ɑ
-nue̠	n u.ɛ
-nuá	n u.a
-nué	n u.e
-nuí	n u.i
-nuó	n u.ɔ
-nué̥	n u.ɨ
-nuá̠	n u.ɑ
-nué̠	n u.ɛ
-núa	n u.a
-núe	n u.e
-núi	n u.i
-núo	n u.ɔ
-núe̥	n u.ɨ
-núa̠	n u.ɑ
-núe̠	n u.ɛ
-núá	n u.a
-núé	n u.e
-núí	n u.i
-núó	n u.ɔ
-núé̥	n u.ɨ
-núá̠	n u.ɑ
-núé̠	n u.ɛ
-ṅua	ŋ u.a
-ṅue	ŋ u.e
-ṅui	ŋ u.i
-ṅuo	ŋ u.ɔ
-ṅue̥	ŋ u.ɨ
-ṅua̠	ŋ u.ɑ
-ṅue̠	ŋ u.ɛ
-ṅuá	ŋ u.a
-ṅué	ŋ u.e
-ṅuí	ŋ u.i
-ṅuó	ŋ u.ɔ
-ṅué̥	ŋ u.ɨ
-ṅuá̠	ŋ u.ɑ
-ṅué̠	ŋ u.ɛ
-ṅúa	ŋ u.a
-ṅúe	ŋ u.e
-ṅúi	ŋ u.i
-ṅúo	ŋ u.ɔ
-ṅúe̥	ŋ u.ɨ
-ṅúa̠	ŋ u.ɑ
-ṅúe̠	ŋ u.ɛ
-ṅúá	ŋ u.a
-ṅúé	ŋ u.e
-ṅúí	ŋ u.i
-ṅúó	ŋ u.ɔ
-ṅúé̥	ŋ u.ɨ
-ṅúá̠	ŋ u.ɑ
-ṅúé̠	ŋ u.ɛ
-hua	h u.a
-hue	h u.e
-hui	h u.i
-huo	h u.ɔ
-hue̥	h u.ɨ
-hua̠	h u.ɑ
-hue̠	h u.ɛ
-huá	h u.a
-hué	h u.e
-huí	h u.i
-huó	h u.ɔ
-hué̥	h u.ɨ
-huá̠	h u.ɑ
-hué̠	h u.ɛ
-húa	h u.a
-húe	h u.e
-húi	h u.i
-húo	h u.ɔ
-húe̥	h u.ɨ
-húa̠	h u.ɑ
-húe̠	h u.ɛ
-húá	h u.a
-húé	h u.e
-húí	h u.i
-húó	h u.ɔ
-húé̥	h u.ɨ
-húá̠	h u.ɑ
-húé̠	h u.ɛ
-ḥua	h u.a
-ḥue	h u.e
-ḥui	h u.i
-ḥuo	h u.ɔ
-ḥue̥	h u.ɨ
-ḥua̠	h u.ɑ
-ḥue̠	h u.ɛ
-ḥuá	h u.a
-ḥué	h u.e
-ḥuí	h u.i
-ḥuó	h u.ɔ
-ḥué̥	h u.ɨ
-ḥuá̠	h u.ɑ
-ḥué̠	h u.ɛ
-ḥúa	h u.a
-ḥúe	h u.e
-ḥúi	h u.i
-ḥúo	h u.ɔ
-ḥúe̥	h u.ɨ
-ḥúa̠	h u.ɑ
-ḥúe̠	h u.ɛ
-ḥúá	h u.a
-ḥúé	h u.e
-ḥúí	h u.i
-ḥúó	h u.ɔ
-ḥúé̥	h u.ɨ
-ḥúá̠	h u.ɑ
-ḥúé̠	h u.ɛ
-yua	j u.a
-yue	j u.e
-yui	j u.i
-yuo	j u.ɔ
-yue̥	j u.ɨ
-yua̠	j u.ɑ
-yue̠	j u.ɛ
-yuá	j u.a
-yué	j u.e
-yuí	j u.i
-yuó	j u.ɔ
-yué̥	j u.ɨ
-yuá̠	j u.ɑ
-yué̠	j u.ɛ
-yúa	j u.a
-yúe	j u.e
-yúi	j u.i
-yúo	j u.ɔ
-yúe̥	j u.ɨ
-yúa̠	j u.ɑ
-yúe̠	j u.ɛ
-yúá	j u.a
-yúé	j u.e
-yúí	j u.i
-yúó	j u.ɔ
-yúé̥	j u.ɨ
-yúá̠	j u.ɑ
-yúé̠	j u.ɛ
-pu̠a	p ʊ.a
-pu̠e	p ʊ.e
-pu̠i	p ʊ.i
-pu̠o	p ʊ.ɔ
-pu̠e̥	p ʊ.ɨ
-pu̠a̠	p ʊ.ɑ
-pu̠e̠	p ʊ.ɛ
-pu̠á	p ʊ.a
-pu̠é	p ʊ.e
-pu̠í	p ʊ.i
-pu̠ó	p ʊ.ɔ
-pu̠é̥	p ʊ.ɨ
-pu̠á̠	p ʊ.ɑ
-pu̠é̠	p ʊ.ɛ
-tu̠a	t ʊ.a
-tu̠e	t ʊ.e
-tu̠i	t ʊ.i
-tu̠o	t ʊ.ɔ
-tu̠e̥	t ʊ.ɨ
-tu̠a̠	t ʊ.ɑ
-tu̠e̠	t ʊ.ɛ
-tu̠á	t ʊ.a
-tu̠é	t ʊ.e
-tu̠í	t ʊ.i
-tu̠ó	t ʊ.ɔ
-tu̠é̥	t ʊ.ɨ
-tu̠á̠	t ʊ.ɑ
-tu̠é̠	t ʊ.ɛ
-ku̠a	k ʊ.a
-ku̠e	k ʊ.e
-ku̠i	k ʊ.i
-ku̠o	k ʊ.ɔ
-ku̠e̥	k ʊ.ɨ
-ku̠a̠	k ʊ.ɑ
-ku̠e̠	k ʊ.ɛ
-ku̠á	k ʊ.a
-ku̠é	k ʊ.e
-ku̠í	k ʊ.i
-ku̠ó	k ʊ.ɔ
-ku̠é̥	k ʊ.ɨ
-ku̠á̠	k ʊ.ɑ
-ku̠é̠	k ʊ.ɛ
-su̠a	s ʊ.a
-su̠e	s ʊ.e
-su̠i	s ʊ.i
-su̠o	s ʊ.ɔ
-su̠e̥	s ʊ.ɨ
-su̠a̠	s ʊ.ɑ
-su̠e̠	s ʊ.ɛ
-su̠á	s ʊ.a
-su̠é	s ʊ.e
-su̠í	s ʊ.i
-su̠ó	s ʊ.ɔ
-su̠é̥	s ʊ.ɨ
-su̠á̠	s ʊ.ɑ
-su̠é̠	s ʊ.ɛ
-bu̠a	b ʊ.a
-bu̠e	b ʊ.e
-bu̠i	b ʊ.i
-bu̠o	b ʊ.ɔ
-bu̠e̥	b ʊ.ɨ
-bu̠a̠	b ʊ.ɑ
-bu̠e̠	b ʊ.ɛ
-bu̠á	b ʊ.a
-bu̠é	b ʊ.e
-bu̠í	b ʊ.i
-bu̠ó	b ʊ.ɔ
-bu̠é̥	b ʊ.ɨ
-bu̠á̠	b ʊ.ɑ
-bu̠é̠	b ʊ.ɛ
-du̠a	d ʊ.a
-du̠e	d ʊ.e
-du̠i	d ʊ.i
-du̠o	d ʊ.ɔ
-du̠e̥	d ʊ.ɨ
-du̠a̠	d ʊ.ɑ
-du̠e̠	d ʊ.ɛ
-du̠á	d ʊ.a
-du̠é	d ʊ.e
-du̠í	d ʊ.i
-du̠ó	d ʊ.ɔ
-du̠é̥	d ʊ.ɨ
-du̠á̠	d ʊ.ɑ
-du̠é̠	d ʊ.ɛ
-gu̠a	g ʊ.a
-gu̠e	g ʊ.e
-gu̠i	g ʊ.i
-gu̠o	g ʊ.ɔ
-gu̠e̥	g ʊ.ɨ
-gu̠a̠	g ʊ.ɑ
-gu̠e̠	g ʊ.ɛ
-gu̠á	g ʊ.a
-gu̠é	g ʊ.e
-gu̠í	g ʊ.i
-gu̠ó	g ʊ.ɔ
-gu̠é̥	g ʊ.ɨ
-gu̠á̠	g ʊ.ɑ
-gu̠é̠	g ʊ.ɛ
-mu̠a	m ʊ.a
-mu̠e	m ʊ.e
-mu̠i	m ʊ.i
-mu̠o	m ʊ.ɔ
-mu̠e̥	m ʊ.ɨ
-mu̠a̠	m ʊ.ɑ
-mu̠e̠	m ʊ.ɛ
-mu̠á	m ʊ.a
-mu̠é	m ʊ.e
-mu̠í	m ʊ.i
-mu̠ó	m ʊ.ɔ
-mu̠é̥	m ʊ.ɨ
-mu̠á̠	m ʊ.ɑ
-mu̠é̠	m ʊ.ɛ
-nu̠a	n ʊ.a
-nu̠e	n ʊ.e
-nu̠i	n ʊ.i
-nu̠o	n ʊ.ɔ
-nu̠e̥	n ʊ.ɨ
-nu̠a̠	n ʊ.ɑ
-nu̠e̠	n ʊ.ɛ
-nu̠á	n ʊ.a
-nu̠é	n ʊ.e
-nu̠í	n ʊ.i
-nu̠ó	n ʊ.ɔ
-nu̠é̥	n ʊ.ɨ
-nu̠á̠	n ʊ.ɑ
-nu̠é̠	n ʊ.ɛ
-ṅu̠a	ŋ ʊ.a
-ṅu̠e	ŋ ʊ.e
-ṅu̠i	ŋ ʊ.i
-ṅu̠o	ŋ ʊ.ɔ
-ṅu̠e̥	ŋ ʊ.ɨ
-ṅu̠a̠	ŋ ʊ.ɑ
-ṅu̠e̠	ŋ ʊ.ɛ
-ṅu̠á	ŋ ʊ.a
-ṅu̠é	ŋ ʊ.e
-ṅu̠í	ŋ ʊ.i
-ṅu̠ó	ŋ ʊ.ɔ
-ṅu̠é̥	ŋ ʊ.ɨ
-ṅu̠á̠	ŋ ʊ.ɑ
-ṅu̠é̠	ŋ ʊ.ɛ
-hu̠a	h ʊ.a
-hu̠e	h ʊ.e
-hu̠i	h ʊ.i
-hu̠o	h ʊ.ɔ
-hu̠e̥	h ʊ.ɨ
-hu̠a̠	h ʊ.ɑ
-hu̠e̠	h ʊ.ɛ
-hu̠á	h ʊ.a
-hu̠é	h ʊ.e
-hu̠í	h ʊ.i
-hu̠ó	h ʊ.ɔ
-hu̠é̥	h ʊ.ɨ
-hu̠á̠	h ʊ.ɑ
-hu̠é̠	h ʊ.ɛ
-ḥu̠a	h ʊ.a
-ḥu̠e	h ʊ.e
-ḥu̠i	h ʊ.i
-ḥu̠o	h ʊ.ɔ
-ḥu̠e̥	h ʊ.ɨ
-ḥu̠a̠	h ʊ.ɑ
-ḥu̠e̠	h ʊ.ɛ
-ḥu̠á	h ʊ.a
-ḥu̠é	h ʊ.e
-ḥu̠í	h ʊ.i
-ḥu̠ó	h ʊ.ɔ
-ḥu̠é̥	h ʊ.ɨ
-ḥu̠á̠	h ʊ.ɑ
-ḥu̠é̠	h ʊ.ɛ
-yu̠a	j ʊ.a
-yu̠e	j ʊ.e
-yu̠i	j ʊ.i
-yu̠o	j ʊ.ɔ
-yu̠e̥	j ʊ.ɨ
-yu̠a̠	j ʊ.ɑ
-yu̠e̠	j ʊ.ɛ
-yu̠á	j ʊ.a
-yu̠é	j ʊ.e
-yu̠í	j ʊ.i
-yu̠ó	j ʊ.ɔ
-yu̠é̥	j ʊ.ɨ
-yu̠á̠	j ʊ.ɑ
-yu̠é̠	j ʊ.ɛ
-pú̠a	p ʊ.a
-pú̠e	p ʊ.e
-pú̠i	p ʊ.i
-pú̠o	p ʊ.ɔ
-pú̠e̥	p ʊ.ɨ
-pú̠a̠	p ʊ.ɑ
-pú̠e̠	p ʊ.ɛ
-pú̠á	p ʊ.a
-pú̠é	p ʊ.e
-pú̠í	p ʊ.i
-pú̠ó	p ʊ.ɔ
-pú̠é̥	p ʊ.ɨ
-pú̠á̠	p ʊ.ɑ
-pú̠é̠	p ʊ.ɛ
-tú̠a	t ʊ.a
-tú̠e	t ʊ.e
-tú̠i	t ʊ.i
-tú̠o	t ʊ.ɔ
-tú̠e̥	t ʊ.ɨ
-tú̠a̠	t ʊ.ɑ
-tú̠e̠	t ʊ.ɛ
-tú̠á	t ʊ.a
-tú̠é	t ʊ.e
-tú̠í	t ʊ.i
-tú̠ó	t ʊ.ɔ
-tú̠é̥	t ʊ.ɨ
-tú̠á̠	t ʊ.ɑ
-tú̠é̠	t ʊ.ɛ
-kú̠a	k ʊ.a
-kú̠e	k ʊ.e
-kú̠i	k ʊ.i
-kú̠o	k ʊ.ɔ
-kú̠e̥	k ʊ.ɨ
-kú̠a̠	k ʊ.ɑ
-kú̠e̠	k ʊ.ɛ
-kú̠á	k ʊ.a
-kú̠é	k ʊ.e
-kú̠í	k ʊ.i
-kú̠ó	k ʊ.ɔ
-kú̠é̥	k ʊ.ɨ
-kú̠á̠	k ʊ.ɑ
-kú̠é̠	k ʊ.ɛ
-sú̠a	s ʊ.a
-sú̠e	s ʊ.e
-sú̠i	s ʊ.i
-sú̠o	s ʊ.ɔ
-sú̠e̥	s ʊ.ɨ
-sú̠a̠	s ʊ.ɑ
-sú̠e̠	s ʊ.ɛ
-sú̠á	s ʊ.a
-sú̠é	s ʊ.e
-sú̠í	s ʊ.i
-sú̠ó	s ʊ.ɔ
-sú̠é̥	s ʊ.ɨ
-sú̠á̠	s ʊ.ɑ
-sú̠é̠	s ʊ.ɛ
-bú̠a	b ʊ.a
-bú̠e	b ʊ.e
-bú̠i	b ʊ.i
-bú̠o	b ʊ.ɔ
-bú̠e̥	b ʊ.ɨ
-bú̠a̠	b ʊ.ɑ
-bú̠e̠	b ʊ.ɛ
-bú̠á	b ʊ.a
-bú̠é	b ʊ.e
-bú̠í	b ʊ.i
-bú̠ó	b ʊ.ɔ
-bú̠é̥	b ʊ.ɨ
-bú̠á̠	b ʊ.ɑ
-bú̠é̠	b ʊ.ɛ
-dú̠a	d ʊ.a
-dú̠e	d ʊ.e
-dú̠i	d ʊ.i
-dú̠o	d ʊ.ɔ
-dú̠e̥	d ʊ.ɨ
-dú̠a̠	d ʊ.ɑ
-dú̠e̠	d ʊ.ɛ
-dú̠á	d ʊ.a
-dú̠é	d ʊ.e
-dú̠í	d ʊ.i
-dú̠ó	d ʊ.ɔ
-dú̠é̥	d ʊ.ɨ
-dú̠á̠	d ʊ.ɑ
-dú̠é̠	d ʊ.ɛ
-gú̠a	g ʊ.a
-gú̠e	g ʊ.e
-gú̠i	g ʊ.i
-gú̠o	g ʊ.ɔ
-gú̠e̥	g ʊ.ɨ
-gú̠a̠	g ʊ.ɑ
-gú̠e̠	g ʊ.ɛ
-gú̠á	g ʊ.a
-gú̠é	g ʊ.e
-gú̠í	g ʊ.i
-gú̠ó	g ʊ.ɔ
-gú̠é̥	g ʊ.ɨ
-gú̠á̠	g ʊ.ɑ
-gú̠é̠	g ʊ.ɛ
-mú̠a	m ʊ.a
-mú̠e	m ʊ.e
-mú̠i	m ʊ.i
-mú̠o	m ʊ.ɔ
-mú̠e̥	m ʊ.ɨ
-mú̠a̠	m ʊ.ɑ
-mú̠e̠	m ʊ.ɛ
-mú̠á	m ʊ.a
-mú̠é	m ʊ.e
-mú̠í	m ʊ.i
-mú̠ó	m ʊ.ɔ
-mú̠é̥	m ʊ.ɨ
-mú̠á̠	m ʊ.ɑ
-mú̠é̠	m ʊ.ɛ
-nú̠a	n ʊ.a
-nú̠e	n ʊ.e
-nú̠i	n ʊ.i
-nú̠o	n ʊ.ɔ
-nú̠e̥	n ʊ.ɨ
-nú̠a̠	n ʊ.ɑ
-nú̠e̠	n ʊ.ɛ
-nú̠á	n ʊ.a
-nú̠é	n ʊ.e
-nú̠í	n ʊ.i
-nú̠ó	n ʊ.ɔ
-nú̠é̥	n ʊ.ɨ
-nú̠á̠	n ʊ.ɑ
-nú̠é̠	n ʊ.ɛ
-ṅú̠a	ŋ ʊ.a
-ṅú̠e	ŋ ʊ.e
-ṅú̠i	ŋ ʊ.i
-ṅú̠o	ŋ ʊ.ɔ
-ṅú̠e̥	ŋ ʊ.ɨ
-ṅú̠a̠	ŋ ʊ.ɑ
-ṅú̠e̠	ŋ ʊ.ɛ
-ṅú̠á	ŋ ʊ.a
-ṅú̠é	ŋ ʊ.e
-ṅú̠í	ŋ ʊ.i
-ṅú̠ó	ŋ ʊ.ɔ
-ṅú̠é̥	ŋ ʊ.ɨ
-ṅú̠á̠	ŋ ʊ.ɑ
-ṅú̠é̠	ŋ ʊ.ɛ
-hú̠a	h ʊ.a
-hú̠e	h ʊ.e
-hú̠i	h ʊ.i
-hú̠o	h ʊ.ɔ
-hú̠e̥	h ʊ.ɨ
-hú̠a̠	h ʊ.ɑ
-hú̠e̠	h ʊ.ɛ
-hú̠á	h ʊ.a
-hú̠é	h ʊ.e
-hú̠í	h ʊ.i
-hú̠ó	h ʊ.ɔ
-hú̠é̥	h ʊ.ɨ
-hú̠á̠	h ʊ.ɑ
-hú̠é̠	h ʊ.ɛ
-ḥú̠a	h ʊ.a
-ḥú̠e	h ʊ.e
-ḥú̠i	h ʊ.i
-ḥú̠o	h ʊ.ɔ
-ḥú̠e̥	h ʊ.ɨ
-ḥú̠a̠	h ʊ.ɑ
-ḥú̠e̠	h ʊ.ɛ
-ḥú̠á	h ʊ.a
-ḥú̠é	h ʊ.e
-ḥú̠í	h ʊ.i
-ḥú̠ó	h ʊ.ɔ
-ḥú̠é̥	h ʊ.ɨ
-ḥú̠á̠	h ʊ.ɑ
-ḥú̠é̠	h ʊ.ɛ
-yú̠a	j ʊ.a
-yú̠e	j ʊ.e
-yú̠i	j ʊ.i
-yú̠o	j ʊ.ɔ
-yú̠e̥	j ʊ.ɨ
-yú̠a̠	j ʊ.ɑ
-yú̠e̠	j ʊ.ɛ
-yú̠á	j ʊ.a
-yú̠é	j ʊ.e
-yú̠í	j ʊ.i
-yú̠ó	j ʊ.ɔ
-yú̠é̥	j ʊ.ɨ
-yú̠á̠	j ʊ.ɑ
-yú̠é̠	j ʊ.ɛ
-pia	p i.a
-pie	p i.e
-piu	p i.u
-pio	p i.ɔ
-pie̥	p i.ɨ
-pia̠	p i.ɑ
-pie̠	p i.ɛ
-piá	p i.a
-pié	p i.e
-piú	p i.u
-pió	p i.ɔ
-pié̥	p i.ɨ
-piá̠	p i.ɑ
-pié̠	p i.ɛ
-pía	p i.a
-píe	p i.e
-píu	p i.u
-pío	p i.ɔ
-píe̥	p i.ɨ
-pía̠	p i.ɑ
-píe̠	p i.ɛ
-píá	p i.a
-píé	p i.e
-píú	p i.u
-píó	p i.ɔ
-píé̥	p i.ɨ
-píá̠	p i.ɑ
-píé̠	p i.ɛ
-tia	t i.a
-tie	t i.e
-tiu	t i.u
-tio	t i.ɔ
-tie̥	t i.ɨ
-tia̠	t i.ɑ
-tie̠	t i.ɛ
-tiá	t i.a
-tié	t i.e
-tiú	t i.u
-tió	t i.ɔ
-tié̥	t i.ɨ
-tiá̠	t i.ɑ
-tié̠	t i.ɛ
-tía	t i.a
-tíe	t i.e
-tíu	t i.u
-tío	t i.ɔ
-tíe̥	t i.ɨ
-tía̠	t i.ɑ
-tíe̠	t i.ɛ
-tíá	t i.a
-tíé	t i.e
-tíú	t i.u
-tíó	t i.ɔ
-tíé̥	t i.ɨ
-tíá̠	t i.ɑ
-tíé̠	t i.ɛ
-kia	k i.a
-kie	k i.e
-kiu	k i.u
-kio	k i.ɔ
-kie̥	k i.ɨ
-kia̠	k i.ɑ
-kie̠	k i.ɛ
-kiá	k i.a
-kié	k i.e
-kiú	k i.u
-kió	k i.ɔ
-kié̥	k i.ɨ
-kiá̠	k i.ɑ
-kié̠	k i.ɛ
-kía	k i.a
-kíe	k i.e
-kíu	k i.u
-kío	k i.ɔ
-kíe̥	k i.ɨ
-kía̠	k i.ɑ
-kíe̠	k i.ɛ
-kíá	k i.a
-kíé	k i.e
-kíú	k i.u
-kíó	k i.ɔ
-kíé̥	k i.ɨ
-kíá̠	k i.ɑ
-kíé̠	k i.ɛ
-sia	s i.a
-sie	s i.e
-siu	s i.u
-sio	s i.ɔ
-sie̥	s i.ɨ
-sia̠	s i.ɑ
-sie̠	s i.ɛ
-siá	s i.a
-sié	s i.e
-siú	s i.u
-sió	s i.ɔ
-sié̥	s i.ɨ
-siá̠	s i.ɑ
-sié̠	s i.ɛ
-sía	s i.a
-síe	s i.e
-síu	s i.u
-sío	s i.ɔ
-síe̥	s i.ɨ
-sía̠	s i.ɑ
-síe̠	s i.ɛ
-síá	s i.a
-síé	s i.e
-síú	s i.u
-síó	s i.ɔ
-síé̥	s i.ɨ
-síá̠	s i.ɑ
-síé̠	s i.ɛ
-mia	m i.a
-mie	m i.e
-miu	m i.u
-mio	m i.ɔ
-mie̥	m i.ɨ
-mia̠	m i.ɑ
-mie̠	m i.ɛ
-miá	m i.a
-mié	m i.e
-miú	m i.u
-mió	m i.ɔ
-mié̥	m i.ɨ
-miá̠	m i.ɑ
-mié̠	m i.ɛ
-mía	m i.a
-míe	m i.e
-míu	m i.u
-mío	m i.ɔ
-míe̥	m i.ɨ
-mía̠	m i.ɑ
-míe̠	m i.ɛ
-míá	m i.a
-míé	m i.e
-míú	m i.u
-míó	m i.ɔ
-míé̥	m i.ɨ
-míá̠	m i.ɑ
-míé̠	m i.ɛ
-nia	n i.a
-nie	n i.e
-niu	n i.u
-nio	n i.ɔ
-nie̥	n i.ɨ
-nia̠	n i.ɑ
-nie̠	n i.ɛ
-niá	n i.a
-nié	n i.e
-niú	n i.u
-nió	n i.ɔ
-nié̥	n i.ɨ
-niá̠	n i.ɑ
-nié̠	n i.ɛ
-nía	n i.a
-níe	n i.e
-níu	n i.u
-nío	n i.ɔ
-níe̥	n i.ɨ
-nía̠	n i.ɑ
-níe̠	n i.ɛ
-níá	n i.a
-níé	n i.e
-níú	n i.u
-níó	n i.ɔ
-níé̥	n i.ɨ
-níá̠	n i.ɑ
-níé̠	n i.ɛ
-ṅia	ŋ i.a
-ṅie	ŋ i.e
-ṅiu	ŋ i.u
-ṅio	ŋ i.ɔ
-ṅie̥	ŋ i.ɨ
-ṅia̠	ŋ i.ɑ
-ṅie̠	ŋ i.ɛ
-ṅiá	ŋ i.a
-ṅié	ŋ i.e
-ṅiú	ŋ i.u
-ṅió	ŋ i.ɔ
-ṅié̥	ŋ i.ɨ
-ṅiá̠	ŋ i.ɑ
-ṅié̠	ŋ i.ɛ
-hia	h i.a
-hie	h i.e
-hiu	h i.u
-hio	h i.ɔ
-hie̥	h i.ɨ
-hia̠	h i.ɑ
-hie̠	h i.ɛ
-hiá	h i.a
-hié	h i.e
-hiú	h i.u
-hió	h i.ɔ
-hié̥	h i.ɨ
-hiá̠	h i.ɑ
-hié̠	h i.ɛ
-hía	h i.a
-híe	h i.e
-híu	h i.u
-hío	h i.ɔ
-híe̥	h i.ɨ
-hía̠	h i.ɑ
-híe̠	h i.ɛ
-híá	h i.a
-híé	h i.e
-híú	h i.u
-híó	h i.ɔ
-híé̥	h i.ɨ
-híá̠	h i.ɑ
-híé̠	h i.ɛ
-ḥia	h i.a
-ḥie	h i.e
-ḥiu	h i.u
-ḥio	h i.ɔ
-ḥie̥	h i.ɨ
-ḥia̠	h i.ɑ
-ḥie̠	h i.ɛ
-ḥiá	h i.a
-ḥié	h i.e
-ḥiú	h i.u
-ḥió	h i.ɔ
-ḥié̥	h i.ɨ
-ḥiá̠	h i.ɑ
-ḥié̠	h i.ɛ
-ḥía	h i.a
-ḥíe	h i.e
-ḥíu	h i.u
-ḥío	h i.ɔ
-ḥíe̥	h i.ɨ
-ḥía̠	h i.ɑ
-ḥíe̠	h i.ɛ
-ḥíá	h i.a
-ḥíé	h i.e
-ḥíú	h i.u
-ḥíó	h i.ɔ
-ḥíé̥	h i.ɨ
-ḥíá̠	h i.ɑ
-ḥíé̠	h i.ɛ
-wia	w i.a
-wie	w i.e
-wiu	w i.u
-wio	w i.ɔ
-wie̥	w i.ɨ
-wia̠	w i.ɑ
-wie̠	w i.ɛ
-wiá	w i.a
-wié	w i.e
-wiú	w i.u
-wió	w i.ɔ
-wié̥	w i.ɨ
-wiá̠	w i.ɑ
-wié̠	w i.ɛ
-wía	w i.a
-wíe	w i.e
-wíu	w i.u
-wío	w i.ɔ
-wíe̥	w i.ɨ
-wía̠	w i.ɑ
-wíe̠	w i.ɛ
-wíá	w i.a
-wíé	w i.e
-wíú	w i.u
-wíó	w i.ɔ
-wíé̥	w i.ɨ
-wíá̠	w i.ɑ
-wíé̠	w i.ɛ
-pea	p e.a
-pei	p e.i
-peu	p e.u
-peo	p e.ɔ
-pee̥	p e.ɨ
-pea̠	p e.ɑ
-pee̠	p e.ɛ
-peá	p e.a
-peí	p e.i
-peú	p e.u
-peó	p e.ɔ
-peé̥	p e.ɨ
-peá̠	p e.ɑ
-peé̠	p e.ɛ
-péa	p e.a
-péi	p e.i
-péu	p e.u
-péo	p e.ɔ
-pée̥	p e.ɨ
-péa̠	p e.ɑ
-pée̠	p e.ɛ
-péá	p e.a
-péí	p e.i
-péú	p e.u
-péó	p e.ɔ
-péé̥	p e.ɨ
-péá̠	p e.ɑ
-péé̠	p e.ɛ
-tea	t e.a
-tei	t e.i
-teu	t e.u
-teo	t e.ɔ
-tee̥	t e.ɨ
-tea̠	t e.ɑ
-tee̠	t e.ɛ
-teá	t e.a
-teí	t e.i
-teú	t e.u
-teó	t e.ɔ
-teé̥	t e.ɨ
-teá̠	t e.ɑ
-teé̠	t e.ɛ
-téa	t e.a
-téi	t e.i
-téu	t e.u
-téo	t e.ɔ
-tée̥	t e.ɨ
-téa̠	t e.ɑ
-tée̠	t e.ɛ
-téá	t e.a
-téí	t e.i
-téú	t e.u
-téó	t e.ɔ
-téé̥	t e.ɨ
-téá̠	t e.ɑ
-téé̠	t e.ɛ
-kea	k e.a
-kei	k e.i
-keu	k e.u
-keo	k e.ɔ
-kee̥	k e.ɨ
-kea̠	k e.ɑ
-kee̠	k e.ɛ
-keá	k e.a
-keí	k e.i
-keú	k e.u
-keó	k e.ɔ
-keé̥	k e.ɨ
-keá̠	k e.ɑ
-keé̠	k e.ɛ
-kéa	k e.a
-kéi	k e.i
-kéu	k e.u
-kéo	k e.ɔ
-kée̥	k e.ɨ
-kéa̠	k e.ɑ
-kée̠	k e.ɛ
-kéá	k e.a
-kéí	k e.i
-kéú	k e.u
-kéó	k e.ɔ
-kéé̥	k e.ɨ
-kéá̠	k e.ɑ
-kéé̠	k e.ɛ
-sea	s e.a
-sei	s e.i
-seu	s e.u
-seo	s e.ɔ
-see̥	s e.ɨ
-sea̠	s e.ɑ
-see̠	s e.ɛ
-seá	s e.a
-seí	s e.i
-seú	s e.u
-seó	s e.ɔ
-seé̥	s e.ɨ
-seá̠	s e.ɑ
-seé̠	s e.ɛ
-séa	s e.a
-séi	s e.i
-séu	s e.u
-séo	s e.ɔ
-sée̥	s e.ɨ
-séa̠	s e.ɑ
-sée̠	s e.ɛ
-séá	s e.a
-séí	s e.i
-séú	s e.u
-séó	s e.ɔ
-séé̥	s e.ɨ
-séá̠	s e.ɑ
-séé̠	s e.ɛ
-bea	b e.a
-bei	b e.i
-beu	b e.u
-beo	b e.ɔ
-bee̥	b e.ɨ
-bea̠	b e.ɑ
-bee̠	b e.ɛ
-beá	b e.a
-beí	b e.i
-beú	b e.u
-beó	b e.ɔ
-beé̥	b e.ɨ
-beá̠	b e.ɑ
-beé̠	b e.ɛ
-béa	b e.a
-béi	b e.i
-béu	b e.u
-béo	b e.ɔ
-bée̥	b e.ɨ
-béa̠	b e.ɑ
-bée̠	b e.ɛ
-béá	b e.a
-béí	b e.i
-béú	b e.u
-béó	b e.ɔ
-béé̥	b e.ɨ
-béá̠	b e.ɑ
-béé̠	b e.ɛ
-dea	d e.a
-dei	d e.i
-deu	d e.u
-deo	d e.ɔ
-dee̥	d e.ɨ
-dea̠	d e.ɑ
-dee̠	d e.ɛ
-deá	d e.a
-deí	d e.i
-deú	d e.u
-deó	d e.ɔ
-deé̥	d e.ɨ
-deá̠	d e.ɑ
-deé̠	d e.ɛ
-déa	d e.a
-déi	d e.i
-déu	d e.u
-déo	d e.ɔ
-dée̥	d e.ɨ
-déa̠	d e.ɑ
-dée̠	d e.ɛ
-déá	d e.a
-déí	d e.i
-déú	d e.u
-déó	d e.ɔ
-déé̥	d e.ɨ
-déá̠	d e.ɑ
-déé̠	d e.ɛ
-gea	g e.a
-gei	g e.i
-geu	g e.u
-geo	g e.ɔ
-gee̥	g e.ɨ
-gea̠	g e.ɑ
-gee̠	g e.ɛ
-geá	g e.a
-geí	g e.i
-geú	g e.u
-geó	g e.ɔ
-geé̥	g e.ɨ
-geá̠	g e.ɑ
-geé̠	g e.ɛ
-géa	g e.a
-géi	g e.i
-géu	g e.u
-géo	g e.ɔ
-gée̥	g e.ɨ
-géa̠	g e.ɑ
-gée̠	g e.ɛ
-géá	g e.a
-géí	g e.i
-géú	g e.u
-géó	g e.ɔ
-géé̥	g e.ɨ
-géá̠	g e.ɑ
-géé̠	g e.ɛ
-mea	m e.a
-mei	m e.i
-meu	m e.u
-meo	m e.ɔ
-mee̥	m e.ɨ
-mea̠	m e.ɑ
-mee̠	m e.ɛ
-meá	m e.a
-meí	m e.i
-meú	m e.u
-meó	m e.ɔ
-meé̥	m e.ɨ
-meá̠	m e.ɑ
-meé̠	m e.ɛ
-méa	m e.a
-méi	m e.i
-méu	m e.u
-méo	m e.ɔ
-mée̥	m e.ɨ
-méa̠	m e.ɑ
-mée̠	m e.ɛ
-méá	m e.a
-méí	m e.i
-méú	m e.u
-méó	m e.ɔ
-méé̥	m e.ɨ
-méá̠	m e.ɑ
-méé̠	m e.ɛ
-nea	n e.a
-nei	n e.i
-neu	n e.u
-neo	n e.ɔ
-nee̥	n e.ɨ
-nea̠	n e.ɑ
-nee̠	n e.ɛ
-neá	n e.a
-neí	n e.i
-neú	n e.u
-neó	n e.ɔ
-neé̥	n e.ɨ
-neá̠	n e.ɑ
-neé̠	n e.ɛ
-néa	n e.a
-néi	n e.i
-néu	n e.u
-néo	n e.ɔ
-née̥	n e.ɨ
-néa̠	n e.ɑ
-née̠	n e.ɛ
-néá	n e.a
-néí	n e.i
-néú	n e.u
-néó	n e.ɔ
-néé̥	n e.ɨ
-néá̠	n e.ɑ
-néé̠	n e.ɛ
-ṅea	ŋ e.a
-ṅei	ŋ e.i
-ṅeu	ŋ e.u
-ṅeo	ŋ e.ɔ
-ṅee̥	ŋ e.ɨ
-ṅea̠	ŋ e.ɑ
-ṅee̠	ŋ e.ɛ
-ṅeá	ŋ e.a
-ṅeí	ŋ e.i
-ṅeú	ŋ e.u
-ṅeó	ŋ e.ɔ
-ṅeé̥	ŋ e.ɨ
-ṅeá̠	ŋ e.ɑ
-ṅeé̠	ŋ e.ɛ
-ṅéa	ŋ e.a
-ṅéi	ŋ e.i
-ṅéu	ŋ e.u
-ṅéo	ŋ e.ɔ
-ṅée̥	ŋ e.ɨ
-ṅéa̠	ŋ e.ɑ
-ṅée̠	ŋ e.ɛ
-ṅéá	ŋ e.a
-ṅéí	ŋ e.i
-ṅéú	ŋ e.u
-ṅéó	ŋ e.ɔ
-ṅéé̥	ŋ e.ɨ
-ṅéá̠	ŋ e.ɑ
-ṅéé̠	ŋ e.ɛ
-hea	h e.a
-hei	h e.i
-heu	h e.u
-heo	h e.ɔ
-hee̥	h e.ɨ
-hea̠	h e.ɑ
-hee̠	h e.ɛ
-heá	h e.a
-heí	h e.i
-heú	h e.u
-heó	h e.ɔ
-heé̥	h e.ɨ
-heá̠	h e.ɑ
-heé̠	h e.ɛ
-héa	h e.a
-héi	h e.i
-héu	h e.u
-héo	h e.ɔ
-hée̥	h e.ɨ
-héa̠	h e.ɑ
-hée̠	h e.ɛ
-héá	h e.a
-héí	h e.i
-héú	h e.u
-héó	h e.ɔ
-héé̥	h e.ɨ
-héá̠	h e.ɑ
-héé̠	h e.ɛ
-ḥea	h e.a
-ḥei	h e.i
-ḥeu	h e.u
-ḥeo	h e.ɔ
-ḥee̥	h e.ɨ
-ḥea̠	h e.ɑ
-ḥee̠	h e.ɛ
-ḥeá	h e.a
-ḥeí	h e.i
-ḥeú	h e.u
-ḥeó	h e.ɔ
-ḥeé̥	h e.ɨ
-ḥeá̠	h e.ɑ
-ḥeé̠	h e.ɛ
-ḥéa	h e.a
-ḥéi	h e.i
-ḥéu	h e.u
-ḥéo	h e.ɔ
-ḥée̥	h e.ɨ
-ḥéa̠	h e.ɑ
-ḥée̠	h e.ɛ
-ḥéá	h e.a
-ḥéí	h e.i
-ḥéú	h e.u
-ḥéó	h e.ɔ
-ḥéé̥	h e.ɨ
-ḥéá̠	h e.ɑ
-ḥéé̠	h e.ɛ
-wea	w e.a
-wei	w e.i
-weu	w e.u
-weo	w e.ɔ
-wee̥	w e.ɨ
-wea̠	w e.ɑ
-wee̠	w e.ɛ
-weá	w e.a
-weí	w e.i
-weú	w e.u
-weó	w e.ɔ
-weé̥	w e.ɨ
-weá̠	w e.ɑ
-weé̠	w e.ɛ
-pe̠a	p ɛ.a
-pe̠e	p ɛ.e
-pe̠i	p ɛ.i
-pe̠u	p ɛ.u
-pe̠o	p ɛ.ɔ
-pe̠e̥	p ɛ.ɨ
-pe̠a̠	p ɛ.ɑ
-pe̠á	p ɛ.a
-pe̠é	p ɛ.e
-pe̠í	p ɛ.i
-pe̠ú	p ɛ.u
-pe̠ó	p ɛ.ɔ
-pe̠é̥	p ɛ.ɨ
-pe̠á̠	p ɛ.ɑ
-te̠a	t ɛ.a
-te̠e	t ɛ.e
-te̠i	t ɛ.i
-te̠u	t ɛ.u
-te̠o	t ɛ.ɔ
-te̠e̥	t ɛ.ɨ
-te̠a̠	t ɛ.ɑ
-te̠á	t ɛ.a
-te̠é	t ɛ.e
-te̠í	t ɛ.i
-te̠ú	t ɛ.u
-te̠ó	t ɛ.ɔ
-te̠é̥	t ɛ.ɨ
-te̠á̠	t ɛ.ɑ
-ke̠a	k ɛ.a
-ke̠e	k ɛ.e
-ke̠i	k ɛ.i
-ke̠u	k ɛ.u
-ke̠o	k ɛ.ɔ
-ke̠e̥	k ɛ.ɨ
-ke̠a̠	k ɛ.ɑ
-ke̠á	k ɛ.a
-ke̠é	k ɛ.e
-ke̠í	k ɛ.i
-ke̠ú	k ɛ.u
-ke̠ó	k ɛ.ɔ
-ke̠é̥	k ɛ.ɨ
-ke̠á̠	k ɛ.ɑ
-be̠a	b ɛ.a
-be̠e	b ɛ.e
-be̠i	b ɛ.i
-be̠u	b ɛ.u
-be̠o	b ɛ.ɔ
-be̠e̥	b ɛ.ɨ
-be̠a̠	b ɛ.ɑ
-be̠á	b ɛ.a
-be̠é	b ɛ.e
-be̠í	b ɛ.i
-be̠ú	b ɛ.u
-be̠ó	b ɛ.ɔ
-be̠é̥	b ɛ.ɨ
-be̠á̠	b ɛ.ɑ
-de̠a	d ɛ.a
-de̠e	d ɛ.e
-de̠i	d ɛ.i
-de̠u	d ɛ.u
-de̠o	d ɛ.ɔ
-de̠e̥	d ɛ.ɨ
-de̠a̠	d ɛ.ɑ
-de̠á	d ɛ.a
-de̠é	d ɛ.e
-de̠í	d ɛ.i
-de̠ú	d ɛ.u
-de̠ó	d ɛ.ɔ
-de̠é̥	d ɛ.ɨ
-de̠á̠	d ɛ.ɑ
-ge̠a	g ɛ.a
-ge̠e	g ɛ.e
-ge̠i	g ɛ.i
-ge̠u	g ɛ.u
-ge̠o	g ɛ.ɔ
-ge̠e̥	g ɛ.ɨ
-ge̠a̠	g ɛ.ɑ
-ge̠á	g ɛ.a
-ge̠é	g ɛ.e
-ge̠í	g ɛ.i
-ge̠ú	g ɛ.u
-ge̠ó	g ɛ.ɔ
-ge̠é̥	g ɛ.ɨ
-ge̠á̠	g ɛ.ɑ
-me̠a	m ɛ.a
-me̠e	m ɛ.e
-me̠i	m ɛ.i
-me̠u	m ɛ.u
-me̠o	m ɛ.ɔ
-me̠e̥	m ɛ.ɨ
-me̠a̠	m ɛ.ɑ
-me̠á	m ɛ.a
-me̠é	m ɛ.e
-me̠í	m ɛ.i
-me̠ú	m ɛ.u
-me̠ó	m ɛ.ɔ
-me̠é̥	m ɛ.ɨ
-me̠á̠	m ɛ.ɑ
-ne̠a	n ɛ.a
-ne̠e	n ɛ.e
-ne̠i	n ɛ.i
-ne̠u	n ɛ.u
-ne̠o	n ɛ.ɔ
-ne̠e̥	n ɛ.ɨ
-ne̠a̠	n ɛ.ɑ
-ne̠á	n ɛ.a
-ne̠é	n ɛ.e
-ne̠í	n ɛ.i
-ne̠ú	n ɛ.u
-ne̠ó	n ɛ.ɔ
-ne̠é̥	n ɛ.ɨ
-ne̠á̠	n ɛ.ɑ
-ṅe̠a	ŋ ɛ.a
-ṅe̠e	ŋ ɛ.e
-ṅe̠i	ŋ ɛ.i
-ṅe̠u	ŋ ɛ.u
-ṅe̠o	ŋ ɛ.ɔ
-ṅe̠e̥	ŋ ɛ.ɨ
-ṅe̠a̠	ŋ ɛ.ɑ
-ṅe̠á	ŋ ɛ.a
-ṅe̠é	ŋ ɛ.e
-ṅe̠í	ŋ ɛ.i
-ṅe̠ú	ŋ ɛ.u
-ṅe̠ó	ŋ ɛ.ɔ
-ṅe̠é̥	ŋ ɛ.ɨ
-ṅe̠á̠	ŋ ɛ.ɑ
-he̠a	h ɛ.a
-he̠e	h ɛ.e
-he̠i	h ɛ.i
-he̠u	h ɛ.u
-he̠o	h ɛ.ɔ
-he̠e̥	h ɛ.ɨ
-he̠a̠	h ɛ.ɑ
-he̠á	h ɛ.a
-he̠é	h ɛ.e
-he̠í	h ɛ.i
-he̠ú	h ɛ.u
-he̠ó	h ɛ.ɔ
-he̠é̥	h ɛ.ɨ
-he̠á̠	h ɛ.ɑ
-we̠a	w ɛ.a
-we̠e	w ɛ.e
-we̠i	w ɛ.i
-we̠u	w ɛ.u
-we̠o	w ɛ.ɔ
-we̠e̥	w ɛ.ɨ
-we̠a̠	w ɛ.ɑ
-we̠á	w ɛ.a
-we̠é	w ɛ.e
-we̠í	w ɛ.i
-we̠ú	w ɛ.u
-we̠ó	w ɛ.ɔ
-we̠é̥	w ɛ.ɨ
-we̠á̠	w ɛ.ɑ
-pé̠a	p ɛ.a
-pé̠e	p ɛ.e
-pé̠i	p ɛ.i
-pé̠u	p ɛ.u
-pé̠o	p ɛ.ɔ
-pé̠e̥	p ɛ.ɨ
-pé̠a̠	p ɛ.ɑ
-pé̠á	p ɛ.a
-pé̠é	p ɛ.e
-pé̠í	p ɛ.i
-pé̠ú	p ɛ.u
-pé̠ó	p ɛ.ɔ
-pé̠é̥	p ɛ.ɨ
-pé̠á̠	p ɛ.ɑ
-té̠a	t ɛ.a
-té̠e	t ɛ.e
-té̠i	t ɛ.i
-té̠u	t ɛ.u
-té̠o	t ɛ.ɔ
-té̠e̥	t ɛ.ɨ
-té̠a̠	t ɛ.ɑ
-té̠á	t ɛ.a
-té̠é	t ɛ.e
-té̠í	t ɛ.i
-té̠ú	t ɛ.u
-té̠ó	t ɛ.ɔ
-té̠é̥	t ɛ.ɨ
-té̠á̠	t ɛ.ɑ
-ké̠a	k ɛ.a
-ké̠e	k ɛ.e
-ké̠i	k ɛ.i
-ké̠u	k ɛ.u
-ké̠o	k ɛ.ɔ
-ké̠e̥	k ɛ.ɨ
-ké̠a̠	k ɛ.ɑ
-ké̠á	k ɛ.a
-ké̠é	k ɛ.e
-ké̠í	k ɛ.i
-ké̠ú	k ɛ.u
-ké̠ó	k ɛ.ɔ
-ké̠é̥	k ɛ.ɨ
-ké̠á̠	k ɛ.ɑ
-bé̠a	b ɛ.a
-bé̠e	b ɛ.e
-bé̠i	b ɛ.i
-bé̠u	b ɛ.u
-bé̠o	b ɛ.ɔ
-bé̠e̥	b ɛ.ɨ
-bé̠a̠	b ɛ.ɑ
-bé̠á	b ɛ.a
-bé̠é	b ɛ.e
-bé̠í	b ɛ.i
-bé̠ú	b ɛ.u
-bé̠ó	b ɛ.ɔ
-bé̠é̥	b ɛ.ɨ
-bé̠á̠	b ɛ.ɑ
-dé̠a	d ɛ.a
-dé̠e	d ɛ.e
-dé̠i	d ɛ.i
-dé̠u	d ɛ.u
-dé̠o	d ɛ.ɔ
-dé̠e̥	d ɛ.ɨ
-dé̠a̠	d ɛ.ɑ
-dé̠á	d ɛ.a
-dé̠é	d ɛ.e
-dé̠í	d ɛ.i
-dé̠ú	d ɛ.u
-dé̠ó	d ɛ.ɔ
-dé̠é̥	d ɛ.ɨ
-dé̠á̠	d ɛ.ɑ
-gé̠a	g ɛ.a
-gé̠e	g ɛ.e
-gé̠i	g ɛ.i
-gé̠u	g ɛ.u
-gé̠o	g ɛ.ɔ
-gé̠e̥	g ɛ.ɨ
-gé̠a̠	g ɛ.ɑ
-gé̠á	g ɛ.a
-gé̠é	g ɛ.e
-gé̠í	g ɛ.i
-gé̠ú	g ɛ.u
-gé̠ó	g ɛ.ɔ
-gé̠é̥	g ɛ.ɨ
-gé̠á̠	g ɛ.ɑ
-mé̠a	m ɛ.a
-mé̠e	m ɛ.e
-mé̠i	m ɛ.i
-mé̠u	m ɛ.u
-mé̠o	m ɛ.ɔ
-mé̠e̥	m ɛ.ɨ
-mé̠a̠	m ɛ.ɑ
-mé̠á	m ɛ.a
-mé̠é	m ɛ.e
-mé̠í	m ɛ.i
-mé̠ú	m ɛ.u
-mé̠ó	m ɛ.ɔ
-mé̠é̥	m ɛ.ɨ
-mé̠á̠	m ɛ.ɑ
-né̠a	n ɛ.a
-né̠e	n ɛ.e
-né̠i	n ɛ.i
-né̠u	n ɛ.u
-né̠o	n ɛ.ɔ
-né̠e̥	n ɛ.ɨ
-né̠a̠	n ɛ.ɑ
-né̠á	n ɛ.a
-né̠é	n ɛ.e
-né̠í	n ɛ.i
-né̠ú	n ɛ.u
-né̠ó	n ɛ.ɔ
-né̠é̥	n ɛ.ɨ
-né̠á̠	n ɛ.ɑ
-ṅé̠a	ŋ ɛ.a
-ṅé̠e	ŋ ɛ.e
-ṅé̠i	ŋ ɛ.i
-ṅé̠u	ŋ ɛ.u
-ṅé̠o	ŋ ɛ.ɔ
-ṅé̠e̥	ŋ ɛ.ɨ
-ṅé̠a̠	ŋ ɛ.ɑ
-ṅé̠á	ŋ ɛ.a
-ṅé̠é	ŋ ɛ.e
-ṅé̠í	ŋ ɛ.i
-ṅé̠ú	ŋ ɛ.u
-ṅé̠ó	ŋ ɛ.ɔ
-ṅé̠é̥	ŋ ɛ.ɨ
-ṅé̠á̠	ŋ ɛ.ɑ
-hé̠a	h ɛ.a
-hé̠e	h ɛ.e
-hé̠i	h ɛ.i
-hé̠u	h ɛ.u
-hé̠o	h ɛ.ɔ
-hé̠e̥	h ɛ.ɨ
-hé̠a̠	h ɛ.ɑ
-hé̠á	h ɛ.a
-hé̠é	h ɛ.e
-hé̠í	h ɛ.i
-hé̠ú	h ɛ.u
-hé̠ó	h ɛ.ɔ
-hé̠é̥	h ɛ.ɨ
-hé̠á̠	h ɛ.ɑ
-ḥé̠a	h ɛ.a
-ḥé̠e	h ɛ.e
-ḥé̠i	h ɛ.i
-ḥé̠u	h ɛ.u
-ḥé̠o	h ɛ.ɔ
-ḥé̠e̥	h ɛ.ɨ
-ḥé̠a̠	h ɛ.ɑ
-ḥé̠á	h ɛ.a
-ḥé̠é	h ɛ.e
-ḥé̠í	h ɛ.i
-ḥé̠ú	h ɛ.u
-ḥé̠ó	h ɛ.ɔ
-ḥé̠é̥	h ɛ.ɨ
-ḥé̠á̠	h ɛ.ɑ
-wé̠a	w ɛ.a
-wé̠e	w ɛ.e
-wé̠i	w ɛ.i
-wé̠u	w ɛ.u
-wé̠o	w ɛ.ɔ
-wé̠e̥	w ɛ.ɨ
-wé̠a̠	w ɛ.ɑ
-wé̠á	w ɛ.a
-wé̠é	w ɛ.e
-wé̠í	w ɛ.i
-wé̠ú	w ɛ.u
-wé̠ó	w ɛ.ɔ
-wé̠é̥	w ɛ.ɨ
-wé̠á̠	w ɛ.ɑ
-sé̠a	s ɛ.a
-sé̠e	s ɛ.e
-sé̠i	s ɛ.i
-sé̠u	s ɛ.u
-sé̠o	s ɛ.ɔ
-sé̠e̥	s ɛ.ɨ
-sé̠a̠	s ɛ.ɑ
-sé̠á	s ɛ.a
-sé̠é	s ɛ.e
-sé̠í	s ɛ.i
-sé̠ú	s ɛ.u
-sé̠ó	s ɛ.ɔ
-sé̠é̥	s ɛ.ɨ
-sé̠á̠	s ɛ.ɑ
-se̠a	s ɛ.a
-se̠e	s ɛ.e
-se̠i	s ɛ.i
-se̠u	s ɛ.u
-se̠o	s ɛ.ɔ
-se̠e̥	s ɛ.ɨ
-se̠a̠	s ɛ.ɑ
-se̠á	s ɛ.a
-se̠é	s ɛ.e
-se̠í	s ɛ.i
-se̠ú	s ɛ.u
-se̠ó	s ɛ.ɔ
-se̠é̥	s ɛ.ɨ
-x	h
-x̯	tʃ
-uā́	w a.a
-uā	w a.a
-bia	b i.a
-bie	b i.e
-biu	b i.u
-bio	b i.ɔ
-bie̥	b i.ɨ
-bia̠	b i.ɑ
-bie̠	b i.ɛ
-biá	b i.a
-bié	b i.e
-biú	b i.u
-bió	b i.ɔ
-bié̥	b i.ɨ
-biá̠	b i.ɑ
-bié̠	b i.ɛ
-bía	b i.a
-bíe	b i.e
-bíu	b i.u
-bío	b i.ɔ
-bíe̥	b i.ɨ
-bía̠	b i.ɑ
-bíe̠	b i.ɛ
-bíá	b i.a
-bíé	b i.e
-bíú	b i.u
-bíó	b i.ɔ
-bíé̥	b i.ɨ
-bíá̠	b i.ɑ
-bíé̠	b i.ɛ
-dia	d i.a
-die	d i.e
-diu	d i.u
-dio	d i.ɔ
-die̥	d i.ɨ
-dia̠	d i.ɑ
-die̠	d i.ɛ
-diá	d i.a
-dié	d i.e
-diú	d i.u
-dió	d i.ɔ
-dié̥	d i.ɨ
-diá̠	d i.ɑ
-dié̠	d i.ɛ
-día	d i.a
-díe	d i.e
-díu	d i.u
-dío	d i.ɔ
-díe̥	d i.ɨ
-día̠	d i.ɑ
-díe̠	d i.ɛ
-díá	d i.a
-díé	d i.e
-díú	d i.u
-díó	d i.ɔ
-díé̥	d i.ɨ
-díá̠	d i.ɑ
-díé̠	d i.ɛ
-gia	g i.a
-gie	g i.e
-giu	g i.u
-gio	g i.ɔ
-gie̥	g i.ɨ
-gia̠	g i.ɑ
-gie̠	g i.ɛ
-giá	g i.a
-gié	g i.e
-giú	g i.u
-gió	g i.ɔ
-gié̥	g i.ɨ
-giá̠	g i.ɑ
-gié̠	g i.ɛ
-gía	g i.a
-gíe	g i.e
-gíu	g i.u
-gío	g i.ɔ
-gíe̥	g i.ɨ
-gía̠	g i.ɑ
-gíe̠	g i.ɛ
-gíá	g i.a
-gíé	g i.e
-gíú	g i.u
-gíó	g i.ɔ
-gíé̥	g i.ɨ
-gíá̠	g i.ɑ
-gíé̠	g i.ɛ
-iúa	j u.a
-hóio̯	h ɔ j ɔ
-guáiu̯	g u.a j u
-ne̠é̠	n ɛ.ɛ
-me̠é̠	m ɛ.ɛ
-be̠é̠	b ɛ.ɛ
-de̠é̠	d ɛ.ɛ
-ge̠é̠	g ɛ.ɛ
-pe̠é̠	p ɛ.ɛ
-te̠é̠	t ɛ.ɛ
-ke̠é̠	k ɛ.ɛ
-se̠é̠	s ɛ.ɛ
-he̠é̠	h ɛ.ɛ
-muhúua̯	m u h u.u a
-ne̠e̠	n ɛ.ɛ
-me̠e̠	m ɛ.ɛ
-be̠e̠	b ɛ.ɛ
-de̠e̠	d ɛ.ɛ
-ge̠e̠	g ɛ.ɛ
-pe̠e̠	p ɛ.ɛ
-te̠e̠	t ɛ.ɛ
-ke̠e̠	k ɛ.ɛ
-se̠e̠	s ɛ.ɛ
-he̠e̠	h ɛ.ɛ
-poā́	p ɔ a.a
-toā́	t ɔ a.a
-koā́	k ɔ a.a
-soā́	s ɔ a.a
-boā́	b ɔ a.a
-doā́	d ɔ a.a
-goā́	g ɔ a.a 
-moā́	m ɔ a.a
-noā́	n ɔ a.a
-hoā́	h ɔ a.a
-pio̯	p i.ɔ
-tio̯	t i.ɔ
-kio̯	k i.ɔ
-sio̯	s i.ɔ
-bio̯	b i.ɔ
-dio̯	d i.ɔ
-gio̯	g i.ɔ
-mio̯	m i.ɔ
-nio̯	n i.ɔ
-hio̯	h i.ɔ
-wio̯	w i.ɔ
-yio̯	j i.ɔ
-diué̠a	d i w ɛ.a
-ḥoio	h ɔ j ɔ
-me̥oa	m ɨ w a
-yaúe	j a w e
-pie̯	p i.e
-tie̯	t i.e
-kie̯	k i.e
-sie̯	s i.e
-bie̯	b i.e
-die̯	d i.e
-gie̯	g i.e
-mie̯	m i.e
-nie̯	n i.e
-hie̯	h i.e
-yie̯	j i.e
-wie̯	w i.e
-dy	dj
-ny	nj
-ty	tj
-ã́ã	ã.ã
-ĩĩ	ĩ.ĩ
-lia	ɺ i.a
-lie	ɺ i.e
-liu	ɺ i.u
-lio	ɺ i.ɔ
-lie̥	ɺ i.ɨ
-lia̠	ɺ i.ɑ
-lie̠	ɺ i.ɛ
-liá	ɺ i.a
-lié	ɺ i.e
-liú	ɺ i.u
-lió	ɺ i.ɔ
-lié̥	ɺ i.ɨ
-liá̠	ɺ i.ɑ
-lié̠	ɺ i.ɛ
-lía	ɺ i.a
-líe	ɺ i.e
-líu	ɺ i.u
-lío	ɺ i.ɔ
-líe̥	ɺ i.ɨ
-lía̠	ɺ i.ɑ
-líe̠	ɺ i.ɛ
-líá	ɺ i.a
-líé	ɺ i.e
-líú	ɺ i.u
-líó	ɺ i.ɔ
-líé̥	ɺ i.ɨ
-líá̠	ɺ i.ɑ
-líé̠	ɺ i.ɛ
-ria	ɾ i.a
-rie	ɾ i.e
-riu	ɾ i.u
-rio	ɾ i.ɔ
-rie̥	ɾ i.ɨ
-ria̠	ɾ i.ɑ
-rie̠	ɾ i.ɛ
-riá	ɾ i.a
-rié	ɾ i.e
-riú	ɾ i.u
-rió	ɾ i.ɔ
-rié̥	ɾ i.ɨ
-riá̠	ɾ i.ɑ
-rié̠	ɾ i.ɛ
-ría	ɾ i.a
-ríe	ɾ i.e
-ríu	ɾ i.u
-río	ɾ i.ɔ
-ríe̥	ɾ i.ɨ
-ría̠	ɾ i.ɑ
-ríe̠	ɾ i.ɛ
-ríá	ɾ i.a
-ríé	ɾ i.e
-ríú	ɾ i.u
-ríó	ɾ i.ɔ
-ríé̥	ɾ i.ɨ
-ríá̠	ɾ i.ɑ
-ríé̠	ɾ i.ɛ
-tyia	tj i.a
-tyie	tj i.e
-tyiu	tj i.u
-tyio	tj i.ɔ
-tyie̥	tj i.ɨ
-tyia̠	tj i.ɑ
-tyie̠	tj i.ɛ
-tyiá	tj i.a
-tyié	tj i.e
-tyiú	tj i.u
-tyió	tj i.ɔ
-tyié̥	tj i.ɨ
-tyiá̠	tj i.ɑ
-tyié̠	tj i.ɛ
-tyía	tj i.a
-tyíe	tj i.e
-tyíu	tj i.u
-tyío	tj i.ɔ
-tyíe̥	tj i.ɨ
-tyía̠	tj i.ɑ
-tyíe̠	tj i.ɛ
-tyíá	tj i.a
-tyíé	tj i.e
-tyíú	tj i.u
-tyíó	tj i.ɔ
-tyíé̥	tj i.ɨ
-tyíá̠	tj i.ɑ
-tyíé̠	tj i.ɛ
-dyia	dj i.a
-dyie	dj i.e
-dyiu	dj i.u
-dyio	dj i.ɔ
-dyie̥	dj i.ɨ
-dyia̠	dj i.ɑ
-dyie̠	dj i.ɛ
-dyiá	dj i.a
-dyié	dj i.e
-dyiú	dj i.u
-dyió	dj i.ɔ
-dyié̥	dj i.ɨ
-dyiá̠	dj i.ɑ
-dyié̠	dj i.ɛ
-dyía	dj i.a
-dyíe	dj i.e
-dyíu	dj i.u
-dyío	dj i.ɔ
-dyíe̥	dj i.ɨ
-dyía̠	dj i.ɑ
-dyíe̠	dj i.ɛ
-dyíá	dj i.a
-dyíé	dj i.e
-dyíú	dj i.u
-dyíó	dj i.ɔ
-dyíé̥	dj i.ɨ
-dyíá̠	dj i.ɑ
-dyíé̠	dj i.ɛ
-nyia	nj i.a
-nyie	nj i.e
-nyiu	nj i.u
-nyio	nj i.ɔ
-nyie̥	nj i.ɨ
-nyia̠	nj i.ɑ
-nyie̠	nj i.ɛ
-nyiá	nj i.a
-nyié	nj i.e
-nyiú	nj i.u
-nyió	nj i.ɔ
-nyié̥	nj i.ɨ
-nyiá̠	nj i.ɑ
-nyié̠	nj i.ɛ
-nyía	nj i.a
-nyíe	nj i.e
-nyíu	nj i.u
-nyío	nj i.ɔ
-nyíe̥	nj i.ɨ
-nyía̠	nj i.ɑ
-nyíe̠	nj i.ɛ
-nyíá	nj i.a
-nyíé	nj i.e
-nyíú	nj i.u
-nyíó	nj i.ɔ
-nyíé̥	nj i.ɨ
-nyíá̠	nj i.ɑ
-nyíé̠	nj i.ɛ
-tšia	tʃ i.a
-tšie	tʃ i.e
-tšiu	tʃ i.u
-tšio	tʃ i.ɔ
-tšie̥	tʃ i.ɨ
-tšia̠	tʃ i.ɑ
-tšie̠	tʃ i.ɛ
-tšiá	tʃ i.a
-tšié	tʃ i.e
-tšiú	tʃ i.u
-tšió	tʃ i.ɔ
-tšié̥	tʃ i.ɨ
-tšiá̠	tʃ i.ɑ
-tšié̠	tʃ i.ɛ
-tšía	tʃ i.a
-tšíe	tʃ i.e
-tšíu	tʃ i.u
-tšío	tʃ i.ɔ
-tšíe̥	tʃ i.ɨ
-tšía̠	tʃ i.ɑ
-tšíe̠	tʃ i.ɛ
-tšíá	tʃ i.a
-tšíé	tʃ i.e
-tšíú	tʃ i.u
-tšíó	tʃ i.ɔ
-tšíé̥	tʃ i.ɨ
-tšíá̠	tʃ i.ɑ
-tšíé̠	tʃ i.ɛ
-tx̯ia	tʃ i.a
-tx̯ie	tʃ i.e
-tx̯iu	tʃ i.u
-tx̯io	tʃ i.ɔ
-tx̯ie̥	tʃ i.ɨ
-tx̯ia̠	tʃ i.ɑ
-tx̯ie̠	tʃ i.ɛ
-tx̯iá	tʃ i.a
-tx̯ié	tʃ i.e
-tx̯iú	tʃ i.u
-tx̯ió	tʃ i.ɔ
-tx̯ié̥	tʃ i.ɨ
-tx̯iá̠	tʃ i.ɑ
-tx̯ié̠	tʃ i.ɛ
-tx̯ía	tʃ i.a
-tx̯íe	tʃ i.e
-tx̯íu	tʃ i.u
-tx̯ío	tʃ i.ɔ
-tx̯íe̥	tʃ i.ɨ
-tx̯ía̠	tʃ i.ɑ
-tx̯íe̠	tʃ i.ɛ
-tx̯íá	tʃ i.a
-tx̯íé	tʃ i.e
-tx̯íú	tʃ i.u
-tx̯íó	tʃ i.ɔ
-tx̯íé̥	tʃ i.ɨ
-tx̯íá̠	tʃ i.ɑ
-tx̯íé̠	tʃ i.ɛ
-tsia	ts i.a
-tsie	ts i.e
-tsiu	ts i.u
-tsio	ts i.ɔ
-tsie̥	ts i.ɨ
-tsia̠	ts i.ɑ
-tsie̠	ts i.ɛ
-tsiá	ts i.a
-tsié	ts i.e
-tsiú	ts i.u
-tsió	ts i.ɔ
-tsié̥	ts i.ɨ
-tsiá̠	ts i.ɑ
-tsié̠	ts i.ɛ
-tsía	ts i.a
-tsíe	ts i.e
-tsíu	ts i.u
-tsío	ts i.ɔ
-tsíe̥	ts i.ɨ
-tsía̠	ts i.ɑ
-tsíe̠	ts i.ɛ
-tsíá	ts i.a
-tsíé	ts i.e
-tsíú	ts i.u
-tsíó	ts i.ɔ
-tsíé̥	ts i.ɨ
-tsíá̠	ts i.ɑ
-tsíé̠	ts i.ɛ
-yeé̥	j e.ɨ
-nuxhoá	n u h ɔ.a
-siuī́	s i w i.i
-ihíui̯	i h i w i
-lea	ɺ e.a
-lei	ɺ e.i
-leu	ɺ e.u
-leo	ɺ e.ɔ
-lee̥	ɺ e.ɨ
-lea̠	ɺ e.ɑ
-lee̠	ɺ e.ɛ
-leá	ɺ e.a
-leí	ɺ e.i
-leú	ɺ e.u
-leó	ɺ e.ɔ
-leé̥	ɺ e.ɨ
-leá̠	ɺ e.ɑ
-leé̠	ɺ e.ɛ
-léa	ɺ e.a
-léi	ɺ e.i
-léu	ɺ e.u
-léo	ɺ e.ɔ
-lée̥	ɺ e.ɨ
-léa̠	ɺ e.ɑ
-lée̠	ɺ e.ɛ
-léá	ɺ e.a
-léí	ɺ e.i
-léú	ɺ e.u
-léó	ɺ e.ɔ
-léé̥	ɺ e.ɨ
-léá̠	ɺ e.ɑ
-léé̠	ɺ e.ɛ
-rea	ɾ e.a
-rei	ɾ e.i
-reu	ɾ e.u
-reo	ɾ e.ɔ
-ree̥	ɾ e.ɨ
-rea̠	ɾ e.ɑ
-ree̠	ɾ e.ɛ
-reá	ɾ e.a
-reí	ɾ e.i
-reú	ɾ e.u
-reó	ɾ e.ɔ
-reé̥	ɾ e.ɨ
-reá̠	ɾ e.ɑ
-reé̠	ɾ e.ɛ
-réa	ɾ e.a
-réi	ɾ e.i
-réu	ɾ e.u
-réo	ɾ e.ɔ
-rée̥	ɾ e.ɨ
-réa̠	ɾ e.ɑ
-rée̠	ɾ e.ɛ
-réá	ɾ e.a
-réí	ɾ e.i
-réú	ɾ e.u
-réó	ɾ e.ɔ
-réé̥	ɾ e.ɨ
-réá̠	ɾ e.ɑ
-réé̠	ɾ e.ɛ
-tyea	tj e.a
-tyei	tj e.i
-tyeu	tj e.u
-tyeo	tj e.ɔ
-tyee̥	tj e.ɨ
-tyea̠	tj e.ɑ
-tyee̠	tj e.ɛ
-tyeá	tj e.a
-tyeí	tj e.i
-tyeú	tj e.u
-tyeó	tj e.ɔ
-tyeé̥	tj e.ɨ
-tyeá̠	tj e.ɑ
-tyeé̠	tj e.ɛ
-tyéa	tj e.a
-tyéi	tj e.i
-tyéu	tj e.u
-tyéo	tj e.ɔ
-tyée̥	tj e.ɨ
-tyéa̠	tj e.ɑ
-tyée̠	tj e.ɛ
-tyéá	tj e.a
-tyéí	tj e.i
-tyéú	tj e.u
-tyéó	tj e.ɔ
-tyéé̥	tj e.ɨ
-tyéá̠	tj e.ɑ
-tyéé̠	tj e.ɛ
-dyea	dj e.a
-dyei	dj e.i
-dyeu	dj e.u
-dyeo	dj e.ɔ
-dyea̠	dj e.ɑ
-dyee̠	dj e.ɛ
-dyeá	dj e.a
-dyeí	dj e.i
-dyeú	dj e.u
-dyeó	dj e.ɔ
-dyeé̥	dj e.ɨ
-dyeá̠	dj e.ɑ
-dyeé̠	dj e.ɛ
-dyéa	dj e.a
-dyéi	dj e.i
-dyéu	dj e.u
-dyéo	dj e.ɔ
-dyéa̠	dj e.ɑ
-dyée̠	dj e.ɛ
-dyéá	dj e.a
-dyéí	dj e.i
-dyéú	dj e.u
-dyéó	dj e.ɔ
-dyéé̥	dj e.ɨ
-dyéá̠	dj e.ɑ
-dyéé̠	dj e.ɛ
-nyea	nj e.a
-nyei	nj e.i
-nyeu	nj e.u
-nyeo	nj e.ɔ
-nyee̥	nj e.ɨ
-nyea̠	nj e.ɑ
-nyee̠	nj e.ɛ
-nyeá	nj e.a
-nyeí	nj e.i
-nyeú	nj e.u
-nyeó	nj e.ɔ
-nyeé̥	nj e.ɨ
-nyeá̠	nj e.ɑ
-nyeé̠	nj e.ɛ
-nyéa	nj e.a
-nyéi	nj e.i
-nyéu	nj e.u
-nyéo	nj e.ɔ
-nyée̥	nj e.ɨ
-nyéa̠	nj e.ɑ
-nyée̠	nj e.ɛ
-nyéá	nj e.a
-nyéí	nj e.i
-nyéú	nj e.u
-nyéó	nj e.ɔ
-nyéé̥	nj e.ɨ
-nyéá̠	nj e.ɑ
-nyéé̠	nj e.ɛ
-tšea	tʃ e.a
-tšei	tʃ e.i
-tšeu	tʃ e.u
-tšeo	tʃ e.ɔ
-tšee̥	tʃ e.ɨ
-tšea̠	tʃ e.ɑ
-tšee̠	tʃ e.ɛ
-tšeá	tʃ e.a
-tšeí	tʃ e.i
-tšeú	tʃ e.u
-tšeó	tʃ e.ɔ
-tšeé̥	tʃ e.ɨ
-tšeá̠	tʃ e.ɑ
-tšeé̠	tʃ e.ɛ
-tšéa	tʃ e.a
-tšéi	tʃ e.i
-tšéu	tʃ e.u
-tšéo	tʃ e.ɔ
-tšée̥	tʃ e.ɨ
-tšéa̠	tʃ e.ɑ
-tšée̠	tʃ e.ɛ
-tšéá	tʃ e.a
-tšéí	tʃ e.i
-tšéú	tʃ e.u
-tšéó	tʃ e.ɔ
-tšéé̥	tʃ e.ɨ
-tšéá̠	tʃ e.ɑ
-tšéé̠	tʃ e.ɛ
-tx̯ea	tʃ e.a
-tx̯ei	tʃ e.i
-tx̯eu	tʃ e.u
-tx̯eo	tʃ e.ɔ
-tx̯ee̥	tʃ e.ɨ
-tx̯ea̠	tʃ e.ɑ
-tx̯ee̠	tʃ e.ɛ
-tx̯eá	tʃ e.a
-tx̯eí	tʃ e.i
-tx̯eú	tʃ e.u
-tx̯eó	tʃ e.ɔ
-tx̯eé̥	tʃ e.ɨ
-tx̯eá̠	tʃ e.ɑ
-tx̯eé̠	tʃ e.ɛ
-tx̯éa	tʃ e.a
-tx̯éi	tʃ e.i
-tx̯éu	tʃ e.u
-tx̯éo	tʃ e.ɔ
-tx̯ée̥	tʃ e.ɨ
-tx̯éa̠	tʃ e.ɑ
-tx̯ée̠	tʃ e.ɛ
-tx̯éá	tʃ e.a
-tx̯éí	tʃ e.i
-tx̯éú	tʃ e.u
-tx̯éó	tʃ e.ɔ
-tx̯éé̥	tʃ e.ɨ
-tx̯éá̠	tʃ e.ɑ
-tx̯éé̠	tʃ e.ɛ
-tsea	ts e.a
-tsei	ts e.i
-tseu	ts e.u
-tseo	ts e.ɔ
-tsee̥	ts e.ɨ
-tsea̠	ts e.ɑ
-tsee̠	ts e.ɛ
-tseá	ts e.a
-tseí	ts e.i
-tseú	ts e.u
-tseó	ts e.ɔ
-tseé̥	ts e.ɨ
-tseá̠	ts e.ɑ
-tseé̠	ts e.ɛ
-tséa	ts e.a
-tséi	ts e.i
-tséu	ts e.u
-tséo	ts e.ɔ
-tsée̥	ts e.ɨ
-tséa̠	ts e.ɑ
-tsée̠	ts e.ɛ
-tséá	ts e.a
-tséí	ts e.i
-tséú	ts e.u
-tséó	ts e.ɔ
-tséé̥	ts e.ɨ
-tséá̠	ts e.ɑ
-tséé̠	ts e.ɛ
-loa	ɺ ɔ.a
-loi	ɺ ɔ.i
-lou	ɺ ɔ.u
-loe	ɺ ɔ.e
-loe̥	ɺ ɔ.ɨ
-loa̠	ɺ ɔ.ɑ
-loe̠	ɺ ɔ.ɛ
-loá	ɺ ɔ.a
-loí	ɺ ɔ.i
-loú	ɺ ɔ.u
-loé	ɺ ɔ.e
-loé̥	ɺ ɔ.ɨ
-loá̠	ɺ ɔ.ɑ
-loé̠	ɺ ɔ.ɛ
-lóa	ɺ ɔ.a
-lói	ɺ ɔ.i
-lóu	ɺ ɔ.u
-lóe	ɺ ɔ.e
-lóe̥	ɺ ɔ.ɨ
-lóa̠	ɺ ɔ.ɑ
-lóe̠	ɺ ɔ.ɛ
-lóá	ɺ ɔ.a
-lóí	ɺ ɔ.i
-lóú	ɺ ɔ.u
-lóé	ɺ ɔ.e
-lóé̥	ɺ ɔ.ɨ
-lóá̠	ɺ ɔ.ɑ
-lóé̠	ɺ ɔ.ɛ
-roa	ɾ ɔ.a
-roi	ɾ ɔ.i
-rou	ɾ ɔ.u
-roe	ɾ ɔ.e
-roe̥	ɾ ɔ.ɨ
-roa̠	ɾ ɔ.ɑ
-roe̠	ɾ ɔ.ɛ
-roá	ɾ ɔ.a
-roí	ɾ ɔ.i
-roú	ɾ ɔ.u
-roé	ɾ ɔ.e
-roé̥	ɾ ɔ.ɨ
-roá̠	ɾ ɔ.ɑ
-roé̠	ɾ ɔ.ɛ
-róa	ɾ ɔ.a
-rói	ɾ ɔ.i
-róu	ɾ ɔ.u
-róe	ɾ ɔ.e
-róe̥	ɾ ɔ.ɨ
-róa̠	ɾ ɔ.ɑ
-róe̠	ɾ ɔ.ɛ
-róá	ɾ ɔ.a
-róí	ɾ ɔ.i
-róú	ɾ ɔ.u
-róé	ɾ ɔ.e
-róé̥	ɾ ɔ.ɨ
-róá̠	ɾ ɔ.ɑ
-róé̠	ɾ ɔ.ɛ
-xhoa	h ɔ.a
-xhoi	h ɔ.i
-xhou	h ɔ.u
-xhoe	h ɔ.e
-xhoe̥	h ɔ.ɨ
-xhoa̠	h ɔ.ɑ
-xhoe̠	h ɔ.ɛ
-xhoá	h ɔ.a
-xhoí	h ɔ.i
-xhoú	h ɔ.u
-xhoé	h ɔ.e
-xhoé̥	h ɔ.ɨ
-xhoá̠	h ɔ.ɑ
-xhoé̠	h ɔ.ɛ
-xhóa	h ɔ.a
-xhói	h ɔ.i
-xhóu	h ɔ.u
-xhóe	h ɔ.e
-xhóe̥	h ɔ.ɨ
-xhóa̠	h ɔ.ɑ
-xhóe̠	h ɔ.ɛ
-xhóá	h ɔ.a
-xhóí	h ɔ.i
-xhóú	h ɔ.u
-xhóé	h ɔ.e
-xhóé̥	h ɔ.ɨ
-xhóá̠	h ɔ.ɑ
-xhóé̠	h ɔ.ɛ
-x̯hoa	h ɔ.a
-x̯hoi	h ɔ.i
-x̯hou	h ɔ.u
-x̯hoe	h ɔ.e
-x̯hoe̥	h ɔ.ɨ
-x̯hoa̠	h ɔ.ɑ
-x̯hoe̠	h ɔ.ɛ
-x̯hoá	h ɔ.a
-x̯hoí	h ɔ.i
-x̯hoú	h ɔ.u
-x̯hoé	h ɔ.e
-x̯hoé̥	h ɔ.ɨ
-x̯hoá̠	h ɔ.ɑ
-x̯hoé̠	h ɔ.ɛ
-x̯hóa	h ɔ.a
-x̯hói	h ɔ.i
-x̯hóu	h ɔ.u
-x̯hóe	h ɔ.e
-x̯hóe̥	h ɔ.ɨ
-x̯hóa̠	h ɔ.ɑ
-x̯hóe̠	h ɔ.ɛ
-x̯hóá	h ɔ.a
-x̯hóí	h ɔ.i
-x̯hóú	h ɔ.u
-x̯hóé	h ɔ.e
-x̯hóé̥	h ɔ.ɨ
-x̯hóá̠	h ɔ.ɑ
-x̯hóé̠	h ɔ.ɛ
-ḳoa	k ɔ.a
-ḳoi	k ɔ.i
-ḳou	k ɔ.u
-ḳoe	k ɔ.e
-ḳoe̥	k ɔ.ɨ
-ḳoa̠	k ɔ.ɑ
-ḳoe̠	k ɔ.ɛ
-ḳoá	k ɔ.a
-ḳoí	k ɔ.i
-ḳoú	k ɔ.u
-ḳoé	k ɔ.e
-ḳoé̥	k ɔ.ɨ
-ḳoá̠	k ɔ.ɑ
-ḳoé̠	k ɔ.ɛ
-ḳóa	k ɔ.a
-ḳói	k ɔ.i
-ḳóu	k ɔ.u
-ḳóe	k ɔ.e
-ḳóe̥	k ɔ.ɨ
-ḳóa̠	k ɔ.ɑ
-ḳóe̠	k ɔ.ɛ
-ḳóá	k ɔ.a
-ḳóí	k ɔ.i
-ḳóú	k ɔ.u
-ḳóé	k ɔ.e
-ḳóé̥	k ɔ.ɨ
-ḳóá̠	k ɔ.ɑ
-ḳóé̠	k ɔ.ɛ
-dyoa	dj ɔ.a
-dyoi	dj ɔ.i
-dyou	dj ɔ.u
-dyoe	dj ɔ.e
-dyoe̥	dj ɔ.ɨ
-dyoa̠	dj ɔ.ɑ
-dyoe̠	dj ɔ.ɛ
-dyoá	dj ɔ.a
-dyoí	dj ɔ.i
-dyoú	dj ɔ.u
-dyoé	dj ɔ.e
-dyoé̥	dj ɔ.ɨ
-dyoá̠	dj ɔ.ɑ
-dyoé̠	dj ɔ.ɛ
-dyóa	dj ɔ.a
-dyói	dj ɔ.i
-dyóu	dj ɔ.u
-dyóe	dj ɔ.e
-dyóe̥	dj ɔ.ɨ
-dyóa̠	dj ɔ.ɑ
-dyóe̠	dj ɔ.ɛ
-dyóá	dj ɔ.a
-dyóí	dj ɔ.i
-dyóú	dj ɔ.u
-dyóé	dj ɔ.e
-dyóé̥	dj ɔ.ɨ
-dyóá̠	dj ɔ.ɑ
-dyóé̠	dj ɔ.ɛ
-dyua	dj u.a
-dyui	dj u.i
-dyuo	dj u.ɔ
-dyue	dj u.e
-dyue̥	dj u.ɨ
-dyua̠	dj u.ɑ
-dyue̠	dj u.ɛ
-dyuá	dj u.a
-dyuí	dj u.i
-dyuó	dj u.ɔ
-dyué	dj u.e
-dyué̥	dj u.ɨ
-dyuá̠	dj u.ɑ
-dyué̠	dj u.ɛ
-dyúa	dj u.a
-dyúi	dj u.i
-dyúo	dj u.ɔ
-dyúe	dj u.e
-dyúe̥	dj u.ɨ
-dyúa̠	dj u.ɑ
-dyúe̠	dj u.ɛ
-dyúá	dj u.a
-dyúí	dj u.i
-dyúó	dj u.ɔ
-dyúé	dj u.e
-dyúé̥	dj u.ɨ
-dyúá̠	dj u.ɑ
-dyúé̠	dj u.ɛ
-nyua	nj u.a
-nyui	nj u.i
-nyuo	nj u.ɔ
-nyue	nj u.e
-nyue̥	nj u.ɨ
-nyua̠	nj u.ɑ
-nyue̠	nj u.ɛ
-nyuá	nj u.a
-nyuí	nj u.i
-nyuó	nj u.ɔ
-nyué	nj u.e
-nyué̥	nj u.ɨ
-nyuá̠	nj u.ɑ
-nyué̠	nj u.ɛ
-nyúa	nj u.a
-nyúi	nj u.i
-nyúo	nj u.ɔ
-nyúe	nj u.e
-nyúe̥	nj u.ɨ
-nyúa̠	nj u.ɑ
-nyúe̠	nj u.ɛ
-nyúá	nj u.a
-nyúí	nj u.i
-nyúó	nj u.ɔ
-nyúé	nj u.e
-nyúé̥	nj u.ɨ
-nyúá̠	nj u.ɑ
-nyúé̠	nj u.ɛ
-xhua	h u.a
-xhui	h u.i
-xhuo	h u.ɔ
-xhue	h u.e
-xhue̥	h u.ɨ
-xhua̠	h u.ɑ
-xhue̠	h u.ɛ
-xhuá	h u.a
-xhuí	h u.i
-xhuó	h u.ɔ
-xhué	h u.e
-xhué̥	h u.ɨ
-xhuá̠	h u.ɑ
-xhué̠	h u.ɛ
-xhúa	h u.a
-xhúi	h u.i
-xhúo	h u.ɔ
-xhúe	h u.e
-xhúe̥	h u.ɨ
-xhúa̠	h u.ɑ
-xhúe̠	h u.ɛ
-xhúá	h u.a
-xhúí	h u.i
-xhúó	h u.ɔ
-xhúé	h u.e
-xhúé̥	h u.ɨ
-xhúá̠	h u.ɑ
-xhúé̠	h u.ɛ
-ḳua	k u.a
-ḳui	k u.i
-ḳuo	k u.ɔ
-ḳue	k u.e
-ḳue̥	k u.ɨ
-ḳua̠	k u.ɑ
-ḳue̠	k u.ɛ
-ḳuá	k u.a
-ḳuí	k u.i
-ḳuó	k u.ɔ
-ḳué	k u.e
-ḳué̥	k u.ɨ
-ḳuá̠	k u.ɑ
-ḳué̠	k u.ɛ
-ḳúa	k u.a
-ḳúi	k u.i
-ḳúo	k u.ɔ
-ḳúe	k u.e
-ḳúe̥	k u.ɨ
-ḳúa̠	k u.ɑ
-ḳúe̠	k u.ɛ
-ḳúá	k u.a
-ḳúí	k u.i
-ḳúó	k u.ɔ
-ḳúé	k u.e
-ḳúé̥	k u.ɨ
-ḳúá̠	k u.ɑ
-ḳúé̠	k u.ɛ
+ue̥é̥	w ɨ ɨ
+uhúāya	u h u a a j a
+āminiḗ̠ga	a a m i n i ɛ ɛ g a
+siáaya	s i a a j a
+kōpahe̠ká	k ɔ ɔ p a h ɛ k a
+yóḥe̠	j ɔ h ɛ
+ex̯tóga	e h t ɔ g a
+kā́laga	k a a ɺ a g a
+uali	w a ɺ i
+uā́li	w a a ɺ i
+moxtsá	m ɔ h ts a
+mósa	m ɔ s a
+muhá	m u h a
+muxtā́re̥	m u h t a a ɾ ɨ
+bóso	b ɔ s ɔ
+bohó	b ɔ h ɔ
+bui	b u i
+búi	b u i
+būía	b u u i a
+bóto	b ɔ t ɔ
+pahā́nika	p a h a a n i k a
+duhāyá	d u h a a j a
+lítaha	ɺ i t a h a
+tirítote̠	t i ɾ i t ɔ t ɛ
+diákea	d i a k e a
+áūli	a u u ɺ i
+gáhua	g a h u a
+ualíase̥	w a ɺ i a s ɨ
+gáhue	g a h u e
+kolópagá	k ɔ ɺ ɔ p a g a
+doé	d ɔ e
+oalákaka	ɔ a ɺ a k a k a
+uarákie̥	w a ɾ a k i ɨ
+ā̃nyã́nyaru	ã ã ɲ ã ɲ a ɾ u
+ūpuálikaka	u u p u a ɺ i k a k a
+ē̠má	ɛ ɛ m a
+ī́mu	i i m u
+ē̠múa	ɛ ɛ m u a
+aútone̠ne̥	a u t ɔ n ɛ n ɨ
+gé̥labe̠	g ɨ ɺ a b ɛ
+gé̥tago	g ɨ t a g ɔ
+itopé̠a	i t ɔ p ɛ a
+sike̥tágoḥe̠	s i k ɨ t a g ɔ h ɛ
+yagé̥tago	j a g ɨ t a g ɔ
+uā́galo	w a a g a ɺ ɔ
+uā́gāro	w a a g a a ɾ ɔ
+bóleka	b ɔ ɺ e k a
+bṓle̠ka	b ɔ ɔ ɺ ɛ k a
+botáka	b ɔ t a k a
+pṓle̠kia	p ɔ ɔ ɺ ɛ k i a
+de̥xká	d ɨ h k a
+dika	d i k a
+nikapé̠pe̠	n i k a p ɛ p ɛ
+silikíape̥	s i ɺ i k i a p ɨ
+pāmú	p a a m u
+pamólo	p a m ɔ ɺ ɔ
+pamúa	p a m u a
+hāmu	h a a m u
+pāmúgaxsiro	p a a m u g a h s i ɾ ɔ
+kā́doxka	k a a d ɔ h k a
+kākope̠roka	k a a k ɔ p ɛ ɾ ɔ k a
+ā́noi̯ye	a a n ɔ i j e
+gā́le̥e	g a a ɺ ɨ e
+ālía	a a ɺ i a
+kiánekia	k i a n e k i a
+ā́noye	a a n ɔ j e
+ālí	a a ɺ i
+nuxhoá	n u h ɔ a
+ū́a	u u a
+gaā́pimóa	g a a a p i m ɔ a
+be̥ámo	b ɨ a m ɔ
+kā́ko	k a a k ɔ
+pā́ko	p a a k ɔ
+kumé	k u m e
+kū́mi	k u u m i
+kōmé̠a	k ɔ ɔ m ɛ a
+komé̠tako	k ɔ m ɛ t a k ɔ
+mihí	m i h i
+píidika	p i i d i k a
+pipirika	p i p i ɾ i k a
+hihī́re̥	h i h i i ɾ ɨ
+yomimákalaka	j ɔ m i m a k a ɺ a k a
+tsũũpínũõã	ts ũ ũ p i n ũ ɔ̃ ã
+pe̥lá	p ɨ ɺ a
+uaḥé̠a	w a h ɛ a
+siḥe̠te̠hī́re̥	s i h ɛ t ɛ h i i ɾ ɨ
 pe̥lág	p ɨ ɺ a g e
 yape̥lág	j a p ɨ ɺ a g e
-uibáy	w i b a j e
+mohṓpama	m ɔ h ɔ ɔ p a m a
+pitapé̠ta	p i t a p ɛ t a
+yē̠pu̠nī́ka	j ɛ ɛ p ʊ n i i k a
+ue̥lí	w ɨ ɺ i
+ī́nehītia	i i n e h i i t i a
+lā́roe̠	ɺ a a ɾ ɔ ɛ
+yē̠pu̠lī́ka	j ɛ ɛ p ʊ ɺ i i k a
+te̠alíue̠koa	t ɛ a ɺ i w ɛ k ɔ a
+uaá	w a a
+uālá	w a a ɺ a
+iúa	j u a
+ohó	ɔ h ɔ
+abótiga	a b ɔ t i g a
+óyagaga	ɔ j a g a g a
+haúioake̠re̥	h a u j ɔ a k ɛ ɾ ɨ
+soāgá	s ɔ a a g a
+yuxké̥gaxtsīro	j u h k ɨ g a h ts i i ɾ ɔ
+yābugáti	j a a b u g a t i
+yapuáḥe̠a	j a p u a h ɛ a
+tōke̥rasḗ̠re̥	t ɔ ɔ k ɨ ɾ a s ɛ ɛ ɾ ɨ
+tsége	ts e g e
+sḗ̠na	s ɛ ɛ n a
+sḗ̠ra	s ɛ ɛ ɾ a
+ōyó	ɔ ɔ j ɔ
+ṓdye̥	ɔ ɔ dʒ ɨ
+ṓdyo	ɔ ɔ dʒ ɔ
+hóio̯	h ɔ j ɔ
+hóiyo	h ɔ i j ɔ
+īnaguanā́ni	i i n a g u a n a a n i
+guáiu̯	g u a j u
+mū́yāli	m u u j a a ɺ i
+okiá	ɔ k i a
+uanā́ni	w a n a a n i
+ēmíparo	e e m i p a ɾ ɔ
+pu̠lé̥	p ʊ ɺ ɨ
+pōtía	p ɔ ɔ t i a
+hṓnto	h ɔ ɔ n t ɔ
+uex̯kóiṅinu	w e h k ɔ i ŋ i n u
+nahe̠ṓme̠a	n a h ɛ ɔ ɔ m ɛ a
+koālapái	k ɔ a a ɺ a p a i
+kóālapái	k ɔ a a ɺ a p a i
+dix̯sípoali	d i h s i p ɔ a ɺ i
+dix̯sipoa	d i h s i p ɔ a
+dihe̠táya	d i h ɛ t a j a
+sigoi̯tagiáḥoiri	s i g ɔ i t a g i a h ɔ i ɾ i
+lihe̠táya	ɺ i h ɛ t a j a
+goi̯takiáḥoiri	g ɔ i t a k i a h ɔ i ɾ i
+momḗ̠me̥la	m ɔ m ɛ ɛ m ɨ ɺ a
+uáimúmi	w a i m u m i
+mapáka	m a p a k a
+mū́mire̥	m u u m i ɾ ɨ
+wiipé̥le̥pe̥	w i i p ɨ ɺ ɨ p ɨ
+pā́ru	p a a ɾ u
+tuxtúlu	t u h t u ɺ u
+ye̠me̠á	j ɛ m ɛ a
+síhake̠ke̥	s i h a k ɛ k ɨ
+yatuxtúlu	j a t u h t u ɺ u
+yadutúru	j a d u t u ɾ u
+mamiyimí	m a m i j i m i
+uatópōro	w a t ɔ p ɔ ɔ ɾ ɔ
+pālopigá	p a a ɺ ɔ p i g a
+kóatsuru	k ɔ a ts u ɾ u
+kóa	k ɔ a
+pé̠takoa	p ɛ t a k ɔ a
+kṓrokia	k ɔ ɔ ɾ ɔ k i a
+ōlēró	ɔ ɔ ɺ e e ɾ ɔ
+ōlēló	ɔ ɔ ɺ e e ɺ ɔ
+kahíoaka	k a h i ɔ a k a
+gā́be̥ge̥	g a a b ɨ g ɨ
+gā́	g a a
+au̯apákie̠ka	a w a p a k i ɛ k a
+gá	g a
+pukupúkuliga	p u k u p u k u ɺ i g a
+tóatole	t ɔ a t ɔ ɺ e
+yaputásie	j a p u t a s i e
+ã̄ã̄́	ã ã ã ã
+ā́ēlē	a a e e ɺ e e
+ā́kaka	a a k a k a
+hā́kia	h a a k i a
+ā́lubu	a a ɺ u b u
+nikópika	n i k ɔ p i k a
+díaōlero	d i a ɔ ɔ ɺ e ɾ ɔ
+ã̄nyã́pakeaka	ã ã ɲ ã p a k e a k a
+ãyẽ́hāke̥	ã j ẽ h a a k ɨ
+pē̠yó	p ɛ ɛ j ɔ
+uānataí	w a a n a t a i
+minimãẽ	m i n i m ã ẽ
+mīrá	m i i ɾ a
+uiyága	w i j a g a
+uaíhia	w a i h i a
+nyī́nimi	ɲ i i n i m i
+yī́ya	j i i j a
+né̠ya	n ɛ j a
+tópile̠	t ɔ p i ɺ ɛ
+yī́	j i i
+né̠iya	n ɛ i j a
+yē̠yéāē	j ɛ ɛ j e a a e e
+yī́yī	j i i j i i
+yainé̠iye	j a i n ɛ i j e
+yáitopike̥	j a i t ɔ p i k ɨ
+yainé̠iya	j a i n ɛ i j a
+bī́ka	b i i k a
+kanyíríka	k a ɲ i ɾ i k a
+di	d i
+yadí	j a d i
+diué̠a	d i w ɛ a
+líē̠ri	ɺ i ɛ ɛ ɾ i
+gṓli	g ɔ ɔ ɺ i
+góo	g ɔ ɔ
+yapuōliká	j a p u ɔ ɔ ɺ i k a
+yasḗ̠bo	j a s ɛ ɛ b ɔ
+puhúai̯e̥	p u h u a j ɨ
+buxhū́lu	b u h u u ɺ u
+puhúlu	p u h u ɺ u
+pū́puaga	p u u p u a g a
+ḥé̥ḥoio	h ɨ h ɔ j ɔ
+buxhū́ru	b u h u u ɾ u
+pū́puoga	p u u p u ɔ g a
+buḥū́ru	b u h u u ɾ u
+uáxkali	w a h k a ɺ i
+uaká	w a k a
+póakaga	p ɔ a k a g a
+he̥ḥóākia	h ɨ h ɔ a a k i a
+yatsā́li	j a ts a a ɺ i
+tsé̥me̥oa	ts ɨ m ɨ ɔ a
+himíane̠í	h i m i a n ɛ i
+te̥mé̥ne̠	t ɨ m ɨ n ɛ
+hī'mía	h i i ʔ m i a
+mahapṓua	m a h a p ɔ ɔ w a
+makiátāre̥	m a k i a t a a ɾ ɨ
+maxkápinu	m a h k a p i n u
+dexpé̥	d e h p ɨ
+yadúḥe̥	j a d u h ɨ
+dipau̯íya	d i p a w i j a
+siḥī́re	s i h i i ɾ e
+dipau̯ía	d i p a w i a
+goá	g ɔ a
+yaúe	j a w e
+ōá	ɔ ɔ a
+sikoā́ri	s i k ɔ a a ɾ i
+taā́pipái	t a a a p i p a i
+buiríbe̠ro	b u i ɾ i b ɛ ɾ ɔ
+patupái	p a t u p a i
+te̠mupái	t ɛ m u p a i
+pā́tola	p a a t ɔ ɺ a
 te̠mupáy	t ɛ m u p a j e
-be̥katū́dy	b ɨ k a t u.u dj i
-uahupíy	w a h u p i j e
-diḗypōleru	d i e.e j i p ɔ.ɔ ɺ e ɾ u
-líue̠	 ɺ i w ɛ
-kóiṅ	k ɔ i ŋ
-goi̯	g ɔ.i
-híoa	h i w a
-ioaí	i w a.i
-yee̥	j e.ɨ
-yée̥	j e.ɨ
-éai̯y	e a.i j
-laúariko	ɺ a w a ɾ i k ɔ
-kíai̯ua	k i.a j u.a
-maxĩẽ́	m a h ĩ.ẽ
-uía	u j a
-lúa	ɺ u.a
-kiua	k i w a
-oā́m	w a.a
-tsiuā́	ts i w a.a
-rú̠a	ɾ ʊ.a
-mṓai̯e̥	m ɔ.ɔ a j ɨ
-mãõ	m ã.ɔ̃
-niā́	 n i a.a
-buī́	b u i.i
-hoáa	ɔ a.a
-kuī́	k u i.i
-uē̠	w ɛ.ɛ
-uaie	w a j e
-uaiō	w a j ɔ.ɔ
-kuā́	k u a.a
-ẽ́ẽ	ẽ.ẽ
-ã́ẽõã	ã.ẽ w̃ ã
-yoā́	j ɔ a.a
-yau̯a	j a w a
-ue̠á	w ɛ.a
-oā́	w a.a
-panameo̯	p a n a m e.ɔ
-guā	g u a.a
-ka'ía	k a ʔ i.a
-tx̯óe̠i̯	tʃ ɔ.ɛ i
-ḥuā	h u a.a
-pṹẽ	p ũ.ẽ
-tsíe̠i̯	ts i.ɛ i
-buā	b u a.a
-tsua	ts u.a
-liuiia	ɺ i w i.i a
-dyée̥	dj e.ɨ
-dyee̥	dj e.ɨ
-be̠óe̠	b ɛ w ɛ
-lioaa	ɺ i w a.a
-uī	w i.i
-uḗ̠	w ɛ.ɛ
-uē	w e.e
-luá	ɺ u.a
-liuí	ɺ i w i
-puī́	p u i.i
-be̠ía	b ɛ j a
-mã́e̥	m ã.ɨ
-siua	s i w a
-miua	m i w a
-té̠ua	t ɛ w a
-ké̥ue̯x̯ka	k ɨ w e h k a
-tx̯ibe̥ai̯	tʃ i b ɨ.a i
-tsíua	ts i w a
-tuia	t u j a
-yauā́	j a w a.a
-lĩe	ɺ ĩ.e
-tsíruii	ts i ɾ u i.i
-kau̯hanikía	k a.u h a n i k i.a
-uiua	u j u.a
-púuai	p u.u a.i 
-luit	 ɺ u.i t
-lua	ɺ u.a
-ókopukluaua	ɔ k ɔ p u k u ɺ u.a w a
-pé̠ua	p ɛ w a
-diuḗ̠	d i w ɛ.ɛ d i.i a
-liuḗ̠	ɺ i w ɛ.ɛ
-yie̠k	j i.ɛ k
-piua	p i w a
-kúyui̯	k u j u.i
-mauḗ	m a w e.e
-muī́	m u i.i
-yãĩ	j ã.ĩ
-uáíté̥te̥	w a.i t ɨ t ɨ
-ge̥láui̯ri	g ɨ ɺ a w i ɾ i
-yoā́be̠a	j ɔ a.a b ɛ.a
-komeẽ́pero	k ɔ m e.ẽ p e ɾ ɔ
-ãmĩĩ́ã	ã m ĩ.ĩ ã
-siā́	s i a.a
-rúa	ɾ u.a
-lei̯k	ɺ e.i k
-pulítsio̯ka	p u ɺ i ts i.ɔ k a
-nouī	n ɔ w i.i
-mū̠nu̠ui̯hīnimúka	m ʊ.ʊ n ʊ w i h i.i n i m u k a
-kúai̯	k u.a i
-aía	a j a
-tsai̯á	ts a j a
-yaía	j a j a
-ai̯y	a.i j
-ā́noi̯ye	a.a n ɔ.i j e
-noi̯y	 n ɔ.i j
-báai̯	b a.a i
-aai̯dy	a.a i dj
-hoi̯r	h ɔ.i ɾ
-úai̯r	w a.i ɾ
-kiai̯dy	k i.a i dj
-uaá	w a.a
-ehéai̯yā	e h e a.i j a.a
-õãdiíle̥	w̃ ã d i.i ɺ ɨ
-te̠ube̠uíya	t ɛ.u b ɛ w i j a
-kuía	k u j a
-iipáy	i.i p a j e
-kṓyau̯i	k ɔ.ɔ j a w i
-díai̯yi	d i a.i j i
-táiāre̥	t a j a.a ɾ ɨ
-mā́lai̯e̥	m a.a ɺ a j ɨ
-uau	w a.u
-diai̯yoa	d i a.i j ɔ.a
-kaúala	k a w a ɺ a
-liuḗ̠yie̠ká	ɺ i w ɛ.ɛ j i.ɛ k a
-yatau̯iía	j a t a w i.i a
-uē̠lopáy	w ɛ.ɛ ɺ ɔ p a j e
-kóle̠oabu	k ɔ ɺ ɛ w a b u
-he̠kiaiē̠re̥	h ɛ k i.a j ɛ.ɛ ɾ ɨ
-be̥katū́dye̥	b ɨ k a t u.u dj ɨ
-kṓrokolei̯kia	k ɔ.ɔ ɾ ɔ k ɔ ɺ e.i k i.a
-uátiuáage̥	w a t i w a.a g ɨ
-six̯síama	s i h s i.a m a
-būdyaboía	b u.u dj a b ɔ j a
-kalíua	k a ɺ i w a
-kaliuāna	k a ɺ i w a.a n a
-karíua	k a ɾ i w a
-īnakuliuḗ̠he̠naka	i.i n a k u ɺ i w ɛ.ɛ h ɛ n a k a
-me̠ríue̠sḗ̠re̥	m ɛ ɾ i w ɛ s ɛ.ɛ ɾ ɨ
-nāliuiía	n a.a ɺ i w i.i a
-ne̠uī́re̥	n ɛ w i.i ɾ ɨ
-uasúaa	w a s u a.a
-ōnoíagoxso	ɔ.ɔ n ɔ j a g ɔ h s ɔ
-yuā́loge̠	j u a.a ɺ ɔ g ɛ
-iipáya	i.i p a j a
+gaxpipáxtsula	g a h p i p a h ts u ɺ a
+buirikano	b u i ɾ i k a n ɔ
+ohókomono	ɔ h ɔ k ɔ m ɔ n ɔ
+mámala	m a m a ɺ a
+siī́ṅgee̥	s i i i ŋ g e ɨ
+hu'tšía	h u ʔ tʃ i a
+hihohutía	h i h ɔ h u t i a
+lupué̠me̥oka	ɺ u p u ɛ m ɨ ɔ k a
+dupué̠me̥oka	d u p u ɛ m ɨ ɔ k a
+uaxtíke̠ru	w a h t i k ɛ ɾ u
+pī́nu	p i i n u
+ãyã́ḥāke̥	ã j ã h a a k ɨ
+yuxké̥de̥xpé̥	j u h k ɨ d ɨ h p ɨ
+yapuhḗ̠rika	j a p u h ɛ ɛ ɾ i k a
+tulapu̠nī́ka	t u ɺ a p ʊ n i i k a
+tulapu̠lī́ka	t u ɺ a p ʊ ɺ i i k a
+axpī́ro	a h p i i ɾ ɔ
+óxpe̥le̥	ɔ h p ɨ ɺ ɨ
+síḥuḥē̠re̥	s i h u h ɛ ɛ ɾ ɨ
+tsīunduxhā́ko	ts i i u n d u h a a k ɔ
+dyiaká	dʒ i a k a
+tsioaíni	ts i ɔ a i n i
+yee̥tī́niyo	j e ɨ t i i n i j ɔ
+yidiatáyu	j i d i a t a j u
+iateanié̠l	j a t e a n i ɛ ɺ
+yidiatáye̥	j i d i a t a j ɨ
+airike̠	a i ɾ i k ɛ
+ā́ge̥	a a g ɨ
+dex̯kó	d e h k ɔ
+de̠ko	d ɛ k ɔ
+ai̯uálisú	a j u a ɺ i s u
+ai̯riké	a i ɾ i k e
+ai̯uálisu	a j u a ɺ i s u
+ai̯uálix̯u	a j u a ɺ i tʃ u
+pē̠ráma	p ɛ ɛ ɾ a m a
+diámaka	d i a m a k a
+liámaka	ɺ i a m a k a
+nihá	n i h a
+yimā́'mi	j i m a a ʔ m i
+sínehine̠	s i n e h i n ɛ
+yébaxsulina	j e b a h s u ɺ i n a
+yuamahí	j u a m a h i
+ehéai̯yā	e h e a i j a a
+móhóe̠li	m ɔ h ɔ ɛ ɺ i
+houo̯úo	h ɔ w ɔ u ɔ
+goxtx̯e̠ātx̯é̥	g ɔ h tʃ ɛ a a tʃ ɨ
+pṓgolu	p ɔ ɔ g ɔ ɺ u
+pógolo	p ɔ g ɔ ɺ ɔ
+pī́naka	p i i n a k a
+laúariko	ɺ a u a ɾ i k ɔ
+pṓgoru	p ɔ ɔ g ɔ ɾ u
+gōrópe̠ru	g ɔ ɔ ɾ ɔ p ɛ ɾ u
+ge̥rápe̠	g ɨ ɾ a p ɛ
+yopé̠a	j ɔ p ɛ a
+síaḥu̠	s i a h ʊ
+gōlópe̠ru	g ɔ ɔ ɺ ɔ p ɛ ɾ u
+bōrá	b ɔ ɔ ɾ a
+botá	b ɔ t a
+bōlá	b ɔ ɔ ɺ a
+tsī́puli	ts i i p u ɺ i
+mexságaxki	m e h s a g a h k i
+take̠bóe̠a	t a k ɛ b ɔ ɛ a
+ulé̠raka	u ɺ ɛ ɾ a k a
+nyĩṅáliru	ɲ ĩ ŋ a ɺ i ɾ u
+õãdiíle̥	ɔ̃ ã d i i ɺ ɨ
+nyikalíye̠	ɲ i k a ɺ i j ɛ
+ṹẽdiíle̥	w̃ ẽ d i i ɺ ɨ
+nyikalíiye̠	ɲ i k a ɺ i i j ɛ
+pīyū́li	p i i j u u ɺ i
+kāgakáue̯	k a a g a k a w ɛ
+kanirú	k a n i ɾ u
+gaxkí	g a h k i
+kākí	k a a k i
+take̠á	t a k ɛ a
+táki	t a k i
+diaúex̯ke̥	d i a w e h k ɨ
+diau̯ike̥	d i a w i k ɨ
+ke̠húa	k ɛ h u a
+ké̠tu	k ɛ t u
+ke̠húe	k ɛ h u e
+ké̠'tu	k ɛ ʔ t u
+gōnoi̯yá	g ɔ ɔ n ɔ i j a
+ge̥lāyí	g ɨ ɺ a a j i
+kḗ̠naka	k ɛ ɛ n a k a
+kiámikolire̥	k i a m i k ɔ ɺ i ɾ ɨ
+muhí	m u h i
+muía	m u i a
+dex̯kónaxsi	d e h k ɔ n a h s i
+díayasi	d i a j a s i
+kā́dyue̠ka	k a a dʒ u ɛ k a
+kíai̯ua	k i a j u a
+púibu	p u i b u
+pé̥i	p ɨ i
+piía	p i i a
+óatu	ɔ a t u
+pī́re̠a	p i i ɾ ɛ a
 be̠hóia	b ɛ h ɔ j a
+te̠ube̠uíya	t ɛ u b ɛ w i j a
+pitsána	p i ts a n a
+bex̯gá	b e h g a
+āki	a a k i
+mūlía	m u u ɺ i a
+uáso	w a s ɔ
+ōpire̠kóa	ɔ ɔ p i ɾ ɛ k ɔ a
+uásagáti	w a s a g a t i
+uayúpona	w a j u p ɔ n a
+ye̠té̠a	j ɛ t ɛ a
+kolétipi	k ɔ ɺ e t i p i
+kolé̠me̠te̠	k ɔ ɺ ɛ m ɛ t ɛ
+kālimakíya	k a a ɺ i m a k i j a
+sikotitile̥	s i k ɔ t i t i ɺ ɨ
+korétipi	k ɔ ɾ e t i p i
+kālimakía	k a a ɺ i m a k i a
+bagalí	b a g a ɺ i
+kúli	k u ɺ i
+únaku	u n a k u
+oxpé̥	ɔ h p ɨ
+máhi	m a h i
+īpí	i i p i
+ḥé̥he̥	h ɨ h ɨ
+maxĩẽ́	m a h ĩ ẽ
+mē̠ní	m ɛ ɛ n i
+nī́ya	n i i j a
+mē̠'ní	m ɛ ɛ ʔ n i
+pā́sikope̠a	p a a s i k ɔ p ɛ a
+pāsikope̠a	p a a s i k ɔ p ɛ a
+dix̯sípuliru	d i h s i p u ɺ i ɾ u
+dihe̠kóa	d i h ɛ k ɔ a
+ōlērótsualide̥xpe̥	ɔ ɔ ɺ e e ɾ ɔ ts u a ɺ i d ɨ h p ɨ
+ōlēlótsualide̥xpe̥	ɔ ɔ ɺ e e ɺ ɔ ts u a ɺ i d ɨ h p ɨ
+mā́ta	m a a t a
+tsē̠róa	ts ɛ ɛ ɾ ɔ a
+tā́pioto	t a a p i ɔ t ɔ
+muákahe̠	m u a k a h ɛ
+gaxbī́tsolo	g a h b i i ts ɔ ɺ ɔ
+gaxbī́tsoro	g a h b i i ts ɔ ɾ ɔ
+me̥líni	m ɨ ɺ i n i
+me̥hā́x̯u	m ɨ h a a tʃ u
+yimī́nyu	j i m i i ɲ u
+húmaa	h u m a a
+yimī́nye̥	j i m i i ɲ ɨ
+kōré̠	k ɔ ɔ ɾ ɛ
+bíitu	b i i t u
+kṓpahike̠	k ɔ ɔ p a h i k ɛ
+yé̠hē̠re̥	j ɛ h ɛ ɛ ɾ ɨ
+kōlé̠	k ɔ ɔ ɺ ɛ
+tsū́līro	ts u u ɺ i i ɾ ɔ
+sā́ya	s a a j a
+imī́kakuruli	i m i i k a k u ɾ u ɺ i
+uhḗ̠pe̠ma	u h ɛ ɛ p ɛ m a
+toatíe̥	t ɔ a t i ɨ
+kuhía	k u h i a
+pṓnape̥	p ɔ ɔ n a p ɨ
+kuía	k u j a
+nix̯ti	n i h t i
+pē̠kapulúa	p ɛ ɛ k a p u ɺ u a
+yakotitī́ri	j a k ɔ t i t i i ɾ i
+mix̯pi	m i h p i
+uipí	w i p i
+uipía	w i p i a
+míhi	m i h i
+mí'hi	m i ʔ h i
+axpí	a h p i
+gā́pi	g a a p i
+taā́biku	t a a a b i k u
+tā́ḥire̥	t a a h i ɾ ɨ
+axbí	a h b i
+sopálikiuahóa	s ɔ p a ɺ i k i w a h ɔ a
+tse̥liname	ts ɨ ɺ i n a m e
+ā́lau̯a	a a ɺ a w a
+hā́raua	h a a ɾ a w a
+kakáu	k a k a u
+kakáua	k a k a w a
+iyotū́li	i j ɔ t u u ɺ i
+yex̯sā́nika	j e h s a a n i k a
+se̥x̯sé̥	s ɨ h s ɨ
+híhia	h i h i a
+táe̥ne̠	t a ɨ n ɛ
+six̯sí	s i h s i
+pē̠yóuero	p ɛ ɛ j ɔ w e ɾ ɔ
+gé̥ege̥le̥	g ɨ e g ɨ ɺ ɨ
+^iipáya	i i p a j a
+ké̥la̠	k ɨ ɺ ɑ
+^iipáy	i i p a j e
+be̥ā́li	b ɨ a a ɺ i
+āliamā́ni	a a ɺ i a m a a n i
+uáli	w a ɺ i
+kē̠tayú	k ɛ ɛ t a j u
+hé̠āse̥	h ɛ a a s ɨ
+yeuáge̥	j e w a g ɨ
+kē̠tayé̥	k ɛ ɛ t a j ɨ
+uā́lix̯ú	w a a ɺ i tʃ u
+oatá	ɔ a t a
+tsõláli	ts ɔ̃ ɺ a ɺ i
+tx̯óle̠i̯	tʃ ɔ ɺ ɛ i
+mīdyóabe̠	m i i dʒ ɔ a b ɛ
+ḥuḥé̠a	h u h ɛ a
+kīpútsu̠ru̠	k i i p u ts ʊ ɾ ʊ
+tx̯ólo	tʃ ɔ ɺ ɔ
+hotoitahá	h ɔ t ɔ i t a h a
+hḗ̠ne̠ke̠alo	h ɛ ɛ n ɛ k ɛ a ɺ ɔ
+tólo	t ɔ ɺ ɔ
+sṓro	s ɔ ɔ ɾ ɔ
+sṓlo	s ɔ ɔ ɺ ɔ
+yulá	j u ɺ a
+yuláme̠	j u ɺ a m ɛ
+yutáka	j u t a k a
+i'ótāre̥	i ʔ ɔ t a a ɾ ɨ
+yurá	j u ɾ a
+iotáḥae	j ɔ t a h a e
+tsā́liri	ts a a ɺ i ɾ i
+te̠x̯té̠i̯	t ɛ h t ɛ i
+te̠té̠lika	t ɛ t ɛ ɺ i k a
+otantá	ɔ t a n t a
+uaxpī́kioli	w a h p i i k i ɔ ɺ i
+buxtā́nima	b u h t a a n i m a
+oā́malimakíaka	w a a a ɺ i m a k i a k a
+buxtā́lima	b u h t a a ɺ i m a
+ṅāmí	ŋ a a m i
+āmía	a a m i a
+kiámi	k i a m i
+tsiuā́li	ts i w a a ɺ i
+múḥua	m u h u a
+ōlḗ̠ri	ɔ ɔ ɺ ɛ ɛ ɾ i
+ṓle̠i̯	ɔ ɔ ɺ ɛ i
+keaudyé̥	k e a u dʒ ɨ
+koiní	k ɔ i n i
+keaudyú	k e a u dʒ u
+mix̯tsóka	m i h ts ɔ k a
+póe̠ro	p ɔ ɛ ɾ ɔ
+mé̠ne̠lika	m ɛ n ɛ ɺ i k a
+ualipoké̠ase̥	w a ɺ i p ɔ k ɛ a s ɨ
+bārá	b a a ɾ a
+īyáka	i i j a k a
+kumarú	k u m a ɾ u
+kumalú	k u m a ɺ u
+mānyayapúa	m a a ɲ a j a p u a
+ī́oa	i i ɔ a
+yātúlika	j a a t u ɺ i k a
+yātúlike	j a a t u ɺ i k e
+nuxpí	n u h p i
+diakútsi	d i a k u ts i
+kutía	k u t i a
+kúisi	k u i s i
+diakúti	d i a k u t i
+tsīrālī́e̠	ts i i ɾ a a ɺ i i ɛ
+yohó	j ɔ h ɔ
+tápe̠ri	t a p ɛ ɾ i
+yee̥látaāx̯e̥	j e ɨ ɺ a t a a a tʃ ɨ
+miyitatábe̠	m i j i t a t a b ɛ
+hu̠rú̠a	h ʊ ɾ ʊ a
+ṓsetsalino	ɔ ɔ s e ts a ɺ i n ɔ
+aé̥	a ɨ
+āí	a a i
+ābí	a a b i
+āé̥	a a ɨ
+ṓyuxku	ɔ ɔ j u h k u
+yaxsá	j a h s a
+saxtsée̥le̥	s a h ts e ɨ ɺ ɨ
+yapube̠hó	j a p u b ɛ h ɔ
+kṓkiare̥	k ɔ ɔ k i a ɾ ɨ
+sasá	s a s a
+be̥xkániama	b ɨ h k a n i a m a
+moábulebu	m ɔ a b u ɺ e b u
+móāsi	m ɔ a a s i
+moákahe̠a	m ɔ a k a h ɛ a
+mṓai̯e̥	m ɔ ɔ a j ɨ
+yémãõ	j e m ã ɔ̃
+yee̥mã́ã	j e ɨ m ã ã
+yimákipako	j i m a k i p a k ɔ
+símako	s i m a k ɔ
+oā́liliga	ɔ a a ɺ i ɺ i g a
+e̥mé̥	ɨ m ɨ
+é̥me̥de̠ka	ɨ m ɨ d ɛ k a
+imía	i m i a
+tapoī́híasi	t a p ɔ i i h i a s i
+uaḥuá	w a h u a
+dahābé̥lokole̠ge̠	d a h a a b ɨ ɺ ɔ k ɔ ɺ ɛ g ɛ
+tsīniā́mi	ts i i n i a a m i
+ne̥mé̥dīka	n ɨ m ɨ d i i k a
+kirḗ̠yayi	k i ɾ ɛ ɛ j a j i
+ké̥lisi	k ɨ ɺ i s i
+ekā́noke̠	e k a a n ɔ k ɛ
+dē̠ne̠mú	d ɛ ɛ n ɛ m u
+tsōlópa	ts ɔ ɔ ɺ ɔ p a
+tsōrópa	ts ɔ ɔ ɾ ɔ p a
+yamá	j a m a
+yámabṓle̠	j a m a b ɔ ɔ ɺ ɛ
+yamága	j a m a g a
+yā́ma	j a a m a
+yámabṓre̠	j a m a b ɔ ɔ ɾ ɛ
+yá'ma	j a ʔ m a
+góamãẽ	g ɔ a m ã ẽ
+kṓyau̯i	k ɔ ɔ j a w i
+ué̠xkoa	w ɛ h k ɔ a
+tu̠pána	t ʊ p a n a
+wé̠xkoa	w ɛ h k ɔ a
+tupā́na	t u p a a n a
+uaxtí	w a h t i
+uáti	w a t i
+ṓpire̠koa	ɔ ɔ p i ɾ ɛ k ɔ a
+ā́ti	a a t i
+buī́ribu	b u i i ɾ i b u
+dī́oho	d i i ɔ h ɔ
+tsīniní	ts i i n i n i
+túdyai	t u dʒ a i
+mirē̠yádyu	m i ɾ ɛ ɛ j a dʒ u
+mirē̠yádye̥	m i ɾ ɛ ɛ j a dʒ ɨ
+tsé̠āli	ts ɛ a a ɺ i
+ge̥láli	g ɨ ɺ a ɺ i
+uhḗ̠ge̥yée̥	u h ɛ ɛ g ɨ j e ɨ
+tā́lie̠ka	t a a ɺ i ɛ k a
+loké̥kie̥	ɺ ɔ k ɨ k i ɨ
+uhḗ̠ge̥dye̥	u h ɛ ɛ g ɨ dʒ ɨ
+ohomeníni	ɔ h ɔ m e n i n i
+mo'mḗ̠ni	m ɔ ʔ m ɛ ɛ n i
+bagáli	b a g a ɺ i
+íax̯i	j a tʃ i
+ī́ātx̯i	i i a a tʃ i
+ī́āx̯i	i i a a tʃ i
+díai̯yi	d i a i j i
+dyī́masa	dʒ i i m a s a
+ye̠ué̠koa	j ɛ w ɛ k ɔ a
+yaime̠ko	j a i m ɛ k ɔ
+dex̯kópolesiriro	d e h k ɔ p ɔ ɺ e s i ɾ i ɾ ɔ
+amálaka	a m a ɺ a k a
+buxhuá	b u h u a
+bútu	b u t u
+ókoe̠pakoa	ɔ k ɔ ɛ p a k ɔ a
+okókuli	ɔ k ɔ k u ɺ i
+útu	u t u
+mēā́galu	m e e a a g a ɺ u
+uaī́a	w a i i a
+uaī́ye	w a i i j e
+īrirí	i i ɾ i ɾ i
+ilíx̯u	i ɺ i tʃ u
+miókube̠	m i ɔ k u b ɛ
+móuku	m ɔ u k u
+ṓdiáka	ɔ ɔ d i a k a
+e̥kā́lani	ɨ k a a ɺ a n i
+bālá	b a a ɺ a
+boxhoáa	b ɔ h ɔ a a
+póoma	p ɔ ɔ m a
+pōpóa	p ɔ ɔ p ɔ a
+oálōre̠	ɔ a ɺ ɔ ɔ ɾ ɛ
+ihíayeā́ika	i h i a j e a a i k a
+diákala	d i a k a ɺ a
+kómāna	k ɔ m a a n a
+kumálaka	k u m a ɺ a k a
+kúmālo	k u m a a ɺ ɔ
+ge̥lánunu	g ɨ ɺ a n u n u
+itálonyaka	i t a ɺ ɔ ɲ a k a
+gā'mī́no	g a a ʔ m i i n ɔ
+gámu	g a m u
+āmó	a a m ɔ
+sikiaū́lo	s i k i a u u ɺ ɔ
+ámu	a m u
+ā'mé̥	a a ʔ m ɨ
+gā́migobe̠	g a a m i g ɔ b ɛ
+āmokópe̠a	a a m ɔ k ɔ p ɛ a
+tsíāli	ts i a a ɺ i
+amúa	a m u a
+pe̠áme̠ye̠	p ɛ a m ɛ j ɛ
+uaḥúa	w a h u a
+bā́li	b a a ɺ i
+báai̯	b a a i
+mambaā́ye̠é̠	m a m b a a a j ɛ ɛ
+opãkiá	ɔ p ã k i a
+bā́ri	b a a ɾ i
+mé̠ne̠pikai	m ɛ n ɛ p i k a i
+sólika	s ɔ ɺ i k a
+uálē̠ka	w a ɺ ɛ ɛ k a
+minimã́ẽndiuli	m i n i m ã ẽ n d i u ɺ i
+mīrándia	m i i ɾ a n d i a
+uai̯híaliāre̥	w a i h i a ɺ i a a ɾ ɨ
+de̥xkápuliru	d ɨ h k a p u ɺ i ɾ u
+nikapé̠pe̠tū́liaka	n i k a p ɛ p ɛ t u u ɺ i a k a
+tsaá	ts a a
+né̠ko	n ɛ k ɔ
+ne̠kóa	n ɛ k ɔ a
+mé̠ko	m ɛ k ɔ
+ne̠kó	n ɛ k ɔ
+dix̯síporo	d i h s i p ɔ ɾ ɔ
+kope̠re̠ká	k ɔ p ɛ ɾ ɛ k a
+náige̠	n a i g ɛ
+málaai̯dyu	m a ɺ a a i dʒ u
+le̠rū́re̥	ɺ ɛ ɾ u u ɾ ɨ
+wīgólotx̯amu	w i i g ɔ ɺ ɔ tʃ a m u
+uā́pakopé̠a	w a a p a k ɔ p ɛ a
+kuī́ri	k u i i ɾ i
+yḗle̥	j e e ɺ ɨ
+ya'koá	j a ʔ k ɔ a
+siakṓkia	s i a k ɔ ɔ k i a
+kuísipóali	k u i s i p ɔ a ɺ i
+yímogati	j i m ɔ g a t i
+yakólipite̠koa	j a k ɔ ɺ i p i t ɛ k ɔ a
+siagóne̥keri	s i a g ɔ n ɨ k e ɾ i
+yakotáya	j a k ɔ t a j a
+siakorasé̠ḥoiri	s i a k ɔ ɾ a s ɛ h ɔ i ɾ i
+uaḥóa	w a h ɔ a
+ge̥lá	g ɨ ɺ a
+yagé̥la	j a g ɨ ɺ a
+itá	i t a
+ge̥tā́ri	g ɨ t a a ɾ i
+yūlikā	j u u ɺ i k a a
+ue̠lé̠i̯	w ɛ ɺ ɛ i
+yiyā́nye̥	j i j a a ɲ ɨ
+óḥoasisi	ɔ h ɔ a s i s i
+ue̠ré̠i̯	w ɛ ɾ ɛ i
+yiyā́nyu	j i j a a ɲ u
+yō'ā́loge̠	j ɔ ɔ ʔ a a ɺ ɔ g ɛ
+yoa'má	j ɔ a ʔ m a
+yṓ'e̠	j ɔ ɔ ʔ ɛ
+yóe̠na	j ɔ ɛ n a
+itape̠hā́lige̥	i t a p ɛ h a a ɺ i g ɨ
+hotōnié	h ɔ t ɔ ɔ n i e
+houá	h ɔ w a
+é̥ye̠	ɨ j ɛ
+yáuike̥tsi	j a w i k ɨ ts i
+ue̥agé̥gero	w ɨ a g ɨ g e ɾ ɔ
+yauí	j a w i
+úkirika	u k i ɾ i k a
+he̥yḗ̠ke̥ke̥	h ɨ j ɛ ɛ k ɨ k ɨ
+he̥iḗ̠ke̥ke̥	h ɨ j ɛ ɛ k ɨ k ɨ
+yée̥pe̥	j e ɨ p ɨ
+yépé	j e p e
+yipā́ki	j i p a a k i
+hā́ke̥	h a a k ɨ
+yépe̥	j e p ɨ
+ne̥má	n ɨ m a
+lē̠kíake̥	ɺ ɛ ɛ k i a k ɨ
+tālabé̠olé	t a a ɺ a b ɛ ɔ ɺ e
+uex̯kopoáli	w e h k ɔ p ɔ a ɺ i
+póa	p ɔ a
+kipōtiá	k i p ɔ ɔ t i a
+té̠ḥau̯īri	t ɛ h a w i i ɾ i
+mé̠oko	m ɛ ɔ k ɔ
+nīmáke̥li	n i i m a k ɨ ɺ i
+tā́bolero	t a a b ɔ ɺ e ɾ ɔ
+gāme̠káni	g a a m ɛ k a n i
+ueī́dihi	w e i i d i h i
+yihínyu	j i h i ɲ u
+táponi	t a p ɔ n i
+yihínye̥	j i h i ɲ ɨ
+uaihī́ro	w a i h i i ɾ ɔ
+kihī́roa	k i h i i ɾ ɔ a
+mahā́poali	m a h a a p ɔ a ɺ i
+yamáhapoa	j a m a h a p ɔ a
+uibáy	w i b a j e
+mā́hoi̯re̥	m a a h ɔ i ɾ ɨ
+mohṓtseri	m ɔ h ɔ ɔ ts e ɾ i
+dix̯pelu	d i h p e ɺ u
+muhúatx̯u	m u h u a tʃ u
+pitauaḥoa	p i t a w a h ɔ a
+simaoi̯e	s i m a ɔ j e
+muhúuasu	m u h u u a s u
+muhúuatse̠ru	m u h u u a ts ɛ ɾ u
+mohṓtsirupē̠ru	m ɔ h ɔ ɔ ts i ɾ u p ɛ ɛ ɾ u
+muhúgati	m u h u g a t i
+simaoráso	s i m a ɔ ɾ a s ɔ
+pē̠ā́me	p ɛ ɛ a a m e
+pie̥le̥	p i ɨ ɺ ɨ
+pē̠ká	p ɛ ɛ k a
+hḗ̠hie̠kie̥	h ɛ ɛ h i ɛ k i ɨ
+uē̠ré̠no	w ɛ ɛ ɾ ɛ n ɔ
+ue̠nia	w ɛ n i a
+uē̠lé̠no	w ɛ ɛ ɺ ɛ n ɔ
+gaxbitū̠ge̥	g a h b i t ʊ ʊ g ɨ
+tāpía	t a a p i a
+pē̠á	p ɛ ɛ a
+hḗ̠kie̠ri	h ɛ ɛ k i ɛ ɾ i
+uái	w a i
+uaie	w a j e
+uaire̥	w a i ɾ ɨ
+ālitsé̠tse̠a	a a ɺ i ts ɛ ts ɛ a
+úai̯ru	w a i ɾ u
+uaiōā	w a j ɔ ɔ a a
+uáigṓā	w a i g ɔ ɔ a a
+uaiuaká	w a i w a k a
+uaikuā́re̥	w a i k u a a ɾ ɨ
+uhē̠rí	u h ɛ ɛ ɾ i
+bix̯táx̯e̥	b i h t a tʃ ɨ
+mipotabā́be̠	m i p ɔ t a b a a b ɛ
+okohé̠	ɔ k ɔ h ɛ
+potákano	p ɔ t a k a n ɔ
+uhḗ̠riru	u h ɛ ɛ ɾ i ɾ u
+bitai̯góp̌e̠ka	b i t a i g ɔ ɸ ɛ k a
+koḥé̠liri	k ɔ h ɛ ɺ i ɾ i
+uhḗrike	u h e e ɾ i k e
+uáikóaya	w a i k ɔ a j a
+máhāpu	m a h a a p u
+uapúa	w a p u a
+uhḗ̠ku̠ru̠	u h ɛ ɛ k ʊ ɾ ʊ
+náxkala	n a h k a ɺ a
+popóloka	p ɔ p ɔ ɺ ɔ k a
+te̥lolípuku	t ɨ ɺ ɔ ɺ i p u k u
+ōé̠	ɔ ɔ ɛ
+tā́bole	t a a b ɔ ɺ e
+itope̠ḥálika	i t ɔ p ɛ h a ɺ i k a
+tā́bore	t a a b ɔ ɾ e
+dix̯sī́nome̠	d i h s i i n ɔ m ɛ
+yīmasaṅẽ́ẽ	j i i m a s a ŋ ẽ ẽ
+kṓle̠nika	k ɔ ɔ ɺ ɛ n i k a
+hohṓkia	h ɔ h ɔ ɔ k i a
+dī́ro	d i i ɾ ɔ
+yadíi	j a d i i
+diia	d i i a
+sikiaī́re̥	s i k i a i i ɾ ɨ
+oxhoamī́	ɔ h ɔ a m i i
+be̥xkádyi	b ɨ h k a dʒ i
+huamá	h u a m a
+kotáte̠te̠a	k ɔ t a t ɛ t ɛ a
+ue̥li	w ɨ ɺ i
+ué̥li	w ɨ ɺ i
+tsauī́dye̥	ts a w i i dʒ ɨ
+ké̥ue̠i	k ɨ w ɛ i
+tsauī́dyu	ts a w i i dʒ u
+moámala	m ɔ a m a ɺ a
+namátsika	n a m a ts i k a
+namásiga	n a m a s i g a
+gubū́pama	g u b u u p a m a
+gé̥apa	g ɨ a p a
+ūpúa	u u p u a
+sikoxú̠la	s i k ɔ h ʊ ɺ a
+ōpúa	ɔ ɔ p u a
+nyī̃ã́ẽõã	ɲ ĩ ĩ ã ẽ ɔ̃ ã
+uyī̃ṅã́ẽõã	u j ĩ ĩ ŋ ã ẽ ɔ̃ ã
+tsiupū́liru	ts i u p u u ɺ i ɾ u
+hóatanikipi	h ɔ a t a n i k i p i
+diapu	d i a p u
+de̥xpé̥li	d ɨ h p ɨ ɺ i
+sikoayéke̥	s i k ɔ a j e k ɨ
+nē̃ē̃́	n ẽ ẽ ẽ ẽ
+makáge̥	m a k a g ɨ
+makáka	m a k a k a
+mākiálokē̠re̥	m a a k i a ɺ ɔ k ɛ ɛ ɾ ɨ
+yoā́limhi	j ɔ a a ɺ i m h i
+sarasára	s a ɾ a s a ɾ a
+bōlēró	b ɔ ɔ ɺ e e ɾ ɔ
+bulḗ̠ro	b u ɺ ɛ ɛ ɾ ɔ
+bulé̠ru	b u ɺ ɛ ɾ u
+uayáule̠ru	w a j a u ɺ ɛ ɾ u
+uayáule̠ruka	w a j a u ɺ ɛ ɾ u k a
+nokolī́yau̯a	n ɔ k ɔ ɺ i i j a w a
+íná	i n a
+tsahá	ts a h a
+láho	ɺ a h ɔ
+téa	t e a
+dáho	d a h ɔ
+ōmá	ɔ ɔ m a
+úma	u m a
+ūmáka	u u m a k a
+tṓnyako	t ɔ ɔ ɲ a k ɔ
+tṓniaka	t ɔ ɔ n i a k a
+pāyamóalika	p a a j a m ɔ a ɺ i k a
+mā́kela	m a a k e ɺ a
+mā́kena	m a a k e n a
+hógoro	h ɔ g ɔ ɾ ɔ
+yuxke̥de̥xká	j u h k ɨ d ɨ h k a
+yabúdiga	j a b u d i g a
+toké̥likē̠re̥	t ɔ k ɨ ɺ i k ɛ ɛ ɾ ɨ
+yabúdigá	j a b u d i g a
+ohóte̥liri	ɔ h ɔ t ɨ ɺ i ɾ i
+móya	m ɔ j a
+pusíḥae̠	p u s i h a ɛ
+buhī́bāge̥	b u h i i b a a g ɨ
+áue̠túua	a w ɛ t u u a
+ayaká	a j a k a
+hiadyaāníke̠ka	h i a dʒ a a a n i k ɛ k a
+haiakulísi	h a j a k u ɺ i s i
+kōlá	k ɔ ɔ ɺ a
+kōrá	k ɔ ɔ ɾ a
+būgú	b u u g u
+yapú	j a p u
+ue̠ága	w ɛ a g a
+hū́niupu̠	h u u n i u p ʊ
+uex̯képamu	w e h k e p a m u
+ui̯ke̥pamólo	w i k ɨ p a m ɔ ɺ ɔ
+kapilíyaka	k a p i ɺ i j a k a
+he̠tókie̥	h ɛ t ɔ k i ɨ
+gālé̥	g a a ɺ ɨ
+anía	a n i a
+āníe	a a n i e
+mā́be̥ga	m a a b ɨ g a
+bikinínomo	b i k i n i n ɔ m ɔ
+pṓnakeli	p ɔ ɔ n a k e ɺ i
+oā́li	ɔ a a ɺ i
+kū́li	k u u ɺ i
+uanúame̠pe̠	w a n u a m ɛ p ɛ
+uanúame̠be̠	w a n u a m ɛ b ɛ
+oā́pu̠nīka	ɔ a a p ʊ n i i k a
+hiá	h i a
+híāḥe̠	h i a a h ɛ
+oā́pu̠līka	ɔ a a p ʊ ɺ i i k a
+yépanameo̯	j e p a n a m e ɔ
+yēyex̯ké̥pe̥xkero	j e e j e h k ɨ p ɨ h k e ɾ ɔ
+guú	g u u
+pā́kie̠ki	p a a k i ɛ k i
+sī́ke̥	s i i k ɨ
+mé̠abe̥lo	m ɛ a b ɨ ɺ ɔ
+soi	s ɔ i
+pā́kiako	p a a k i a k ɔ
+sī́ko	s i i k ɔ
+mé̠abe̥ro	m ɛ a b ɨ ɾ ɔ
+yépanami	j e p a n a m i
+dā́	d a a
+tā́	t a a
+tāyá	t a a j a
+táyare̥	t a j a ɾ ɨ
+táiāre̥	t a j a a ɾ ɨ
+pōlē̠ró	p ɔ ɔ ɺ ɛ ɛ ɾ ɔ
+nyémi	ɲ e m i
+nyimía	ɲ i m i a
+yé̥mi	j ɨ m i
+maxsā́gobe̠	m a h s a a g ɔ b ɛ
+yatsā́liye̠	j a ts a a ɺ i j ɛ
+hīmitáka	h i i m i t a k a
+te̥me̥né̠la	t ɨ m ɨ n ɛ ɺ a
+hādyúa	h a a dʒ u a
+kōlólu	k ɔ ɔ ɺ ɔ ɺ u
+koló	k ɔ ɺ ɔ
+ḳoákuru	k ɔ a k u ɾ u
+likókoto	ɺ i k ɔ k ɔ t ɔ
+kōróru	k ɔ ɔ ɾ ɔ ɾ u
+koró	k ɔ ɾ ɔ
+yuxké̥kāya	j u h k ɨ k a a j a
+uaikaya	w a i k a j a
+neāyá	n e a a j a
+ā́hia	a a h i a
+háte̥ri	h a t ɨ ɾ i
+tsoe̠bā́li	ts ɔ ɛ b a a ɺ i
+tx̯óe̠i̯	tʃ ɔ ɛ i
+mix̯hoe̠be̠	m i h ɔ ɛ b ɛ
+u̠hé̠kialó	ʊ h ɛ k i a ɺ ɔ
+uxsípūli	u h s i p u u ɺ i
+nix̯kú	n i h k u
+titá	t i t a
+kaía	k a i a
+kiáire̥	k i a i ɾ ɨ
+ka'ía	k a ʔ i a
+pūlīrí	p u u ɺ i i ɾ i
+be̥gáli	b ɨ g a ɺ i
+guāli	g u a a ɺ i
+yé̥ulagai	j ɨ u ɺ a g a i
+kóe̠x̯u	k ɔ ɛ tʃ u
+otolatosé	ɔ t ɔ ɺ a t ɔ s e
+kālamhé	k a a ɺ a m h e
+makaúe̠dya	m a k a u ɛ dʒ a
+mālé̠a	m a a ɺ ɛ a
+mā́lai̯e̥	m a a ɺ a j ɨ
+pé̠age̥	p ɛ a g ɨ
+pé̠a	p ɛ a
+pe̠ká	p ɛ k a
+hé̠kiakia	h ɛ k i a k i a
+pe̠ánhua	p ɛ a n h u a
+pé̠anuku	p ɛ a n u k u
+pe̠káua	p ɛ k a w a
+he̠kiakiáḥuāliri	h ɛ k i a k i a h u a a ɺ i ɾ i
+pe̠káue̯	p ɛ k a w ɛ
+yemétuli	j e m e t u ɺ i
+póali	p ɔ a ɺ i
+lu̠pú̠komihia	ɺ ʊ p ʊ k ɔ m i h i a
+sī́roḥōre	s i i ɾ ɔ h ɔ ɔ ɾ e
+de̥pókomihia	d ɨ p ɔ k ɔ m i h i a
+de̠kapá	d ɛ k a p a
+tokíaḥu	t ɔ k i a h u
+pṹẽ	p ũ ẽ
+púe	p u e
+páua	p a w a
+ḥā́e	h a a e
+pũẽ́	p ũ ẽ
+puekā́lu	p u e k a a ɺ u
+paukáno	p a u k a n ɔ
+múhu	m u h u
+pí'taka	p i ʔ t a k a
+símaḥumpu	s i m a h u m p u
+sālítae̠ga	s a a ɺ i t a ɛ g a
+hahaniká	h a h a n i k a
+puítsamu	p u i ts a m u
+be̥lípu̠nīka	b ɨ ɺ i p ʊ n i i k a
+bé̥ka	b ɨ k a
+se̠kā́noa	s ɛ k a a n ɔ a
+inayḗ̠ná	i n a j ɛ ɛ n a
+yee̥tsíe̠i̯	j e ɨ ts i ɛ i
+mambuālí	m a m b u a a ɺ i
+tā'há	t a a ʔ h a
+lé̠lé̠a	ɺ ɛ ɺ ɛ a
+iṅé̥	i ŋ ɨ
+íge̥	i g ɨ
+āpiká	a a p i k a
+aháke̥	a h a k ɨ
+dex̯pū́ru	d e h p u u ɾ u
+kúe̥le̥	k u ɨ ɺ ɨ
+lu̠pu̠kóa	ɺ ʊ p ʊ k ɔ a
+sī́roḥo	s i i ɾ ɔ h ɔ
+le̥pokóa	ɺ ɨ p ɔ k ɔ a
+de̥pokóa	d ɨ p ɔ k ɔ a
+naxsiṅgurútsuame̠	n a h s i ŋ g u ɾ u ts u a m ɛ
+tsiúpona	ts i u p ɔ n a
+yáoama	j a ɔ a m a
+ṓnimakia	ɔ ɔ n i m a k i a
+siamé̠kia	s i a m ɛ k i a
+tsōnyimakía	ts ɔ ɔ ɲ i m a k i a
+ne̥xké̥lika	n ɨ h k ɨ ɺ i k a
+ni'kía	n i ʔ k i a
+gubū́liru	g u b u u ɺ i ɾ u
+ūputī́ka	u u p u t i i k a
+íye̠	i j ɛ
+oó	ɔ ɔ
+hóhona	h ɔ h ɔ n a
+e̥mãẽ́gero	ɨ m ã ẽ g e ɾ ɔ
+uáyalidā	w a j a ɺ i d a a
+yapḗ̠romisi	j a p ɛ ɛ ɾ ɔ m i s i
+oahokálo	ɔ a h ɔ k a ɺ ɔ
+u̠atóua	w a t ɔ w a
+ĩ̄ṅẽyábe̠ro	ĩ ĩ ŋ ẽ j a b ɛ ɾ ɔ
+ige̥yapātupáhi	i g ɨ j a p a a t u p a h i
+apikaliká	a p i k a ɺ i k a
+te̠muyī́liuiia	t ɛ m u j i i ɺ i w i i a
+ahaké̥patolo	a h a k ɨ p a t ɔ ɺ ɔ
+kinumu	k i n u m u
+gōbé̠	g ɔ ɔ b ɛ
+ga'minógobe̠	g a ʔ m i n ɔ g ɔ b ɛ
+āmóakakope̠a	a a m ɔ a k a k ɔ p ɛ a
+dix̯sipuligobe̠	d i h s i p u ɺ i g ɔ b ɛ
+hātíkope̠a	h a a t i k ɔ p ɛ a
+ṓme̠kenikope̠a	ɔ ɔ m ɛ k e n i k ɔ p ɛ a
+taā́piūlikukia	t a a a p i u u ɺ i k u k i a
+yaxhigoa	j a h i g ɔ a
+mōmé̠	m ɔ ɔ m ɛ
+múmi	m u m i
+mimía	m i m i a
+kianáḥe̠le̠ke̠re̥	k i a n a h ɛ ɺ ɛ k ɛ ɾ ɨ
+muipái	m u i p a i
+bū́tumaa	b u u t u m a a
+yuiró	j u i ɾ ɔ
+wií	w i i
+uiíya	w i i j a
+ué̥ri	w ɨ ɾ i
+ué̥le̥	w ɨ ɺ ɨ
+ue̥é̥le̥	w ɨ ɨ ɺ ɨ
+uiía	w i i a
+ōrá	ɔ ɔ ɾ a
+īsí	i i s i
+ḗsi	e e s i
+mīmí	m i i m i
+mimi	m i m i
+oálala	ɔ a ɺ a ɺ a
+uhē̠ráhoali	u h ɛ ɛ ɾ a h ɔ a ɺ i
+tx̯akáuiīx̯u	tʃ a k a w i i i tʃ u
+ke̥tōniáse̥	k ɨ t ɔ ɔ n i a s ɨ
+yégolope̥	j e g ɔ ɺ ɔ p ɨ
+yinū́mu	j i n u u m u
+yégorope̥	j e g ɔ ɾ ɔ p ɨ
+yií	j i i
+yéhe̥	j e h ɨ
+yee̥bóodyée̥	j e ɨ b ɔ ɔ dʒ e ɨ
+yayé̥ipahi	j a j ɨ i p a h i
+mé̥e̥pe̠e̠	m ɨ ɨ p ɛ ɛ
+nii	n i i
+yé̥isu	j ɨ i s u
+yee̥uaatoho	j e ɨ w a a t ɔ h ɔ
+yée̥	j e ɨ
+yibáukuni	j i b a u k u n i
+kalī́x̯e̥	k a ɺ i i tʃ ɨ
+kānioi̯yā́ni	k a a n i ɔ i j a a n i
+uáge̥	w a g ɨ
+apé̠na	a p ɛ n a
+mikā́be̠	m i k a a b ɛ
+hõkiahá	h ɔ̃ k i a h a
+ix̯é̥	i tʃ ɨ
+tūyadīyee̥	t u u j a d i i j e ɨ
+dopágola	d ɔ p a g ɔ ɺ a
+wiikaluxkáke̠	w i i k a ɺ u h k a k ɛ
+oóe̠ka	ɔ ɔ ɛ k a
+tsabe̠óe̠ka	ts a b ɛ ɔ ɛ k a
+mé̠ne̠pikahe̠a	m ɛ n ɛ p i k a h ɛ a
+díalu	d i a ɺ u
+ūpupé̠ta	u u p u p ɛ t a
+ītapitia	i i t a p i t i a
+se̠mokoloaígabi	s ɛ m ɔ k ɔ ɺ ɔ a i g a b i
+kōme̠tsoró	k ɔ ɔ m ɛ ts ɔ ɾ ɔ
+nē̃ē̃no	n ẽ ẽ ẽ ẽ n ɔ
+titapurú	t i t a p u ɾ u
+hṓmulika	h ɔ ɔ m u ɺ i k a
+kíaito	k i a i t ɔ
+titapulú	t i t a p u ɺ u
+oā́lioaa	ɔ a a ɺ i ɔ a a
+uālioaa	w a a ɺ i ɔ a a
+tóaka	t ɔ a k a
+méha	m e h a
+diábāli	d i a b a a ɺ i
+diadyúi	d i a dʒ u i
+ānyáka	a a ɲ a k a
+hā́ya	h a a j a
+tūpía	t u u p i a
+būlirí	b u u ɺ i ɾ i
+bulī́x̯u	b u ɺ i i tʃ u
+mihomita̠úabe̠	m i h ɔ m i t ɑ u a b ɛ
+húhea	h u h e a
+bulī́x̯e̥	b u ɺ i i tʃ ɨ
+pé̠ru	p ɛ ɾ u
+báapayau̯alu	b a a p a j a w a ɺ u
+hīsínoko	h i i s i n ɔ k ɔ
+kíasiri	k i a s i ɾ i
+pē̠yáru	p ɛ ɛ j a ɾ u
+báapayau̯aru	b a a p a j a w a ɾ u
+pē̠yálu	p ɛ ɛ j a ɺ u
+uhē̠ní	u h ɛ ɛ n i
+bṓlē̠x̯u	b ɔ ɔ ɺ ɛ ɛ tʃ u
+mihábe̠	m i h a b ɛ
+ké̥liase̥	k ɨ ɺ i a s ɨ
+bṓlē̠x̯e̥	b ɔ ɔ ɺ ɛ ɛ tʃ ɨ
+yālix̯kapu	j a a ɺ i h k a p u
+ge̥tx̯agúu	g ɨ tʃ a g u u
+nyikalupúa	ɲ i k a ɺ u p u a
+siukúye̠hu	s i u k u j ɛ h u
+yikadípu	j i k a d i p u
+yuláseri	j u ɺ a s e ɾ i
+mā́du̠mhi	m a a d ʊ m h i
+yé̥ipai	j ɨ i p a i
+uīropái	w i i ɾ ɔ p a i
+ué̥ta	w ɨ t a
+uahutakóa	w a h u t a k ɔ a
+dix̯tálu	d i h t a ɺ u
+titāla	t i t a a ɺ a
+ritāre̥	ɾ i t a a ɾ ɨ
+uē̠ré̠nĩīnĩ̄	w ɛ ɛ ɾ ɛ n ĩ i i n ĩ ĩ
+maagóxko	m a a g ɔ h k ɔ
+oká	ɔ k a
+ue̥alṓgelo	w ɨ a ɺ ɔ ɔ g e ɺ ɔ
+paḥáya	p a h a j a
+ho'baká	h ɔ ʔ b a k a
+háne̠	h a n ɛ
+tsī́bulu	ts i i b u ɺ u
+pe̠pé̠a	p ɛ p ɛ a
+tsī́buru	ts i i b u ɾ u
+tsīrúli	ts i i ɾ u ɺ i
+yáegé̥le̥	j a e g ɨ ɺ ɨ
+bīkaripe̠pe̠	b i i k a ɾ i p ɛ p ɛ
+tī́lōri	t i i ɺ ɔ ɔ ɾ i
+mikalípe̠pe̠	m i k a ɺ i p ɛ p ɛ
+yoxkátsolo	j ɔ h k a ts ɔ ɺ ɔ
+yoxkátsoro	j ɔ h k a ts ɔ ɾ ɔ
+hotopakie̠ká	h ɔ t ɔ p a k i ɛ k a
+te̠ube̠hó	t ɛ u b ɛ h ɔ
+kobé̠rokoa	k ɔ b ɛ ɾ ɔ k ɔ a
+uahubolituga	w a h u b ɔ ɺ i t u g a
+iádyiri	j a dʒ i ɾ i
+yiípi	j i i p i
+yḗ̠yu	j ɛ ɛ j u
+hóhihi	h ɔ h i h i
+yḗ̠ye̥	j ɛ ɛ j ɨ
+pū́	p u u
+pūnyúa	p u u ɲ u a
+yṓkiare̥	j ɔ ɔ k i a ɾ ɨ
+kopé̥	k ɔ p ɨ
+gaxkoaní	g a h k ɔ a n i
+kā́kope̠na	k a a k ɔ p ɛ n a
+kiakṓre̥āre̥	k i a k ɔ ɔ ɾ ɨ a a ɾ ɨ
+kiakṓrāre̥	k i a k ɔ ɔ ɾ a a ɾ ɨ
+ué̠koa	w ɛ k ɔ a
+tsaháme̥	ts a h a m ɨ
+malā́bē̠na	m a ɺ a a b ɛ ɛ n a
+nomi	n ɔ m i
+be̥kákui	b ɨ k a k u i
+tse̥ā́	ts ɨ a a
+mísi	m i s i
+mihía	m i h i a
+mix̯sire̥	m i h s i ɾ ɨ
+míx̯si	m i h s i
+kālaue̯lī́na	k a a ɺ a w e ɺ i i n a
+kóalime̠e̠be̠	k ɔ a ɺ i m ɛ ɛ b ɛ
+kānaue̯lī́na	k a a n a w e ɺ i i n a
+buxpú	b u h p u
+ué̥pa	w ɨ p a
+uipóa	w i p ɔ a
+me̥ḥolaláḥani	m ɨ h ɔ ɺ a ɺ a h a n i
+ui̯póa	w i p ɔ a
+ui̯podyā́e̠ga	w i p ɔ dʒ a a ɛ g a
+dix̯síbero	d i h s i b e ɾ ɔ
+dix̯sigati	d i h s i g a t i
+dihé̠a	d i h ɛ a
+sírise̠pu̠	s i ɾ i s ɛ p ʊ
+lihé̠a	ɺ i h ɛ a
+pē̠rí	p ɛ ɛ ɾ i
+pīyée̥	p i i j e ɨ
+meamítiyu	m e a m i t i j u
+okiónte̠si	ɔ k i ɔ n t ɛ s i
+pīx̯ú	p i i tʃ u
+meamítiye̥	m e a m i t i j ɨ
+tsakátsia	ts a k a ts i a
+onoíyagoxso	ɔ n ɔ i j a g ɔ h s ɔ
+é̥miki	ɨ m i k i
+mā́kake̠táka	m a a k a k ɛ t a k a
+uḗ̠puli	w ɛ ɛ p u ɺ i
+ōnoíagoxso	ɔ ɔ n ɔ i a g ɔ h s ɔ
+yuā́loge̠	j u a a ɺ ɔ g ɛ
+yoāyá	j ɔ a a j a
+yóaka	j ɔ a k a
+yóe̠	j ɔ ɛ
+disx̯sípulitsai̯ánidex̯ka	d i s h s i p u ɺ i ts a j a n i d e h k a
+hātia	h a a t i a
+ōme̠té̠ni	ɔ ɔ m ɛ t ɛ n i
+dix̯púmelame̥	d i h p u m e ɺ a m ɨ
+ṅḗē	ŋ e e e e
+iía	i i a
+ké̥re̥	k ɨ ɾ ɨ
+nyĩā́	ɲ ĩ a a
+ṹẽ	ũ ẽ
+nyīká	ɲ i i k a
+síneke̥be̥	s i n e k ɨ b ɨ
+gṹẽ	g ũ ẽ
+tsaī́	ts a i i
+mē̠né̠tsino	m ɛ ɛ n ɛ ts i n ɔ
+hihía	h i h i a
+haúlapikoa	h a u ɺ a p i k ɔ a
+yé̠a	j ɛ a
+yaiká	j a i k a
+kū́'me̥	k u u ʔ m ɨ
+mālié̠ya	m a a ɺ i ɛ j a
+mālié̠ye	m a a ɺ i ɛ j e
+ohṓle̥xka	ɔ h ɔ ɔ ɺ ɨ h k a
+óo	ɔ ɔ
+mitólike̠re̥	m i t ɔ ɺ i k ɛ ɾ ɨ
+lu̠pu̠koá	ɺ ʊ p ʊ k ɔ a
+de̥pūkoá	d ɨ p u u k ɔ a
+mé̠oke	m ɛ ɔ k e
+e̥me̥é̥	ɨ m ɨ ɨ
+é̥me̥	ɨ m ɨ
+imíliha	i m i ɺ i h a
+láe̥	ɺ a ɨ
+uaxsúru	w a h s u ɾ u
+yapḗ̠ro	j a p ɛ ɛ ɾ ɔ
+u̠atóḥuru	w a t ɔ h u ɾ u
+uahóa	w a h ɔ a
+oahóa	w a h ɔ a
+diau̯e̠kía	d i a w ɛ k i a
+yoaláua	j ɔ a ɺ a w a
+uairé̠taka	w a i ɾ ɛ t a k a
+yoxká	j ɔ h k a
+nóḳoa	n ɔ k ɔ a
+kīrú	k i i ɾ u
+kī́	k i i
+kía	k i a
+kīlú	k i i ɺ u
+kī́nu	k i i n u
+ānoi̯ye̠	a a n ɔ i j ɛ
+baadyá	b a a dʒ a
+áue	a w e
+haúku	h a u k u
+pōgá	p ɔ ɔ g a
+baagáli	b a a g a ɺ i
+ābulúa	a a b u ɺ u a
+au̯itíre̥	a w i t i ɾ ɨ
+tsṹũrũ	ts ũ ũ ɾ ũ
+ā́tahokoa	a a t a h ɔ k ɔ a
+mẽ̄ã́	m ẽ ẽ ã
+kāgá	k a a g a
+kā́ga	k a a g a
+gā́ka	g a a k a
+ue̥liniḗ̠ro	w ɨ ɺ i n i ɛ ɛ ɾ ɔ
+paxhá	p a h a
+ni'kimaká	n i ʔ k i m a k a
+hā́ne̠	h a a n ɛ
+uaxsohí	w a h s ɔ h i
+tsālá	ts a a ɺ a
+sása	s a s a
+haháka	h a h a k a
+tsārá	ts a a ɾ a
+maliuí	m a ɺ i w i
+be̠hē̠ró	b ɛ h ɛ ɛ ɾ ɔ
+ye̠	j ɛ
+ya'ná	j a ʔ n a
+yanā́re̥	j a n a a ɾ ɨ
+uarū́rapiia	w a ɾ u u ɾ a p i i a
+ya'kátsana	j a ʔ k a ts a n a
+yaxpádiana	j a h p a d i a n a
+ṓyahuaka	ɔ ɔ j a h u a k a
+hóatanikerokaíkaka	h ɔ a t a n i k e ɾ ɔ k a i k a k a
+nḗ̠kama	n ɛ ɛ k a m a
+díuru	d i u ɾ u
+ōpé̠li	ɔ ɔ p ɛ ɺ i
+díulu	d i u ɺ u
+tau̯ā́nipatunie̯	t a w a a n i p a t u n i e
+yamimage̠áue̠	j a m i m a g ɛ a w ɛ
+yámigakiai̯dyá	j a m i g a k i a i dʒ a
+hā́ia	h a a j a
+yámigakaiyagá	j a m i g a k a i j a g a
+yē̠dóloge̥	j ɛ ɛ d ɔ ɺ ɔ g ɨ
+yaía	j a i a
+híai	h i a i
+yē̠dṓroge̥	j ɛ ɛ d ɔ ɔ ɾ ɔ g ɨ
+hiyai	h i j a i
+yí	j i
+ne̠é̠	n ɛ ɛ
+níi	n i i
+nḗ̠re̥	n ɛ ɛ ɾ ɨ
+yamĩ́ã	j a m ĩ ã
+uasúaa	w a s u a a
+uahḗ̠roga	w a h ɛ ɛ ɾ ɔ g a
+tapoiḥia	t a p ɔ i h i a
+uahoágamai̯	w a h ɔ a g a m a i
+uḗ̠roga	w ɛ ɛ ɾ ɔ g a
+yā́la	j a a ɺ a
+uáiroka	w a i ɾ ɔ k a
+yā́mikia	j a a m i k i a
+yalá	j a ɺ a
+pāmṓno	p a a m ɔ ɔ n ɔ
+taāpitúalike	t a a a p i t u a ɺ i k e
+me̥leá	m ɨ ɺ e a
+mé̥li	m ɨ ɺ i
+minía	m i n i a
+mé̥ne̠	m ɨ n ɛ
+yée̥po	j e ɨ p ɔ
+yépó	j e p ɔ
+yipā́ko	j i p a a k ɔ
+hā́ko	h a a k ɔ
+yépo	j e p ɔ
+uānió	w a a n i ɔ
+lē̠kíako	ɺ ɛ ɛ k i a k ɔ
+e̥lé̥	ɨ ɺ ɨ
+tite̠e̥mé̥ma	t i t ɛ ɨ m ɨ m a
+makánikia	m a k a n i k i a
+puī́re̥	p u i i ɾ ɨ
+be̠imakíika	b ɛ i m a k i i k a
+dix̯sī́ro	d i h s i i ɾ ɔ
+dix̯si	d i h s i
+dihokópe̠	d i h ɔ k ɔ p ɛ
+lihokópe̠	ɺ i h ɔ k ɔ p ɛ
+pū́poitobe̠	p u u p ɔ i t ɔ b ɛ
+mē̠ó	m ɛ ɛ ɔ
+mai	m a i
+bii	b i i
+bī́i	b i i i
+be̠ía	b ɛ i a
+nu̠láme	n ʊ ɺ a m e
+nṓluge̥	n ɔ ɔ ɺ u g ɨ
+ā́logaga	a a ɺ ɔ g a g a
+yokóloko	j ɔ k ɔ ɺ ɔ k ɔ
+ā́lokaka	a a ɺ ɔ k a k a
+yā́be̠ro	j a a b ɛ ɾ ɔ
+yapātuayá	j a p a a t u a j a
+yite̠mupáí	j i t ɛ m u p a i
+sípatolo	s i p a t ɔ ɺ ɔ
+yapātupáhi	j a p a a t u p a h i
+yémãẽ	j e m ã ẽ
+yee̥mã́e̥	j e ɨ m ã ɨ
+yimā́ki	j i m a a k i
+yée̥mã̄e̥	j e ɨ m ã ã ɨ
+símāke̥	s i m a a k ɨ
+kā́te̥	k a a t ɨ
+uáme̥a	w a m ɨ a
+yūli	j u u ɺ i
+tsomóno	ts ɔ m ɔ n ɔ
+tumúnu	t u m u n u
+homokópe̠	h ɔ m ɔ k ɔ p ɛ
+sítoūkia	s i t ɔ u u k i a
+yatumúnu	j a t u m u n u
+yasómono	j a s ɔ m ɔ n ɔ
+yḗpolo	j e e p ɔ ɺ ɔ
+yoamaí	j ɔ a m a i
+yoé̠mata̠óihi	j ɔ ɛ m a t ɑ ɔ i h i
+tṓkie̥āne̥	t ɔ ɔ k i ɨ a a n ɨ
+yḗporo	j e e p ɔ ɾ ɔ
+tṓkiāne̥	t ɔ ɔ k i a a n ɨ
+ue̥nṹõ	w ɨ n ũ ɔ̃
+yaué̥	j a w ɨ
+siuaḥíkie̯	s i w a h i k i e
+tupúlakoa	t u p u ɺ a k ɔ a
+óaka	ɔ a k a
+pḗ̠repota	p ɛ ɛ ɾ e p ɔ t a
+mamadai̯yáge̥	m a m a d a i j a g ɨ
+áue̠mame̥	a w ɛ m a m ɨ
+mā́makiai̯dyá	m a a m a k i a i dʒ a
+haiámamāke̥	h a j a m a m a a k ɨ
+ṓa	ɔ ɔ a
+yā́he̠	j a a h ɛ
+yamika	j a m i k a
+yami	j a m i
+yamía	j a m i a
+yá'miri	j a ʔ m i ɾ i
+bóē̠dyu	b ɔ ɛ ɛ dʒ u
+ṓpe̠a	ɔ ɔ p ɛ a
+mā́la	m a a ɺ a
+iamaí	j a m a i
+he̠noó	h ɛ n ɔ ɔ
+hé̠no	h ɛ n ɔ
+nī́re̥	n i i ɾ ɨ
+mā́ra	m a a ɾ a
+mālianáa	m a a ɺ i a n a a
+e̠hḗ̠be̥ge̥	ɛ h ɛ ɛ b ɨ g ɨ
+me̥siī́ṅge̥	m ɨ s i i i ŋ g ɨ
+lukía	ɺ u k i a
+hā́sikia̠li	h a a s i k i ɑ ɺ i
+góe̠ripoe̠	g ɔ ɛ ɾ i p ɔ ɛ
+áue̠pé̥lage̠	a w ɛ p ɨ ɺ a g ɛ
+ayaté̠uahirikádyu	a j a t ɛ w a h i ɾ i k a dʒ u
+aianámati	a j a n a m a t i
+uahirikádyu	w a h i ɾ i k a dʒ u
+ī́ṅinu	i i ŋ i n u
+ḗge̥le	e e g ɨ ɺ e
+ṓme̠	ɔ ɔ m ɛ
+sikomé̠o	s i k ɔ m ɛ ɔ
+íṅigobe̠ri	i ŋ i g ɔ b ɛ ɾ i
+ṓme̠kope̠a	ɔ ɔ m ɛ k ɔ p ɛ a
+dopakēyã́ã	d ɔ p a k e e j ã ã
+uau	w a u
+uaúa	w a u a
+bē̥gé̥	b ɨ ɨ g ɨ
+bé̥ge̥	b ɨ g ɨ
+bé̥ike̥	b ɨ i k ɨ
+bē̥ló	b ɨ ɨ ɺ ɔ
+bé̥ga	b ɨ g a
+bé̥iko	b ɨ i k ɔ
+gamú	g a m u
+dió	d i ɔ
+yuxké̥ue̯x̯ka	j u h k ɨ w e h k a
+hoá	h ɔ a
+tā́lusulu	t a a ɺ u s u ɺ u
+tx̯ḗ̠bola	tʃ ɛ ɛ b ɔ ɺ a
+pū́puliki	p u u p u ɺ i k i
+tx̯ḗ̠bo	tʃ ɛ ɛ b ɔ
+umú	u m u
+ómu	ɔ m u
+ū́mua	u u m u a
+hū́mu	h u u m u
+gaxī́na	g a h i i n a
+gaéi	g a e i
+diai̯yoa	d i a i j ɔ a
+kaúala	k a u a ɺ a
+diayáu	d i a j a u
+liayau̯	ɺ i a j a u
+mālíyawii	m a a ɺ i j a w i i
+maíyau̯e̠é̠	m a i j a w ɛ ɛ
+yī́liuiia	j i i ɺ i w i i a
+siuī́re̥	s i w i i ɾ ɨ
+wiī́ue̯x̯ka	w i i i w e h k a
+tsēmé	ts e e m e
+tsimi	ts i m i
+hē̠mé̠a	h ɛ ɛ m ɛ a
+sé̠me̠	s ɛ m ɛ
+sé̠'me̠	s ɛ ʔ m ɛ
+uhú	u h u
+úḥu	u h u
+hṓḥu	h ɔ ɔ h u
+goxháli	g ɔ h a ɺ i
+ge̥latx̯ibe̥ai̯	g ɨ ɺ a tʃ i b ɨ a i
+uyakóta	u j a k ɔ t a
+uiakóta	u j a k ɔ t a
+mohóliru	m ɔ h ɔ ɺ i ɾ u
+pitatóti	p i t a t ɔ t i
+butsíuahua	b u ts i w a h u a
+tā́lusuba	t a a ɺ u s u b a
+tx̯ḗ̠boya	tʃ ɛ ɛ b ɔ j a
+he̠hḗ̠roka	h ɛ h ɛ ɛ ɾ ɔ k a
+se̠sé̠ri	s ɛ s ɛ ɾ i
+sḗ̠boya	s ɛ ɛ b ɔ j a
+sḗ̠bo	s ɛ ɛ b ɔ
+uex̯gó	w e h g ɔ
+bṓgo	b ɔ ɔ g ɔ
+pakóloka	p a k ɔ ɺ ɔ k a
+soráko	s ɔ ɾ a k ɔ
+uex̯kó	w e h k ɔ
+yūmú	j u u m u
+yau̯mía	j a u m i a
+maá	m a a
+máa	m a a
+mā́re̥	m a a ɾ ɨ
+yake̠tukúa	j a k ɛ t u k u a
+yuxké̥de̥xkagaxtsī́ro	j u h k ɨ d ɨ h k a g a h ts i i ɾ ɔ
+salikakoá	s a ɺ i k a k ɔ a
+yé̠yo	j ɛ j ɔ
+yḗ̠ru	j ɛ ɛ ɾ u
+nūli	n u u ɺ i
+nulía	n u ɺ i a
+sínoni	s i n ɔ n i
+maxsá	m a h s a
+mā́sa	m a a s a
+poe̠mahá	p ɔ ɛ m a h a
+mā́tare̥	m a a t a ɾ ɨ
+mása	m a s a
+biá	b i a
+bía	b i a
+bíare̥	b i a ɾ ɨ
+biátsuru	b i a ts u ɾ u
+gex̯kéru	g e h k e ɾ u
+buluái	b u ɺ u a i
+tuia	t u j a
+tsḗri	ts e e ɾ i
+tsī́ria	ts i i ɾ i a
+yuxké̥ke̥	j u h k ɨ k ɨ
+taāpitualikeyapúa	t a a a p i t u a ɺ i k e j a p u a
+piasá	p i a s a
+ye̠x̯sé̠guikiri	j ɛ h s ɛ g u i k i ɾ i
+ga'minotsā́lioxka	g a ʔ m i n ɔ ts a a ɺ i ɔ h k a
+amukótoa	a m u k ɔ t ɔ a
+amokótoa	a m ɔ k ɔ t ɔ a
+ṓme̠tḗ̠ni	ɔ ɔ m ɛ t ɛ ɛ n i
+tsē̠ná	ts ɛ ɛ n a
+sī́ne	s i i n e
+māruká	m a a ɾ u k a
+máiroke̥	m a i ɾ ɔ k ɨ
+sālía	s a a ɺ i a
+moó	m ɔ ɔ
+uáibe̥ge̥	w a i b ɨ g ɨ
+piraíuaka	p i ɾ a i w a k a
+uaíhāke̥	w a i h a a k ɨ
+mūnyú	m u u ɲ u
+múnyu	m u ɲ u
+miopiká	m i ɔ p i k a
+mā́i	m a a i
+nyumálika	ɲ u m a ɺ i k a
+moháuai	m ɔ h a w a i
+gōlḗ̠ni	g ɔ ɔ ɺ ɛ ɛ n i
+guulí	g u u ɺ i
+keolḗ̠ye̥	k e ɔ ɺ ɛ ɛ j ɨ
+okóne̠	ɔ k ɔ n ɛ
+noolí	n ɔ ɔ ɺ i
+ḳeolḗ̠yu	k e ɔ ɺ ɛ ɛ j u
+nū́lina	n u u ɺ i n a
+tsútsi	ts u ts i
+huhía	h u h i a
+tósi	t ɔ s i
+súsiga	s u s i g a
+súsi	s u s i
+poé̠	p ɔ ɛ
+diyóa	d i j ɔ a
+yakotaḥī́re̥	j a k ɔ t a h i i ɾ ɨ
+é̥ba	ɨ b a
+nḗ̠katuru	n ɛ ɛ k a t u ɾ u
+kuḥúlo	k u h u ɺ ɔ
+be̠holéa	b ɛ h ɔ ɺ e a
+nīmá	n i i m a
+nimá	n i m a
+namitagá	n a m i t a g a
+pé̠tōre̥	p ɛ t ɔ ɔ ɾ ɨ
+pé̠'tōre̥	p ɛ ʔ t ɔ ɔ ɾ ɨ
+be̠hóa	b ɛ h ɔ a
+úle̠tsika	u ɺ ɛ ts i k a
+nyĩã́ẽdoxka	ɲ ĩ ã ẽ d ɔ h k a
+nyẽã́ẽdoxka	ɲ ẽ ã ẽ d ɔ h k a
+yaxbi	j a h b i
+yápi	j a p i
+ya'pía	j a ʔ p i a
+yahĩ́re̥	j a h ĩ ɾ ɨ
+yapía	j a p i a
+nhī́po	n h i i p ɔ
+gé̥lapoali	g ɨ ɺ a p ɔ a ɺ i
+nūlipóa	n u u ɺ i p ɔ a
+pūluitá	p u u ɺ u i t a
+tāláuo̯li	t a a ɺ a w ɔ ɺ i
+te̥xtáaitx̯é̥	t ɨ h t a a i tʃ ɨ
+unúi	u n u i
+liuḗ̠yie̠ká	ɺ i w ɛ ɛ j i ɛ k a
+diuḗ̠diia	d i w ɛ ɛ d i i a d i i a
+yē̠diage̥	j ɛ ɛ d i a g ɨ
+yīdiaúe̥	j i i d i a w ɨ
+yaihóaga	j a i h ɔ a g a
+uai̯yumalie̠i	w a i j u m a ɺ i ɛ i
+yī́diau̯e̥	j i i d i a w ɨ
+hopóa	h ɔ p ɔ a
+wādá	w a a d a
+e̥lí	ɨ ɺ i
+é̥li	ɨ ɺ i
+īné̠	i i n ɛ
+é̥'ne̠re̥	ɨ ʔ n ɛ ɾ ɨ
+purúpuru	p u ɾ u p u ɾ u
+yōmóloyū̠li	j ɔ ɔ m ɔ ɺ ɔ j ʊ ʊ ɺ i
+yaé̠a	j a ɛ a
+pamúkurumaka	p a m u k u ɾ u m a k a
+e̥xtā́puru	ɨ h t a a p u ɾ u
+e̥xtā́pulu	ɨ h t a a p u ɺ u
+bū́yapoka	b u u j a p ɔ k a
+puhúue̥é̥li	p u h u u ɨ ɨ ɺ i
+poakau̯ía	p ɔ a k a w i a
+ḥeḥópato	h e h ɔ p a t ɔ
+taā́piuaho	t a a a p i w a h ɔ
+yágaha	j a g a h a
+uaxsagái	w a h s a g a i
+uaḥolítamaka	w a h ɔ ɺ i t a m a k a
+lu̠pu̠é̠meoka	ɺ ʊ p ʊ ɛ m e ɔ k a
+de̥pu̠é̠meoka	d ɨ p ʊ ɛ m e ɔ k a
+dé̠ko	d ɛ k ɔ
+ókoa	ɔ k ɔ a
+kṓtari	k ɔ ɔ t a ɾ i
+buida	b u i d a
+patuayá	p a t u a j a
+omau̯alía	ɔ m a w a ɺ i a
+pué̥mokiape̥	p u ɨ m ɔ k i a p ɨ
+okónimi	ɔ k ɔ n i m i
+kautu	k a u t u
+kukúlate̠kua	k u k u ɺ a t ɛ k u a
+kause̥	k a u s ɨ
+dialiye̠	d i a ɺ i j ɛ
+díau̯a	d i a w a
+hoāká	h ɔ a a k a
+síōle̠	s i ɔ ɔ ɺ ɛ
+hoagá	h ɔ a g a
+mahá	m a h a
+háulaka	h a u ɺ a k a
+hā́ru	h a a ɾ u
+kalá	k a ɺ a
+kā́la	k a a ɺ a
+kúdyuiga	k u dʒ u i g a
+kúyui̯	k u j u i
+komḗ̠pi	k ɔ m ɛ ɛ p i
+mānyé̠	m a a ɲ ɛ
+gṓge̥	g ɔ ɔ g ɨ
+yaputé̠koa	j a p u t ɛ k ɔ a
+mẽápatole	m ẽ a p a t ɔ ɺ e
+yatau̯iía	j a t a w i i a
+mẽápatore	m ẽ a p a t ɔ ɾ e
+diáye̠	d i a j ɛ
+oe̠ní	ɔ ɛ n i
+lítape̠nata	ɺ i t a p ɛ n a t a
+heḥā́re̥āre̥	h e h a a ɾ ɨ a a ɾ ɨ
+díaye̠	d i a j ɛ
+dítape̠nata	d i t a p ɛ n a t a
+ḥe̥ḥā́rāre̥	h ɨ h a a ɾ a a ɾ ɨ
+pitóahoa	p i t ɔ a h ɔ a
+apapulí	a p a p u ɺ i
+gamauḗni	g a m a w e e n i
+gamawḗni	g a m a w e e n i
+u'kádyali	u ʔ k a dʒ a ɺ i
+diá	d i a
+diaya	d i a j a
+diáka	d i a k a
+lā́ya	ɺ a a j a
+liáka	ɺ i a k a
+muī́ya	m u i i j a
+kālanyá	k a a ɺ a ɲ a
+kálaka	k a ɺ a k a
+kiárakia	k i a ɾ a k i a
+nũṹ	n ũ ũ
+náge̠	n a g ɛ
+yapunikóa	j a p u n i k ɔ a
+te̠tā́re̥	t ɛ t a a ɾ ɨ
+ná'ge̠	n a ʔ g ɛ
+boā́ya	b ɔ a a j a
+lā́baika	ɺ a a b a i k a
+pīrī́na	p i i ɾ i i n a
+dā́baika	d a a b a i k a
+bāyála	b a a j a ɺ a
+bāyá	b a a j a
+ópaie̥	ɔ p a j ɨ
+axpíndieriru	a h p i n d i e ɾ i ɾ u
+ué̠hāli	w ɛ h a a ɺ i
+ue̠āxx̯ú	w ɛ a a h tʃ u
+miué̠abe̠	m i w ɛ a b ɛ
+hue̠uá	h u ɛ w a
+gṓde̥xka	g ɔ ɔ d ɨ h k a
+uaxtx̯ú	w a h tʃ u
+oahoaté̠kua	ɔ a h ɔ a t ɛ k u a
+uaxtú	w a h t u
+uaxtx̯udi	w a h tʃ u d i
+uḥabú	u h a b u
+ue̠ai̯pái	w ɛ a i p a i
+uē̠lopáy	w ɛ ɛ ɺ ɔ p a j e
+kṓlike̠alo	k ɔ ɔ ɺ i k ɛ a ɺ ɔ
+dix̯siku	d i h s i k u
+liókaka	ɺ i ɔ k a k a
+diókaka	d i ɔ k a k a
+gúbutsu	g u b u ts u
+sóhu	s ɔ h u
+huúa	h u u a
+kuhútohu	k u h u t ɔ h u
+tokálaga	t ɔ k a ɺ a g a
+bī́kali	b i i k a ɺ i
+yãĩmẽã	j ã ĩ m ẽ ã
+mẽ́ã	m ẽ ã
+me̠káka	m ɛ k a k a
+mḗ̠'kiari	m ɛ ɛ ʔ k i a ɾ i
+kāyá	k a a j a
+uaitsipulu	w a i ts i p u ɺ u
+uáíté̥te̥	w a i t ɨ t ɨ
+uaititía	w a i t i t i a
+uairasḗ̠re̥	w a i ɾ a s ɛ ɛ ɾ ɨ
+kóle̠oabu	k ɔ ɺ ɛ ɔ a b u
+koápalaka	k ɔ a p a ɺ a k a
+mū́ni	m u u n i
+múni	m u n i
+axpinóto	a h p i n ɔ t ɔ
+uaxpĩ́ȭpe̠	w a h p ĩ ɔ̃ ɔ̃ p ɛ
+uaxpíniakoa	w a h p i n i a k ɔ a
+símaḥē̠re̥	s i m a h ɛ ɛ ɾ ɨ
+kirī́kapunyuto	k i ɾ i i k a p u ɲ u t ɔ
+ī́yāli	i i j a a ɺ i
+pē̠mātx̯é̥	p ɛ ɛ m a a tʃ ɨ
+hṓkiaa	h ɔ ɔ k i a a
+pē̠māx̯ú	p ɛ ɛ m a a tʃ u
+yapuliká	j a p u ɺ i k a
+yéāli	j e a a ɺ i
+e̠ālí	ɛ a a ɺ i
+yex̯sébe̠ré̠no	j e h s e b ɛ ɾ ɛ n ɔ
+se̥sáma	s ɨ s a m a
+pítánanalika	p i t a n a n a ɺ i k a
+sihā́tiri	s i h a a t i ɾ i
+tsapé̠ualalalika	ts a p ɛ w a ɺ a ɺ a ɺ i k a
+se̥xsé̥	s ɨ h s ɨ
+tsapé̠ualalanika	ts a p ɛ w a ɺ a ɺ a n i k a
+pitálalalika	p i t a ɺ a ɺ a ɺ i k a
+āróa	a a ɾ ɔ a
+pē̠yúpe̠ru̠	p ɛ ɛ j u p ɛ ɾ ʊ
+uabḗ̠ro	w a b ɛ ɛ ɾ ɔ
+nyīkáome̠	ɲ i i k a ɔ m ɛ
+ge̥láui̯ri	g ɨ ɺ a w i ɾ i
+yāmúi	j a a m u i
+ītá	i i t a
+oké̥ta	ɔ k ɨ t a
+yex̯sálipe̥ali	j e h s a ɺ i p ɨ a ɺ i
+pe̠áyēri	p ɛ a j e e ɾ i
+yoā́be̠a	j ɔ a a b ɛ a
+ye̠é̠ua	j ɛ ɛ w a
+kū́ne̠	k u u n ɛ
+pe̠áyeri	p ɛ a j e ɾ i
+pe̠agóp̌eka	p ɛ a g ɔ ɸ e k a
+pé̠kayape̠	p ɛ k a j a p ɛ
+he̠kiaiē̠re̥	h ɛ k i a j ɛ ɛ ɾ ɨ
+komẽ́pero	k ɔ m ẽ p e ɾ ɔ
+dikagúu	d i k a g u u
+hihóa	h i h ɔ a
+sikiakóme̠no	s i k i a k ɔ m ɛ n ɔ
+komeẽ́pero	k ɔ m e ẽ p e ɾ ɔ
+uayume̠ká	w a j u m ɛ k a
+tsiū́puli	ts i u u p u ɺ i
+naxtsíkame	n a h ts i k a m e
+nasíga	n a s i g a
+náhokaga	n a h ɔ k a g a
+nā́sikiali	n a a s i k i a ɺ i
+yuxké̥puli	j u h k ɨ p u ɺ i
+yapumaxkanaká	j a p u m a h k a n a k a
+dōlekéyanima	d ɔ ɔ ɺ e k e j a n i m a
+tū́dye̥	t u u dʒ ɨ
+hī́niu̯	h i i n i u
+ikū́lii	i k u u ɺ i i
+be̥katū́dye̥	b ɨ k a t u u dʒ ɨ
+be̥katū́dy	b ɨ k a t u u dʒ i
+bāyā́li	b a a j a a ɺ i
+niháma	n i h a m a
+áo	a ɔ
+síkoako	s i k ɔ a k ɔ
+yépuibo	j e p u i b ɔ
+doā́li	d ɔ a a ɺ i
+dóāx̯u	d ɔ a a tʃ u
+miyúabe̠	m i j u a b ɛ
+ú̠ru̠ha	ʊ ɾ ʊ h a
+gaxtsī́ro	g a h ts i i ɾ ɔ
+yagā́ti	j a g a a t i
+áḥe̠a	a h ɛ a
+siráso	s i ɾ a s ɔ
+ēme̥tsi	e e m ɨ ts i
+ue̠sé̠	w ɛ s ɛ
+īmía	i i m i a
+ne̥mé̥lokē̠ri	n ɨ m ɨ ɺ ɔ k ɛ ɛ ɾ i
+ne̥'mé̥lokē̠ri	n ɨ ʔ m ɨ ɺ ɔ k ɛ ɛ ɾ i
+kāníni	k a a n i n i
+kālíni	k a a ɺ i n i
+uiuahoa	u j u a h ɔ a
+tsamaapiáe̠ka	ts a m a a p i a ɛ k a
+kē̠rá	k ɛ ɛ ɾ a
+puúa	p u u a
+hṓta	h ɔ ɔ t a
+ãmĩĩ́ã	ã m ĩ ĩ ã
+kúpai̯ka	k u p a i k a
+yṓhe̠	j ɔ ɔ h ɛ
+siā́ya	s i a a j a
+mohótolipagage̥	m ɔ h ɔ t ɔ ɺ i p a g a g ɨ
+būlutx̯í	b u u ɺ u tʃ i
+burúa	b u ɾ u a
+pṓrokiasi	p ɔ ɔ ɾ ɔ k i a s i
+būluti	b u u ɺ u t i
+oyobe̥gé̥	ɔ j ɔ b ɨ g ɨ
+kóalu	k ɔ a ɺ u
+kóamãẽ	k ɔ a m ã ẽ
+pé̠takomakanaka	p ɛ t a k ɔ m a k a n a k a
+kṓrokolei̯kia	k ɔ ɔ ɾ ɔ k ɔ ɺ e i k i a
+kóāru	k ɔ a a ɾ u
+ókopukluaua	ɔ k ɔ p u k u ɺ u a w a
+de̥té̥	d ɨ t ɨ
+kāmhálu	k a a m h a ɺ u
+muhúua̯tsutsī́ge̥le̥	m u h u u a ts u ts i i g ɨ ɺ ɨ
+pitatī́tiaka	p i t a t i i t i a k a
+simáu̠kiakio̯	s i m a ʊ k i a k i ɔ
+pé̠uaga	p ɛ w a g a
+pāmúpoka	p a a m u p ɔ k a
+be̥xbé̥bogabu	b ɨ h b ɨ b ɔ g a b u
+bikalípe̠pe̠makanaka	b i k a ɺ i p ɛ p ɛ m a k a n a k a
+yairó	j a i ɾ ɔ
+de̥li	d ɨ ɺ i
+pulítsio̯ka	p u ɺ i ts i ɔ k a
+uihíāli	w i h i a a ɺ i
+ōmú	ɔ ɔ m u
+bū́yi	b u u j i
+ōmákaka	ɔ ɔ m a k a k a
+ē̠ke̠ápiāri	ɛ ɛ k ɛ a p i a a ɾ i
+mūnuhū́li	m u u n u h u u ɺ i
+midyī́be̠	m i dʒ i i b ɛ
+tsei	ts e i
+kobé̠raka	k ɔ b ɛ ɾ a k a
+bīnú	b i i n u
+háya	h a j a
+pīnú	p i i n u
+hātsíali	h a a ts i a ɺ i
+axtí	a h t i
+yihātsī́yu	j i h a a ts i i j u
+huhasí	h u h a s i
+yihātsī́ye̥	j i h a a ts i i j ɨ
+ui̯híniseneno	w i h i n i s e n e n ɔ
+mé̥la	m ɨ ɺ a
+mī́nouīnukia	m i i n ɔ w i i n u k i a
+me̥nosé̠kia	m ɨ n ɔ s ɛ k i a
+ṓle̠ni	ɔ ɔ ɺ ɛ n i
+mū̠nu̠ui̯hīnimúka	m ʊ ʊ n ʊ w i h i i n i m u k a
+mi'nóa	m i ʔ n ɔ a
+me̥nṓre̥	m ɨ n ɔ ɔ ɾ ɨ
+me̥lapuhúaye̥	m ɨ ɺ a p u h u a j ɨ
+mīnokóa	m i i n ɔ k ɔ a
+ṓbe̥ge̥	ɔ ɔ b ɨ g ɨ
+dūlía	d u u ɺ i a
+nīnī́na	n i i n i i n a
+pīliá	p i i ɺ i a
+pṓnaka	p ɔ ɔ n a k a
+ābé̠	a a b ɛ
+tsīnĩe	ts i i n ĩ e
+gubū́kore̠	g u b u u k ɔ ɾ ɛ
+ūputótia	u u p u t ɔ t i a
+uaipe̥	w a i p ɨ
+kúlidi	k u ɺ i d i
+ku̠liriká	k ʊ ɺ i ɾ i k a
+kúai̯	k u a i
+uátiuáage̥	w a t i w a a g ɨ
+pōpaká	p ɔ ɔ p a k a
+ūlía	u u ɺ i a
+ue̠ré̠niṅini	w ɛ ɾ ɛ n i ŋ i n i
+be̥xpé̥	b ɨ h p ɨ
+bé̥be̥	b ɨ b ɨ
+pipía	p i p i a
+héhe	h e h e
+uahúa	w a h u a
+uahupíy	w a h u p i j e
+yamadiage̥	j a m a d i a g ɨ
+be̠tániama	b ɛ t a n i a m a
+ya'másio	j a ʔ m a s i ɔ
+nĩĩní	n ĩ ĩ n i
+nīiní	n i i i n i
+nḗ̠yaxka	n ɛ ɛ j a h k a
+yoḳóro	j ɔ k ɔ ɾ ɔ
+yákoḥe̠	j a k ɔ h ɛ
+yokólo	j ɔ k ɔ ɺ ɔ
+tā'pía	t a a ʔ p i a
+yoxkólo	j ɔ h k ɔ ɺ ɔ
+oáme̠naga	w a m ɛ n a g a
+dūhame̠né̠	d u u h a m ɛ n ɛ
+yuxtsé̠ni	j u h ts ɛ n i
+ānyá	a a ɲ a
+é̥nya	ɨ ɲ a
+ākisiká	a a k i s i k a
+híatoli	h i a t ɔ ɺ i
+yau̯ālaká	j a w a a ɺ a k a
+tsayauā́naga	ts a j a w a a n a g a
+tsayauā́laga	ts a j a w a a ɺ a g a
+e̥xtá	ɨ h t a
+é̥le̥	ɨ ɺ ɨ
+ā́ta	a a t a
+síḥu	s i h u
+yēlékume	j e e ɺ e k u m e
+ā́takome̠a	a a t a k ɔ m ɛ a
+tsē̠ró	ts ɛ ɛ ɾ ɔ
+dóama	d ɔ a m a
+dúpalikumúa	d u p a ɺ i k u m u a
+ká̠u	k ɑ u
+lúpalikumúa	ɺ u p a ɺ i k u m u a
+kōlimatá	k ɔ ɔ ɺ i m a t a
+gālálu	g a a ɺ a ɺ u
+gā́la	g a a ɺ a
+hōtía	h ɔ ɔ t i a
+gāráru	g a a ɾ a ɾ u
+pḗ̠yalĩe	p ɛ ɛ j a ɺ ĩ e
+pā́i	p a a i
+mihipáhe̠	m i h i p a h ɛ
+kope̠ki	k ɔ p ɛ k i
+hotá	h ɔ t a
+kuikánoa	k u i k a n ɔ a
+aué̠	a w ɛ
+ihía	i h i a
+hā́'ia	h a a ʔ j a
+awé̠	a w ɛ
+aiyagá	a i j a g a
+yuxke̥tsíruii	j u h k ɨ ts i ɾ u i i
+tsumúsero	ts u m u s e ɾ ɔ
+mīnóa	m i i n ɔ a
+síkoliga	s i k ɔ ɺ i g a
+yehátsirigoali	j e h a ts i ɾ i g ɔ a ɺ i
+ihíui̯tsia	i h i w i ts i a
+ye̠x̯sé̠	j ɛ h s ɛ
+sé̠se̠talage̥	s ɛ s ɛ t a ɺ a g ɨ
+he̠hé̠a	h ɛ h ɛ a
+sḗ̠se̠	s ɛ ɛ s ɛ
+uauáka	w a w a k a
+diḗypōleru	d i e e j i p ɔ ɔ ɺ e ɾ u
+bī́e̥le̥	b i i ɨ ɺ ɨ
+uaipikóa	w a i p i k ɔ a
+uex̯kópōleru	w e h k ɔ p ɔ ɔ ɺ e ɾ u
+bíṅe̥le	b i ŋ ɨ ɺ e
+ye̠x̯sé̠puru	j ɛ h s ɛ p u ɾ u
+hē̠kápe̠raga	h ɛ ɛ k a p ɛ ɾ a g a
+liáme̥kiatu	ɺ i a m ɨ k i a t u
+ye̠x̯sé̠pulu	j ɛ h s ɛ p u ɺ u
+sé̠se̠buti	s ɛ s ɛ b u t i
+ue̠ré̠nĩĩni	w ɛ ɾ ɛ n ĩ ĩ n i
+mīni	m i i n i
+mē̠né̠	m ɛ ɛ n ɛ
+mé̠'ne̠re̥	m ɛ ʔ n ɛ ɾ ɨ
+uē̠rá	w ɛ ɛ ɾ a
+uē̠lá	w ɛ ɛ ɺ a
+uex̯ké̥	w e h k ɨ
+uike̥	w i k ɨ
+uai̯bikínaga	w a i b i k i n a g a
+ué̠ke̥	w ɛ k ɨ
+malákaka	m a ɺ a k a k a
+kṓlex̯ko	k ɔ ɔ ɺ e h k ɔ
+yakókaka	j a k ɔ k a k a
+kṓrex̯ko	k ɔ ɔ ɾ e h k ɔ
+wā́dali	w a a d a ɺ i
+yē̠nyía	j ɛ ɛ ɲ i a
+būluá	b u u ɺ u a
+bū́lu	b u u ɺ u
+butúa	b u t u a
+pṓru	p ɔ ɔ ɾ u
+axpinotóyeri	a h p i n ɔ t ɔ j e ɾ i
+uapítie̥le̥	w a p i t i ɨ ɺ ɨ
+uaxpiniakoliá	w a h p i n i a k ɔ ɺ i a
+simaḥā́liāre̥	s i m a h a a ɺ i a a ɾ ɨ
+oḗ̠du	ɔ ɛ ɛ d u
+tsē̠oá	ts ɛ ɛ ɔ a
+uāyá	w a a j a
+kúikoīre̥	k u i k ɔ i i ɾ ɨ
+hahía	h a h i a
+liákahulū́ye̥	ɺ i a k a h u ɺ u u j ɨ
+diákahulū́yu	d i a k a h u ɺ u u j u
+tsōgé̠	ts ɔ ɔ g ɛ
+lá	ɺ a
+itóna	i t ɔ n a
+tṓhone̠	t ɔ ɔ h ɔ n ɛ
+ṓge	ɔ ɔ g e
+īná	i i n a
+e̥dyé̥	ɨ dʒ ɨ
+ī'ná	i i ʔ n a
+yáhaāre̥	j a h a a a ɾ ɨ
+goxsó	g ɔ h s ɔ
+ge̥tx̯á	g ɨ tʃ a
+dihóa	d i h ɔ a
+siritu̠	s i ɾ i t ʊ
+lihóa	ɺ i h ɔ a
+gāgúāmi	g a a g u a a m i
+diimé̥	d i i m ɨ
+gūnyabirikā́	g u u ɲ a b i ɾ i k a a
+uērériru	w e e ɾ e ɾ i ɾ u
+yagókokoa	j a g ɔ k ɔ k ɔ a
+uame̥tósia	w a m ɨ t ɔ s i a
+siuaḥé̥toro	s i w a h ɨ t ɔ ɾ ɔ
+potá	p ɔ t a
+be̠ṓli	b ɛ ɔ ɔ ɺ i
+koatx̯ā́etx̯e̥	k ɔ a tʃ a a e tʃ ɨ
+miuayatábe̠	m i w a j a t a b ɛ
+okū́lia	ɔ k u u ɺ i a
+ūé̥liru	u u ɨ ɺ i ɾ u
+pitapákoaka	p i t a p a k ɔ a k a
+buxpúpāgumī́na	b u h p u p a a g u m i i n a
+ue̥papabíke̥	w ɨ p a p a b i k ɨ
+ui̯póhaiga	w i p ɔ h a i g a
+mé̥ḥo	m ɨ h ɔ
+mé̥'ḥo	m ɨ ʔ h ɔ
+paíuaga	p a i w a g a
+de̠hé̠	d ɛ h ɛ
+uai̯bikinṓliaka	w a i b i k i n ɔ ɔ ɺ i a k a
+mākiáse̠he̥	m a a k i a s ɛ h ɨ
+dī́riri	d i i ɾ i ɾ i
+mīá	m i i a
+e̠omix̯sí	ɛ ɔ m i h s i
+ē̠nyamihia	ɛ ɛ ɲ a m i h i a
+saítakurse̥	s a i t a k u ɾ s ɨ
+kau̯hanikía	k a u h a n i k i a
+tā́lobe̥ge̥	t a a ɺ ɔ b ɨ g ɨ
+ue̠uálu	w ɛ w a ɺ u
+ululū́líka	u ɺ u ɺ u u ɺ i k a
+kṓroro	k ɔ ɔ ɾ ɔ ɾ ɔ
+ululū́rika	u ɺ u ɺ u u ɾ i k a
+mū̠nú̠	m ʊ ʊ n ʊ
+minó	m i n ɔ
+mé̥lapu	m ɨ ɺ a p u
+kā́de̥xka	k a a d ɨ h k a
+pé̠la	p ɛ ɺ a
+patáka	p a t a k a
+hā́ta	h a a t a
+pé̠ra	p ɛ ɾ a
+dopã́ã	d ɔ p ã ã
+ī́ne̥	i i n ɨ
+īnimí	i i n i m i
+íne̥me̥	i n ɨ m ɨ
+do'pã́ã	d ɔ ʔ p ã ã
+gubū́tsinidix̯pelu	g u b u u ts i n i d i h p e ɺ u
+gé̥apauatx̯u	g ɨ a p a w a tʃ u
+ūpúahoa	u u p u a h ɔ a
+sikoxúio	s i k ɔ h u j ɔ
+gubū́tsinidix̯peru	g u b u u ts i n i d i h p e ɾ u
+ge̥apáuasu	g ɨ a p a w a s u
+ōpúaḥoa	ɔ ɔ p u a h ɔ a
+gé̥apauatu	g ɨ a p a w a t u
+gubū́tsepē̠roli	g u b u u ts e p ɛ ɛ ɾ ɔ ɺ i
+gé̥apagati	g ɨ a p a g a t i
+mamálaḥe̠	m a m a ɺ a h ɛ
+nḗ̠riru	n ɛ ɛ ɾ i ɾ u
+nē̠nóke̠ka	n ɛ ɛ n ɔ k ɛ k a
+siáme̠lako	s i a m ɛ ɺ a k ɔ
+dṓlo	d ɔ ɔ ɺ ɔ
+guhī́kuli	g u h i i k u ɺ i
+goxpé̠ga	g ɔ h p ɛ g a
+ōpía	ɔ ɔ p i a
+síkoḥiri	s i k ɔ h i ɾ i
+góxpe̠ga	g ɔ h p ɛ g a
+me̥pe̥lí	m ɨ p ɨ ɺ i
+bē̠yó	b ɛ ɛ j ɔ
+pā́li	p a a ɺ i
+pále̠kika	p a ɺ ɛ k i k a
+ḥā́re̥	h a a ɾ ɨ
+naxtsí	n a h ts i
+yā́si	j a a s i
+naḥé̠a	n a h ɛ a
+dṓki	d ɔ ɔ k i
+maxká	m a h k a
+yaue̠sé̠	j a w ɛ s ɛ
+māká	m a a k a
+doé̠	d ɔ ɛ
+dix̯sipialítse̠	d i h s i p i a ɺ i ts ɛ
+hāapālóa	h a a a p a a ɺ ɔ a
+yuxké̥tsiru	j u h k ɨ ts i ɾ u
+kumú	k u m u
+kumóa	k u m ɔ a
+kóōre̥	k ɔ ɔ ɔ ɾ ɨ
+ūbá	u u b a
+ubá	u b a
+yuxké̥ge̥	j u h k ɨ g ɨ
+yábu	j a b u
+yapúa	j a p u a
+tṓke̥	t ɔ ɔ k ɨ
+buyá	b u j a
+pohá	p ɔ h a
+ḥe̥ḥóḥoire̥	h ɨ h ɔ h ɔ i ɾ ɨ
+uitóa	w i t ɔ a
+yoxkápolani	j ɔ h k a p ɔ ɺ a n i
+yóka	j ɔ k a
+yuká	j u k a
+aúlikiare̥	a u ɺ i k i a ɾ ɨ
+yoxkáponani	j ɔ h k a p ɔ n a n i
+pē̠rá	p ɛ ɛ ɾ a
+púuai	p u u a i
+yukunanía	j u k u n a n i a
+poḥṓuai̯	p ɔ h ɔ ɔ w a i
+gā́lie	g a a ɺ i e
+gā́li	g a a ɺ i
+gālitsiali	g a a ɺ i ts i a ɺ i
+gúi	g u i
+ṓia	ɔ ɔ j a
+kā̠́e̥	k ɑ ɑ ɨ
+ṓie	ɔ ɔ j e
+kālomalí	k a a ɺ ɔ m a ɺ i
+áualiga	a w a ɺ i g a
+pōlétulu	p ɔ ɔ ɺ e t u ɺ u
+pōréturu	p ɔ ɔ ɾ e t u ɾ u
+uahía	w a h i a
+pupáka	p u p a k a
+mé̥	m ɨ
+mḗ	m e e
+māmía	m a a m i a
+mā́'me̥re̥	m a a ʔ m ɨ ɾ ɨ
+uai	w a i
+me̥āmé̥	m ɨ a a m ɨ
+aá	a a
+aké̥lame̥	a k ɨ ɺ a m ɨ
+wiipoe̠káke̠	w i i p ɔ ɛ k a k ɛ
+kādoxkápoali	k a a d ɔ h k a p ɔ a ɺ i
+báua	b a w a
+báue	b a w e
+yanúuli	j a n u u ɺ i
+ōlé̠a	ɔ ɔ ɺ ɛ a
+sikonḗ̠ri	s i k ɔ n ɛ ɛ ɾ i
+núli	n u ɺ i
+ṓ'lé̠a	ɔ ɔ ʔ ɺ ɛ a
+yḗrigobe̠	j e e ɾ i g ɔ b ɛ
+bū́lugō	b u u ɺ u g ɔ ɔ
+ya'nákope̠	j a ʔ n a k ɔ p ɛ
+yanágoḥe̠	j a n a g ɔ h ɛ
+yē̠niyá	j ɛ ɛ n i j a
+six̯síama	s i h s i a m a
+se̥x̯sé̥ama	s ɨ h s ɨ a m a
+yátai̯ga	j a t a i g a
+díanōpi	d i a n ɔ ɔ p i
+ṓliaka	ɔ ɔ ɺ i a k a
+gōlóphūna	g ɔ ɔ ɺ ɔ p h u u n a
+miūla	m i u u ɺ a
+uadyúlika	w a dʒ u ɺ i k a
+ṓropu	ɔ ɔ ɾ ɔ p u
+gōróphūna	g ɔ ɔ ɾ ɔ p h u u n a
+koapái	k ɔ a p a i
+gā́mē̠ri	g a a m ɛ ɛ ɾ i
+tx̯e̥dyé̥	tʃ ɨ dʒ ɨ
+ikiákoini	i k i a k ɔ i n i
+axtsī́nika	a h ts i i n i k a
+axsíama	a h s i a m a
+hḗ̠kiaki	h ɛ ɛ k i a k i
+uxtí	u h t i
+úti	u t i
+ū́tia	u u t i a
+hū́ti	h u u t i
+kótapu	k ɔ t a p u
+hókoa	h ɔ k ɔ a
+tsōróbu	ts ɔ ɔ ɾ ɔ b u
+ókolihotó	ɔ k ɔ ɺ i h ɔ t ɔ
+hokólihoto	h ɔ k ɔ ɺ i h ɔ t ɔ
+lianyamága	ɺ i a ɲ a m a g a
+dianyamága	d i a ɲ a m a g a
+e̥xtámu	ɨ h t a m u
+ātá	a a t a
+dikánapiroa	d i k a n a p i ɾ ɔ a
+mumiákakoa	m u m i a k a k ɔ a
+māli	m a a ɺ i
+ge̥á	g ɨ a
+dyihá	dʒ i h a
+yéta	j e t a
+yé'ta	j e ʔ t a
+balalikḗ̠	b a ɺ a ɺ i k ɛ ɛ
+dexkópakana	d e h k ɔ p a k a n a
+uiíaka	w i i a k a
+uīrí	w i i ɾ i
+bōlé̠riye̠	b ɔ ɔ ɺ ɛ ɾ i j ɛ
+bṓle̠	b ɔ ɔ ɺ ɛ
+bóya	b ɔ j a
+pṓle̠	p ɔ ɔ ɺ ɛ
+bóiya	b ɔ i j a
+póle̠	p ɔ ɺ ɛ
+amuuítoa	a m u u i t ɔ a
+yaxhí	j a h i
+boḥó	b ɔ h ɔ
+būdyaboía	b u u dʒ a b ɔ j a
+háupu	h a u p u
+yaḥí	j a h i
+pe̠ā́maxsa	p ɛ a a m a h s a
+kalíua	k a ɺ i w a
+kaliuāna	k a ɺ i w a a n a
+karíua	k a ɾ i w a
+yé̠ua	j ɛ w a
+é̠oa	ɛ ɔ a
+ē̠yā́lo	ɛ ɛ j a a ɺ ɔ
+hā́naia	h a a n a j a
+hā́naya	h a a n a j a
+oaḗ̠yoka	ɔ a ɛ ɛ j ɔ k a
+uaxpéweyo	w a h p e w e j ɔ
+yémanape̥	j e m a n a p ɨ
+mī́nu	m i i n u
+uī́ne̥	w i i n ɨ
+uī́noa	w i i n ɔ a
+iā́re̥	j a a ɾ ɨ
+uex̯kowe̥lī́e	w e h k ɔ w ɨ ɺ i i e
+kahe̠pitía	k a h ɛ p i t i a
+nomé̠	n ɔ m ɛ
+númi	n u m i
+nomó	n ɔ m ɔ
+lā́ko	ɺ a a k ɔ
+yai̯iuáxsuru	j a i i w a h s u ɾ u
+yai̯iuáxsulu	j a i i w a h s u ɺ u
+taā́pipalikía	t a a a p i p a ɺ i k i a
+taā́pipanikía	t a a a p i p a n i k i a
+salupukóa	s a ɺ u p u k ɔ a
+sadupukóa	s a d u p u k ɔ a
+uā́kilupukoa	w a a k i ɺ u p u k ɔ a
+uā́kidupukoa	w a a k i d u p u k ɔ a
+takū́li	t a k u u ɺ i
+se̠nyix̯ká	s ɛ ɲ i h k a
+kuayḗ̠rie	k u a j ɛ ɛ ɾ i e
+kuayḗ̠ri	k u a j ɛ ɛ ɾ i
+kāmíno	k a a m i n ɔ
+yé̠'yoa	j ɛ ʔ j ɔ a
+yé̠yoa	j ɛ j ɔ a
+sapīpḗ̠ga	s a p i i p ɛ ɛ g a
+ḗ̠olo	ɛ ɛ ɔ ɺ ɔ
+e̠ólaka	ɛ ɔ ɺ a k a
+yamú	j a m u
+yámu	j a m u
+ya'múa	j a ʔ m u a
+yaúre̥	j a u ɾ ɨ
+yamúa	j a m u a
+uámulika	w a m u ɺ i k a
+yaṓlipuli	j a ɔ ɔ ɺ i p u ɺ i
+īnakuliuḗ̠he̠naka	i i n a k u ɺ i w ɛ ɛ h ɛ n a k a
+pā́pitaka	p a a p i t a k a
+bōlé̠	b ɔ ɔ ɺ ɛ
+ḗ̠bo	ɛ ɛ b ɔ
+hūtipobáka	h u u t i p ɔ b a k a
+hé̠oaki	h ɛ ɔ a k i
+hōtípoa	h ɔ ɔ t i p ɔ a
+yoxsó	j ɔ h s ɔ
+hīrúa	h i i ɾ u a
+háe̥	h a ɨ
+hḗ	h e e
+hehḗ	h e h e e
+ā́e̥	a a ɨ
+háu	h a u
+dahābé̥loge̠	d a h a a b ɨ ɺ ɔ g ɛ
+kálu	k a ɺ u
+naṓka	n a ɔ ɔ k a
+le̠líkoḥe̠	ɺ ɛ ɺ i k ɔ h ɛ
+káru	k a ɾ u
+me̥é	m ɨ e
+mé̥e̥	m ɨ ɨ
+mií	m i i
+mé̥he̥	m ɨ h ɨ
+meé	m e e
+mibáubadyube̠	m i b a u b a dʒ u b ɛ
+kamĩ́ã	k a m ĩ ã
+me̥á	m ɨ a
+mé̥a	m ɨ a
+mihá	m i h a
+mé̥ta	m ɨ t a
+meá	m e a
+mé̥yabe̠ro	m ɨ j a b ɛ ɾ ɔ
+mé̥e̥yapātupáhi	m ɨ ɨ j a p a a t u p a h i
+mínikate̠mupái	m i n i k a t ɛ m u p a i
+mé̠patolo	m ɛ p a t ɔ ɺ ɔ
+mitaā́bika	m i t a a a b i k a
+me̠ríue̠sḗ̠re̥	m ɛ ɾ i w ɛ s ɛ ɛ ɾ ɨ
+me̠líue̠sḗ̠re̥	m ɛ ɺ i w ɛ s ɛ ɛ ɾ ɨ
+me̥ā́yawii	m ɨ a a j a w i i
+mé̥āyau̯e̠é̠	m ɨ a a j a w ɛ ɛ
+miháliuiia	m i h a ɺ i w i i a
+me̠sauī́re̥	m ɛ s a w i i ɾ ɨ
+īnayáwii	i i n a j a w i i
+e̥yé̥yau̯e̠é̠	ɨ j ɨ j a w ɛ ɛ
+nāliuiía	n a a ɺ i w i i a
+ne̠uī́re̥	n ɛ w i i ɾ ɨ
+be̥gé̥masi	b ɨ g ɨ m a s i
+mā́nuḥāke̥	m a a n u h a a k ɨ
+ué̠koa 	w ɛ k ɔ a 
+ūkúame	u u k u a m e
+úaḥoa	u a h ɔ a
+mé̥ni	m ɨ n i
+mé̥'ni	m ɨ ʔ n i
+de̠kó_ix̯é̥	d ɛ k ɔ + i tʃ ɨ
+yeé̥	j e ɨ
