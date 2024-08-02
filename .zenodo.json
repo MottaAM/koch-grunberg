@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Koch-Gr\u00fcnberg's \"Bet\u00f3ya-Sprachen\" from 2015",
+    "title": "CLDF dataset derived from Koch-Gr\u00fcnberg's \"Bet\u00f3ya-Sprachen\" from 1914",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -21,7 +21,7 @@
         },
         {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
         }
     ],
     "communities": [

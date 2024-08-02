@@ -2,24 +2,14 @@ import pathlib
 import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
-from pylexibank import progressbar as pb
-from pylexibank import Concept, Lexeme
+from pylexibank import Concept
 from pylexibank import FormSpec
 
-
-#@attr.s
-#class CustomLanguage(Language):
-#    Sources = attr.ib(default=None)
 
 @attr.s
 class CustomConcept(Concept):
     Portuguese_Gloss = attr.ib(default=None)
     German_Gloss = attr.ib(default=None)
-
-
-#@attr.s
-#class CustomLexeme(Lexeme):
-#    Page = 
 
 
 class Dataset(BaseDataset):
@@ -36,12 +26,10 @@ class Dataset(BaseDataset):
         args.log.info("added sources")
 
         # modify replacements
-        reps = self.raw_dir.read_csv("preprocess-sounds.tsv", delimiter="\t",
-                dicts=True)
+        reps = self.raw_dir.read_csv("preprocess-sounds.tsv", delimiter="\t", dicts=True)
         #for row in reps:
         #    self.form_spec.replacements += [(row["KG"], row["IPA"])]
         args.log.info(self.form_spec.replacements)
-
 
         # add concept
         concepts = {}
@@ -53,17 +41,17 @@ class Dataset(BaseDataset):
                     Name=concept["ENGLISH"],
                     German_Gloss=concept["GERMAN"],
                     Portuguese_Gloss=concept["PORTUGUESE"],
-                    #Concepticon_ID=concept["CONCEPTICON_ID"],
-                    #Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                     )
         args.log.info("added concepts")
         # add language
-        languages = args.writer.add_languages()
+        args.writer.add_languages()
         args.log.info("added languages")
 
         # read in data
         data = self.raw_dir.read_csv(
-            "koch-grunberg koretu yahuna yupua - Tabela unificada.csv", 
+            "koch-grunberg koretu yahuna yupua - Tabela unificada.csv",
             delimiter=",",
             dicts=True
         )
@@ -77,10 +65,9 @@ class Dataset(BaseDataset):
                                 Language_ID=language,
                                 Parameter_ID=concepts[row["Alemão"]],
                                 Value=entry,
-                                Source="Koch1914[{0}]".format(row["Pagina"])
+                                Source=f"Koch1914[{row["Pagina"]}]"
                                 )
                     else:
                         errors.add(("concept missing", row["Alemão"]))
         for a, b in errors:
             print(a, b)
-
