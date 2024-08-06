@@ -26,24 +26,25 @@ class Dataset(BaseDataset):
         args.log.info("added sources")
 
         # modify replacements
-        reps = self.raw_dir.read_csv("preprocess-sounds.tsv", delimiter="\t", dicts=True)
-        #for row in reps:
-        #    self.form_spec.replacements += [(row["KG"], row["IPA"])]
-        args.log.info(self.form_spec.replacements)
+        # reps = self.raw_dir.read_csv("preprocess-sounds.tsv", delimiter="\t", dicts=True)
+        # for row in reps:
+        #     self.form_spec.replacements += [(row["KG"], row["IPA"])]
+        # args.log.info(self.form_spec.replacements)
 
         # add concept
         concepts = {}
-        for concept in self.concepts:
-            idx = concept["NUMBER"]+"_"+slug(concept["ENGLISH"])
-            concepts[concept["GERMAN"]] = idx
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id + "_" + slug(concept.attributes["german"])
+            concepts[concept.attributes["german"]] = idx
             args.writer.add_concept(
-                    ID=idx,
-                    Name=concept["ENGLISH"],
-                    German_Gloss=concept["GERMAN"],
-                    Portuguese_Gloss=concept["PORTUGUESE"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                    )
+                ID=idx,
+                Name=concept.english,
+                German_Gloss=concept.attributes["german"],
+                Portuguese_Gloss=concept.attributes["portuguese"],
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
+
         args.log.info("added concepts")
         # add language
         args.writer.add_languages()

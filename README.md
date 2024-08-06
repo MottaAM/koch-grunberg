@@ -16,6 +16,9 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://www.jstor.org/stable/40443137
 
+
+Conceptlists in Concepticon:
+- [KochGrunberg-1914-821](https://concepticon.clld.org/contributions/KochGrunberg-1914-821)
 ## Statistics
 
 
@@ -27,12 +30,12 @@ Available online at http://www.jstor.org/stable/40443137
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 4 (linked to 4 different Glottocodes)
-- **Concepts:** 805 (linked to 445 different Concepticon concept sets)
-- **Lexemes:** 2,303
+- **Concepts:** 804 (linked to 445 different Concepticon concept sets)
+- **Lexemes:** 2,299
 - **Sources:** 21
 - **Synonymy:** 1.17
 - **Invalid lexemes:** 0
-- **Tokens:** 16,122
+- **Tokens:** 16,100
 - **Segments:** 37 (0 BIPA errors, 0 CLTS sound class errors, 37 CLTS modified)
 - **Inventory size (avg):** 32.50
 
