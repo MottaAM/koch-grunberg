@@ -1,4 +1,6 @@
-# CLDF dataset derived from Koch-Grünberg's "Betóya-Sprachen" from 2015
+# CLDF dataset derived from Koch-Grünberg's "Betóya-Sprachen" from 1914
+
+[![CLDF validation](https://github.com/lexibank/kochtukanoan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/kochtukanoan/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -14,33 +16,37 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://www.jstor.org/stable/40443137
 
+
+Conceptlists in Concepticon:
+- [KochGrunberg-1914-821](https://concepticon.clld.org/contributions/KochGrunberg-1914-821)
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/kochtukanoan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/kochtukanoan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 4
-- **Concepts:** 805
-- **Lexemes:** 2,303
+- **Varieties:** 4 (linked to 4 different Glottocodes)
+- **Concepts:** 804 (linked to 445 different Concepticon concept sets)
+- **Lexemes:** 2,299
 - **Sources:** 21
 - **Synonymy:** 1.17
 - **Invalid lexemes:** 0
-- **Tokens:** 16,122
-- **Segments:** 37 (0 BIPA errors, 0 CTLS sound class errors, 37 CLTS modified)
+- **Tokens:** 16,100
+- **Segments:** 37 (0 BIPA errors, 0 CLTS sound class errors, 37 CLTS modified)
 - **Inventory size (avg):** 32.50
 
 # Contributors
 
-Name | GitHub user | Description | Role |
---- | --- | --- | --- |
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
 Koch-Grünberg, T. | | | Author
 Thiago Chacón | @thiagochacon | | Other
 Mateus Motta | @MottaAM | | Other
-Johann-Mattis List | @LinguList| CLDF conversion | Other
+Johann-Mattis List | @LinguList| CLDF conversion | Editor
 
 
 

@@ -1,8 +1,8 @@
-from lingpy import *
+from lingpy import Wordlist, Alignments
 from lingpy.compare.partial import Partial
 
+
 def run(wordlist):
-    
     cols = [c for c in wordlist.columns]
     part = Partial(wordlist)
     part.partial_cluster(

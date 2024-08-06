@@ -1,186 +1,189 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
-1_tongue,tongue,,,língua (parte do corpo),Zunge
-2_mouth,mouth,,,boca,Mund
-3_lip,lip,,,lábios,Lippen
-4_tooth,tooth,,,dente,Zahn
-5_nose,nose,,,nariz,Nase
-6_nostril,nostril,,,narina,Nasenloch
-7_eye,eye,,,olho,Auge
-8_ear,ear,,,orelha,Ohr
-9_earhole,earhole,,,ouvido,Ohrloch als Gehörgang
+1_tongue,tongue,1205,TONGUE,língua (parte do corpo),Zunge
+2_mouth,mouth,674,MOUTH,boca,Mund
+3_lip,lip,478,LIP,lábios,Lippen
+4_tooth,tooth,1380,TOOTH,dente,Zahn
+5_nose,nose,1221,NOSE,nariz,Nase
+6_nostril,nostril,1178,NOSTRIL,narina,Nasenloch
+7_eye,eye,1248,EYE,olho,Auge
+8_ear,ear,1247,EAR,orelha,Ohr
+9_earhole,earhole,3891,EARHOLE,ouvido,Ohrloch als Gehörgang
 10_holeintheearlobe,hole in the earlobe,,,furo no lobo da orelha,Loch im Ohrläppchen
 11_pinintheearlobe,pin in the earlobe,,,alargador no lobo da orelha,Stift im Ohrläppchen
 12_holeinthelowerlip,hole in the lower lip,,,furo no lábio inferior,Loch in der Unterlippe
 13_longandthincylinderinthelowerlip,long and thin cylinder in the lower lip,,,cilindro longo e fino no lábio inferior,Stift in der Unterlippe
 14_holeinthenasalseptum,hole in the nasal septum,,,furo no septo nasal,Loch in der Nasenscheidewand
 15_pininthenasalseptum,pin in the nasal septum,,,talo da pena no septo nasal,Stift in der Nasenscheidewand
-16_forehead,forehead,,,testa,Stirn
-17_head,head,,,cabeça,Kopf
-18_hairhead,hair (head),,,cabelo,Kopfhaar
-19_eyebrow,eyebrow,,,sobrancelhas,Augenbrauen
-20_eyelash,eyelash,,,cílios,Augenwimpern
-21_beard,beard,,,barba,Bart
-22_pubichair,pubic hair,,,pelo pubiano,Schamhaar
+16_forehead,forehead,123,FOREHEAD,testa,Stirn
+17_head,head,1256,HEAD,cabeça,Kopf
+18_hairhead,hair (head),2648,HAIR (HEAD),cabelo,Kopfhaar
+19_eyebrow,eyebrow,1173,EYEBROW,sobrancelhas,Augenbrauen
+20_eyelash,eyelash,1540,EYELASH,cílios,Augenwimpern
+21_beard,beard,678,BEARD,barba,Bart
+22_pubichair,pubic hair,36,PUBIC HAIR,pelo pubiano,Schamhaar
 23_armpithair,armpit hair,,,pelo nas axilas,Achselhaar
-24_cheek,cheek,,,bochecha,Wange
-25_chin,chin,,,queixo,Kinn
-26_shoulder,shoulder,,,ombro,Schulter
-27_arm,arm,,,braço,Arm
-28_elbow,elbow,,,cotovelo,Ellbogen
-29_hand,hand,,,mão,Hand
+24_cheek,cheek,1730,CHEEK,bochecha,Wange
+25_chin,chin,1510,CHIN,queixo,Kinn
+26_shoulder,shoulder,1482,SHOULDER,ombro,Schulter
+27_arm,arm,1673,ARM,braço,Arm
+28_elbow,elbow,981,ELBOW,cotovelo,Ellbogen
+29_hand,hand,1277,HAND,mão,Hand
 30_backofthehand,back of the hand,,,costas da mão,Handrücken
-31_palmofhand,palm of hand,,,palma da mão,Handfläche
-32_finger,finger,,,dedo,Finger
-33_thumb,thumb,,,polegar,Daumen
-34_forefinger,forefinger,,,dedo indicador,Zeigefinger
-35_middlefinger,middle finger,,,dedo médio,Mittelfinger
+31_palmofhand,palm of hand,1183,PALM OF HAND,palma da mão,Handfläche
+32_finger,finger,1303,FINGER,dedo,Finger
+33_thumb,thumb,1781,THUMB,polegar,Daumen
+34_forefinger,forefinger,577,FOREFINGER,dedo indicador,Zeigefinger
+35_middlefinger,middle finger,3387,MIDDLE FINGER,dedo médio,Mittelfinger
 36_ringfinger,ring finger,,,dedo anelar,Ringfinger
-37_smallfinger,small finger,,,dedo mínimo,Kleinfinger
-38_fingernail,fingernail,,,unha,Fingernagel
-39_thigh,thigh,,,coxa,Oberschenkel
-40_lowerleg,lower leg,,,parte da perna abaixo do joelho e acima do tornozelo,Unterschenkel
-41_shin,shin,,,canela da perna,Schienbein
-42_calfofleg,calf of leg,,,panturrilha,Wade
-43_knee,knee,,,joelho,Knie
+37_smallfinger,small finger,2774,LITTLE FINGER,dedo mínimo,Kleinfinger
+38_fingernail,fingernail,1258,FINGERNAIL,unha,Fingernagel
+39_thigh,thigh,471,UPPER LEG (THIGH),coxa,Oberschenkel
+40_lowerleg,lower leg,447,LOWER LEG,parte da perna abaixo do joelho e acima do tornozelo,Unterschenkel
+41_shin,shin,186,SHIN,canela da perna,Schienbein
+42_calfofleg,calf of leg,498,CALF OF LEG,panturrilha,Wade
+43_knee,knee,1371,KNEE,joelho,Knie
 44_backoftheknee,back of the knee,,,parte detrás do joelho,Kniekehle
-45_foot,foot,,,pé,Fuß
-46_instep,instep,,,peito do pé,Fußrücken
-47_solefoot,sole (foot),,,sola do pé,Sohle
-48_heel,heel,,,calcamnhar,Ferse
-49_ankle,ankle,,,tornozelo,Fußknöchel
+45_foot,foot,1301,FOOT,pé,Fuß
+46_instep,instep,3736,INSTEP,peito do pé,Fußrücken
+47_solefoot,sole (foot),2666,SOLE (FOOT),sola do pé,Sohle
+48_heel,heel,980,HEEL,calcamnhar,Ferse
+49_ankle,ankle,803,ANKLE,tornozelo,Fußknöchel
 50_foottendon,foot tendon,,,tendão do pé,Fußsehne
-51_toe,toe,,,dedão,Zehe
-52_toenail,toenail,,,unha do dedão,Zehennagel
-53_body,body,,,corpo,Körper
-54_neck,neck,,,pescoço,Hals
-55_napeofneck,nape (of neck),,,nuca,Nacken
-56_throat,throat,,,gargante,Kehle
-57_armpit,armpit,,,axila,Achselhöhle
-58_shoulderblade,shoulder blade,,,escápula,Schulterblatt
-59_rib,rib,,,costela,Rippen
-60_chest,chest,,,peito,Brust
-61_nipple,nipple,,,mamilo,Brustwarze
-62_breast,breast,,,peito feminino,Weibliche Brust
-63_belly,belly,,,barriga,Bauch
-64_navel,navel,,,umbigo,Nabel
-65_back,back,,,costas,Rücken
-66_buttocks,buttocks,,,nádegas,Gesaß
-67_penis,penis,,,pênis,Penis
-68_scrotum,scrotum,,,escroto,Scrotum
-69_testicle,testicle,,,testículo,Testikel
+51_toe,toe,1389,TOE,dedão,Zehe
+52_toenail,toenail,2662,TOENAIL,unha do dedão,Zehennagel
+53_body,body,1480,BODY,corpo,Körper
+54_neck,neck,1333,NECK,pescoço,Hals
+55_napeofneck,nape (of neck),1347,NAPE (OF NECK),nuca,Nacken
+56_throat,throat,1346,THROAT,gargante,Kehle
+57_armpit,armpit,1886,ARMPIT,axila,Achselhöhle
+58_shoulderblade,shoulder blade,172,SHOULDERBLADE,escápula,Schulterblatt
+59_rib,rib,801,RIB,costela,Rippen
+60_chest,chest,1592,CHEST,peito,Brust
+61_nipple,nipple,796,NIPPLE,mamilo,Brustwarze
+62_breast,breast,1402,BREAST,peito feminino,Weibliche Brust
+63_belly,belly,1251,BELLY,barriga,Bauch
+64_navel,navel,1838,NAVEL,umbigo,Nabel
+65_back,back,1291,BACK,costas,Rücken
+66_buttocks,buttocks,834,BUTTOCKS,nádegas,Gesaß
+67_penis,penis,1222,PENIS,pênis,Penis
+68_scrotum,scrotum,2834,SCROTUM,escroto,Scrotum
+69_testicle,testicle,797,TESTICLES,testículo,Testikel
 70_membrummuliebre,membrum muliebre,,,membrum muliebre,Membrum muliebre
-71_vagina,vagina,,,vagina,Vagina
-72_clitoris,clitoris,,,clitóris,Clitoris
-73_anus,anus,,,ânus,Anus
-74_skin,skin,,,pele,Haut
-75_fur,fur,,,pelo,Fell
-76_bone,bone,,,osso,Knochen
-77_blood,blood,,,sangue,Blut
-78_vein,vein,,,veia,Ader
-79_pulse,pulse,,,pulso,Puls
-80_flesh,flesh,,,carne,Fleisch
-81_tendon,tendon,,,tendão,Sehne
-83_guts,guts,,,vísceras,Eingeweide
-85_intestine,intestine,,,intestino,Darm
-87_saliva,saliva,,,saliva,Speichel
-88_urine,urine,,,urina,Urin
-89_sweatsubstance,sweat (substance),,,suor,Schweiß
-90_tearofeye,tear (of eye),,,lágrima,Träne
-91_faecesexcrement,faeces (excrement),,,fezes,Kot
+71_vagina,vagina,1836,VAGINA,vagina,Vagina
+72_clitoris,clitoris,3257,CLITORIS,clitóris,Clitoris
+73_anus,anus,1935,ANUS,ânus,Anus
+74_skin,skin,763,SKIN,pele,Haut
+75_fur,fur,580,FUR,pelo,Fell
+76_bone,bone,1394,BONE,osso,Knochen
+77_blood,blood,946,BLOOD,sangue,Blut
+78_vein,vein,1924,VEIN,veia,Ader
+79_pulse,pulse,3267,PULSE,pulso,Puls
+80_flesh,flesh,2259,FLESH,carne,Fleisch
+81_tendon,tendon,1137,TENDON,tendão,Sehne
+82_heart,heart,1223,HEART,coração,Herz
+83_guts,guts,1334,GUTS,vísceras,Eingeweide
+84_stomach,stomach,819,STOMACH,estômago,Magen
+85_intestine,intestine,1991,INTESTINES,intestino,Darm
+86_fatorganicsubstance,fat (organic substance),323,FAT (ORGANIC SUBSTANCE),gordura,Fett
+87_saliva,saliva,1503,SALIVA,saliva,Speichel
+88_urine,urine,1142,URINE,urina,Urin
+89_sweatsubstance,sweat (substance),125,SWEAT (SUBSTANCE),suor,Schweiß
+90_tearofeye,tear (of eye),1651,TEAR (OF EYE),lágrima,Träne
+91_faecesexcrement,faeces (excrement),675,FAECES (EXCREMENT),fezes,Kot
 92_fartnoun,fart (noun),,,Pum,Flatus
-93_breath,breath,,,hálito,Atem
-94_wound,wound,,,ferida,Wunde
+93_breath,breath,870,BREATH,hálito,Atem
+94_wound,wound,1109,WOUND,ferida,Wunde
 95_purupuruskindisease,purupuru (skin disease),,,purupuru (doença de pele),Purupuru (Hautkrankheit)
-96_beak,beak,,,bico,Schnabel
-97_tail,tail,,,cauda,Schwanz
-98_wing,wing,,,asa,Flügel
-99_feather,feather,,,pena,Feder
-100_fin,fin,,,nadadeira,Flosse
-101_water,water,,,água,Wasser
-102_river,river,,,rio,Fluß
-103_brook,brook,,,riacho,Bach
-104_lagoon,lagoon,,,lagoa,Lagune
-105_waterfall,waterfall,,,cachoeira,"Cachoeira (Stromschnelle, Wasserfall)"
+96_beak,beak,73,BEAK,bico,Schnabel
+97_tail,tail,1220,TAIL,cauda,Schwanz
+98_wing,wing,1257,WING,asa,Flügel
+99_feather,feather,1201,FEATHER,pena,Feder
+100_fin,fin,213,FIN,nadadeira,Flosse
+101_water,water,948,WATER,água,Wasser
+102_river,river,666,RIVER,rio,Fluß
+103_brook,brook,3821,BROOK,riacho,Bach
+104_lagoon,lagoon,623,LAGOON,lagoa,Lagune
+105_waterfall,waterfall,943,WATERFALL,cachoeira,"Cachoeira (Stromschnelle, Wasserfall)"
 106_narrowriverarmparanamiri,narrow river arm (paraná miri),,,paraná-mirim,Schmaler Flußarm (Paraná miri)
-107_fire,fire,,,fogo,Feuer
-108_smokeexhaust,smoke (exhaust),,,fumaça,Rauch
-109_ash,ash,,,cinzas,Asche
-110_coal,coal,,,carvão,Kohle
-111_firewood,firewood,,,lenha,Brennholz
-112_sky,sky,,,céu,Himmel
-113_cloud,cloud,,,nuvem,Wolke
-114_rainprecipitation,rain (precipitation),,,chuva,Regen
-115_fog,fog,,,névoa,Nebel
-116_dew,dew,,,orvalho,Tau
-117_drizzle,drizzle,,,garoa,Feiner Nebelregen
-118_wind,wind,,,vento,Wind
-119_lightning,lightning,,,relâmpago,Blitz
-120_thunder,thunder,,,trovão,Donner
-121_rainbow,rainbow,,,arco-íris,Regenbogen
-122_sun,sun,,,sol,Sonne
-123_shade,shade,,,sombra,Schatten
-124_year,year,,,ano,Jahr
-125_rainyseason,rainy season,,,estação chuvosa,Regenzeit
-126_dryseason,dry season,,,estação seca,Trockenzeit
-127_day,day,,,dia,Tag
-128_night,night,,,noite,Nacht
-129_morning,morning,,,manhã,Morgen
-130_noon,noon,,,meio-dia,Mittag
-131_evening,evening,,,tarde,Abend
-132_dawn,dawn,,,amanhecer,Morgenrot
-133_moon,moon,,,lua,Mond
-134_newmoon,new moon,,,lua nova,Neuer Mond
-135_fullmoon,full moon,,,lua cheia,Vollmond
+107_fire,fire,221,FIRE,fogo,Feuer
+108_smokeexhaust,smoke (exhaust),778,SMOKE (EXHAUST),fumaça,Rauch
+109_ash,ash,646,ASH,cinzas,Asche
+110_coal,coal,2658,COAL,carvão,Kohle
+111_firewood,firewood,10,FIREWOOD,lenha,Brennholz
+112_sky,sky,1732,SKY,céu,Himmel
+113_cloud,cloud,1489,CLOUD,nuvem,Wolke
+114_rainprecipitation,rain (precipitation),658,RAIN (PRECIPITATION),chuva,Regen
+115_fog,fog,249,FOG,névoa,Nebel
+116_dew,dew,1977,DEW,orvalho,Tau
+117_drizzle,drizzle,1016,DRIZZLE,garoa,Feiner Nebelregen
+118_wind,wind,960,WIND,vento,Wind
+119_lightning,lightning,1654,LIGHTNING,relâmpago,Blitz
+120_thunder,thunder,1150,THUNDER,trovão,Donner
+121_rainbow,rainbow,1733,RAINBOW,arco-íris,Regenbogen
+122_sun,sun,1343,SUN,sol,Sonne
+123_shade,shade,1388,SHADE,sombra,Schatten
+124_year,year,1226,YEAR,ano,Jahr
+125_rainyseason,rainy season,453,RAINY SEASON,estação chuvosa,Regenzeit
+126_dryseason,dry season,452,DRY SEASON,estação seca,Trockenzeit
+127_day,day,1225,DAY (NOT NIGHT),dia,Tag
+128_night,night,1233,NIGHT,noite,Nacht
+129_morning,morning,1339,MORNING,manhã,Morgen
+130_noon,noon,12,MIDDAY,meio-dia,Mittag
+131_evening,evening,1629,EVENING,tarde,Abend
+132_dawn,dawn,729,DAWN,amanhecer,Morgenrot
+133_moon,moon,1313,MOON,lua,Mond
+134_newmoon,new moon,3691,NEW MOON,lua nova,Neuer Mond
+135_fullmoon,full moon,3690,FULL MOON,lua cheia,Vollmond
 136_moonhalo,moon halo,,,halo lunar,Ringförmiger Mondhof
 137_lunareclipse,lunar eclipse,,,eclipse lunar,Mondfinsternis
 138_solareclipse,solar eclipse,,,eclipse solar,Sonnenfinstemis
-139_star,star,,,estrela,Stern
+139_star,star,1430,STAR,estrela,Stern
 140_pleiades,pleiades,,,plêiades,Plejaden
-141_milkyway,milky way,,,via láctea,Milchstraße
-142_earthsoilground,"earth (soil, ground)",,,terra (solo),Erdboden
-143_field,field,,,campo,Feld
-144_path,path,,,caminho,Weg
-145_mountain,mountain,,,montanha,Berg
-146_forest,forest,,,floresta,Wald
-147_island,island,,,ilha,Insel
-148_beach,beach,,,praia,Strand
-149_stone,stone,,,pedra,Stein
+141_milkyway,milky way,2289,MILKY WAY,via láctea,Milchstraße
+142_earthsoilground,"earth (soil, ground)",1228,EARTH (SOIL),terra (solo),Erdboden
+143_field,field,212,FIELD,campo,Feld
+144_path,path,2252,PATH,caminho,Weg
+145_mountain,mountain,639,MOUNTAIN,montanha,Berg
+146_forest,forest,420,FOREST,floresta,Wald
+147_island,island,622,ISLAND,ilha,Insel
+148_beach,beach,3460,BEACH,praia,Strand
+149_stone,stone,857,STONE,pedra,Stein
 150_pumice,pumice,,,pedra-pomes,Bimsstein
 151_whiterclay,whiter clay,,,tabatinga (tipo de argila mais clara),Weißer Ton
 152_yellowclay,yellow clay,,,argila amarelada,Gelber Ton
-153_hole,hole,,,buraco,Loch
-154_grave,grave,,,tumba,Grab
-155_sea,sea,,,mar,Meer
+153_hole,hole,1667,HOLE,buraco,Loch
+154_grave,grave,1773,GRAVE,tumba,Grab
+155_sea,sea,1474,SEA,mar,Meer
 156_riosolimoes,Rio Solimões,,,Rio Solimões,Rio Solimões
 157_riojapura,Rio Japurá,,,Rio Japurá,Rio Yapurá
 158_rioapaporis,Rio Apapóris,,,Rio Apapóris,Rio Apaporis
-159_townorvillage,town or village,,,cidade pequena ou vila,"Dorf, Heimat"
-160_home,home,,,lar,Heimat
+159_townorvillage,town or village,3609,TOWN OR VILLAGE,cidade pequena ou vila,"Dorf, Heimat"
+160_home,home,2406,HOME,lar,Heimat
 161_yourhome,your home,,,seu lar,deine Heimat
-162_house,house,,,casa,Haus
+162_house,house,1252,HOUSE,casa,Haus
 163_entrance,entrance,,,entrada,Eingang
 164_exit,exit,,,saída,Ausgang
 165_trapdoor,trapdoor,,,alçapão,Falltür
 166_buttressposts,buttress posts,,,contraforte,Strebepfosten
-167_wallofhouse,wall (of house),,,parede,Wand
+167_wallofhouse,wall (of house),933,WALL (OF HOUSE),parede,Wand
 168_horizontalbattensthatholdthepaxiubabattensofthewalltogetherinthemiddle,horizontal battens that hold the paxiúba battens of the wall together in the middle,,,sarrafos horizontais que sustentam os sarrafos de paxiúba da parede juntos no meio,"Horizontallatten, die die Paxiúbalatten der Wand in der Mitte zusammenhalten"
 169_beamsthatsitonthepaxiubabattensonthewallandsupporttheroof,beams that sit on the paxiúba battens on the wall and support the roof,,,barras que ficam em cima dos sarrafos de paxiúba na parede e sustentam o telhado,"Balken, die auf den Paxiúbalatten der Wand aufsitzen und das Dach tragen"
 170_slopingrafters,sloping rafters,,,caibros inclinados,Schräge Dachsparren
 171_roofcladdingmadefromleavesofthecaranapalmtree,roof cladding made from leaves of the caraná palm tree,,,revestimento do telhado feito de folhas de caraná,Dachbekleidung aus Blättern der Caraná Palme
 172_horizontalbarrierstowhichthesecaranaleavesareattached,horizontal barriers to which these caraná leaves are attached,,,barreiras horizontais onde essas folhas de caraná são conectadas,"Horizontalsperren, an denen diese Caraná Blätter befestigt sind"
-173_chimney,chimney,,,chaminé,Rauchfang
+173_chimney,chimney,1305,CHIMNEY,chaminé,Rauchfang
 174_planting,planting,,,plantio,Pflanzung
-175_torch,torch,,,tocha,Fackel
-176_yeast,yeast,,,levedura,Hefen
+175_torch,torch,1919,TORCH,tocha,Fackel
+176_yeast,yeast,967,YEAST,levedura,Hefen
 177_storageplaceinforestlgmitasaua,storage place in forest (l. g .. mitasáua),,,local para armazenar coisas na floresta,Lagerplatz in Walde (l. g.. mitasáua)
 178_scaffoldinginthehousetoputthingsonorhangon,scaffolding in the house to put things on or hang on,,,plataforma na casa para colocar ou pendurar coisas,"Gerüst im Haus, um Sachen darauf zu legen oder daran zu hängen"
-179_stool,stool,,,banco,Sitzschemel
+179_stool,stool,2058,STOOL,banco,Sitzschemel
 180_curauafiber,curauá fiber,,,fibra de carauá,Curauáfasern
-181_hammock,hammock,,,rede,Hängmatte
+181_hammock,hammock,2019,HAMMOCK,rede,Hängmatte
 182_cottonhammock,cotton hammock,,,rede de algodão,Hängematte aus Baumwolle
 183_hammockropes,hammock ropes,,,corda da rede,Hängemattenstricke
-184_cotton,cotton,,,algodão,Baumwolle
-185_cloth,cloth,,,tecido,Tuch
+184_cotton,cotton,1850,COTTON,algodão,Baumwolle
+185_cloth,cloth,1616,CLOTH,tecido,Tuch
 186_carryingbasketofwomen,carrying basket of women,,,cesto de carga para mulheres,Tragkorb der Weiber
 187_menscarryingbaskettogetcocaleaves,men's carrying basket to get coca leaves,,,cesto de carga para homens coletarem folhas de coca,Tragbkorb der Männer um Coca-Blätter zu holen
 188_hangingbasket,hanging basket,,,cesto para pendrar,Hangkörbchen
@@ -196,22 +199,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 198_squaremenstucumcordbagforsmallitems,square men's tucum cord bag for small items,,,saco quadrado  masculino de cordão de tucum para itens pequenos,Viereckige Tasche der Männer aus Tucumschnüren für Kleinkram
 199_knittingframetomanufacturethesebags,knitting frame to manufacture these bags,,,moldura de tricô para fazer esses sacos,Strickrahmen z. Verfertigen dieser Taschen
 200_firefans,fire fans,,,abano,Feuerfächer
+201_calabash,calabash,3918,CALABASH,cabaça,Kalabasse
 202_bigcalabash,big calabash,,,cabaça grande,große Kalabasse
 203_smallcalabashforscooping,small calabash for scooping,,,cabaça pequena para escavar,kleine Kalabasse zum Schöpfen
-204_cookingpot,cooking pot,,,panela,Kochtopf
+204_cookingpot,cooking pot,3653,COOKING POT,panela,Kochtopf
 205_ironsaucepan,iron saucepan,,,panela de ferro,Eiserner Kochtopf
 206_largekashiripot,large kashiri pot,,,jarro grande para caxiri,Großer Kaschiritopf
 207_deepbowlinwhichyoucanfermentthemanioc,deep bowl in which you can ferment the manioc,,,tigela funda para fermentar a mandioca,"Tiefe Topfschale, in der man Mandiocamasse gären läßt"
 208_largeflattersaucepanformanicueraboiledmaniocjuice,large flatter saucepan for manicuéra (boiled manioc juice),,,panela grande mais plana para manicuera,"Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)"
 209_clayvesselforthedrink,clay vessel for the drink,,,recipiente de argila para bebidas,Tongefäß für das Getränk
 210_waterpotwithtwohandles,water pot with two handles,,,jarro de água com duas alças,Wassertopf mit zwei Henkein
-211_claybowl,clay bowl,,,tigela de argila,Tonschale
+211_claybowl,clay bowl,2055,CLAY POT,tigela de argila,Tonschale
 212_bowlforcoca,bowl for coca,,,tigela para coca,Schale für Coca
 213_claybowlwithlegashandle,clay bowl with leg as handle,,,tigela de argila com uma asa de pé,Tonschale mit Fuß als Handgriff
-214_clay,clay,,,argila,Töpferton
+214_clay,clay,1399,CLAY,argila,Töpferton
 215_hourglassshapedframemadeofsticksforvessels,hourglass-shaped frame made of sticks for vessels,,,moldura com formato de ampulheta feita de gravetos para recipientes,Sanduhrförmiges Gestell aus Stäbchen für Gefäße
-216_mortar,mortar,,,pilão,Mörser
-217_pestle,pestle,,,socador (do pilão),Stössel
+216_mortar,mortar,224,MORTAR,pilão,Mörser
+217_pestle,pestle,225,PESTLE,socador (do pilão),Stössel
 218_stovetop,stove top,,,"chapa, forno para beiju",Herdplatte
 219_earthenware,earthenware,,,louça de barro,Tönerne
 220_gridiron,gridiron,,,grelha,Bratrost
@@ -223,17 +227,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 226_calabashwithlidasacocacontainer,calabash with lid as a coca container,,,cabaça com tampa para ser um conteiner de coca,Kalabasse mit Deckel als Cocabehälter
 227_woodenlidforthiscalabash,wooden lid for this calabash,,,tampa de madeira para essa cabaça,Holzdeckel zu dieser Kalabasse
 228_bonespoonusedtotakecoca,bone spoon used to take coca,,,colher de osso para pegar coca,"Knochenlöffel, mit dem Coca genommen wird"
-229_axe,axe,,,machado,Beil
+229_axe,axe,677,AXE,machado,Beil
 230_stoneaxe,stone axe,,,machado de pedra,Steinbeil
-231_knife,knife,,,faca,Messer
+231_knife,knife,1352,KNIFE,faca,Messer
 232_forestknife,forest knife,,,faca de sobrevivência,Waldmesser
-233_canoe,canoe,,,canoa,Einbaum
-234_rudder,rudder,,,leme,Ruder
+233_canoe,canoe,1970,CANOE,canoa,Einbaum
+234_rudder,rudder,108,RUDDER,leme,Ruder
 235_gridontheboatforprotectionagainstbackflow,grid on the boat for protection against backflow,,,grade de rede no barco para proteção contra o refluxo,Lattengitter im Boot Schutzgegen das Kielwasser
 236_suncanopytoldaovertheboat,sun canopy (tolda) over the boat,,,tolda do barco,Sonnendach (tolda) über dem Boot
-237_bow,bow,,,arco,Bogen
-238_bowstring,bowstring,,,corda do arco,Bogensehne
-239_arrow,arrow,,,flecha,Pfeil
+237_bow,bow,994,BOW,arco,Bogen
+238_bowstring,bowstring,2119,BOW STRING,corda do arco,Bogensehne
+239_arrow,arrow,977,ARROW,flecha,Pfeil
 240_largepoisonedarrowsforhighhunting,large poisoned arrows for high hunting,,,flechas grandes envenedadas para caçar,Große vergiftete Pfeile für Hochjagd
 241_caseforthetipsofthesepoisonarrows,case for the tips of these poison arrows,,,estojo para as pontas dessas flechas envenenadas,Futteral für die Spitzen dieser Giftpfeile
 242_fisharrowwithdoubleironpoint,fish arrow with double iron point,,,flecha para peixe com ponta dupla de ferro,Fischpfeil mit doppelter Eisenspitze
@@ -247,9 +251,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 250_handendofthetubularshaft,hand end of the tubular shaft,,,final do tubo,Handende des Rohrschaftes
 251_harpoonstring,harpoon string,,,corda do arpão,Schnur der Harpune
 252_pitchresin,pitch (resin),,,piche,Pech
-253_club,club,,,clava,Keule
+253_club,club,1763,CLUB,clava,Keule
 254_stringoftheclub,string of the club,,,corda da clava,Schnur der Keule
-255_blowgun,blowgun,,,zarabatana,Blasrohr
+255_blowgun,blowgun,432,BLOWGUN,zarabatana,Blasrohr
 256_blowgunarrow,blowgun arrow,,,flecha para zarabatana,Blasrohrpfeilchen
 257_mouthpieceoftheblowgun,mouthpiece of the blowgun,,,bocal da zarabatana,Mundstück des Blasrohres
 258_quiverforthepoisonarrows,quiver for the poison arrows,,,aljava de flechas envenenadas,Köcher für die Giftpfeilchen
@@ -258,16 +262,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 261_poisonlancespear,poison lance (spear),,,lança envenenada,Giftlanze
 262_caseforthetipsofthepoisonlancesspears,case for the tips of the poison lances (spears),,,caixa para as pontas envenenadas das lanças,Futteral für die Spitzen der Giftlanzen
 263_pointofthepoisonlancespear,point of the poison lance (spear),,,ponta da lança envenenada,Spitze der Giftlanze
-264_shield,shield,,,escudo,Schild
+264_shield,shield,1064,SHIELD,escudo,Schild
 265_warshield,war shield,,,escudo de guerra,Kriegsschild
-266_fishnet,fishnet,,,rede de pesca,Fischnetz
+266_fishnet,fishnet,388,FISHNET,rede de pesca,Fischnetz
 267_bigtrap,big trap,,,armadilha grande,Große Reuse
 268_smalltrap,small trap,,,armadilha pequena,Kleine Reuse
-269_fishtrap,fish trap,,,armadilha para peixe,Fischfalle
+269_fishtrap,fish trap,389,FISH TRAP,armadilha para peixe,Fischfalle
 270_fishingrod,fishing rod,,,vara de pesca,Angel
-271_fishingline,fishing line,,,linha de pesca,Angelschnur
-272_gun,gun,,,arma de fogo,Gewehr
-273_gunpowder,gunpowder,,,pólvora,Pulver
+271_fishingline,fishing line,19,FISHING LINE,linha de pesca,Angelschnur
+272_gun,gun,1566,GUN,arma de fogo,Gewehr
+273_gunpowder,gunpowder,1798,GUNPOWDER,pólvora,Pulver
 274_shot,shot,,,tiro,Schrot
 275_hipcord,hip cord,,,cordão da cintura,Hüftschnur
 276_mansloincloth,man's loincloth,,,tanga masculina,Schambinde des Mannes
@@ -277,12 +281,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 280_softerstripsofraffiatotiebeltsandbracelets,softer strips of raffia to tie belts and bracelets,,,pedaços mais maleáveis de ráfia para amarrar cintos e braceletes,"Weichere Baststreifen, um Gürtel und Armbänder festzubinden"
 281_malebraid,male braid,,,trança masculina,Männerzopf
 282_raffiawraparoundthebraid,raffia wrap around the braid,,,ráfia enrolada em torno da trança,Bastumwicklung des Zopfes
-283_mirror,mirror,,,espelho,Spiegel
-284_needleforsewing,needle (for sewing),,,agulha,Nadel
-285_earring,earring,,,brinco,Ohrring
-286_pearl,pearl,,,pérola,Perlen
-287_boxorchest,box or chest,,,caixa ou baú,Koffer
-288_comb,comb,,,pente,Kamm
+283_mirror,mirror,1171,MIRROR,espelho,Spiegel
+284_needleforsewing,needle (for sewing),1382,NEEDLE (FOR SEWING),agulha,Nadel
+285_earring,earring,770,EARRING,brinco,Ohrring
+286_pearl,pearl,3325,PEARL,pérola,Perlen
+287_boxorchest,box or chest,3150,BOX OR CHEST,caixa ou baú,Koffer
+288_comb,comb,1475,COMB,pente,Kamm
 289_fineheadfeathersgalajewelerylinguageralkangataramahapoalimacawfeathers,"fine head feathers, gala jewelery (língua geral: kangatára) mahápoali (macaw feathers)",,,"cocar, indumentária (língua geral: kangatára) mahápoali (Ararafedern)","Feine Kopffederbinde, Galaschmuck (lingoa geral: kangatára) mahápoali (Ararafedern)"
 290_headdressmadeoftoucanfeathersinstrawheadband,headdress made of toucan feathers in straw headband,,,cocar feito com penas de tucano em uma faixa de palha para a cabeça,Kopfputz aus Tukanfederchen in Strohreif
 291_strawheadbandforthisjewelry,straw headband for this jewelry,,,faixa de palha para a cabeça dessa joia,Strohreif zu diesem Schmuck
@@ -328,58 +332,58 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 331_kasiri,kasiri,,,caxiri,Kaschiri
 332_manicuerasweetboiledmandiocajuice,manicuéra (sweet boiled mandioca juice),,,manicuera,"Manicuéra (süßer, abgekochter Mandiocasaft)"
 333_cachacarum,cachaça (rum),,,cachaça,Cachaça (Rum)
-334_coca,coca,,,coca,Coca
+334_coca,coca,137,COCA,coca,Coca
 335_ashfromambauvaleavesasanadditivetococa,ash from ambaúva leaves as an additive to coca,,,cinzas das folhas de ambuava como um aditivo à coca,Asche aus Ambaúvablättern als Zusatz zu Coca
 336_roundpolishedcalabashforcocaonlywornduringfestivities,round polished calabash for coca (only worn during festivities),,,cabaça esférica e polida para coca (apenas usadas nos festivais),"Kugelige, polierte Kalabasse für Coca (nur bei Festlichkeiten getragen)"
 337_hollowheronbonestothisdevice,hollow heron bones to this device,,,ossos ocos de garça desse dispositivo,Hohler Reiherknochen zu diesem Gerät
 338_waxsticksmadefrominambufeathersthataredippedinbeeswaxandthenbenttogether,wax sticks made from inambú feathers that are dipped in beeswax and then bent together,,,"paus de cera feitos de penas de inambu, as quais são mergulhadas em cera de abelha e coladas juntas","Wachsstöcke aus Inambúfedern, die in Bienenwachs getaucht und dann zusammengebogen werden"
-339_human,human,,,humano,Mensch
-340_people,people,,,pessoas,Leute
-341_man,man,,,homem,Mann
-342_husband,husband,,,marido,Ehemann
-343_father,father,,,pai,Vater
+339_human,human,683,PERSON,humano,Mensch
+340_people,people,789,PEOPLE,pessoas,Leute
+341_man,man,1554,MAN,homem,Mann
+342_husband,husband,1200,HUSBAND,marido,Ehemann
+343_father,father,1217,FATHER,pai,Vater
 344_daddy,daddy,,,papai,Papa
-345_mother,mother,,,mãe,Mutter
+345_mother,mother,1216,MOTHER,mãe,Mutter
 346_mummy,mummy,,,mamãe,Mama
-347_fatherinlaw,father-in-law,,,sogro,Schwievatter
-348_motherinlaw,mother-in-law,,,sogra,Schwiegermutter
-349_child,child,,,criança,Kind
-350_infant,infant,,,bebê,Säugling
+347_fatherinlaw,father-in-law,1055,FATHER-IN-LAW,sogro,Schwievatter
+348_motherinlaw,mother-in-law,1050,MOTHER-IN-LAW,sogra,Schwiegermutter
+349_child,child,1304,CHILD (YOUNG HUMAN),criança,Kind
+350_infant,infant,1289,BABY,bebê,Säugling
 351_myson,my son,,,meu filho,mein Sohn
-352_grandson,grandson,,,neto,Enkel
-353_boy,boy,,,menino,Knabe
-354_youngman,young man,,,homem jovem,Jüngling
-355_brother,brother,,,irmão,Bruder
-356_olderbrother,older brother,,,irmão mais velho,älterer Bruder
-357_youngerbrother,younger brother,,,irmão mais novo,jüngerer Bruder
-358_brotherinlaw,brother in law,,,cunhado,Schwager
-359_sister,sister,,,irmã,Schwester
-360_oldersister,older sister,,,irmã mais velha,ältere Schwester
-361_youngersister,younger sister,,,irmã mais nova,jüngere Schwester
-362_sisterinlaw,sister in law,,,cunhada,Schwägerin
-363_woman,woman,,,mulher,Weib
-364_wife,wife,,,esposa,Gattin
+352_grandson,grandson,1618,GRANDSON,neto,Enkel
+353_boy,boy,1366,BOY,menino,Knabe
+354_youngman,young man,76,YOUNG MAN,homem jovem,Jüngling
+355_brother,brother,1262,BROTHER,irmão,Bruder
+356_olderbrother,older brother,1759,OLDER BROTHER,irmão mais velho,älterer Bruder
+357_youngerbrother,younger brother,1760,YOUNGER BROTHER,irmão mais novo,jüngerer Bruder
+358_brotherinlaw,brother in law,2314,BROTHER-IN-LAW,cunhado,Schwager
+359_sister,sister,1263,SISTER,irmã,Schwester
+360_oldersister,older sister,1758,OLDER SISTER,irmã mais velha,ältere Schwester
+361_youngersister,younger sister,1761,YOUNGER SISTER,irmã mais nova,jüngere Schwester
+362_sisterinlaw,sister in law,2317,SISTER-IN-LAW,cunhada,Schwägerin
+363_woman,woman,962,WOMAN,mulher,Weib
+364_wife,wife,1199,WIFE,esposa,Gattin
 365_hiswife,his wife,,,esposa dele,seine Gattin
-366_girl,girl,,,menina,Mädchen
-367_daughter,daughter,,,filha,Tochter
-368_granddaughter,granddaughter,,,neta,Enkelin
-369_widow,widow,,,viúva,Witwe
-370_uncle,uncle,,,tio,Oheim
-371_aunt,aunt,,,tia,Tante
-372_malecousin,male cousin,,,primo,Vetter
-373_femalecousin,female cousin,,,prima,Base
-374_oldman,old man,,,velho,Greis
-375_oldwoman,old woman,,,velha,Greisin
-376_grandfather,grandfather,,,avô,Großvater
-377_grandmother,grandmother,,,avó,Großmutter
-378_chief,chief,,,chefe,Häuptling
-379_whiteman,white man,,,homem branco,Weißer
-380_magician,magician,,,mago,Zauberarzt
-381_drug,drug,,,droga,Arzneimittel
+366_girl,girl,1646,GIRL,menina,Mädchen
+367_daughter,daughter,1357,DAUGHTER,filha,Tochter
+368_granddaughter,granddaughter,1619,GRANDDAUGHTER,neta,Enkelin
+369_widow,widow,1756,WIDOW,viúva,Witwe
+370_uncle,uncle,1327,UNCLE,tio,Oheim
+371_aunt,aunt,1272,AUNT,tia,Tante
+372_malecousin,male cousin,3822,MALE COUSIN,primo,Vetter
+373_femalecousin,female cousin,3823,FEMALE COUSIN,prima,Base
+374_oldman,old man,406,OLD MAN,velho,Greis
+375_oldwoman,old woman,907,OLD WOMAN,velha,Greisin
+376_grandfather,grandfather,1383,GRANDFATHER,avô,Großvater
+377_grandmother,grandmother,1496,GRANDMOTHER,avó,Großmutter
+378_chief,chief,301,CHIEFTAIN,chefe,Häuptling
+379_whiteman,white man,2839,WHITE MAN,homem branco,Weißer
+380_magician,magician,2137,MAGICIAN,mago,Zauberarzt
+381_drug,drug,1372,MEDICINE,droga,Arzneimittel
 382_poisonusedtotreatillnesses,poison used to treat illnesses,,,veneno usado para tratar doenças,Krankheitsgift
-383_fever,fever,,,febre,Fieber
-384_diarrhea,diarrhea,,,diarreia,Dysenterie
-385_tobacco,tobacco,,,tabaco,Tabak
+383_fever,fever,1534,FEVER,febre,Fieber
+384_diarrhea,diarrhea,1177,DIARRHEA,diarreia,Dysenterie
+385_tobacco,tobacco,974,TOBACCO,tabaco,Tabak
 386_tobaccoleaf,tobacco leaf,,,folha de tabaco,Tabakblatt
 387_bigcigar,big cigar,,,charuto grande,Große Zigarre
 388_cigarfork,cigar fork,,,forquilha para cigarro,Zigarrengabel
@@ -388,70 +392,70 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 391_boxforsnufftobacco,box for snuff tobacco,,,caixa de rapé,Schnupftabakdose
 392_largesnailshellthatisusedasaboxforsnufftobacco,large snail shell that is used as a box for snuff tobacco,,,concha grande de caracol usada como uma caixa de rapé,"Große Schneckenschale, die als Schnupftabakdose verwendet wird"
 393_woundscratchestriangularcalabashshardstuddedwithteethofthetrahirafish,"wound scratches (triangular calabash shard, studded with teeth of the trahíra fish)",,,feridas (fragmento triangular de cabaça),"Wundkratzer (dreieckige Kalabassenscherbe, mit Zähnchen d.Trahíra-Fisches besetzt)"
-394_deity,deity,,,deidade,Gott
-395_ghostdemon,"ghost, demon",,,"fantasma, demônio ","Gespenst, Dämon"
+394_deity,deity,3231,DEITY,deidade,Gott
+395_ghostdemon,"ghost, demon",,,"fantasma, demônio ","Gespenst, Dämon "
 396_forestspiritlinguageralkurupira,forest spirit (língua geral: kurupira),,,espírito da floresta (língua geral: kurupira),Waldgeist (lingoa geral: kurupira)
-397_soul,soul,,,alma,Seele
-398_language,language,,,língua (idioma),Sprache
-399_capuchinmonkey,capuchin monkey,,,macaco-prego,Affe (Macaco prego)
-400_howlermonkey,howler monkey,,,bugio,Brüllaffe
+397_soul,soul,811,SOUL,alma,Seele
+398_language,language,1307,LANGUAGE,língua (idioma),Sprache
+399_capuchinmonkey,capuchin monkey,439,CEBUS MONKEY,macaco-prego,Affe (Macaco prego)
+400_howlermonkey,howler monkey,433,HOWLER MONKEY,bugio,Brüllaffe
 401_uacarimonkey,uacari monkey,,,uacari,Uacarí-Affe
 402_oayapisamonkey,oayapisá monkey,,,macaco uaiapuçá (japuçá/uapuçá),Oayapisá-Affe
 403_yuruparymonkey,yuruparý monkey,,,macaco jurupari,Yuruparý-Affe
 404_caiararamonkey,caiarára monkey,,,baiarara,Caiarára-Affe
 405_barrigudomonkey,barrigudo monkey,,,macaco barrigudo,Barrigudo-Affe
 406_macaquinho,macaquinho,,,macaquinho,Macaquinho
-407_bat,bat,,,morcego,Fledermaus
+407_bat,bat,1793,BAT,morcego,Fledermaus
 408_smallbat,small bat,,,morcego pequeno,Kleine Fledermaus
-409_opossum,opossum,,,mucura (saruê),Micura
-410_colorfuljaguar,colorful jaguar,,,onça pintada,"Jaguar, bunter"
+409_opossum,opossum,309,OPOSSUM,mucura (saruê),Micura
+410_colorfuljaguar,colorful jaguar,1250,JAGUAR,onça pintada,"Jaguar, bunter"
 411_blackjaguar,black jaguar,,,onça preta,"Jaguar, schwarzer"
-412_puma,puma,,,"suçuarana, onça-parda",Puma
+412_puma,puma,1891,PUMA,"suçuarana, onça-parda",Puma
 413_maracaja,maracajá,,,gato-maracajá,Maracajá
-414_deer,deer,,,veado,Hirsch
-415_reddeer,red deer,,,veado-vermelho,Hirsch (Rothirsch)
-416_otter,otter,,,lontra,Fischotter
-417_tapir,tapir,,,anta,Tapir
-418_capybara,capybara,,,capivara,Capivara
-419_paca,paca,,,paca,Paca
+414_deer,deer,1936,DEER,veado,Hirsch
+415_reddeer,red deer,3983,RED DEER,veado-vermelho,Hirsch (Rothirsch)
+416_otter,otter,15,OTTER,lontra,Fischotter
+417_tapir,tapir,312,TAPIR,anta,Tapir
+418_capybara,capybara,314,CAPYBARA,capivara,Capivara
+419_paca,paca,316,PACA,paca,Paca
 420_aguti,agutí,,,cutia,Agutí
 421_agutiuaya,agutiuaya,,,cutiara,Agutiuaya
-422_coaticoatimundi,coati (coatimundi),,,quati,Cuatí
+422_coaticoatimundi,coati (coatimundi),2389,COATI (COATIMUNDI),quati,Cuatí
 423_cuatipuru,cuatipurú,,,quatipuru (tipo de esquilo),Cuatipurú
 424_smallcuatipuru,small cuatipurú,,,quatipuru pequeno,Kleines Cuatipurú
-425_muroidmouseorrat,muroid (mouse or rat),,,"rato, camundongo","Ratte, Maus"
-426_mouse,mouse,,,camundongo,Maus
-427_armadillo,armadillo,,,tatu,Gürteltier
+425_muroidmouseorrat,muroid (mouse or rat),2139,MUROID (MOUSE OR RAT),"rato, camundongo","Ratte, Maus"
+426_mouse,mouse,1491,MOUSE,camundongo,Maus
+427_armadillo,armadillo,1885,ARMADILLO,tatu,Gürteltier
 428_giantarmadillo,giant armadillo,,,tatu grande,Riesengürteltiers
 429_armadilloshell,armadillo shell,,,casco de tatu,Schale des Gürteltiers
-430_sloth,sloth,,,bicho-preguiça,Faultier
+430_sloth,sloth,2446,SLOTH,bicho-preguiça,Faultier
 431_giantanteater,giant anteater,,,tamanduá bandeira,Großer Ameisenbär
 432_smallanteater,small anteater,,,tamanduá mirim,Kleiner Ameisenbär
 433_taitetupig,taitetú pig,,,caititu,Taitetú-Schwein
 434_taiasupig,taiasu pig,,,queixada,Taiasú-Schwein
 435_pigteeth,pig teeth,,,dente de porco,Schweinszähne
-436_europeanpig,european pig,,,porco europeu,"Schwein, europaisches"
-437_dog,dog,,,cão,Hund
-438_cat,cat,,,gato,Katze
+436_europeanpig,european pig,1337,PIG,porco europeu,"Schwein, europaisches"
+437_dog,dog,2009,DOG,cão,Hund
+438_cat,cat,1208,CAT,gato,Katze
 439_manatee,manatee,,,peixe-boi,Manatí
-440_dolphin,dolphin,,,golfinho,Delphin
+440_dolphin,dolphin,1479,DOLPHIN,golfinho,Delphin
 441_smallbirdpassarinho,small bird (=passarinho),,,passarinho,Vogel (=passarinho)
-442_egg,egg,,,ovo,Ei
+442_egg,egg,744,EGG,ovo,Ei
 443_redmacaw,red macaw,,,arara vermelha,"Arara, rot"
 444_bluemacaw,blue macaw,,,arara azul,"Arara, blau"
 445_periquito,periquito,,,periquito,Periquito
-446_parrot,parrot,,,papagaio,Papagei
+446_parrot,parrot,882,PARROT,papagaio,Papagei
 447_anaca,anacã,,,anacã,Anacã
-448_curassow,curassow,,,mutum,Mutum
+448_curassow,curassow,315,CURASSOW,mutum,Mutum
 449_nocturnalcurassow,nocturnal curassow,,,urumutum,Urumutum
-450_guan,guan,,,jacu,Jacú
+450_guan,guan,437,GUAN,jacu,Jacú
 451_redthroatedpipingguan,red-throated piping guan,,,cujubi,Cujubim
 452_darkwingedtrumpeter,dark-winged trumpeter,,,jacamim,Jacamý
 453_greenibis,green ibis,,,coró-coró,Corocoró
 454_bigtinamou,big tinamou,,,inambu grande,Großes Inambú
 455_smalltinamou,small tinamou,,,inambu pequeno,Kleines Inambú
-456_dove,dove,,,pombo,Taube
-457_toucan,toucan,,,tucano,Tucáno
+456_dove,dove,1853,DOVE,pombo,Taube
+457_toucan,toucan,308,TOUCAN,tucano,Tucáno
 458_oropendola,oropendola,,,japu,Yapú
 459_yellowrumpedcacique,yellow-rumped cacique,,,japiim,Japeim
 460_woodpeckerarapaso,woodpecker (arapaso),,,arapaçu,Specht (Arapaso)
@@ -459,14 +463,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 462_taiasuira,taiasuirá,,,taiasuirá,Taiasuirá
 463_aracua,aracuã,,,aracuã,Aracuã
 464_anacoro,anacoró,,,anacoró,Anacoró
-465_swallowbird,swallow (bird),,,andorinha,Andurĩ
+465_swallowbird,swallow (bird),3077,SWALLOW (BIRD),andorinha,Andurĩ
 466_smallwhiteswallow,small white swallow,,,andorinha branca pequena,Kleine weiße Schwalbe
 467_nightjar,nightjar,,,noitibó,Nachtschwalbe
 468_urataui,uratauí,,,uratau,Uratauí
-469_hummingbird,hummingbird,,,beija-flor,Kolibri
+469_hummingbird,hummingbird,1589,HUMMINGBIRD,beija-flor,Kolibri
 470_birdsp,bird (sp.),,,pássaro (sp.),Vogel (spec.)
-471_roosterorchicken,rooster or chicken,,,"galo, frango","Hahn, Huhn"
-472_duck,duck,,,pato,Ente
+471_roosterorchicken,rooster or chicken,1318,CHICKEN,"galo, frango","Hahn, Huhn"
+472_duck,duck,1360,DUCK,pato,Ente
 473_smallcolorfulduck,small colorful duck,,,pato pequeno colorido,Kleine bunte Ente
 474_martimpescadortypeofkingfisher,martim pescador (type of kingfisher),,,martim pescador,Martim pescador (Art Eisvogel)
 475_carara,carará,,,carará,Carará
@@ -478,9 +482,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 481_yaburu,yaburú,,,jaburu,Yaburú
 482_maguary,maguarý,,,maguari,Maguarý
 483_tuyuyu,tuyuyú,,,tuiuiú,Tuyuyú
-484_vulture,vulture,,,urubu,Urubú
+484_vulture,vulture,1185,VULTURE,urubu,Urubú
 485_bighawk,big hawk,,,gavião grande,Großer Gavião
-486_hawk,hawk,,,gavião,Habicht
+486_hawk,hawk,307,HAWK,gavião,Habicht
 487_cancao,cancão,,,cancão,Cancão
 488_bigowl,big owl,,,coruja grande,Große Eule
 489_smallowl,small owl,,,corujinha,Kleine Eule
@@ -489,17 +493,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 492_heartofbird,heart (of bird),,,coração (de ave),Herz
 493_stomachofbird,stomach (of bird),,,estômago (de ave),Magen
 494_wattle,wattle,,,barbela de ave,Kehllappen
-495_fish,fish,,,peixe,Fisch
-496_scale,scale,,,escamas,Schuppen
-497_fishbone,fishbone,,,espinha de peixe,Gräten
-498_stingray,stingray,,,arraia,Rochen
+495_fish,fish,227,FISH,peixe,Fisch
+496_scale,scale,266,SCALE,escamas,Schuppen
+497_fishbone,fishbone,3799,FISHBONE,espinha de peixe,Gräten
+498_stingray,stingray,1910,STINGRAY,arraia,Rochen
 499_sorubim,sorubim,,,sorubim,Sorubim
-500_piranha,piranha,,,piranha,Piranha
-501_electriceel,electric eel,,,enguia elétrica,Zitteraal
+500_piranha,piranha,317,PIRANHA,piranha,Piranha
+501_electriceel,electric eel,2443,ELECTRIC EEL,enguia elétrica,Zitteraal
 502_pirarara,pirarára,,,piraraba,Pirarára
 503_pirahiba,pirahíba,,,piraíba,Pirahíba
 504_tucunare,tucunaré,,,tucunaré,Tucunaré
-505_pacu,pacu,,,pacu,Pacú
+505_pacu,pacu,3922,PACU,pacu,Pacú
 506_aracu,aracú,,,aracu,Aracú
 507_acara,acará,,,acará,Acará
 508_trahira,trahira,,,traíra,Trahira
@@ -509,88 +513,88 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 512_pirarucu,pirarucú,,,pirarucu,Pirarucú
 513_peixecachorro,peixe cachorro,,,peixe-cachorro,Peixe cachorro
 514_candiru,candirú,,,candiru,Candirú
-515_alligator,alligator,,,jacaré,Alligator
-516_iguana,iguana,,,iguana,Leguan
-517_lizard,lizard,,,lagarto,Eidechse
-518_frog,frog,,,rã,Frosch
-519_toad,toad,,,sapo,Kröte
+515_alligator,alligator,1581,ALLIGATOR,jacaré,Alligator
+516_iguana,iguana,1578,IGUANA,iguana,Leguan
+517_lizard,lizard,632,LIZARD,lagarto,Eidechse
+518_frog,frog,503,FROG,rã,Frosch
+519_toad,toad,894,TOAD,sapo,Kröte
 520_frogortoad,frog or toad,,,rã ou sapo,Frosch oder Kröter
-521_turtle,turtle,,,tartaruga,Tartaruga
+521_turtle,turtle,112,TURTLE,tartaruga,Tartaruga
 522_bigheadedamazonriverturtle,big-headed amazon river turtle,,,cabeçudo (tipo de tartaruga),Cabeçudo
-523_tortoise,tortoise,,,jabuti,Jabutí
+523_tortoise,tortoise,895,TORTOISE,jabuti,Jabutí
 524_shellofthebigheadedamazonriverturtle,shell of the big-headed amazon river turtle,,,casco de cabeçudo,Schild der Cabeçudo
-525_snake,snake,,,cobra,Schlange
+525_snake,snake,730,SNAKE,cobra,Schlange
 526_bigwatersnake,big water snake,,,cobra d'água grande,Große Wasserschlange
 527_boa,boa,,,jiboia,Jiboya
 528_jararaca,jararáca,,,jararaca,Jararáca
 529_surucucu,surucucú,,,surucucu,Surucucú
-530_earthworm,earthworm,,,minhoca,Erdergenwurm
+530_earthworm,earthworm,2350,EARTHWORM,minhoca,Erdergenwurm
 531_treeearthwormlarva,tree earthworm larva,,,larva de minhoca de árvore,Baumregenwurm
-532_ant,ant,,,formiga,Ameise
+532_ant,ant,587,ANT,formiga,Ameise
 533_saubaant,saúba ant,,,saúva,Saúba-Ameise
 534_maniuaraant,maniuára ant,,,maniuara,Maniuára-Ameise
 535_tocandiraant,tocandíra ant,,,tocandira,Tocandíra-Ameise
-536_termite,termite,,,cupim,Termiten
+536_termite,termite,883,TERMITE,cupim,Termiten
 537_taracua,taracuá,,,taracuá (tipo de formiga),Taracuá
-538_flyinsect,fly (insect),,,mosca,Fliege
-539_mosquito,mosquito,,,mosquito,Mosquito
+538_flyinsect,fly (insect),1504,FLY (INSECT),mosca,Fliege
+539_mosquito,mosquito,1509,MOSQUITO,mosquito,Mosquito
 540_smallmosquito,small mosquito,,,mosquito pequeno,Kleine Mosquito
 541_pium,pium,,,pium,Pium
 542_mutuca,mutuca,,,mutuca,Mutuca
-543_bee,bee,,,abelha,Biene
-544_honey,honey,,,mel,Honig
-545_wasp,wasp,,,vespa,Wespe
-546_grasshopper,grasshopper,,,gafanhoto,Heuschrecke
-547_cricket,cricket,,,grilo,Grille
-548_dragonfly,dragonfly,,,libélula,Wasserjungfer
-549_butterfly,butterfly,,,borboleta,Schmetterling
+543_bee,bee,665,BEE,abelha,Biene
+544_honey,honey,942,HONEY,mel,Honig
+545_wasp,wasp,1517,WASP,vespa,Wespe
+546_grasshopper,grasshopper,607,GRASSHOPPER,gafanhoto,Heuschrecke
+547_cricket,cricket,2354,CRICKET,grilo,Grille
+548_dragonfly,dragonfly,2352,DRAGONFLY,libélula,Wasserjungfer
+549_butterfly,butterfly,1791,BUTTERFLY,borboleta,Schmetterling
 550_bigbluebutterfly,big blue butterfly,,,borboleta grande azul,Großer blauer Schmetterling
-551_caterpillar,caterpillar,,,lagarta,Raupe
+551_caterpillar,caterpillar,2247,CATERPILLAR,lagarta,Raupe
 552_dungbeetle,dung beetle,,,besouro rola-bosta,Mistkäfer
-553_firefly,firefly,,,vagalume,Leuchtkäfer
-554_cockroach,cockroach,,,barata,Barata
-555_tick,tick,,,carrapato,Carapato
+553_firefly,firefly,206,FIREFLY,vagalume,Leuchtkäfer
+554_cockroach,cockroach,1575,COCKROACH,barata,Barata
+555_tick,tick,1527,TICK,carrapato,Carapato
 556_verysmalltick,very small tick,,,carrapato muito pequeno,Sehr kleine Carapato
-557_louse,louse,,,piolho,Laus
-558_flea,flea,,,pulga,Floh
+557_louse,louse,1392,LOUSE,piolho,Laus
+558_flea,flea,232,FLEA,pulga,Floh
 559_sandflea,sand flea,,,bicho-de-pé,Sandfloh
 560_micuim,micuim,,,micuim,Micuim
-561_spider,spider,,,aranha,Spinne
-562_crab,crab,,,caranguejo,Krebs
-563_shrimp,shrimp,,,camarão,Camarão
-564_scorpion,scorpion,,,escorpião,Skorpion
+561_spider,spider,843,SPIDER,aranha,Spinne
+562_crab,crab,2348,CRAB,caranguejo,Krebs
+563_shrimp,shrimp,2349,SHRIMP,camarão,Camarão
+564_scorpion,scorpion,1538,SCORPION,escorpião,Skorpion
 565_waterspider,water spider,,,aranha d'água,Wasserspinne
-566_centipede,centipede,,,centopeia,Tausendfuß
+566_centipede,centipede,1974,CENTIPEDE,centopeia,Tausendfuß
 567_maruim,maruim,,,maruim,Maruim
 568_paca,páca,,,paca (tipo de inseto),Páca
-569_shell,shell,,,concha,Muschel
-570_snail,snail,,,lesma,Schnecke
-571_tree,tree,,,árvore,Baum
-572_leaf,leaf,,,folha,Blatt
-573_branch,branch,,,galho,Ast
-574_bark,bark,,,casca da árvore,Rinde
-575_root,root,,,raiz,Wurzel
-576_thron,thron,,,espinho,Dorn
-577_seed,seed,,,semente,Samen
-578_resin,resin,,,resina,Harz
-579_peelpod,"peel, pod",,,casca da fruta,"Schale, Hülse (d.Frucht)"
+569_shell,shell,598,SHELL,concha,Muschel
+570_snail,snail,1543,SNAIL,lesma,Schnecke
+571_tree,tree,906,TREE,árvore,Baum
+572_leaf,leaf,628,LEAF,folha,Blatt
+573_branch,branch,1531,BRANCH,galho,Ast
+574_bark,bark,1204,BARK,casca da árvore,Rinde
+575_root,root,670,ROOT,raiz,Wurzel
+576_thron,thron,124,THORN,espinho,Dorn
+577_seed,seed,714,SEED,semente,Samen
+578_resin,resin,664,RESIN,resina,Harz
+579_peelpod,"peel, pod",2373,SKIN (OF FRUIT),casca da fruta,"Schale, Hülse (d.Frucht)"
 580_blossom,blossom,,,flor (termo referente apenas à parte reprodutiva da planta),Blüte
-581_fruit,fruit,,,fruta,Frucht
-582_shrub,shrub,,,arbusto,Strauch
-583_grass,grass,,,grama,Gras
-584_maize,maize,,,milho,Mais
-585_manioc,manioc,,,mandioca,Mandioca
-586_maniocflour,manioc flour,,,farinha de mandioca,Mandiocamehl (Farinha)
-587_maniocbread,manioc bread,,,beiju,Mandiocafladen (Beijú)
+581_fruit,fruit,1507,FRUIT,fruta,Frucht
+582_shrub,shrub,751,SHRUB,arbusto,Strauch
+583_grass,grass,606,GRASS,grama,Gras
+584_maize,maize,506,MAIZE,milho,Mais
+585_manioc,manioc,925,CASSAVA,mandioca,Mandioca
+586_maniocflour,manioc flour,324,MANIOC FLOUR,farinha de mandioca,Mandiocamehl (Farinha)
+587_maniocbread,manioc bread,407,MANIOC BREAD,beiju,Mandiocafladen (Beijú)
 588_curata,curatá,,,curatá,Curatá
-589_tapioca,tapioca,,,tapioca,Tapioca
-590_banana,banana,,,banana,Banane
-591_potato,potato,,,batata,Batate
-592_yam,yam,,,inhame,"Cará, Inyame"
-593_pepper,pepper,,,pimenta,Capsicum
+589_tapioca,tapioca,925,CASSAVA,tapioca,Tapioca
+590_banana,banana,868,BANANA,banana,Banane
+591_potato,potato,593,POTATO,batata,Batate
+592_yam,yam,410,YAM,inhame,"Cará, Inyame"
+593_pepper,pepper,1385,PEPPER,pimenta,Capsicum
 594_peppersauce,peppersauce,,,molho de pimenta,Pfeffersauce
 595_tucupi,tucupi,,,tucupi,Tucupí
-596_pineapple,pineapple,,,abacaxi,Ananas
+596_pineapple,pineapple,2440,PINEAPPLE,abacaxi,Ananas
 597_tame,tame,,,domesticado,Zahme
 598_savage,savage,,,selvagem,Wilde
 599_cocoa,cocoa,,,cacao,Kakao
@@ -606,16 +610,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 609_pinupinumedicinalplant,pinupinú (medicinal plant),,,pinupinú (planta medicinal),Pinupinú (Medizinalpflanze)
 610_pokeanut,pokeá nut,,,tipo de noz,Pokeá-Nuß
 611_ucuqui,ucuqui,,,ucuqui,Ukuki
-612_pumpkin,pumpkin,,,abóbora,Kürbis
+612_pumpkin,pumpkin,864,PUMPKIN,abóbora,Kürbis
 613_timbo,timbó,,,timbó,Timbó
-614_liana,liana,,,cipó,Sipó
+614_liana,liana,2388,LIANA,cipó,Sipó
 615_rawrubber,raw rubber,,,borracha crua,Kautschuk
 616_rubber,rubber,,,borracha,Gummi
 617_rubbermilk,rubber milk,,,leite da seringueira,Gummi-Milch
-618_bamboo,bamboo,,,bambu,Bambus
+618_bamboo,bamboo,1927,BAMBOO,bambu,Bambus
 619_giantreed,giant reed,,,cana-do-reino,Pfeilrohr
-620_sugarcane,sugar cane,,,cana-de-açúcar,Zuckerrohr
-621_achiote,achiote,,,urucum,Urucú
+620_sugarcane,sugar cane,146,SUGAR CANE,cana-de-açúcar,Zuckerrohr
+621_achiote,achiote,349,ACHIOTE,urucum,Urucú
 622_carajuru,carajuru,,,carajuru,Carayurú
 623_genipap,genipap,,,genipapo,Genipapo
 624_moldonmanioccake,mold on manioc cake,,,mofo no bolo de mandioca,Schimmel auf Mandiocafladen
@@ -631,19 +635,29 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 634_pupunha,pupunha,,,pupunha,Pupunha
 635_pataua,patauá,,,patauá,Patauá
 636_bacaba,bacaba,,,bacaba,Bacaba
-647_alittle,a little,,,pouco,Wenig
-648_many,many,,,muito,Viel
-649_half,half,,,metade,Halb
-650_full,full,,,cheio,Voll
-651_all,all,,,"tudo, todo",Alles
-652_i,i,,,eu,Ich
-653_you,you,,,você,Du
-654_he,he,,,ele,Er
+637_1,1,1493,ONE,1,1
+638_2,2,1498,TWO,2,2
+639_3,3,492,THREE,3,3
+640_4,4,1500,FOUR,4,4
+641_5,5,493,FIVE,5,5
+642_6,6,1703,SIX,6,6
+643_7,7,1704,SEVEN,7,7
+644_8,8,1705,EIGHT,8,8
+645_9,9,1483,NINE,9,9
+646_10,10,1515,TEN,10,10
+647_alittle,a little,2924,A LITTLE,pouco,Wenig
+648_many,many,1198,MANY,muito,Viel
+649_half,half,816,HALF,metade,Halb
+650_full,full,1429,FULL,cheio,Voll
+651_all,all,98,ALL,"tudo, todo",Alles
+652_i,i,1209,I,eu,Ich
+653_you,you,1215,THOU,você,Du
+654_he,he,1211,HE,ele,Er
 655_otheranother,other (another),,,outro (um outro),Ein anderer
-656_we,we,,,nós,Wir
-657_yourplural,your (plural),,,seu,Ihr
-658_they,they,,,eles,Sie
-659_others,others,,,outros,Andere
+656_we,we,1212,WE,nós,Wir
+657_yourplural,your (plural),2274,YOUR (PLURAL),seu,Ihr
+658_they,they,817,THEY,eles,Sie
+659_others,others,197,OTHER,outros,Andere
 660_mybow,my bow,,,meu arco,Mein Bogen
 661_yourbow,your bow,,,seu arco,Dein Bogen
 662_yourcoca,your coca,,,sua coca,Deine Coca
@@ -651,52 +665,52 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 664_ourhouse,our house,,,a nossa casa,Unser Haus
 665_yourhouse,your house,,,sua casa,Euer Haus
 666_yourhousepoliteform,your house (polite form),,,sua casa (forma educada),Ihr Haus
-667_large,large,,,grande,Groß
-668_small,small,,,pequeno,Klein
-669_high,high,,,alto,Hoch
-670_deep,deep,,,fundo,Tief
-671_long,long,,,longo,Lang
-672_short,short,,,curto,Kurz
-673_wide,wide,,,largo,Breit
-674_fatobese,fat (obese),,,gordo,Fett
-675_thinslim,thin (slim),,,magro,Mager
-676_heavy,heavy,,,pesado,Schwer
-677_lightweight,light (weight),,,leve,Leicht
-678_cold,cold,,,frio,Kalt
+667_large,large,1202,BIG,grande,Groß
+668_small,small,1246,SMALL,pequeno,Klein
+669_high,high,1265,HIGH,alto,Hoch
+670_deep,deep,1593,DEEP,fundo,Tief
+671_long,long,1203,LONG,longo,Lang
+672_short,short,1645,SHORT,curto,Kurz
+673_wide,wide,1243,WIDE,largo,Breit
+674_fatobese,fat (obese),1279,FAT (OBESE),gordo,Fett
+675_thinslim,thin (slim),1400,THIN (SLIM),magro,Mager
+676_heavy,heavy,1210,HEAVY,pesado,Schwer
+677_lightweight,light (weight),1052,LIGHT (WEIGHT),leve,Leicht
+678_cold,cold,1287,COLD,frio,Kalt
 679_verycold,very cold,,,Muito Frio,sehr kalt
-680_warm,warm,,,quente,Warm
-681_dry,dry,,,seco,Trocken
-682_wet,wet,,,molhado,Naß
-683_rotten,rotten,,,estragado (podre),Verfaut
-684_sick,sick,,,doente,Krank
-685_dead,dead,,,morto,Tot
-686_hard,hard,,,duro,Hart
-687_soft,soft,,,mole,Weich
-688_pregnant,pregnant,,,grávida,Schwanger
-689_good,good,,,bom,Gut
-690_beautiful,beautiful,,,bonito,Schön
-691_bad,bad,,,mau,Schlecht
-692_brave,brave,,,corajoso,Tapfer
-693_cowardly,cowardly,,,covarde,Feig
-694_white,white,,,branco,Weiß
-695_black,black,,,preto,Schwarz
-696_dirty,dirty,,,sujo,Schmutzig
-697_dark,dark,,,escuro,Dunkel
-698_red,red,,,vermelho,Rot
-699_blue,blue,,,azul,Blau
-700_green,green,,,verde,Grün
-701_yellow,yellow,,,amarelo,Gelb
-702_yesterday,yesterday,,,ontem,Gestern
-703_today,today,,,hoje,Heute
-704_now,now,,,Agora,Jetzt
-705_immediately,immediately,,,imediatamente,Sogleich
-706_day24hours,day (24 hours),,,dia (24 horas),Dereinst
-707_right,right,,,direita,Rechts
-708_left,left,,,esquerda,Links
-709_here,here,,,aqui,Hier
-710_near,near,,,perto,Nahe
-711_there,there,,,lá,Dort
-712_far,far,,,longe,Fern
+680_warm,warm,1232,WARM,quente,Warm
+681_dry,dry,1398,DRY,seco,Trocken
+682_wet,wet,1726,WET,molhado,Naß
+683_rotten,rotten,1728,ROTTEN,estragado (podre),Verfaut
+684_sick,sick,1847,SICK,doente,Krank
+685_dead,dead,1625,DEAD,morto,Tot
+686_hard,hard,1884,HARD,duro,Hart
+687_soft,soft,1856,SOFT,mole,Weich
+688_pregnant,pregnant,1123,PREGNANT,grávida,Schwanger
+689_good,good,1035,GOOD,bom,Gut
+690_beautiful,beautiful,1427,BEAUTIFUL,bonito,Schön
+691_bad,bad,1292,BAD,mau,Schlecht
+692_brave,brave,3,BRAVE,corajoso,Tapfer
+693_cowardly,cowardly,3812,COWARDLY,covarde,Feig
+694_white,white,1335,WHITE,branco,Weiß
+695_black,black,163,BLACK,preto,Schwarz
+696_dirty,dirty,1230,DIRTY,sujo,Schmutzig
+697_dark,dark,706,DARK,escuro,Dunkel
+698_red,red,156,RED,vermelho,Rot
+699_blue,blue,837,BLUE,azul,Blau
+700_green,green,1425,GREEN,verde,Grün
+701_yellow,yellow,1424,YELLOW,amarelo,Gelb
+702_yesterday,yesterday,1174,YESTERDAY,ontem,Gestern
+703_today,today,1283,TODAY,hoje,Heute
+704_now,now,1376,NOW,Agora,Jetzt
+705_immediately,immediately,1963,IMMEDIATELY,imediatamente,Sogleich
+706_day24hours,day (24 hours),1260,DAY (24 HOURS),dia (24 horas),Dereinst
+707_right,right,1019,RIGHT,direita,Rechts
+708_left,left,244,LEFT,esquerda,Links
+709_here,here,136,HERE,aqui,Hier
+710_near,near,1942,NEAR,perto,Nahe
+711_there,there,1937,THERE,lá,Dort
+712_far,far,1406,FAR,longe,Fern
 713_thereoverthere,there (over there),,,de lá,Dorther
 714_infrontofthehouse,in front of (the house),,,na frente de (da casa),Vor (dem Haus)
 715_behindthehouse,behind the house,,,atrás da casa,Hinter dem Haus
@@ -704,103 +718,105 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
 717_onthetree,on the tree,,,na árvore,Auf dem Baum
 718_underthehouse,under the house,,,embaixo da casa,Unter dem Haus
 719_inthehouseinsidethehouse,"in the house, inside the house",,,"na casa, dentro da casa","In dem Haus, Im innern des Hauses"
-720_yes,yes,,,sim,Ja
-721_no,no,,,não,Nein
-722_breathe,breathe,,,respirar,Atmen
-723_standup,stand up,,,se levantar,"Aufstehen, sich erheben"
-724_bathe,bathe,,,tomar banho,Baden
-725_havesex,have sex,,,fazer sexo,Beischlaf vollziehen
-726_tie,tie,,,amarrar,Binden
-727_bury,bury,,,enterrar,Begraben
-728_stay,stay,,,ficar,Bleiben
-729_fry,fry,,,fritar,Braten
-730_burn,burn,,,queimar,"Brennen, verbrennen"
+720_yes,yes,1268,YES,sim,Ja
+721_no,no,1269,NO,não,Nein
+722_breathe,breathe,1407,BREATHE,respirar,Atmen
+723_standup,stand up,570,STAND UP,se levantar,"Aufstehen, sich erheben"
+724_bathe,bathe,138,BATHE,tomar banho,Baden
+725_havesex,have sex,549,COPULATE,fazer sexo,Beischlaf vollziehen
+726_tie,tie,1917,TIE,amarrar,Binden
+727_bury,bury,1719,BURY,enterrar,Begraben
+728_stay,stay,987,REMAIN,ficar,Bleiben
+729_fry,fry,991,FRY,fritar,Braten
+730_burn,burn,2102,BURN,queimar,"Brennen, verbrennen"
 731_aburnthouse,a burnt house,,,Uma casa queimada,ein Haus verbrennen
-732_bring,bring,,,trazer,Bringen
+732_bring,bring,692,BRING,trazer,Bringen
 733_bringwater,bring water!,,,traz água!,Bring’ Wasser!
 734_bringhere,bring here!,,,traz pra cá!,Bring’ hierher!
 735_blowtheflute,blow the flute,,,toca a flauta,Flöte blasen
-736_think,think,,,pensar,Denken
-737_drown,drown,,,afogar,Ertrinken
-738_eat,eat,,,comer,Essen
-739_fall,fall,,,cair,Fallen
+736_think,think,2271,THINK,pensar,Denken
+737_drown,drown,1904,DROWN,afogar,Ertrinken
+738_eat,eat,1336,EAT,comer,Essen
+739_fall,fall,1280,FALL,cair,Fallen
+740_wewanttocatchletscatch,"we want to catch, let's catch!",,,"a gente quer pegar, bora pegar!","Wir wollen fangen, laßt uns fangen!"
 741_letscatchawoman,lets catch a woman!,,,vamos pegar uma mulher!,laßt uns ein Weib holen [fangen]!
-742_fly,fly,,,voar,Fliegen
-743_flow,flow,,,fluir,Fließen
+742_fly,fly,1441,FLY (MOVE THROUGH AIR),voar,Fliegen
+743_flow,flow,2003,FLOW,fluir,Fließen
 744_theriverflows,the river flows,,,o rio flui,der Fluß strömt
-745_fishing,fishing,,,pescar,Fischen
-746_fearbeafraid,fear (be afraid),,,ter medo,Fürchten
-747_yawn,yawn,,,bocejar,Gähnen
-748_givebirth,give birth,,,parir,Gebären
+745_fishing,fishing,2638,FISHING,pescar,Fischen
+746_fearbeafraid,fear (be afraid),1419,FEAR (BE AFRAID),ter medo,Fürchten
+747_yawn,yawn,1028,YAWN,bocejar,Gähnen
+748_givebirth,give birth,1195,GIVE BIRTH,parir,Gebären
+749_givemewater,give me water!,,,me dá água!,Gib mir Wasser!
 750_iwantwater,I want water,,,Eu quero água!,Ich will Wasser haben!
-751_fart,fart,,,peidar,Einen Flatus von sich geben
-752_go,go,,,ir,Gehen
-753_dig,dig,,,cavar,Graben
-754_seize,seize,,,pegar,Greifen
+751_fart,fart,1159,FART,peidar,Einen Flatus von sich geben
+752_go,go,695,GO,ir,Gehen
+753_dig,dig,1418,DIG,cavar,Graben
+754_seize,seize,855,SEIZE,pegar,Greifen
 755_doyouhavewater,do you have water?,,,você tem água?,Hast du Wasser?
 756_doyouhavefarinha,do you have farinha?,,,você tem farinha?,Hast du Farinha?
-757_strikesomeone,strike (someone),,,bater (em alguém),Hauen
-758_listen,listen,,,ouvir,Hören
+757_strikesomeone,strike (someone),3308,STRIKE (SOMEONE),bater (em alguém),Hauen
+758_listen,listen,1608,LISTEN,ouvir,Hören
 759_starve,starve,,,morrer de fome,Hungern
 760_iamhungry,I am hungry,,,tenho fome,ich habe Hunger
-761_cough,cough,,,tossir,Husten
-762_hunt,hunt,,,caçar,Jagen
-763_shitdefecate,shit (defecate),,,defecar,Kacken
-764_fight,fight,,,lutar,Kämpfen
-765_chew,chew,,,mastigar,Kauen
-766_climb,climb,,,escalar,Klettern
-767_cook,cook,,,cozinhar,Kochen
-768_come,come,,,vir,Kommen
-769_comehere,come here!,,,Venha aqui!,du kommst. komm! komm her!
+761_cough,cough,879,COUGH,tossir,Husten
+762_hunt,hunt,1435,HUNT,caçar,Jagen
+763_shitdefecate,shit (defecate),676,SHIT (DEFECATE),defecar,Kacken
+764_fight,fight,1423,FIGHT,lutar,Kämpfen
+765_chew,chew,321,CHEW,mastigar,Kauen
+766_climb,climb,1102,CLIMB,escalar,Klettern
+767_cook,cook,1100,COOK (SOMETHING),cozinhar,Kochen
+768_come,come,1446,COME,vir,Kommen
+769_comehere,come here!,3555,COME HERE,Venha aqui!,du kommst. komm! komm her!
 770_itcomesrain,it comes rain,,,tá vindo chuva,Est kommt Regen
 771_igotoyou,I go to you,,,eu vou até você,Ich gehe mir dir
 772_withyou,with you,,,contigo,mit dir
-773_crawl,crawl,,,rastejar,Kriechen
+773_crawl,crawl,96,CRAWL,rastejar,Kriechen
 774_imsick,I'm sick,,,estou doete,Ich bin krank
-775_laugh,laugh,,,rir,Lachen
-776_do,do,,,fazer,Machen
-777_paintsomethingorpainting,paint (something) or painting,,,pintar,"Malen, bemalen"
-778_sew,sew,,,costurar,Nähen
-779_sneeze,sneeze,,,espirrar,Niesen
-780_whistle,whistle,,,assoviar,Pfeifen
-781_piss,piss,,,urinar,Pissen
-782_smokeinhale,smoke (inhale),,,fumar,Rauchen
-783_talk,talk,,,falar (com alguém),Reden
-784_smellperceive,smell (perceive),,,cheirar,Riechen
-785_row,row,,,remar,Rudern
-786_call,call,,,chamar,Rufen
+775_laugh,laugh,1355,LAUGH,rir,Lachen
+776_do,do,813,DO,fazer,Machen
+777_paintsomethingorpainting,paint (something) or painting,3194,PAINT (SOMETHING) OR PAINTING,pintar,"Malen, bemalen"
+778_sew,sew,1457,SEW,costurar,Nähen
+779_sneeze,sneeze,1621,SNEEZE,espirrar,Niesen
+780_whistle,whistle,1025,WHISTLE,assoviar,Pfeifen
+781_piss,piss,592,PISS,urinar,Pissen
+782_smokeinhale,smoke (inhale),1689,SMOKE (INHALE),fumar,Rauchen
+783_talk,talk,2708,TALK,falar (com alguém),Reden
+784_smellperceive,smell (perceive),1586,SMELL (PERCEIVE),cheirar,Riechen
+785_row,row,1849,ROW,remar,Rudern
+786_call,call,1084,CALL,chamar,Rufen
 787_iswinginthehammock,I swing in the hammock,,,eu balanço a rede,Ich schaukle mich in der Hängematte
 788_youswinginthehammock,you swing in the hammock,,,você balança a rede,Du schaukelst dich in der Hängematte
-789_shoot,shoot,,,atirar,Schießen
-790_sleep,sleep,,,dormir,Schlafen
+789_shoot,shoot,1172,SHOOT,atirar,Schießen
+790_sleep,sleep,1585,SLEEP,dormir,Schlafen
 791_iwanttosleep,I want to sleep,,,eu quero dormir,Ich will schlafen
-792_strikeorbeat,strike or beat,,,bater ou surrar,Schlagen
-793_grind,grind,,,moer,Schleifen
-794_swallow,swallow,,,engolir,Schlucken
+792_strikeorbeat,strike or beat,2133,STRIKE OR BEAT,bater ou surrar,Schlagen
+793_grind,grind,1033,GRIND,moer,Schleifen
+794_swallow,swallow,897,SWALLOW,engolir,Schlucken
 795_snoring,snoring,,,roncar,Schnarchen
-796_cut,cut,,,cortar,Schneiden
+796_cut,cut,1432,CUT,cortar,Schneiden
 797_icutwithmyknife,I cut with my knife,,,eu corto com a minha faca,Ich schneide mit meinem Messer
-798_swim,swim,,,nadar,Schwimmen
-799_see,see,,,ver,Sehen
-800_sing,sing,,,cantar,Singen
-801_sit,sit,,,sentar,Sitzen
-802_speak,speak,,,falar (palavras),Sprechen
-803_jump,jump,,,pular,Springen
-804_sting,sting,,,ferror,Stechen
-805_stand,stand,,,ficar em pé,Stehen
-806_die,die,,,morrer,Sterben
-807_dive,dive,,,mergulhar,Tauchen
-808_kill,kill,,,matar,Töten
-809_drink,drink,,,beber,Trinken
+798_swim,swim,1439,SWIM,nadar,Schwimmen
+799_see,see,1409,SEE,ver,Sehen
+800_sing,sing,1261,SING,cantar,Singen
+801_sit,sit,1416,SIT,sentar,Sitzen
+802_speak,speak,1623,SPEAK,falar (palavras),Sprechen
+803_jump,jump,1829,JUMP,pular,Springen
+804_sting,sting,571,STING,ferror,Stechen
+805_stand,stand,1442,STAND,ficar em pé,Stehen
+806_die,die,1494,DIE,morrer,Sterben
+807_dive,dive,119,DIVE,mergulhar,Tauchen
+808_kill,kill,1417,KILL,matar,Töten
+809_drink,drink,1401,DRINK,beber,Trinken
 810_turningback,turning back,,,voltar,Umkehren
-811_grow,grow,,,crescer,Wachsen
+811_grow,grow,479,GROW,crescer,Wachsen
 812_beinginfluctuatingmotion,being in fluctuating motion,,,estar flutuando,Waben
-813_cry,cry,,,chorar,Weinen
-814_throw,throw,,,arrmessar,Werfen
-815_want,want,,,querer,Wollen
-816_count,count,,,contar,Zählen
-817_show,show,,,mostrar,Zeigen
-818_pull,pull,,,empurrar,Ziehen
-819_shiver,shiver,,,tremer,Zittern
+813_cry,cry,1839,CRY,chorar,Weinen
+814_throw,throw,1456,THROW,arrmessar,Werfen
+815_want,want,1784,WANT,querer,Wollen
+816_count,count,1420,COUNT,contar,Zählen
+817_show,show,1039,SHOW,mostrar,Zeigen
+818_pull,pull,1455,PULL,empurrar,Ziehen
+819_shiver,shiver,52,SHIVER,tremer,Zittern
 820_forwardletsgo,forward! let's go,,,bora! vamo lá,Vorwärts! Laßt uns gehen
 821_wellinvitationtoeatetc,well! (invitation to eat etc.),,,bora! (convite para comer etc.),Wohlan! (Aufforderung zum Essen usw.)
