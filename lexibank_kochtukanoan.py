@@ -34,11 +34,11 @@ class Dataset(BaseDataset):
         # add concept
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = concept.id + "_" + slug(concept.attributes["german"])
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.gloss)
             concepts[concept.attributes["german"]] = idx
             args.writer.add_concept(
                 ID=idx,
-                Name=concept.english,
+                Name=concept.gloss,
                 German_Gloss=concept.attributes["german"],
                 Portuguese_Gloss=concept.attributes["portuguese"],
                 Concepticon_ID=concept.concepticon_id,
