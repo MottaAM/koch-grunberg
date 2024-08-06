@@ -1,822 +1,822 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss,German_Gloss
-KochGrunberg-1914-821-1_tongue,tongue,1205,TONGUE,língua (parte do corpo),Zunge
-KochGrunberg-1914-821-2_mouth,mouth,674,MOUTH,boca,Mund
-KochGrunberg-1914-821-3_lip,lip,478,LIP,lábios,Lippen
-KochGrunberg-1914-821-4_tooth,tooth,1380,TOOTH,dente,Zahn
-KochGrunberg-1914-821-5_nose,nose,1221,NOSE,nariz,Nase
-KochGrunberg-1914-821-6_nostril,nostril,1178,NOSTRIL,narina,Nasenloch
-KochGrunberg-1914-821-7_eye,eye,1248,EYE,olho,Auge
-KochGrunberg-1914-821-8_ear,ear,1247,EAR,orelha,Ohr
-KochGrunberg-1914-821-9_earhole,earhole,3891,EARHOLE,ouvido,Ohrloch als Gehörgang
-KochGrunberg-1914-821-10_holeintheearlobe,hole in the earlobe,,,furo no lobo da orelha,Loch im Ohrläppchen
-KochGrunberg-1914-821-11_pinintheearlobe,pin in the earlobe,,,alargador no lobo da orelha,Stift im Ohrläppchen
-KochGrunberg-1914-821-12_holeinthelowerlip,hole in the lower lip,,,furo no lábio inferior,Loch in der Unterlippe
-KochGrunberg-1914-821-13_longandthincylinderinthelowerlip,long and thin cylinder in the lower lip,,,cilindro longo e fino no lábio inferior,Stift in der Unterlippe
-KochGrunberg-1914-821-14_holeinthenasalseptum,hole in the nasal septum,,,furo no septo nasal,Loch in der Nasenscheidewand
-KochGrunberg-1914-821-15_pininthenasalseptum,pin in the nasal septum,,,talo da pena no septo nasal,Stift in der Nasenscheidewand
-KochGrunberg-1914-821-16_forehead,forehead,123,FOREHEAD,testa,Stirn
-KochGrunberg-1914-821-17_head,head,1256,HEAD,cabeça,Kopf
-KochGrunberg-1914-821-18_hairhead,hair (head),2648,HAIR (HEAD),cabelo,Kopfhaar
-KochGrunberg-1914-821-19_eyebrow,eyebrow,1173,EYEBROW,sobrancelhas,Augenbrauen
-KochGrunberg-1914-821-20_eyelash,eyelash,1540,EYELASH,cílios,Augenwimpern
-KochGrunberg-1914-821-21_beard,beard,678,BEARD,barba,Bart
-KochGrunberg-1914-821-22_pubichair,pubic hair,36,PUBIC HAIR,pelo pubiano,Schamhaar
-KochGrunberg-1914-821-23_armpithair,armpit hair,,,pelo nas axilas,Achselhaar
-KochGrunberg-1914-821-24_cheek,cheek,1730,CHEEK,bochecha,Wange
-KochGrunberg-1914-821-25_chin,chin,1510,CHIN,queixo,Kinn
-KochGrunberg-1914-821-26_shoulder,shoulder,1482,SHOULDER,ombro,Schulter
-KochGrunberg-1914-821-27_arm,arm,1673,ARM,braço,Arm
-KochGrunberg-1914-821-28_elbow,elbow,981,ELBOW,cotovelo,Ellbogen
-KochGrunberg-1914-821-29_hand,hand,1277,HAND,mão,Hand
-KochGrunberg-1914-821-30_backofthehand,back of the hand,,,costas da mão,Handrücken
-KochGrunberg-1914-821-31_palmofhand,palm of hand,1183,PALM OF HAND,palma da mão,Handfläche
-KochGrunberg-1914-821-32_finger,finger,1303,FINGER,dedo,Finger
-KochGrunberg-1914-821-33_thumb,thumb,1781,THUMB,polegar,Daumen
-KochGrunberg-1914-821-34_forefinger,forefinger,577,FOREFINGER,dedo indicador,Zeigefinger
-KochGrunberg-1914-821-35_middlefinger,middle finger,3387,MIDDLE FINGER,dedo médio,Mittelfinger
-KochGrunberg-1914-821-36_ringfinger,ring finger,,,dedo anelar,Ringfinger
-KochGrunberg-1914-821-37_smallfinger,small finger,2774,LITTLE FINGER,dedo mínimo,Kleinfinger
-KochGrunberg-1914-821-38_fingernail,fingernail,1258,FINGERNAIL,unha,Fingernagel
-KochGrunberg-1914-821-39_thigh,thigh,471,UPPER LEG (THIGH),coxa,Oberschenkel
-KochGrunberg-1914-821-40_lowerleg,lower leg,447,LOWER LEG,parte da perna abaixo do joelho e acima do tornozelo,Unterschenkel
-KochGrunberg-1914-821-41_shin,shin,186,SHIN,canela da perna,Schienbein
-KochGrunberg-1914-821-42_calfofleg,calf of leg,498,CALF OF LEG,panturrilha,Wade
-KochGrunberg-1914-821-43_knee,knee,1371,KNEE,joelho,Knie
-KochGrunberg-1914-821-44_backoftheknee,back of the knee,,,parte detrás do joelho,Kniekehle
-KochGrunberg-1914-821-45_foot,foot,1301,FOOT,pé,Fuß
-KochGrunberg-1914-821-46_instep,instep,3736,INSTEP,peito do pé,Fußrücken
-KochGrunberg-1914-821-47_solefoot,sole (foot),2666,SOLE (FOOT),sola do pé,Sohle
-KochGrunberg-1914-821-48_heel,heel,980,HEEL,calcamnhar,Ferse
-KochGrunberg-1914-821-49_ankle,ankle,803,ANKLE,tornozelo,Fußknöchel
-KochGrunberg-1914-821-50_foottendon,foot tendon,,,tendão do pé,Fußsehne
-KochGrunberg-1914-821-51_toe,toe,1389,TOE,dedão,Zehe
-KochGrunberg-1914-821-52_toenail,toenail,2662,TOENAIL,unha do dedão,Zehennagel
-KochGrunberg-1914-821-53_body,body,1480,BODY,corpo,Körper
-KochGrunberg-1914-821-54_neck,neck,1333,NECK,pescoço,Hals
-KochGrunberg-1914-821-55_napeofneck,nape (of neck),1347,NAPE (OF NECK),nuca,Nacken
-KochGrunberg-1914-821-56_throat,throat,1346,THROAT,gargante,Kehle
-KochGrunberg-1914-821-57_armpit,armpit,1886,ARMPIT,axila,Achselhöhle
-KochGrunberg-1914-821-58_shoulderblade,shoulder blade,172,SHOULDERBLADE,escápula,Schulterblatt
-KochGrunberg-1914-821-59_rib,rib,801,RIB,costela,Rippen
-KochGrunberg-1914-821-60_chest,chest,1592,CHEST,peito,Brust
-KochGrunberg-1914-821-61_nipple,nipple,796,NIPPLE,mamilo,Brustwarze
-KochGrunberg-1914-821-62_breast,breast,1402,BREAST,peito feminino,Weibliche Brust
-KochGrunberg-1914-821-63_belly,belly,1251,BELLY,barriga,Bauch
-KochGrunberg-1914-821-64_navel,navel,1838,NAVEL,umbigo,Nabel
-KochGrunberg-1914-821-65_back,back,1291,BACK,costas,Rücken
-KochGrunberg-1914-821-66_buttocks,buttocks,834,BUTTOCKS,nádegas,Gesaß
-KochGrunberg-1914-821-67_penis,penis,1222,PENIS,pênis,Penis
-KochGrunberg-1914-821-68_scrotum,scrotum,2834,SCROTUM,escroto,Scrotum
-KochGrunberg-1914-821-69_testicle,testicle,797,TESTICLES,testículo,Testikel
-KochGrunberg-1914-821-70_membrummuliebre,membrum muliebre,,,membrum muliebre,Membrum muliebre
-KochGrunberg-1914-821-71_vagina,vagina,1836,VAGINA,vagina,Vagina
-KochGrunberg-1914-821-72_clitoris,clitoris,3257,CLITORIS,clitóris,Clitoris
-KochGrunberg-1914-821-73_anus,anus,1935,ANUS,ânus,Anus
-KochGrunberg-1914-821-74_skin,skin,763,SKIN,pele,Haut
-KochGrunberg-1914-821-75_fur,fur,580,FUR,pelo,Fell
-KochGrunberg-1914-821-76_bone,bone,1394,BONE,osso,Knochen
-KochGrunberg-1914-821-77_blood,blood,946,BLOOD,sangue,Blut
-KochGrunberg-1914-821-78_vein,vein,1924,VEIN,veia,Ader
-KochGrunberg-1914-821-79_pulse,pulse,3267,PULSE,pulso,Puls
-KochGrunberg-1914-821-80_flesh,flesh,2259,FLESH,carne,Fleisch
-KochGrunberg-1914-821-81_tendon,tendon,1137,TENDON,tendão,Sehne
-KochGrunberg-1914-821-82_heart,heart,1223,HEART,coração,Herz
-KochGrunberg-1914-821-83_guts,guts,1334,GUTS,vísceras,Eingeweide
-KochGrunberg-1914-821-84_stomach,stomach,819,STOMACH,estômago,Magen
-KochGrunberg-1914-821-85_intestine,intestine,1991,INTESTINES,intestino,Darm
-KochGrunberg-1914-821-86_fatorganicsubstance,fat (organic substance),323,FAT (ORGANIC SUBSTANCE),gordura,Fett
-KochGrunberg-1914-821-87_saliva,saliva,1503,SALIVA,saliva,Speichel
-KochGrunberg-1914-821-88_urine,urine,1142,URINE,urina,Urin
-KochGrunberg-1914-821-89_sweatsubstance,sweat (substance),125,SWEAT (SUBSTANCE),suor,Schweiß
-KochGrunberg-1914-821-90_tearofeye,tear (of eye),1651,TEAR (OF EYE),lágrima,Träne
-KochGrunberg-1914-821-91_faecesexcrement,faeces (excrement),675,FAECES (EXCREMENT),fezes,Kot
-KochGrunberg-1914-821-92_fartnoun,fart (noun),,,Pum,Flatus
-KochGrunberg-1914-821-93_breath,breath,870,BREATH,hálito,Atem
-KochGrunberg-1914-821-94_wound,wound,1109,WOUND,ferida,Wunde
-KochGrunberg-1914-821-95_purupuruskindisease,purupuru (skin disease),,,purupuru (doença de pele),Purupuru (Hautkrankheit)
-KochGrunberg-1914-821-96_beak,beak,73,BEAK,bico,Schnabel
-KochGrunberg-1914-821-97_tail,tail,1220,TAIL,cauda,Schwanz
-KochGrunberg-1914-821-98_wing,wing,1257,WING,asa,Flügel
-KochGrunberg-1914-821-99_feather,feather,1201,FEATHER,pena,Feder
-KochGrunberg-1914-821-100_fin,fin,213,FIN,nadadeira,Flosse
-KochGrunberg-1914-821-101_water,water,948,WATER,água,Wasser
-KochGrunberg-1914-821-102_river,river,666,RIVER,rio,Fluß
-KochGrunberg-1914-821-103_brook,brook,3821,BROOK,riacho,Bach
-KochGrunberg-1914-821-104_lagoon,lagoon,623,LAGOON,lagoa,Lagune
-KochGrunberg-1914-821-105_waterfall,waterfall,943,WATERFALL,cachoeira,"Cachoeira (Stromschnelle, Wasserfall)"
-KochGrunberg-1914-821-106_narrowriverarmparanamiri,narrow river arm (paraná miri),,,paraná-mirim,Schmaler Flußarm (Paraná miri)
-KochGrunberg-1914-821-107_fire,fire,221,FIRE,fogo,Feuer
-KochGrunberg-1914-821-108_smokeexhaust,smoke (exhaust),778,SMOKE (EXHAUST),fumaça,Rauch
-KochGrunberg-1914-821-109_ash,ash,646,ASH,cinzas,Asche
-KochGrunberg-1914-821-110_coal,coal,2658,COAL,carvão,Kohle
-KochGrunberg-1914-821-111_firewood,firewood,10,FIREWOOD,lenha,Brennholz
-KochGrunberg-1914-821-112_sky,sky,1732,SKY,céu,Himmel
-KochGrunberg-1914-821-113_cloud,cloud,1489,CLOUD,nuvem,Wolke
-KochGrunberg-1914-821-114_rainprecipitation,rain (precipitation),658,RAIN (PRECIPITATION),chuva,Regen
-KochGrunberg-1914-821-115_fog,fog,249,FOG,névoa,Nebel
-KochGrunberg-1914-821-116_dew,dew,1977,DEW,orvalho,Tau
-KochGrunberg-1914-821-117_drizzle,drizzle,1016,DRIZZLE,garoa,Feiner Nebelregen
-KochGrunberg-1914-821-118_wind,wind,960,WIND,vento,Wind
-KochGrunberg-1914-821-119_lightning,lightning,1654,LIGHTNING,relâmpago,Blitz
-KochGrunberg-1914-821-120_thunder,thunder,1150,THUNDER,trovão,Donner
-KochGrunberg-1914-821-121_rainbow,rainbow,1733,RAINBOW,arco-íris,Regenbogen
-KochGrunberg-1914-821-122_sun,sun,1343,SUN,sol,Sonne
-KochGrunberg-1914-821-123_shade,shade,1388,SHADE,sombra,Schatten
-KochGrunberg-1914-821-124_year,year,1226,YEAR,ano,Jahr
-KochGrunberg-1914-821-125_rainyseason,rainy season,453,RAINY SEASON,estação chuvosa,Regenzeit
-KochGrunberg-1914-821-126_dryseason,dry season,452,DRY SEASON,estação seca,Trockenzeit
-KochGrunberg-1914-821-127_day,day,1225,DAY (NOT NIGHT),dia,Tag
-KochGrunberg-1914-821-128_night,night,1233,NIGHT,noite,Nacht
-KochGrunberg-1914-821-129_morning,morning,1339,MORNING,manhã,Morgen
-KochGrunberg-1914-821-130_noon,noon,12,MIDDAY,meio-dia,Mittag
-KochGrunberg-1914-821-131_evening,evening,1629,EVENING,tarde,Abend
-KochGrunberg-1914-821-132_dawn,dawn,729,DAWN,amanhecer,Morgenrot
-KochGrunberg-1914-821-133_moon,moon,1313,MOON,lua,Mond
-KochGrunberg-1914-821-134_newmoon,new moon,3691,NEW MOON,lua nova,Neuer Mond
-KochGrunberg-1914-821-135_fullmoon,full moon,3690,FULL MOON,lua cheia,Vollmond
-KochGrunberg-1914-821-136_moonhalo,moon halo,,,halo lunar,Ringförmiger Mondhof
-KochGrunberg-1914-821-137_lunareclipse,lunar eclipse,,,eclipse lunar,Mondfinsternis
-KochGrunberg-1914-821-138_solareclipse,solar eclipse,,,eclipse solar,Sonnenfinstemis
-KochGrunberg-1914-821-139_star,star,1430,STAR,estrela,Stern
-KochGrunberg-1914-821-140_pleiades,pleiades,,,plêiades,Plejaden
-KochGrunberg-1914-821-141_milkyway,milky way,2289,MILKY WAY,via láctea,Milchstraße
-KochGrunberg-1914-821-142_earthsoilground,"earth (soil, ground)",1228,EARTH (SOIL),terra (solo),Erdboden
-KochGrunberg-1914-821-143_field,field,212,FIELD,campo,Feld
-KochGrunberg-1914-821-144_path,path,2252,PATH,caminho,Weg
-KochGrunberg-1914-821-145_mountain,mountain,639,MOUNTAIN,montanha,Berg
-KochGrunberg-1914-821-146_forest,forest,420,FOREST,floresta,Wald
-KochGrunberg-1914-821-147_island,island,622,ISLAND,ilha,Insel
-KochGrunberg-1914-821-148_beach,beach,3460,BEACH,praia,Strand
-KochGrunberg-1914-821-149_stone,stone,857,STONE,pedra,Stein
-KochGrunberg-1914-821-150_pumice,pumice,,,pedra-pomes,Bimsstein
-KochGrunberg-1914-821-151_whiterclay,whiter clay,,,tabatinga (tipo de argila mais clara),Weißer Ton
-KochGrunberg-1914-821-152_yellowclay,yellow clay,,,argila amarelada,Gelber Ton
-KochGrunberg-1914-821-153_hole,hole,1667,HOLE,buraco,Loch
-KochGrunberg-1914-821-154_grave,grave,1773,GRAVE,tumba,Grab
-KochGrunberg-1914-821-155_sea,sea,1474,SEA,mar,Meer
-KochGrunberg-1914-821-156_riosolimoes,Rio Solimões,,,Rio Solimões,Rio Solimões
-KochGrunberg-1914-821-157_riojapura,Rio Japurá,,,Rio Japurá,Rio Yapurá
-KochGrunberg-1914-821-158_rioapaporis,Rio Apapóris,,,Rio Apapóris,Rio Apaporis
-KochGrunberg-1914-821-159_townorvillage,town or village,3609,TOWN OR VILLAGE,cidade pequena ou vila,"Dorf, Heimat"
-KochGrunberg-1914-821-160_home,home,2406,HOME,lar,Heimat
-KochGrunberg-1914-821-161_yourhome,your home,,,seu lar,deine Heimat
-KochGrunberg-1914-821-162_house,house,1252,HOUSE,casa,Haus
-KochGrunberg-1914-821-163_entrance,entrance,,,entrada,Eingang
-KochGrunberg-1914-821-164_exit,exit,,,saída,Ausgang
-KochGrunberg-1914-821-165_trapdoor,trapdoor,,,alçapão,Falltür
-KochGrunberg-1914-821-166_buttressposts,buttress posts,,,contraforte,Strebepfosten
-KochGrunberg-1914-821-167_wallofhouse,wall (of house),933,WALL (OF HOUSE),parede,Wand
-KochGrunberg-1914-821-168_horizontalbattensthatholdthepaxiubabattensofthewalltogetherinthemiddle,horizontal battens that hold the paxiúba battens of the wall together in the middle,,,sarrafos horizontais que sustentam os sarrafos de paxiúba da parede juntos no meio,"Horizontallatten, die die Paxiúbalatten der Wand in der Mitte zusammenhalten"
-KochGrunberg-1914-821-169_beamsthatsitonthepaxiubabattensonthewallandsupporttheroof,beams that sit on the paxiúba battens on the wall and support the roof,,,barras que ficam em cima dos sarrafos de paxiúba na parede e sustentam o telhado,"Balken, die auf den Paxiúbalatten der Wand aufsitzen und das Dach tragen"
-KochGrunberg-1914-821-170_slopingrafters,sloping rafters,,,caibros inclinados,Schräge Dachsparren
-KochGrunberg-1914-821-171_roofcladdingmadefromleavesofthecaranapalmtree,roof cladding made from leaves of the caraná palm tree,,,revestimento do telhado feito de folhas de caraná,Dachbekleidung aus Blättern der Caraná Palme
-KochGrunberg-1914-821-172_horizontalbarrierstowhichthesecaranaleavesareattached,horizontal barriers to which these caraná leaves are attached,,,barreiras horizontais onde essas folhas de caraná são conectadas,"Horizontalsperren, an denen diese Caraná Blätter befestigt sind"
-KochGrunberg-1914-821-173_chimney,chimney,1305,CHIMNEY,chaminé,Rauchfang
-KochGrunberg-1914-821-174_planting,planting,,,plantio,Pflanzung
-KochGrunberg-1914-821-175_torch,torch,1919,TORCH,tocha,Fackel
-KochGrunberg-1914-821-176_yeast,yeast,967,YEAST,levedura,Hefen
-KochGrunberg-1914-821-177_storageplaceinforestlgmitasaua,storage place in forest (l. g .. mitasáua),,,local para armazenar coisas na floresta,Lagerplatz in Walde (l. g.. mitasáua)
-KochGrunberg-1914-821-178_scaffoldinginthehousetoputthingsonorhangon,scaffolding in the house to put things on or hang on,,,plataforma na casa para colocar ou pendurar coisas,"Gerüst im Haus, um Sachen darauf zu legen oder daran zu hängen"
-KochGrunberg-1914-821-179_stool,stool,2058,STOOL,banco,Sitzschemel
-KochGrunberg-1914-821-180_curauafiber,curauá fiber,,,fibra de carauá,Curauáfasern
-KochGrunberg-1914-821-181_hammock,hammock,2019,HAMMOCK,rede,Hängmatte
-KochGrunberg-1914-821-182_cottonhammock,cotton hammock,,,rede de algodão,Hängematte aus Baumwolle
-KochGrunberg-1914-821-183_hammockropes,hammock ropes,,,corda da rede,Hängemattenstricke
-KochGrunberg-1914-821-184_cotton,cotton,1850,COTTON,algodão,Baumwolle
-KochGrunberg-1914-821-185_cloth,cloth,1616,CLOTH,tecido,Tuch
-KochGrunberg-1914-821-186_carryingbasketofwomen,carrying basket of women,,,cesto de carga para mulheres,Tragkorb der Weiber
-KochGrunberg-1914-821-187_menscarryingbaskettogetcocaleaves,men's carrying basket to get coca leaves,,,cesto de carga para homens coletarem folhas de coca,Tragbkorb der Männer um Coca-Blätter zu holen
-KochGrunberg-1914-821-188_hangingbasket,hanging basket,,,cesto para pendrar,Hangkörbchen
-KochGrunberg-1914-821-189_flatbasketformaniocbreadetc,flat basket for manioc bread etc.,,,cesto plano para beiju etc.,Flacher Korb für Mandiocafladen (Beijús) usw.
-KochGrunberg-1914-821-190_largeflatfinemaniocstrainer,large flat fine manioc strainer,,,"coador grande, plano e fino para mandioca","Großes, flaches, feines, Mandiocasieb"
-KochGrunberg-1914-821-191_largeflatcoarsermaniocstrainer,large flat coarser manioc strainer,,,"coador grande, plano e rústico para mandioca","Großes, flaches, gröberes Mandiocasieb"
-KochGrunberg-1914-821-192_flatcoarserbasketforstoringfruitsbulbsetc,"flat coarser basket for storing fruits, bulbs etc.",,,"cesto plano e rústico para armezenar frutas, bulbos etc.","Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw."
-KochGrunberg-1914-821-193_deepbasketforstoringfarinhamaniocflour,deep basket for storing farinha (manioc flour),,,cesto fundo para armazenar farinha de mandioca,Tiefer Korb zum Aufbewahren von Farinha (Mandiocamehl)
-KochGrunberg-1914-821-194_cylindermadeoftreebarkforstoringmaniocdough,cylinder made of tree bark for storing manioc dough,,,cilindro feito de casca de árvore para armezenar massa de mandioca,Zylinder aus Baumrinde zum Aufbewahren von Mandiocamasse
-KochGrunberg-1914-821-195_smallroundveryfinesievetosievecocapowder,small round very fine sieve to sieve coca powder,,,"peneira pequena, redonda e bem fina para pó de coca","Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben."
-KochGrunberg-1914-821-196_matforcoveringvessels,mat for covering vessels,,,tapete para cobrir os recipientes,Matte zum Zudecken von Gefäßen
-KochGrunberg-1914-821-197_braidedtubetipitiforsqueezingthemaniocdough,braided tube (tipiti) for squeezing the manioc dough,,,tubo transado (tipiti) para espremer a massa da mandioca,Geflochtener Schlauch (tipiti) zum Auspressen der Mandiocamasse
-KochGrunberg-1914-821-198_squaremenstucumcordbagforsmallitems,square men's tucum cord bag for small items,,,saco quadrado  masculino de cordão de tucum para itens pequenos,Viereckige Tasche der Männer aus Tucumschnüren für Kleinkram
-KochGrunberg-1914-821-199_knittingframetomanufacturethesebags,knitting frame to manufacture these bags,,,moldura de tricô para fazer esses sacos,Strickrahmen z. Verfertigen dieser Taschen
-KochGrunberg-1914-821-200_firefans,fire fans,,,abano,Feuerfächer
-KochGrunberg-1914-821-201_calabash,calabash,3918,CALABASH,cabaça,Kalabasse
-KochGrunberg-1914-821-202_bigcalabash,big calabash,,,cabaça grande,große Kalabasse
-KochGrunberg-1914-821-203_smallcalabashforscooping,small calabash for scooping,,,cabaça pequena para escavar,kleine Kalabasse zum Schöpfen
-KochGrunberg-1914-821-204_cookingpot,cooking pot,3653,COOKING POT,panela,Kochtopf
-KochGrunberg-1914-821-205_ironsaucepan,iron saucepan,,,panela de ferro,Eiserner Kochtopf
-KochGrunberg-1914-821-206_largekashiripot,large kashiri pot,,,jarro grande para caxiri,Großer Kaschiritopf
-KochGrunberg-1914-821-207_deepbowlinwhichyoucanfermentthemanioc,deep bowl in which you can ferment the manioc,,,tigela funda para fermentar a mandioca,"Tiefe Topfschale, in der man Mandiocamasse gären läßt"
-KochGrunberg-1914-821-208_largeflattersaucepanformanicueraboiledmaniocjuice,large flatter saucepan for manicuéra (boiled manioc juice),,,panela grande mais plana para manicuera,"Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)"
-KochGrunberg-1914-821-209_clayvesselforthedrink,clay vessel for the drink,,,recipiente de argila para bebidas,Tongefäß für das Getränk
-KochGrunberg-1914-821-210_waterpotwithtwohandles,water pot with two handles,,,jarro de água com duas alças,Wassertopf mit zwei Henkein
-KochGrunberg-1914-821-211_claybowl,clay bowl,2055,CLAY POT,tigela de argila,Tonschale
-KochGrunberg-1914-821-212_bowlforcoca,bowl for coca,,,tigela para coca,Schale für Coca
-KochGrunberg-1914-821-213_claybowlwithlegashandle,clay bowl with leg as handle,,,tigela de argila com uma asa de pé,Tonschale mit Fuß als Handgriff
-KochGrunberg-1914-821-214_clay,clay,1399,CLAY,argila,Töpferton
-KochGrunberg-1914-821-215_hourglassshapedframemadeofsticksforvessels,hourglass-shaped frame made of sticks for vessels,,,moldura com formato de ampulheta feita de gravetos para recipientes,Sanduhrförmiges Gestell aus Stäbchen für Gefäße
-KochGrunberg-1914-821-216_mortar,mortar,224,MORTAR,pilão,Mörser
-KochGrunberg-1914-821-217_pestle,pestle,225,PESTLE,socador (do pilão),Stössel
-KochGrunberg-1914-821-218_stovetop,stove top,,,"chapa, forno para beiju",Herdplatte
-KochGrunberg-1914-821-219_earthenware,earthenware,,,louça de barro,Tönerne
-KochGrunberg-1914-821-220_gridiron,gridiron,,,grelha,Bratrost
-KochGrunberg-1914-821-221_maniocgrater,manioc grater,,,"ralador de mandioca, ralo de mandioca",Mandiocareibebrett
-KochGrunberg-1914-821-222_woodencylinderinwhichcocaistapped,wooden cylinder in which coca is tapped,,,cilindro de madeira onde a coca é macerada,"Holzzylinder, in dem Coca geklopft wird"
-KochGrunberg-1914-821-223_cocahammer,coca hammer,,,martelo para coca,Cocaklopfer
-KochGrunberg-1914-821-224_raffiabagsforcoca,raffia bags for coca,,,sacos de ráfia para coca,Bastsäckchen für Coca
-KochGrunberg-1914-821-225_hollowbirdbonesforsuckingcoca,hollow bird bones for sucking coca,,,ossos ocos de ave para sugar coca,"Hohler Vogelknochen, um Coca zu saugen"
-KochGrunberg-1914-821-226_calabashwithlidasacocacontainer,calabash with lid as a coca container,,,cabaça com tampa para ser um conteiner de coca,Kalabasse mit Deckel als Cocabehälter
-KochGrunberg-1914-821-227_woodenlidforthiscalabash,wooden lid for this calabash,,,tampa de madeira para essa cabaça,Holzdeckel zu dieser Kalabasse
-KochGrunberg-1914-821-228_bonespoonusedtotakecoca,bone spoon used to take coca,,,colher de osso para pegar coca,"Knochenlöffel, mit dem Coca genommen wird"
-KochGrunberg-1914-821-229_axe,axe,677,AXE,machado,Beil
-KochGrunberg-1914-821-230_stoneaxe,stone axe,,,machado de pedra,Steinbeil
-KochGrunberg-1914-821-231_knife,knife,1352,KNIFE,faca,Messer
-KochGrunberg-1914-821-232_forestknife,forest knife,,,faca de sobrevivência,Waldmesser
-KochGrunberg-1914-821-233_canoe,canoe,1970,CANOE,canoa,Einbaum
-KochGrunberg-1914-821-234_rudder,rudder,108,RUDDER,leme,Ruder
-KochGrunberg-1914-821-235_gridontheboatforprotectionagainstbackflow,grid on the boat for protection against backflow,,,grade de rede no barco para proteção contra o refluxo,Lattengitter im Boot Schutzgegen das Kielwasser
-KochGrunberg-1914-821-236_suncanopytoldaovertheboat,sun canopy (tolda) over the boat,,,tolda do barco,Sonnendach (tolda) über dem Boot
-KochGrunberg-1914-821-237_bow,bow,994,BOW,arco,Bogen
-KochGrunberg-1914-821-238_bowstring,bowstring,2119,BOW STRING,corda do arco,Bogensehne
-KochGrunberg-1914-821-239_arrow,arrow,977,ARROW,flecha,Pfeil
-KochGrunberg-1914-821-240_largepoisonedarrowsforhighhunting,large poisoned arrows for high hunting,,,flechas grandes envenedadas para caçar,Große vergiftete Pfeile für Hochjagd
-KochGrunberg-1914-821-241_caseforthetipsofthesepoisonarrows,case for the tips of these poison arrows,,,estojo para as pontas dessas flechas envenenadas,Futteral für die Spitzen dieser Giftpfeile
-KochGrunberg-1914-821-242_fisharrowwithdoubleironpoint,fish arrow with double iron point,,,flecha para peixe com ponta dupla de ferro,Fischpfeil mit doppelter Eisenspitze
-KochGrunberg-1914-821-243_harpoonarrow,harpoon arrow,,,flecha de arpão,Harpunenpfeil
-KochGrunberg-1914-821-244_ironharpoonofthisarrow,iron harpoon of this arrow,,,arpão de ferro dessa flecha,Eiserne Harpune dieses Pfeils
-KochGrunberg-1914-821-245_tipoftheharpoon,tip of the harpoon,,,ponta do arpão,Spitze der Harpune
-KochGrunberg-1914-821-246_barbofthetip,barb of the tip,,,farpa da ponta,Widerhaken der Spitze
-KochGrunberg-1914-821-247_wraparoundthetop,wrap around the top,,,invólucro envolta da ponta,Umwicklung der Spitze
-KochGrunberg-1914-821-248_woodenstickintowhichtheharpoonisinserted,wooden stick into which the harpoon is inserted,,,graveto de madeira onde o arpão é inserido,"Holzastab, in den die Harpune gestecket wird"
-KochGrunberg-1914-821-249_pipeshaftoftheharpoonarrow,pipe shaft of the harpoon arrow,,,tubo da flecha do arpão,Rohrschaft des Harpunenpfeils
-KochGrunberg-1914-821-250_handendofthetubularshaft,hand end of the tubular shaft,,,final do tubo,Handende des Rohrschaftes
-KochGrunberg-1914-821-251_harpoonstring,harpoon string,,,corda do arpão,Schnur der Harpune
-KochGrunberg-1914-821-252_pitchresin,pitch (resin),,,piche,Pech
-KochGrunberg-1914-821-253_club,club,1763,CLUB,clava,Keule
-KochGrunberg-1914-821-254_stringoftheclub,string of the club,,,corda da clava,Schnur der Keule
-KochGrunberg-1914-821-255_blowgun,blowgun,432,BLOWGUN,zarabatana,Blasrohr
-KochGrunberg-1914-821-256_blowgunarrow,blowgun arrow,,,flecha para zarabatana,Blasrohrpfeilchen
-KochGrunberg-1914-821-257_mouthpieceoftheblowgun,mouthpiece of the blowgun,,,bocal da zarabatana,Mundstück des Blasrohres
-KochGrunberg-1914-821-258_quiverforthepoisonarrows,quiver for the poison arrows,,,aljava de flechas envenenadas,Köcher für die Giftpfeilchen
-KochGrunberg-1914-821-259_poisonfordart,poison for dart,,,veneno para o dardo,Pfeilgift
-KochGrunberg-1914-821-260_treesilksamaumatowraparroundtheblowgundarts,tree silk (samaúma) to wrap arround the blowgun darts,,,tecido de samaúma para enrolar os dardos da zarabatana,Baumseide (Samaúma) zum Umwickeln der Blasrohrpfeilchen
-KochGrunberg-1914-821-261_poisonlancespear,poison lance (spear),,,lança envenenada,Giftlanze
-KochGrunberg-1914-821-262_caseforthetipsofthepoisonlancesspears,case for the tips of the poison lances (spears),,,caixa para as pontas envenenadas das lanças,Futteral für die Spitzen der Giftlanzen
-KochGrunberg-1914-821-263_pointofthepoisonlancespear,point of the poison lance (spear),,,ponta da lança envenenada,Spitze der Giftlanze
-KochGrunberg-1914-821-264_shield,shield,1064,SHIELD,escudo,Schild
-KochGrunberg-1914-821-265_warshield,war shield,,,escudo de guerra,Kriegsschild
-KochGrunberg-1914-821-266_fishnet,fishnet,388,FISHNET,rede de pesca,Fischnetz
-KochGrunberg-1914-821-267_bigtrap,big trap,,,armadilha grande,Große Reuse
-KochGrunberg-1914-821-268_smalltrap,small trap,,,armadilha pequena,Kleine Reuse
-KochGrunberg-1914-821-269_fishtrap,fish trap,389,FISH TRAP,armadilha para peixe,Fischfalle
-KochGrunberg-1914-821-270_fishingrod,fishing rod,,,vara de pesca,Angel
-KochGrunberg-1914-821-271_fishingline,fishing line,19,FISHING LINE,linha de pesca,Angelschnur
-KochGrunberg-1914-821-272_gun,gun,1566,GUN,arma de fogo,Gewehr
-KochGrunberg-1914-821-273_gunpowder,gunpowder,1798,GUNPOWDER,pólvora,Pulver
-KochGrunberg-1914-821-274_shot,shot,,,tiro,Schrot
-KochGrunberg-1914-821-275_hipcord,hip cord,,,cordão da cintura,Hüftschnur
-KochGrunberg-1914-821-276_mansloincloth,man's loincloth,,,tanga masculina,Schambinde des Mannes
-KochGrunberg-1914-821-277_womansloincloth,woman's loincloth,,,tanga feminina,Schamschurz der Frau
-KochGrunberg-1914-821-278_wideraffiabeltmenscostume,wide raffia belt (men's costume),,,cinto largo de ráfia (traje masculino),Breiter Bastgürtel (Tracht der Männer)
-KochGrunberg-1914-821-279_braceletsmadeofraffiamenscostume,bracelets made of raffia (men's costume),,,braceletes feitos de ráfia (traje masculino),Armbänder aus Bast (Tracht der Männer)
-KochGrunberg-1914-821-280_softerstripsofraffiatotiebeltsandbracelets,softer strips of raffia to tie belts and bracelets,,,pedaços mais maleáveis de ráfia para amarrar cintos e braceletes,"Weichere Baststreifen, um Gürtel und Armbänder festzubinden"
-KochGrunberg-1914-821-281_malebraid,male braid,,,trança masculina,Männerzopf
-KochGrunberg-1914-821-282_raffiawraparoundthebraid,raffia wrap around the braid,,,ráfia enrolada em torno da trança,Bastumwicklung des Zopfes
-KochGrunberg-1914-821-283_mirror,mirror,1171,MIRROR,espelho,Spiegel
-KochGrunberg-1914-821-284_needleforsewing,needle (for sewing),1382,NEEDLE (FOR SEWING),agulha,Nadel
-KochGrunberg-1914-821-285_earring,earring,770,EARRING,brinco,Ohrring
-KochGrunberg-1914-821-286_pearl,pearl,3325,PEARL,pérola,Perlen
-KochGrunberg-1914-821-287_boxorchest,box or chest,3150,BOX OR CHEST,caixa ou baú,Koffer
-KochGrunberg-1914-821-288_comb,comb,1475,COMB,pente,Kamm
-KochGrunberg-1914-821-289_fineheadfeathersgalajewelerylinguageralkangataramahapoalimacawfeathers,"fine head feathers, gala jewelery (língua geral: kangatára) mahápoali (macaw feathers)",,,"cocar, indumentária (língua geral: kangatára) mahápoali (Ararafedern)","Feine Kopffederbinde, Galaschmuck (lingoa geral: kangatára) mahápoali (Ararafedern)"
-KochGrunberg-1914-821-290_headdressmadeoftoucanfeathersinstrawheadband,headdress made of toucan feathers in straw headband,,,cocar feito com penas de tucano em uma faixa de palha para a cabeça,Kopfputz aus Tukanfederchen in Strohreif
-KochGrunberg-1914-821-291_strawheadbandforthisjewelry,straw headband for this jewelry,,,faixa de palha para a cabeça dessa joia,Strohreif zu diesem Schmuck
-KochGrunberg-1914-821-292_dancedevicethatrepresentsafishtrapandiswornonthebraid,dance device that represents a fish trap and is worn on the braid,,,dispositivo de dança que representa uma armadilha de peixe e é usado na trança,"Tanzgerät, das eine Fischreuse darstellt und am Zopf getragen wird"
-KochGrunberg-1914-821-293_macawtailfeatherthatiswornonthisdancedevice,macaw tail feather that is worn on this dance device,,,pena da cauda da arara que é usada nesse dispositivo de dança,"Araraschwanzfeder, die an diesem Tanzgerät getragen wird"
-KochGrunberg-1914-821-294_longnosepiercingmadeofsmoothedpalmwood,long nose piercing made of smoothed palm wood,,,piercing de nariz longo feito de madeira de palmeira polida,Langer Nasenstab aus geglättetem Palmholz
-KochGrunberg-1914-821-295_carvedtucumafruitpeelbracelet,carved tucumá fruit peel bracelet,,,bracelete curvado de pele da fruta tucumá,Armband aus geschnitzten Tucumáfruchtschalen
-KochGrunberg-1914-821-296_kneebandwovenfromcurauafibers,knee band woven from curauá fibers,,,faixa para o joelho de fibra de tucumá,Kniebänder aus Curauáfasern gewebt
-KochGrunberg-1914-821-297_quartzcylindermensbreastjewelry,"quartz cylinder, men's breast jewelry",,,"cilindro de quartzo, jóia maculina para os peitos","Quarzzylinder, Brustschmuck der Männer"
-KochGrunberg-1914-821-298_blackseedsthatarealwaysassociatedwiththisquartzjewelry,black seeds that are always associated with this quartz jewelry,,,sementes pretas que são sempre associadas a esse cilindro de quartzo,"Schwarze Samen, die stets mit diesem Quarzschmuck verbunden sind"
-KochGrunberg-1914-821-299_necklacemadefromblackcocoons,necklace made from black cocoons,,,colar feito de casulos pretos,Halskette aus schwarzen Cocons
-KochGrunberg-1914-821-300_necklacemadefromgraygrassseedsstamariacapim,necklace made from gray grass seeds (Sta. Maria Capim),,,colar feito de sementes de erva-de-santa-maria,Halskette aus grauen Grassamen (Sta. Maria Capim)
-KochGrunberg-1914-821-301_cerimonialmasksuit,cerimonial mask suit,,,traje com máscara para cerimônias,Tanzmaskenanzug
-KochGrunberg-1914-821-302_raffiajacketofthemasksuit,raffia jacket of the mask suit,,,jaqueta de ráfia para o traje com máscara,Bastjacke des Maskenanzuges
-KochGrunberg-1914-821-303_raffiahangingofthemasksuit,raffia hanging of the mask suit,,,fios de ráfia pendentes do traje,Bastbehang des Maskenanzuges
-KochGrunberg-1914-821-304_facecovermadeofraffia,face cover made of raffia,,,cobertura para o resto feito de ráfia,Gesichtsüberzug aus Bast
-KochGrunberg-1914-821-305_woodenheadpieceofthemasksuit,wooden headpiece of the mask suit,,,chapéu de madeira do taje,Hölzerner Kopfaufsatz des Maskenanzuges
-KochGrunberg-1914-821-306_earsonthisheadpiece,ears on this headpiece,,,orelhas nesse chapéu,Ohren an diesem Kopfaufsatz
-KochGrunberg-1914-821-307_whitedownfeathersonthoseears,white down feathers on those ears,,,penas brancas nessas orelhas,Weiße Flaumfedern an diesen Ohren
-KochGrunberg-1914-821-308_edgepaintingoftheheadpiece,edge painting of the headpiece,,,pintura nos cantos desse chapéu,Randbemalung des Kofaufsatzes
-KochGrunberg-1914-821-309_braidofthemasksuit,braid of the mask suit,,,trança da máscara do taje,Zopf des Maskenanzuges
-KochGrunberg-1914-821-310_dancerattlepumpkinrattle,dance rattle (pumpkin rattle),,,chocalho de dança (chocalho de abóbora),Tanzrassel (Kürbisrassel)
-KochGrunberg-1914-821-311_dancerattlesfromhalvedfruitpodswhicharewornaroundtheankle,"dance rattles from halved fruit pods, which are worn around the ankle",,,"chocalhos de dança de cascas de fruta cortadas ao meio, os quais são usados em torno do tornozelo","Tanzklappern aus halbierten Fruchtschalen, die um den Fußköchel getragen werden"
-KochGrunberg-1914-821-312_dancepolemadeofhollowedambauvawood,dance pole made of hollowed ambaúva wood,,,poste de dança feito de madeira oca de Ambaúva,Tanzstab aus ausgehöhltem Ambaúvaholz
-KochGrunberg-1914-821-313_handleofthedancerattle,handle of the dance rattle,,,cabo do chocalho de dança,Stiel der Tanzrassel
-KochGrunberg-1914-821-314_slotofthedancerattle,slot of the dance rattle,,,buraco do chocalho de dança,Schlitz der Tanzrassel
-KochGrunberg-1914-821-315_incisedpatternonthedancerattle,incised pattern on the dance rattle,,,padrão entalhado no chocalho de dança,Ritzmuster auf der Tanzrassel
-KochGrunberg-1914-821-316_ordinaryflutemadeofpipe,ordinary flute made of pipe,,,flauta comum feita de tubo,Gewöhnliche Flötenpfeife aus Rohr
-KochGrunberg-1914-821-317_panpipe,panpipe,,,flauta de pã,Panpeife
-KochGrunberg-1914-821-318_woodenhorn,wooden horn,,,corneta de madeira,Hölzerne Signaltute
-KochGrunberg-1914-821-319_signalhornmadeoutofclay,signal horn made out of clay,,,corneta feita de argila,Signaltute aus Ton
-KochGrunberg-1914-821-320_bigsignaldrum,big signal drum,,,tambor grande de sinal,Große Signaltrommel
-KochGrunberg-1914-821-321_danceincirclessinging,"dance (in circles), singing",,,"dança (em círculos), cantando","Rundtanz, Gesang"
-KochGrunberg-1914-821-322_yuruparydancefestival,Yuruparý dance festival,,,vestival de dança Jurupari,Yuruparý-Tanzfest
-KochGrunberg-1914-821-323_letsdance,let's dance!,,,vamos dançar!,laßt uns tanzen!
-KochGrunberg-1914-821-324_yuruparywhip,yuruparý whip,,,chicote Jurupari,Yuruparý-Peitsche
-KochGrunberg-1914-821-325_smallflutepipe,small flute pipe,,,flauta de pã pequena,Kleine Flötenpfeife
-KochGrunberg-1914-821-326_largerflutepipe,larger flute pipe,,,flauta de pã maior,Größere Flötenpfeife
-KochGrunberg-1914-821-327_bigflutepipe,big flute pipe,,,flauta de pã grande,Große Flötenpfeife
-KochGrunberg-1914-821-328_verylargeflutepipe,very large flute pipe,,,flauta de pã muito grande,Sehr große Flötenpfeife
-KochGrunberg-1914-821-329_coneshapedinstrumentthatisquottootedquotlikeahorn,cone-shaped instrument that is &quot;tooted&quot; (like a horn),,,instrumento musical em forma de cone,Tute
-KochGrunberg-1914-821-330_bigconeshapedinstrumentthatisquottootedquotlikeahorn,big cone-shaped instrument that is &quot;tooted&quot; (like a horn),,,instrumento musical em forma de cone grande,Große Tute
-KochGrunberg-1914-821-331_kasiri,kasiri,,,caxiri,Kaschiri
-KochGrunberg-1914-821-332_manicuerasweetboiledmandiocajuice,manicuéra (sweet boiled mandioca juice),,,manicuera,"Manicuéra (süßer, abgekochter Mandiocasaft)"
-KochGrunberg-1914-821-333_cachacarum,cachaça (rum),,,cachaça,Cachaça (Rum)
-KochGrunberg-1914-821-334_coca,coca,137,COCA,coca,Coca
-KochGrunberg-1914-821-335_ashfromambauvaleavesasanadditivetococa,ash from ambaúva leaves as an additive to coca,,,cinzas das folhas de ambuava como um aditivo à coca,Asche aus Ambaúvablättern als Zusatz zu Coca
-KochGrunberg-1914-821-336_roundpolishedcalabashforcocaonlywornduringfestivities,round polished calabash for coca (only worn during festivities),,,cabaça esférica e polida para coca (apenas usadas nos festivais),"Kugelige, polierte Kalabasse für Coca (nur bei Festlichkeiten getragen)"
-KochGrunberg-1914-821-337_hollowheronbonestothisdevice,hollow heron bones to this device,,,ossos ocos de garça desse dispositivo,Hohler Reiherknochen zu diesem Gerät
-KochGrunberg-1914-821-338_waxsticksmadefrominambufeathersthataredippedinbeeswaxandthenbenttogether,wax sticks made from inambú feathers that are dipped in beeswax and then bent together,,,"paus de cera feitos de penas de inambu, as quais são mergulhadas em cera de abelha e coladas juntas","Wachsstöcke aus Inambúfedern, die in Bienenwachs getaucht und dann zusammengebogen werden"
-KochGrunberg-1914-821-339_human,human,683,PERSON,humano,Mensch
-KochGrunberg-1914-821-340_people,people,789,PEOPLE,pessoas,Leute
-KochGrunberg-1914-821-341_man,man,1554,MAN,homem,Mann
-KochGrunberg-1914-821-342_husband,husband,1200,HUSBAND,marido,Ehemann
-KochGrunberg-1914-821-343_father,father,1217,FATHER,pai,Vater
-KochGrunberg-1914-821-344_daddy,daddy,,,papai,Papa
-KochGrunberg-1914-821-345_mother,mother,1216,MOTHER,mãe,Mutter
-KochGrunberg-1914-821-346_mummy,mummy,,,mamãe,Mama
-KochGrunberg-1914-821-347_fatherinlaw,father-in-law,1055,FATHER-IN-LAW,sogro,Schwievatter
-KochGrunberg-1914-821-348_motherinlaw,mother-in-law,1050,MOTHER-IN-LAW,sogra,Schwiegermutter
-KochGrunberg-1914-821-349_child,child,1304,CHILD (YOUNG HUMAN),criança,Kind
-KochGrunberg-1914-821-350_infant,infant,1289,BABY,bebê,Säugling
-KochGrunberg-1914-821-351_myson,my son,,,meu filho,mein Sohn
-KochGrunberg-1914-821-352_grandson,grandson,1618,GRANDSON,neto,Enkel
-KochGrunberg-1914-821-353_boy,boy,1366,BOY,menino,Knabe
-KochGrunberg-1914-821-354_youngman,young man,76,YOUNG MAN,homem jovem,Jüngling
-KochGrunberg-1914-821-355_brother,brother,1262,BROTHER,irmão,Bruder
-KochGrunberg-1914-821-356_olderbrother,older brother,1759,OLDER BROTHER,irmão mais velho,älterer Bruder
-KochGrunberg-1914-821-357_youngerbrother,younger brother,1760,YOUNGER BROTHER,irmão mais novo,jüngerer Bruder
-KochGrunberg-1914-821-358_brotherinlaw,brother in law,2314,BROTHER-IN-LAW,cunhado,Schwager
-KochGrunberg-1914-821-359_sister,sister,1263,SISTER,irmã,Schwester
-KochGrunberg-1914-821-360_oldersister,older sister,1758,OLDER SISTER,irmã mais velha,ältere Schwester
-KochGrunberg-1914-821-361_youngersister,younger sister,1761,YOUNGER SISTER,irmã mais nova,jüngere Schwester
-KochGrunberg-1914-821-362_sisterinlaw,sister in law,2317,SISTER-IN-LAW,cunhada,Schwägerin
-KochGrunberg-1914-821-363_woman,woman,962,WOMAN,mulher,Weib
-KochGrunberg-1914-821-364_wife,wife,1199,WIFE,esposa,Gattin
-KochGrunberg-1914-821-365_hiswife,his wife,,,esposa dele,seine Gattin
-KochGrunberg-1914-821-366_girl,girl,1646,GIRL,menina,Mädchen
-KochGrunberg-1914-821-367_daughter,daughter,1357,DAUGHTER,filha,Tochter
-KochGrunberg-1914-821-368_granddaughter,granddaughter,1619,GRANDDAUGHTER,neta,Enkelin
-KochGrunberg-1914-821-369_widow,widow,1756,WIDOW,viúva,Witwe
-KochGrunberg-1914-821-370_uncle,uncle,1327,UNCLE,tio,Oheim
-KochGrunberg-1914-821-371_aunt,aunt,1272,AUNT,tia,Tante
-KochGrunberg-1914-821-372_malecousin,male cousin,3822,MALE COUSIN,primo,Vetter
-KochGrunberg-1914-821-373_femalecousin,female cousin,3823,FEMALE COUSIN,prima,Base
-KochGrunberg-1914-821-374_oldman,old man,406,OLD MAN,velho,Greis
-KochGrunberg-1914-821-375_oldwoman,old woman,907,OLD WOMAN,velha,Greisin
-KochGrunberg-1914-821-376_grandfather,grandfather,1383,GRANDFATHER,avô,Großvater
-KochGrunberg-1914-821-377_grandmother,grandmother,1496,GRANDMOTHER,avó,Großmutter
-KochGrunberg-1914-821-378_chief,chief,301,CHIEFTAIN,chefe,Häuptling
-KochGrunberg-1914-821-379_whiteman,white man,2839,WHITE MAN,homem branco,Weißer
-KochGrunberg-1914-821-380_magician,magician,2137,MAGICIAN,mago,Zauberarzt
-KochGrunberg-1914-821-381_drug,drug,1372,MEDICINE,droga,Arzneimittel
-KochGrunberg-1914-821-382_poisonusedtotreatillnesses,poison used to treat illnesses,,,veneno usado para tratar doenças,Krankheitsgift
-KochGrunberg-1914-821-383_fever,fever,1534,FEVER,febre,Fieber
-KochGrunberg-1914-821-384_diarrhea,diarrhea,1177,DIARRHEA,diarreia,Dysenterie
-KochGrunberg-1914-821-385_tobacco,tobacco,974,TOBACCO,tabaco,Tabak
-KochGrunberg-1914-821-386_tobaccoleaf,tobacco leaf,,,folha de tabaco,Tabakblatt
-KochGrunberg-1914-821-387_bigcigar,big cigar,,,charuto grande,Große Zigarre
-KochGrunberg-1914-821-388_cigarfork,cigar fork,,,forquilha para cigarro,Zigarrengabel
-KochGrunberg-1914-821-389_snufftobacco,snuff tobacco,,,rapé,Schnupftabak
-KochGrunberg-1914-821-390_devicetosnifftobacco,device to sniff tobacco,,,inalador de rapé,Schnupfapparat
-KochGrunberg-1914-821-391_boxforsnufftobacco,box for snuff tobacco,,,caixa de rapé,Schnupftabakdose
-KochGrunberg-1914-821-392_largesnailshellthatisusedasaboxforsnufftobacco,large snail shell that is used as a box for snuff tobacco,,,concha grande de caracol usada como uma caixa de rapé,"Große Schneckenschale, die als Schnupftabakdose verwendet wird"
-KochGrunberg-1914-821-393_woundscratchestriangularcalabashshardstuddedwithteethofthetrahirafish,"wound scratches (triangular calabash shard, studded with teeth of the trahíra fish)",,,feridas (fragmento triangular de cabaça),"Wundkratzer (dreieckige Kalabassenscherbe, mit Zähnchen d.Trahíra-Fisches besetzt)"
-KochGrunberg-1914-821-394_deity,deity,3231,DEITY,deidade,Gott
-KochGrunberg-1914-821-395_ghostdemon,"ghost, demon",,,"fantasma, demônio ","Gespenst, Dämon "
-KochGrunberg-1914-821-396_forestspiritlinguageralkurupira,forest spirit (língua geral: kurupira),,,espírito da floresta (língua geral: kurupira),Waldgeist (lingoa geral: kurupira)
-KochGrunberg-1914-821-397_soul,soul,811,SOUL,alma,Seele
-KochGrunberg-1914-821-398_language,language,1307,LANGUAGE,língua (idioma),Sprache
-KochGrunberg-1914-821-399_capuchinmonkey,capuchin monkey,439,CEBUS MONKEY,macaco-prego,Affe (Macaco prego)
-KochGrunberg-1914-821-400_howlermonkey,howler monkey,433,HOWLER MONKEY,bugio,Brüllaffe
-KochGrunberg-1914-821-401_uacarimonkey,uacari monkey,,,uacari,Uacarí-Affe
-KochGrunberg-1914-821-402_oayapisamonkey,oayapisá monkey,,,macaco uaiapuçá (japuçá/uapuçá),Oayapisá-Affe
-KochGrunberg-1914-821-403_yuruparymonkey,yuruparý monkey,,,macaco jurupari,Yuruparý-Affe
-KochGrunberg-1914-821-404_caiararamonkey,caiarára monkey,,,baiarara,Caiarára-Affe
-KochGrunberg-1914-821-405_barrigudomonkey,barrigudo monkey,,,macaco barrigudo,Barrigudo-Affe
-KochGrunberg-1914-821-406_macaquinho,macaquinho,,,macaquinho,Macaquinho
-KochGrunberg-1914-821-407_bat,bat,1793,BAT,morcego,Fledermaus
-KochGrunberg-1914-821-408_smallbat,small bat,,,morcego pequeno,Kleine Fledermaus
-KochGrunberg-1914-821-409_opossum,opossum,309,OPOSSUM,mucura (saruê),Micura
-KochGrunberg-1914-821-410_colorfuljaguar,colorful jaguar,1250,JAGUAR,onça pintada,"Jaguar, bunter"
-KochGrunberg-1914-821-411_blackjaguar,black jaguar,,,onça preta,"Jaguar, schwarzer"
-KochGrunberg-1914-821-412_puma,puma,1891,PUMA,"suçuarana, onça-parda",Puma
-KochGrunberg-1914-821-413_maracaja,maracajá,,,gato-maracajá,Maracajá
-KochGrunberg-1914-821-414_deer,deer,1936,DEER,veado,Hirsch
-KochGrunberg-1914-821-415_reddeer,red deer,3983,RED DEER,veado-vermelho,Hirsch (Rothirsch)
-KochGrunberg-1914-821-416_otter,otter,15,OTTER,lontra,Fischotter
-KochGrunberg-1914-821-417_tapir,tapir,312,TAPIR,anta,Tapir
-KochGrunberg-1914-821-418_capybara,capybara,314,CAPYBARA,capivara,Capivara
-KochGrunberg-1914-821-419_paca,paca,316,PACA,paca,Paca
-KochGrunberg-1914-821-420_aguti,agutí,,,cutia,Agutí
-KochGrunberg-1914-821-421_agutiuaya,agutiuaya,,,cutiara,Agutiuaya
-KochGrunberg-1914-821-422_coaticoatimundi,coati (coatimundi),2389,COATI (COATIMUNDI),quati,Cuatí
-KochGrunberg-1914-821-423_cuatipuru,cuatipurú,,,quatipuru (tipo de esquilo),Cuatipurú
-KochGrunberg-1914-821-424_smallcuatipuru,small cuatipurú,,,quatipuru pequeno,Kleines Cuatipurú
-KochGrunberg-1914-821-425_muroidmouseorrat,muroid (mouse or rat),2139,MUROID (MOUSE OR RAT),"rato, camundongo","Ratte, Maus"
-KochGrunberg-1914-821-426_mouse,mouse,1491,MOUSE,camundongo,Maus
-KochGrunberg-1914-821-427_armadillo,armadillo,1885,ARMADILLO,tatu,Gürteltier
-KochGrunberg-1914-821-428_giantarmadillo,giant armadillo,,,tatu grande,Riesengürteltiers
-KochGrunberg-1914-821-429_armadilloshell,armadillo shell,,,casco de tatu,Schale des Gürteltiers
-KochGrunberg-1914-821-430_sloth,sloth,2446,SLOTH,bicho-preguiça,Faultier
-KochGrunberg-1914-821-431_giantanteater,giant anteater,,,tamanduá bandeira,Großer Ameisenbär
-KochGrunberg-1914-821-432_smallanteater,small anteater,,,tamanduá mirim,Kleiner Ameisenbär
-KochGrunberg-1914-821-433_taitetupig,taitetú pig,,,caititu,Taitetú-Schwein
-KochGrunberg-1914-821-434_taiasupig,taiasu pig,,,queixada,Taiasú-Schwein
-KochGrunberg-1914-821-435_pigteeth,pig teeth,,,dente de porco,Schweinszähne
-KochGrunberg-1914-821-436_europeanpig,european pig,1337,PIG,porco europeu,"Schwein, europaisches"
-KochGrunberg-1914-821-437_dog,dog,2009,DOG,cão,Hund
-KochGrunberg-1914-821-438_cat,cat,1208,CAT,gato,Katze
-KochGrunberg-1914-821-439_manatee,manatee,,,peixe-boi,Manatí
-KochGrunberg-1914-821-440_dolphin,dolphin,1479,DOLPHIN,golfinho,Delphin
-KochGrunberg-1914-821-441_smallbirdpassarinho,small bird (=passarinho),,,passarinho,Vogel (=passarinho)
-KochGrunberg-1914-821-442_egg,egg,744,EGG,ovo,Ei
-KochGrunberg-1914-821-443_redmacaw,red macaw,,,arara vermelha,"Arara, rot"
-KochGrunberg-1914-821-444_bluemacaw,blue macaw,,,arara azul,"Arara, blau"
-KochGrunberg-1914-821-445_periquito,periquito,,,periquito,Periquito
-KochGrunberg-1914-821-446_parrot,parrot,882,PARROT,papagaio,Papagei
-KochGrunberg-1914-821-447_anaca,anacã,,,anacã,Anacã
-KochGrunberg-1914-821-448_curassow,curassow,315,CURASSOW,mutum,Mutum
-KochGrunberg-1914-821-449_nocturnalcurassow,nocturnal curassow,,,urumutum,Urumutum
-KochGrunberg-1914-821-450_guan,guan,437,GUAN,jacu,Jacú
-KochGrunberg-1914-821-451_redthroatedpipingguan,red-throated piping guan,,,cujubi,Cujubim
-KochGrunberg-1914-821-452_darkwingedtrumpeter,dark-winged trumpeter,,,jacamim,Jacamý
-KochGrunberg-1914-821-453_greenibis,green ibis,,,coró-coró,Corocoró
-KochGrunberg-1914-821-454_bigtinamou,big tinamou,,,inambu grande,Großes Inambú
-KochGrunberg-1914-821-455_smalltinamou,small tinamou,,,inambu pequeno,Kleines Inambú
-KochGrunberg-1914-821-456_dove,dove,1853,DOVE,pombo,Taube
-KochGrunberg-1914-821-457_toucan,toucan,308,TOUCAN,tucano,Tucáno
-KochGrunberg-1914-821-458_oropendola,oropendola,,,japu,Yapú
-KochGrunberg-1914-821-459_yellowrumpedcacique,yellow-rumped cacique,,,japiim,Japeim
-KochGrunberg-1914-821-460_woodpeckerarapaso,woodpecker (arapaso),,,arapaçu,Specht (Arapaso)
-KochGrunberg-1914-821-461_thunderbirdsp,thunder (bird sp.),,,trovão (espécie de ave),Trovão
-KochGrunberg-1914-821-462_taiasuira,taiasuirá,,,taiasuirá,Taiasuirá
-KochGrunberg-1914-821-463_aracua,aracuã,,,aracuã,Aracuã
-KochGrunberg-1914-821-464_anacoro,anacoró,,,anacoró,Anacoró
-KochGrunberg-1914-821-465_swallowbird,swallow (bird),3077,SWALLOW (BIRD),andorinha,Andurĩ
-KochGrunberg-1914-821-466_smallwhiteswallow,small white swallow,,,andorinha branca pequena,Kleine weiße Schwalbe
-KochGrunberg-1914-821-467_nightjar,nightjar,,,noitibó,Nachtschwalbe
-KochGrunberg-1914-821-468_urataui,uratauí,,,uratau,Uratauí
-KochGrunberg-1914-821-469_hummingbird,hummingbird,1589,HUMMINGBIRD,beija-flor,Kolibri
-KochGrunberg-1914-821-470_birdsp,bird (sp.),,,pássaro (sp.),Vogel (spec.)
-KochGrunberg-1914-821-471_roosterorchicken,rooster or chicken,1318,CHICKEN,"galo, frango","Hahn, Huhn"
-KochGrunberg-1914-821-472_duck,duck,1360,DUCK,pato,Ente
-KochGrunberg-1914-821-473_smallcolorfulduck,small colorful duck,,,pato pequeno colorido,Kleine bunte Ente
-KochGrunberg-1914-821-474_martimpescadortypeofkingfisher,martim pescador (type of kingfisher),,,martim pescador,Martim pescador (Art Eisvogel)
-KochGrunberg-1914-821-475_carara,carará,,,carará,Carará
-KochGrunberg-1914-821-476_mergulhao,mergulhão,,,mergulhão,Mergulhão
-KochGrunberg-1914-821-477_smallgull,small gull,,,gaivota-pequena,Kleine Möve
-KochGrunberg-1914-821-478_saracuratypeofcoot,saracúra (type of coot),,,saracura,Saracúra (Art Wasserhuhn)
-KochGrunberg-1914-821-479_soco,socó,,,socó,Socó
-KochGrunberg-1914-821-480_whiteheron,white heron,,,garça-branca,Weißer Reiher
-KochGrunberg-1914-821-481_yaburu,yaburú,,,jaburu,Yaburú
-KochGrunberg-1914-821-482_maguary,maguarý,,,maguari,Maguarý
-KochGrunberg-1914-821-483_tuyuyu,tuyuyú,,,tuiuiú,Tuyuyú
-KochGrunberg-1914-821-484_vulture,vulture,1185,VULTURE,urubu,Urubú
-KochGrunberg-1914-821-485_bighawk,big hawk,,,gavião grande,Großer Gavião
-KochGrunberg-1914-821-486_hawk,hawk,307,HAWK,gavião,Habicht
-KochGrunberg-1914-821-487_cancao,cancão,,,cancão,Cancão
-KochGrunberg-1914-821-488_bigowl,big owl,,,coruja grande,Große Eule
-KochGrunberg-1914-821-489_smallowl,small owl,,,corujinha,Kleine Eule
-KochGrunberg-1914-821-490_lungofbird,lung (of bird),,,pulmão (de ave),Lunge
-KochGrunberg-1914-821-491_liverofbird,liver (of bird),,,fígado (de ave),Leber
-KochGrunberg-1914-821-492_heartofbird,heart (of bird),,,coração (de ave),Herz
-KochGrunberg-1914-821-493_stomachofbird,stomach (of bird),,,estômago (de ave),Magen
-KochGrunberg-1914-821-494_wattle,wattle,,,barbela de ave,Kehllappen
-KochGrunberg-1914-821-495_fish,fish,227,FISH,peixe,Fisch
-KochGrunberg-1914-821-496_scale,scale,266,SCALE,escamas,Schuppen
-KochGrunberg-1914-821-497_fishbone,fishbone,3799,FISHBONE,espinha de peixe,Gräten
-KochGrunberg-1914-821-498_stingray,stingray,1910,STINGRAY,arraia,Rochen
-KochGrunberg-1914-821-499_sorubim,sorubim,,,sorubim,Sorubim
-KochGrunberg-1914-821-500_piranha,piranha,317,PIRANHA,piranha,Piranha
-KochGrunberg-1914-821-501_electriceel,electric eel,2443,ELECTRIC EEL,enguia elétrica,Zitteraal
-KochGrunberg-1914-821-502_pirarara,pirarára,,,piraraba,Pirarára
-KochGrunberg-1914-821-503_pirahiba,pirahíba,,,piraíba,Pirahíba
-KochGrunberg-1914-821-504_tucunare,tucunaré,,,tucunaré,Tucunaré
-KochGrunberg-1914-821-505_pacu,pacu,3922,PACU,pacu,Pacú
-KochGrunberg-1914-821-506_aracu,aracú,,,aracu,Aracú
-KochGrunberg-1914-821-507_acara,acará,,,acará,Acará
-KochGrunberg-1914-821-508_trahira,trahira,,,traíra,Trahira
-KochGrunberg-1914-821-509_yataiuarana,yataiuarana,,,jatuarana,Yataiuarana
-KochGrunberg-1914-821-510_jacunda,jacundá,,,jacundá,Jacundá
-KochGrunberg-1914-821-511_mandube,mandubé,,,mandubé,Mandubé
-KochGrunberg-1914-821-512_pirarucu,pirarucú,,,pirarucu,Pirarucú
-KochGrunberg-1914-821-513_peixecachorro,peixe cachorro,,,peixe-cachorro,Peixe cachorro
-KochGrunberg-1914-821-514_candiru,candirú,,,candiru,Candirú
-KochGrunberg-1914-821-515_alligator,alligator,1581,ALLIGATOR,jacaré,Alligator
-KochGrunberg-1914-821-516_iguana,iguana,1578,IGUANA,iguana,Leguan
-KochGrunberg-1914-821-517_lizard,lizard,632,LIZARD,lagarto,Eidechse
-KochGrunberg-1914-821-518_frog,frog,503,FROG,rã,Frosch
-KochGrunberg-1914-821-519_toad,toad,894,TOAD,sapo,Kröte
-KochGrunberg-1914-821-520_frogortoad,frog or toad,,,rã ou sapo,Frosch oder Kröter
-KochGrunberg-1914-821-521_turtle,turtle,112,TURTLE,tartaruga,Tartaruga
-KochGrunberg-1914-821-522_bigheadedamazonriverturtle,big-headed amazon river turtle,,,cabeçudo (tipo de tartaruga),Cabeçudo
-KochGrunberg-1914-821-523_tortoise,tortoise,895,TORTOISE,jabuti,Jabutí
-KochGrunberg-1914-821-524_shellofthebigheadedamazonriverturtle,shell of the big-headed amazon river turtle,,,casco de cabeçudo,Schild der Cabeçudo
-KochGrunberg-1914-821-525_snake,snake,730,SNAKE,cobra,Schlange
-KochGrunberg-1914-821-526_bigwatersnake,big water snake,,,cobra d'água grande,Große Wasserschlange
-KochGrunberg-1914-821-527_boa,boa,,,jiboia,Jiboya
-KochGrunberg-1914-821-528_jararaca,jararáca,,,jararaca,Jararáca
-KochGrunberg-1914-821-529_surucucu,surucucú,,,surucucu,Surucucú
-KochGrunberg-1914-821-530_earthworm,earthworm,2350,EARTHWORM,minhoca,Erdergenwurm
-KochGrunberg-1914-821-531_treeearthwormlarva,tree earthworm larva,,,larva de minhoca de árvore,Baumregenwurm
-KochGrunberg-1914-821-532_ant,ant,587,ANT,formiga,Ameise
-KochGrunberg-1914-821-533_saubaant,saúba ant,,,saúva,Saúba-Ameise
-KochGrunberg-1914-821-534_maniuaraant,maniuára ant,,,maniuara,Maniuára-Ameise
-KochGrunberg-1914-821-535_tocandiraant,tocandíra ant,,,tocandira,Tocandíra-Ameise
-KochGrunberg-1914-821-536_termite,termite,883,TERMITE,cupim,Termiten
-KochGrunberg-1914-821-537_taracua,taracuá,,,taracuá (tipo de formiga),Taracuá
-KochGrunberg-1914-821-538_flyinsect,fly (insect),1504,FLY (INSECT),mosca,Fliege
-KochGrunberg-1914-821-539_mosquito,mosquito,1509,MOSQUITO,mosquito,Mosquito
-KochGrunberg-1914-821-540_smallmosquito,small mosquito,,,mosquito pequeno,Kleine Mosquito
-KochGrunberg-1914-821-541_pium,pium,,,pium,Pium
-KochGrunberg-1914-821-542_mutuca,mutuca,,,mutuca,Mutuca
-KochGrunberg-1914-821-543_bee,bee,665,BEE,abelha,Biene
-KochGrunberg-1914-821-544_honey,honey,942,HONEY,mel,Honig
-KochGrunberg-1914-821-545_wasp,wasp,1517,WASP,vespa,Wespe
-KochGrunberg-1914-821-546_grasshopper,grasshopper,607,GRASSHOPPER,gafanhoto,Heuschrecke
-KochGrunberg-1914-821-547_cricket,cricket,2354,CRICKET,grilo,Grille
-KochGrunberg-1914-821-548_dragonfly,dragonfly,2352,DRAGONFLY,libélula,Wasserjungfer
-KochGrunberg-1914-821-549_butterfly,butterfly,1791,BUTTERFLY,borboleta,Schmetterling
-KochGrunberg-1914-821-550_bigbluebutterfly,big blue butterfly,,,borboleta grande azul,Großer blauer Schmetterling
-KochGrunberg-1914-821-551_caterpillar,caterpillar,2247,CATERPILLAR,lagarta,Raupe
-KochGrunberg-1914-821-552_dungbeetle,dung beetle,,,besouro rola-bosta,Mistkäfer
-KochGrunberg-1914-821-553_firefly,firefly,206,FIREFLY,vagalume,Leuchtkäfer
-KochGrunberg-1914-821-554_cockroach,cockroach,1575,COCKROACH,barata,Barata
-KochGrunberg-1914-821-555_tick,tick,1527,TICK,carrapato,Carapato
-KochGrunberg-1914-821-556_verysmalltick,very small tick,,,carrapato muito pequeno,Sehr kleine Carapato
-KochGrunberg-1914-821-557_louse,louse,1392,LOUSE,piolho,Laus
-KochGrunberg-1914-821-558_flea,flea,232,FLEA,pulga,Floh
-KochGrunberg-1914-821-559_sandflea,sand flea,,,bicho-de-pé,Sandfloh
-KochGrunberg-1914-821-560_micuim,micuim,,,micuim,Micuim
-KochGrunberg-1914-821-561_spider,spider,843,SPIDER,aranha,Spinne
-KochGrunberg-1914-821-562_crab,crab,2348,CRAB,caranguejo,Krebs
-KochGrunberg-1914-821-563_shrimp,shrimp,2349,SHRIMP,camarão,Camarão
-KochGrunberg-1914-821-564_scorpion,scorpion,1538,SCORPION,escorpião,Skorpion
-KochGrunberg-1914-821-565_waterspider,water spider,,,aranha d'água,Wasserspinne
-KochGrunberg-1914-821-566_centipede,centipede,1974,CENTIPEDE,centopeia,Tausendfuß
-KochGrunberg-1914-821-567_maruim,maruim,,,maruim,Maruim
-KochGrunberg-1914-821-568_paca,páca,,,paca (tipo de inseto),Páca
-KochGrunberg-1914-821-569_shell,shell,598,SHELL,concha,Muschel
-KochGrunberg-1914-821-570_snail,snail,1543,SNAIL,lesma,Schnecke
-KochGrunberg-1914-821-571_tree,tree,906,TREE,árvore,Baum
-KochGrunberg-1914-821-572_leaf,leaf,628,LEAF,folha,Blatt
-KochGrunberg-1914-821-573_branch,branch,1531,BRANCH,galho,Ast
-KochGrunberg-1914-821-574_bark,bark,1204,BARK,casca da árvore,Rinde
-KochGrunberg-1914-821-575_root,root,670,ROOT,raiz,Wurzel
-KochGrunberg-1914-821-576_thron,thron,124,THORN,espinho,Dorn
-KochGrunberg-1914-821-577_seed,seed,714,SEED,semente,Samen
-KochGrunberg-1914-821-578_resin,resin,664,RESIN,resina,Harz
-KochGrunberg-1914-821-579_peelpod,"peel, pod",2373,SKIN (OF FRUIT),casca da fruta,"Schale, Hülse (d.Frucht)"
-KochGrunberg-1914-821-580_blossom,blossom,,,flor (termo referente apenas à parte reprodutiva da planta),Blüte
-KochGrunberg-1914-821-581_fruit,fruit,1507,FRUIT,fruta,Frucht
-KochGrunberg-1914-821-582_shrub,shrub,751,SHRUB,arbusto,Strauch
-KochGrunberg-1914-821-583_grass,grass,606,GRASS,grama,Gras
-KochGrunberg-1914-821-584_maize,maize,506,MAIZE,milho,Mais
-KochGrunberg-1914-821-585_manioc,manioc,925,CASSAVA,mandioca,Mandioca
-KochGrunberg-1914-821-586_maniocflour,manioc flour,324,MANIOC FLOUR,farinha de mandioca,Mandiocamehl (Farinha)
-KochGrunberg-1914-821-587_maniocbread,manioc bread,407,MANIOC BREAD,beiju,Mandiocafladen (Beijú)
-KochGrunberg-1914-821-588_curata,curatá,,,curatá,Curatá
-KochGrunberg-1914-821-589_tapioca,tapioca,925,CASSAVA,tapioca,Tapioca
-KochGrunberg-1914-821-590_banana,banana,868,BANANA,banana,Banane
-KochGrunberg-1914-821-591_potato,potato,593,POTATO,batata,Batate
-KochGrunberg-1914-821-592_yam,yam,410,YAM,inhame,"Cará, Inyame"
-KochGrunberg-1914-821-593_pepper,pepper,1385,PEPPER,pimenta,Capsicum
-KochGrunberg-1914-821-594_peppersauce,peppersauce,,,molho de pimenta,Pfeffersauce
-KochGrunberg-1914-821-595_tucupi,tucupi,,,tucupi,Tucupí
-KochGrunberg-1914-821-596_pineapple,pineapple,2440,PINEAPPLE,abacaxi,Ananas
-KochGrunberg-1914-821-597_tame,tame,,,domesticado,Zahme
-KochGrunberg-1914-821-598_savage,savage,,,selvagem,Wilde
-KochGrunberg-1914-821-599_cocoa,cocoa,,,cacao,Kakao
-KochGrunberg-1914-821-600_japura,japurá,,,japurá,Yapurá
-KochGrunberg-1914-821-601_cucura,cucura,,,cucura,Cucura
-KochGrunberg-1914-821-602_umari,umarí,,,umari,Umarí
-KochGrunberg-1914-821-603_abiu,abíu,,,abiu,Abíu
-KochGrunberg-1914-821-604_iua,iua,,,iuá-pixuna,Iua
-KochGrunberg-1914-821-605_cupuacu,cupuaçu,,,cupuaçu,Copoasú
-KochGrunberg-1914-821-606_cupui,cupuí,,,cupuí,Copoaï
-KochGrunberg-1914-821-607_cumaru,cumaru,,,cumaru,Cumarú
-KochGrunberg-1914-821-608_cubiu,cubiu,,,cubiu,Cubiu
-KochGrunberg-1914-821-609_pinupinumedicinalplant,pinupinú (medicinal plant),,,pinupinú (planta medicinal),Pinupinú (Medizinalpflanze)
-KochGrunberg-1914-821-610_pokeanut,pokeá nut,,,tipo de noz,Pokeá-Nuß
-KochGrunberg-1914-821-611_ucuqui,ucuqui,,,ucuqui,Ukuki
-KochGrunberg-1914-821-612_pumpkin,pumpkin,864,PUMPKIN,abóbora,Kürbis
-KochGrunberg-1914-821-613_timbo,timbó,,,timbó,Timbó
-KochGrunberg-1914-821-614_liana,liana,2388,LIANA,cipó,Sipó
-KochGrunberg-1914-821-615_rawrubber,raw rubber,,,borracha crua,Kautschuk
-KochGrunberg-1914-821-616_rubber,rubber,,,borracha,Gummi
-KochGrunberg-1914-821-617_rubbermilk,rubber milk,,,leite da seringueira,Gummi-Milch
-KochGrunberg-1914-821-618_bamboo,bamboo,1927,BAMBOO,bambu,Bambus
-KochGrunberg-1914-821-619_giantreed,giant reed,,,cana-do-reino,Pfeilrohr
-KochGrunberg-1914-821-620_sugarcane,sugar cane,146,SUGAR CANE,cana-de-açúcar,Zuckerrohr
-KochGrunberg-1914-821-621_achiote,achiote,349,ACHIOTE,urucum,Urucú
-KochGrunberg-1914-821-622_carajuru,carajuru,,,carajuru,Carayurú
-KochGrunberg-1914-821-623_genipap,genipap,,,genipapo,Genipapo
-KochGrunberg-1914-821-624_moldonmanioccake,mold on manioc cake,,,mofo no bolo de mandioca,Schimmel auf Mandiocafladen
-KochGrunberg-1914-821-625_morichepalm,moriche palm,,,buriti,Mirití
-KochGrunberg-1914-821-626_tucum,tucum,,,tucum,Tucum
-KochGrunberg-1914-821-627_tucuma,tucumã,,,tucumã,Tucumá
-KochGrunberg-1914-821-628_carana,caraná,,,caraná,Caraná
-KochGrunberg-1914-821-629_puxiuba,puxiúba,,,paxiúba,Puxiúba
-KochGrunberg-1914-821-630_piassava,piassava,,,piaçava,Piassába
-KochGrunberg-1914-821-631_jauari,jauari,,,jauari,Yauarý
-KochGrunberg-1914-821-632_ubucu,ubuçu,,,ubuçu,Busú
-KochGrunberg-1914-821-633_acai,açaí,,,açaí,Assaï
-KochGrunberg-1914-821-634_pupunha,pupunha,,,pupunha,Pupunha
-KochGrunberg-1914-821-635_pataua,patauá,,,patauá,Patauá
-KochGrunberg-1914-821-636_bacaba,bacaba,,,bacaba,Bacaba
-KochGrunberg-1914-821-637_1,1,1493,ONE,1,1
-KochGrunberg-1914-821-638_2,2,1498,TWO,2,2
-KochGrunberg-1914-821-639_3,3,492,THREE,3,3
-KochGrunberg-1914-821-640_4,4,1500,FOUR,4,4
-KochGrunberg-1914-821-641_5,5,493,FIVE,5,5
-KochGrunberg-1914-821-642_6,6,1703,SIX,6,6
-KochGrunberg-1914-821-643_7,7,1704,SEVEN,7,7
-KochGrunberg-1914-821-644_8,8,1705,EIGHT,8,8
-KochGrunberg-1914-821-645_9,9,1483,NINE,9,9
-KochGrunberg-1914-821-646_10,10,1515,TEN,10,10
-KochGrunberg-1914-821-647_alittle,a little,2924,A LITTLE,pouco,Wenig
-KochGrunberg-1914-821-648_many,many,1198,MANY,muito,Viel
-KochGrunberg-1914-821-649_half,half,816,HALF,metade,Halb
-KochGrunberg-1914-821-650_full,full,1429,FULL,cheio,Voll
-KochGrunberg-1914-821-651_all,all,98,ALL,"tudo, todo",Alles
-KochGrunberg-1914-821-652_i,i,1209,I,eu,Ich
-KochGrunberg-1914-821-653_you,you,1215,THOU,você,Du
-KochGrunberg-1914-821-654_he,he,1211,HE,ele,Er
-KochGrunberg-1914-821-655_otheranother,other (another),,,outro (um outro),Ein anderer
-KochGrunberg-1914-821-656_we,we,1212,WE,nós,Wir
-KochGrunberg-1914-821-657_yourplural,your (plural),2274,YOUR (PLURAL),seu,Ihr
-KochGrunberg-1914-821-658_they,they,817,THEY,eles,Sie
-KochGrunberg-1914-821-659_others,others,197,OTHER,outros,Andere
-KochGrunberg-1914-821-660_mybow,my bow,,,meu arco,Mein Bogen
-KochGrunberg-1914-821-661_yourbow,your bow,,,seu arco,Dein Bogen
-KochGrunberg-1914-821-662_yourcoca,your coca,,,sua coca,Deine Coca
-KochGrunberg-1914-821-663_hisbow,his bow,,,o arco dele,Sein Bogen
-KochGrunberg-1914-821-664_ourhouse,our house,,,a nossa casa,Unser Haus
-KochGrunberg-1914-821-665_yourhouse,your house,,,sua casa,Euer Haus
-KochGrunberg-1914-821-666_yourhousepoliteform,your house (polite form),,,sua casa (forma educada),Ihr Haus
-KochGrunberg-1914-821-667_large,large,1202,BIG,grande,Groß
-KochGrunberg-1914-821-668_small,small,1246,SMALL,pequeno,Klein
-KochGrunberg-1914-821-669_high,high,1265,HIGH,alto,Hoch
-KochGrunberg-1914-821-670_deep,deep,1593,DEEP,fundo,Tief
-KochGrunberg-1914-821-671_long,long,1203,LONG,longo,Lang
-KochGrunberg-1914-821-672_short,short,1645,SHORT,curto,Kurz
-KochGrunberg-1914-821-673_wide,wide,1243,WIDE,largo,Breit
-KochGrunberg-1914-821-674_fatobese,fat (obese),1279,FAT (OBESE),gordo,Fett
-KochGrunberg-1914-821-675_thinslim,thin (slim),1400,THIN (SLIM),magro,Mager
-KochGrunberg-1914-821-676_heavy,heavy,1210,HEAVY,pesado,Schwer
-KochGrunberg-1914-821-677_lightweight,light (weight),1052,LIGHT (WEIGHT),leve,Leicht
-KochGrunberg-1914-821-678_cold,cold,1287,COLD,frio,Kalt
-KochGrunberg-1914-821-679_verycold,very cold,,,Muito Frio,sehr kalt
-KochGrunberg-1914-821-680_warm,warm,1232,WARM,quente,Warm
-KochGrunberg-1914-821-681_dry,dry,1398,DRY,seco,Trocken
-KochGrunberg-1914-821-682_wet,wet,1726,WET,molhado,Naß
-KochGrunberg-1914-821-683_rotten,rotten,1728,ROTTEN,estragado (podre),Verfaut
-KochGrunberg-1914-821-684_sick,sick,1847,SICK,doente,Krank
-KochGrunberg-1914-821-685_dead,dead,1625,DEAD,morto,Tot
-KochGrunberg-1914-821-686_hard,hard,1884,HARD,duro,Hart
-KochGrunberg-1914-821-687_soft,soft,1856,SOFT,mole,Weich
-KochGrunberg-1914-821-688_pregnant,pregnant,1123,PREGNANT,grávida,Schwanger
-KochGrunberg-1914-821-689_good,good,1035,GOOD,bom,Gut
-KochGrunberg-1914-821-690_beautiful,beautiful,1427,BEAUTIFUL,bonito,Schön
-KochGrunberg-1914-821-691_bad,bad,1292,BAD,mau,Schlecht
-KochGrunberg-1914-821-692_brave,brave,3,BRAVE,corajoso,Tapfer
-KochGrunberg-1914-821-693_cowardly,cowardly,3812,COWARDLY,covarde,Feig
-KochGrunberg-1914-821-694_white,white,1335,WHITE,branco,Weiß
-KochGrunberg-1914-821-695_black,black,163,BLACK,preto,Schwarz
-KochGrunberg-1914-821-696_dirty,dirty,1230,DIRTY,sujo,Schmutzig
-KochGrunberg-1914-821-697_dark,dark,706,DARK,escuro,Dunkel
-KochGrunberg-1914-821-698_red,red,156,RED,vermelho,Rot
-KochGrunberg-1914-821-699_blue,blue,837,BLUE,azul,Blau
-KochGrunberg-1914-821-700_green,green,1425,GREEN,verde,Grün
-KochGrunberg-1914-821-701_yellow,yellow,1424,YELLOW,amarelo,Gelb
-KochGrunberg-1914-821-702_yesterday,yesterday,1174,YESTERDAY,ontem,Gestern
-KochGrunberg-1914-821-703_today,today,1283,TODAY,hoje,Heute
-KochGrunberg-1914-821-704_now,now,1376,NOW,Agora,Jetzt
-KochGrunberg-1914-821-705_immediately,immediately,1963,IMMEDIATELY,imediatamente,Sogleich
-KochGrunberg-1914-821-706_day24hours,day (24 hours),1260,DAY (24 HOURS),dia (24 horas),Dereinst
-KochGrunberg-1914-821-707_right,right,1019,RIGHT,direita,Rechts
-KochGrunberg-1914-821-708_left,left,244,LEFT,esquerda,Links
-KochGrunberg-1914-821-709_here,here,136,HERE,aqui,Hier
-KochGrunberg-1914-821-710_near,near,1942,NEAR,perto,Nahe
-KochGrunberg-1914-821-711_there,there,1937,THERE,lá,Dort
-KochGrunberg-1914-821-712_far,far,1406,FAR,longe,Fern
-KochGrunberg-1914-821-713_thereoverthere,there (over there),,,de lá,Dorther
-KochGrunberg-1914-821-714_infrontofthehouse,in front of (the house),,,na frente de (da casa),Vor (dem Haus)
-KochGrunberg-1914-821-715_behindthehouse,behind the house,,,atrás da casa,Hinter dem Haus
-KochGrunberg-1914-821-716_overonthehouse,"over, on the house",,,em cima da casa,"Über, auf dem Haus"
-KochGrunberg-1914-821-717_onthetree,on the tree,,,na árvore,Auf dem Baum
-KochGrunberg-1914-821-718_underthehouse,under the house,,,embaixo da casa,Unter dem Haus
-KochGrunberg-1914-821-719_inthehouseinsidethehouse,"in the house, inside the house",,,"na casa, dentro da casa","In dem Haus, Im innern des Hauses"
-KochGrunberg-1914-821-720_yes,yes,1268,YES,sim,Ja
-KochGrunberg-1914-821-721_no,no,1269,NO,não,Nein
-KochGrunberg-1914-821-722_breathe,breathe,1407,BREATHE,respirar,Atmen
-KochGrunberg-1914-821-723_standup,stand up,570,STAND UP,se levantar,"Aufstehen, sich erheben"
-KochGrunberg-1914-821-724_bathe,bathe,138,BATHE,tomar banho,Baden
-KochGrunberg-1914-821-725_havesex,have sex,549,COPULATE,fazer sexo,Beischlaf vollziehen
-KochGrunberg-1914-821-726_tie,tie,1917,TIE,amarrar,Binden
-KochGrunberg-1914-821-727_bury,bury,1719,BURY,enterrar,Begraben
-KochGrunberg-1914-821-728_stay,stay,987,REMAIN,ficar,Bleiben
-KochGrunberg-1914-821-729_fry,fry,991,FRY,fritar,Braten
-KochGrunberg-1914-821-730_burn,burn,2102,BURN,queimar,"Brennen, verbrennen"
-KochGrunberg-1914-821-731_aburnthouse,a burnt house,,,Uma casa queimada,ein Haus verbrennen
-KochGrunberg-1914-821-732_bring,bring,692,BRING,trazer,Bringen
-KochGrunberg-1914-821-733_bringwater,bring water!,,,traz água!,Bring’ Wasser!
-KochGrunberg-1914-821-734_bringhere,bring here!,,,traz pra cá!,Bring’ hierher!
-KochGrunberg-1914-821-735_blowtheflute,blow the flute,,,toca a flauta,Flöte blasen
-KochGrunberg-1914-821-736_think,think,2271,THINK,pensar,Denken
-KochGrunberg-1914-821-737_drown,drown,1904,DROWN,afogar,Ertrinken
-KochGrunberg-1914-821-738_eat,eat,1336,EAT,comer,Essen
-KochGrunberg-1914-821-739_fall,fall,1280,FALL,cair,Fallen
-KochGrunberg-1914-821-740_wewanttocatchletscatch,"we want to catch, let's catch!",,,"a gente quer pegar, bora pegar!","Wir wollen fangen, laßt uns fangen!"
-KochGrunberg-1914-821-741_letscatchawoman,lets catch a woman!,,,vamos pegar uma mulher!,laßt uns ein Weib holen [fangen]!
-KochGrunberg-1914-821-742_fly,fly,1441,FLY (MOVE THROUGH AIR),voar,Fliegen
-KochGrunberg-1914-821-743_flow,flow,2003,FLOW,fluir,Fließen
-KochGrunberg-1914-821-744_theriverflows,the river flows,,,o rio flui,der Fluß strömt
-KochGrunberg-1914-821-745_fishing,fishing,2638,FISHING,pescar,Fischen
-KochGrunberg-1914-821-746_fearbeafraid,fear (be afraid),1419,FEAR (BE AFRAID),ter medo,Fürchten
-KochGrunberg-1914-821-747_yawn,yawn,1028,YAWN,bocejar,Gähnen
-KochGrunberg-1914-821-748_givebirth,give birth,1195,GIVE BIRTH,parir,Gebären
-KochGrunberg-1914-821-749_givemewater,give me water!,,,me dá água!,Gib mir Wasser!
-KochGrunberg-1914-821-750_iwantwater,I want water,,,Eu quero água!,Ich will Wasser haben!
-KochGrunberg-1914-821-751_fart,fart,1159,FART,peidar,Einen Flatus von sich geben
-KochGrunberg-1914-821-752_go,go,695,GO,ir,Gehen
-KochGrunberg-1914-821-753_dig,dig,1418,DIG,cavar,Graben
-KochGrunberg-1914-821-754_seize,seize,855,SEIZE,pegar,Greifen
-KochGrunberg-1914-821-755_doyouhavewater,do you have water?,,,você tem água?,Hast du Wasser?
-KochGrunberg-1914-821-756_doyouhavefarinha,do you have farinha?,,,você tem farinha?,Hast du Farinha?
-KochGrunberg-1914-821-757_strikesomeone,strike (someone),3308,STRIKE (SOMEONE),bater (em alguém),Hauen
-KochGrunberg-1914-821-758_listen,listen,1608,LISTEN,ouvir,Hören
-KochGrunberg-1914-821-759_starve,starve,,,morrer de fome,Hungern
-KochGrunberg-1914-821-760_iamhungry,I am hungry,,,tenho fome,ich habe Hunger
-KochGrunberg-1914-821-761_cough,cough,879,COUGH,tossir,Husten
-KochGrunberg-1914-821-762_hunt,hunt,1435,HUNT,caçar,Jagen
-KochGrunberg-1914-821-763_shitdefecate,shit (defecate),676,SHIT (DEFECATE),defecar,Kacken
-KochGrunberg-1914-821-764_fight,fight,1423,FIGHT,lutar,Kämpfen
-KochGrunberg-1914-821-765_chew,chew,321,CHEW,mastigar,Kauen
-KochGrunberg-1914-821-766_climb,climb,1102,CLIMB,escalar,Klettern
-KochGrunberg-1914-821-767_cook,cook,1100,COOK (SOMETHING),cozinhar,Kochen
-KochGrunberg-1914-821-768_come,come,1446,COME,vir,Kommen
-KochGrunberg-1914-821-769_comehere,come here!,3555,COME HERE,Venha aqui!,du kommst. komm! komm her!
-KochGrunberg-1914-821-770_itcomesrain,it comes rain,,,tá vindo chuva,Est kommt Regen
-KochGrunberg-1914-821-771_igotoyou,I go to you,,,eu vou até você,Ich gehe mir dir
-KochGrunberg-1914-821-772_withyou,with you,,,contigo,mit dir
-KochGrunberg-1914-821-773_crawl,crawl,96,CRAWL,rastejar,Kriechen
-KochGrunberg-1914-821-774_imsick,I'm sick,,,estou doete,Ich bin krank
-KochGrunberg-1914-821-775_laugh,laugh,1355,LAUGH,rir,Lachen
-KochGrunberg-1914-821-776_do,do,813,DO,fazer,Machen
-KochGrunberg-1914-821-777_paintsomethingorpainting,paint (something) or painting,3194,PAINT (SOMETHING) OR PAINTING,pintar,"Malen, bemalen"
-KochGrunberg-1914-821-778_sew,sew,1457,SEW,costurar,Nähen
-KochGrunberg-1914-821-779_sneeze,sneeze,1621,SNEEZE,espirrar,Niesen
-KochGrunberg-1914-821-780_whistle,whistle,1025,WHISTLE,assoviar,Pfeifen
-KochGrunberg-1914-821-781_piss,piss,592,PISS,urinar,Pissen
-KochGrunberg-1914-821-782_smokeinhale,smoke (inhale),1689,SMOKE (INHALE),fumar,Rauchen
-KochGrunberg-1914-821-783_talk,talk,2708,TALK,falar (com alguém),Reden
-KochGrunberg-1914-821-784_smellperceive,smell (perceive),1586,SMELL (PERCEIVE),cheirar,Riechen
-KochGrunberg-1914-821-785_row,row,1849,ROW,remar,Rudern
-KochGrunberg-1914-821-786_call,call,1084,CALL,chamar,Rufen
-KochGrunberg-1914-821-787_iswinginthehammock,I swing in the hammock,,,eu balanço a rede,Ich schaukle mich in der Hängematte
-KochGrunberg-1914-821-788_youswinginthehammock,you swing in the hammock,,,você balança a rede,Du schaukelst dich in der Hängematte
-KochGrunberg-1914-821-789_shoot,shoot,1172,SHOOT,atirar,Schießen
-KochGrunberg-1914-821-790_sleep,sleep,1585,SLEEP,dormir,Schlafen
-KochGrunberg-1914-821-791_iwanttosleep,I want to sleep,,,eu quero dormir,Ich will schlafen
-KochGrunberg-1914-821-792_strikeorbeat,strike or beat,2133,STRIKE OR BEAT,bater ou surrar,Schlagen
-KochGrunberg-1914-821-793_grind,grind,1033,GRIND,moer,Schleifen
-KochGrunberg-1914-821-794_swallow,swallow,897,SWALLOW,engolir,Schlucken
-KochGrunberg-1914-821-795_snoring,snoring,,,roncar,Schnarchen
-KochGrunberg-1914-821-796_cut,cut,1432,CUT,cortar,Schneiden
-KochGrunberg-1914-821-797_icutwithmyknife,I cut with my knife,,,eu corto com a minha faca,Ich schneide mit meinem Messer
-KochGrunberg-1914-821-798_swim,swim,1439,SWIM,nadar,Schwimmen
-KochGrunberg-1914-821-799_see,see,1409,SEE,ver,Sehen
-KochGrunberg-1914-821-800_sing,sing,1261,SING,cantar,Singen
-KochGrunberg-1914-821-801_sit,sit,1416,SIT,sentar,Sitzen
-KochGrunberg-1914-821-802_speak,speak,1623,SPEAK,falar (palavras),Sprechen
-KochGrunberg-1914-821-803_jump,jump,1829,JUMP,pular,Springen
-KochGrunberg-1914-821-804_sting,sting,571,STING,ferror,Stechen
-KochGrunberg-1914-821-805_stand,stand,1442,STAND,ficar em pé,Stehen
-KochGrunberg-1914-821-806_die,die,1494,DIE,morrer,Sterben
-KochGrunberg-1914-821-807_dive,dive,119,DIVE,mergulhar,Tauchen
-KochGrunberg-1914-821-808_kill,kill,1417,KILL,matar,Töten
-KochGrunberg-1914-821-809_drink,drink,1401,DRINK,beber,Trinken
-KochGrunberg-1914-821-810_turningback,turning back,,,voltar,Umkehren
-KochGrunberg-1914-821-811_grow,grow,479,GROW,crescer,Wachsen
-KochGrunberg-1914-821-812_beinginfluctuatingmotion,being in fluctuating motion,,,estar flutuando,Waben
-KochGrunberg-1914-821-813_cry,cry,1839,CRY,chorar,Weinen
-KochGrunberg-1914-821-814_throw,throw,1456,THROW,arrmessar,Werfen
-KochGrunberg-1914-821-815_want,want,1784,WANT,querer,Wollen
-KochGrunberg-1914-821-816_count,count,1420,COUNT,contar,Zählen
-KochGrunberg-1914-821-817_show,show,1039,SHOW,mostrar,Zeigen
-KochGrunberg-1914-821-818_pull,pull,1455,PULL,empurrar,Ziehen
-KochGrunberg-1914-821-819_shiver,shiver,52,SHIVER,tremer,Zittern
-KochGrunberg-1914-821-820_forwardletsgo,forward! let's go,,,bora! vamo lá,Vorwärts! Laßt uns gehen
-KochGrunberg-1914-821-821_wellinvitationtoeatetc,well! (invitation to eat etc.),,,bora! (convite para comer etc.),Wohlan! (Aufforderung zum Essen usw.)
+1_tongue,tongue,1205,TONGUE,língua (parte do corpo),Zunge
+2_mouth,mouth,674,MOUTH,boca,Mund
+3_lip,lip,478,LIP,lábios,Lippen
+4_tooth,tooth,1380,TOOTH,dente,Zahn
+5_nose,nose,1221,NOSE,nariz,Nase
+6_nostril,nostril,1178,NOSTRIL,narina,Nasenloch
+7_eye,eye,1248,EYE,olho,Auge
+8_ear,ear,1247,EAR,orelha,Ohr
+9_earhole,earhole,3891,EARHOLE,ouvido,Ohrloch als Gehörgang
+10_holeintheearlobe,hole in the earlobe,,,furo no lobo da orelha,Loch im Ohrläppchen
+11_pinintheearlobe,pin in the earlobe,,,alargador no lobo da orelha,Stift im Ohrläppchen
+12_holeinthelowerlip,hole in the lower lip,,,furo no lábio inferior,Loch in der Unterlippe
+13_longandthincylinderinthelowerlip,long and thin cylinder in the lower lip,,,cilindro longo e fino no lábio inferior,Stift in der Unterlippe
+14_holeinthenasalseptum,hole in the nasal septum,,,furo no septo nasal,Loch in der Nasenscheidewand
+15_pininthenasalseptum,pin in the nasal septum,,,talo da pena no septo nasal,Stift in der Nasenscheidewand
+16_forehead,forehead,123,FOREHEAD,testa,Stirn
+17_head,head,1256,HEAD,cabeça,Kopf
+18_hairhead,hair (head),2648,HAIR (HEAD),cabelo,Kopfhaar
+19_eyebrow,eyebrow,1173,EYEBROW,sobrancelhas,Augenbrauen
+20_eyelash,eyelash,1540,EYELASH,cílios,Augenwimpern
+21_beard,beard,678,BEARD,barba,Bart
+22_pubichair,pubic hair,36,PUBIC HAIR,pelo pubiano,Schamhaar
+23_armpithair,armpit hair,,,pelo nas axilas,Achselhaar
+24_cheek,cheek,1730,CHEEK,bochecha,Wange
+25_chin,chin,1510,CHIN,queixo,Kinn
+26_shoulder,shoulder,1482,SHOULDER,ombro,Schulter
+27_arm,arm,1673,ARM,braço,Arm
+28_elbow,elbow,981,ELBOW,cotovelo,Ellbogen
+29_hand,hand,1277,HAND,mão,Hand
+30_backofthehand,back of the hand,,,costas da mão,Handrücken
+31_palmofhand,palm of hand,1183,PALM OF HAND,palma da mão,Handfläche
+32_finger,finger,1303,FINGER,dedo,Finger
+33_thumb,thumb,1781,THUMB,polegar,Daumen
+34_forefinger,forefinger,577,FOREFINGER,dedo indicador,Zeigefinger
+35_middlefinger,middle finger,3387,MIDDLE FINGER,dedo médio,Mittelfinger
+36_ringfinger,ring finger,,,dedo anelar,Ringfinger
+37_smallfinger,small finger,2774,LITTLE FINGER,dedo mínimo,Kleinfinger
+38_fingernail,fingernail,1258,FINGERNAIL,unha,Fingernagel
+39_thigh,thigh,471,UPPER LEG (THIGH),coxa,Oberschenkel
+40_lowerleg,lower leg,447,LOWER LEG,parte da perna abaixo do joelho e acima do tornozelo,Unterschenkel
+41_shin,shin,186,SHIN,canela da perna,Schienbein
+42_calfofleg,calf of leg,498,CALF OF LEG,panturrilha,Wade
+43_knee,knee,1371,KNEE,joelho,Knie
+44_backoftheknee,back of the knee,,,parte detrás do joelho,Kniekehle
+45_foot,foot,1301,FOOT,pé,Fuß
+46_instep,instep,3736,INSTEP,peito do pé,Fußrücken
+47_solefoot,sole (foot),2666,SOLE (FOOT),sola do pé,Sohle
+48_heel,heel,980,HEEL,calcamnhar,Ferse
+49_ankle,ankle,803,ANKLE,tornozelo,Fußknöchel
+50_foottendon,foot tendon,,,tendão do pé,Fußsehne
+51_toe,toe,1389,TOE,dedão,Zehe
+52_toenail,toenail,2662,TOENAIL,unha do dedão,Zehennagel
+53_body,body,1480,BODY,corpo,Körper
+54_neck,neck,1333,NECK,pescoço,Hals
+55_napeofneck,nape (of neck),1347,NAPE (OF NECK),nuca,Nacken
+56_throat,throat,1346,THROAT,gargante,Kehle
+57_armpit,armpit,1886,ARMPIT,axila,Achselhöhle
+58_shoulderblade,shoulder blade,172,SHOULDERBLADE,escápula,Schulterblatt
+59_rib,rib,801,RIB,costela,Rippen
+60_chest,chest,1592,CHEST,peito,Brust
+61_nipple,nipple,796,NIPPLE,mamilo,Brustwarze
+62_breast,breast,1402,BREAST,peito feminino,Weibliche Brust
+63_belly,belly,1251,BELLY,barriga,Bauch
+64_navel,navel,1838,NAVEL,umbigo,Nabel
+65_back,back,1291,BACK,costas,Rücken
+66_buttocks,buttocks,834,BUTTOCKS,nádegas,Gesaß
+67_penis,penis,1222,PENIS,pênis,Penis
+68_scrotum,scrotum,2834,SCROTUM,escroto,Scrotum
+69_testicle,testicle,797,TESTICLES,testículo,Testikel
+70_membrummuliebre,membrum muliebre,,,membrum muliebre,Membrum muliebre
+71_vagina,vagina,1836,VAGINA,vagina,Vagina
+72_clitoris,clitoris,3257,CLITORIS,clitóris,Clitoris
+73_anus,anus,1935,ANUS,ânus,Anus
+74_skin,skin,763,SKIN,pele,Haut
+75_fur,fur,580,FUR,pelo,Fell
+76_bone,bone,1394,BONE,osso,Knochen
+77_blood,blood,946,BLOOD,sangue,Blut
+78_vein,vein,1924,VEIN,veia,Ader
+79_pulse,pulse,3267,PULSE,pulso,Puls
+80_flesh,flesh,2259,FLESH,carne,Fleisch
+81_tendon,tendon,1137,TENDON,tendão,Sehne
+82_heart,heart,1223,HEART,coração,Herz
+83_guts,guts,1334,GUTS,vísceras,Eingeweide
+84_stomach,stomach,819,STOMACH,estômago,Magen
+85_intestine,intestine,1991,INTESTINES,intestino,Darm
+86_fatorganicsubstance,fat (organic substance),323,FAT (ORGANIC SUBSTANCE),gordura,Fett
+87_saliva,saliva,1503,SALIVA,saliva,Speichel
+88_urine,urine,1142,URINE,urina,Urin
+89_sweatsubstance,sweat (substance),125,SWEAT (SUBSTANCE),suor,Schweiß
+90_tearofeye,tear (of eye),1651,TEAR (OF EYE),lágrima,Träne
+91_faecesexcrement,faeces (excrement),675,FAECES (EXCREMENT),fezes,Kot
+92_fartnoun,fart (noun),,,Pum,Flatus
+93_breath,breath,870,BREATH,hálito,Atem
+94_wound,wound,1109,WOUND,ferida,Wunde
+95_purupuruskindisease,purupuru (skin disease),,,purupuru (doença de pele),Purupuru (Hautkrankheit)
+96_beak,beak,73,BEAK,bico,Schnabel
+97_tail,tail,1220,TAIL,cauda,Schwanz
+98_wing,wing,1257,WING,asa,Flügel
+99_feather,feather,1201,FEATHER,pena,Feder
+100_fin,fin,213,FIN,nadadeira,Flosse
+101_water,water,948,WATER,água,Wasser
+102_river,river,666,RIVER,rio,Fluß
+103_brook,brook,3821,BROOK,riacho,Bach
+104_lagoon,lagoon,623,LAGOON,lagoa,Lagune
+105_waterfall,waterfall,943,WATERFALL,cachoeira,"Cachoeira (Stromschnelle, Wasserfall)"
+106_narrowriverarmparanamiri,narrow river arm (paraná miri),,,paraná-mirim,Schmaler Flußarm (Paraná miri)
+107_fire,fire,221,FIRE,fogo,Feuer
+108_smokeexhaust,smoke (exhaust),778,SMOKE (EXHAUST),fumaça,Rauch
+109_ash,ash,646,ASH,cinzas,Asche
+110_coal,coal,2658,COAL,carvão,Kohle
+111_firewood,firewood,10,FIREWOOD,lenha,Brennholz
+112_sky,sky,1732,SKY,céu,Himmel
+113_cloud,cloud,1489,CLOUD,nuvem,Wolke
+114_rainprecipitation,rain (precipitation),658,RAIN (PRECIPITATION),chuva,Regen
+115_fog,fog,249,FOG,névoa,Nebel
+116_dew,dew,1977,DEW,orvalho,Tau
+117_drizzle,drizzle,1016,DRIZZLE,garoa,Feiner Nebelregen
+118_wind,wind,960,WIND,vento,Wind
+119_lightning,lightning,1654,LIGHTNING,relâmpago,Blitz
+120_thunder,thunder,1150,THUNDER,trovão,Donner
+121_rainbow,rainbow,1733,RAINBOW,arco-íris,Regenbogen
+122_sun,sun,1343,SUN,sol,Sonne
+123_shade,shade,1388,SHADE,sombra,Schatten
+124_year,year,1226,YEAR,ano,Jahr
+125_rainyseason,rainy season,453,RAINY SEASON,estação chuvosa,Regenzeit
+126_dryseason,dry season,452,DRY SEASON,estação seca,Trockenzeit
+127_day,day,1225,DAY (NOT NIGHT),dia,Tag
+128_night,night,1233,NIGHT,noite,Nacht
+129_morning,morning,1339,MORNING,manhã,Morgen
+130_noon,noon,12,MIDDAY,meio-dia,Mittag
+131_evening,evening,1629,EVENING,tarde,Abend
+132_dawn,dawn,729,DAWN,amanhecer,Morgenrot
+133_moon,moon,1313,MOON,lua,Mond
+134_newmoon,new moon,3691,NEW MOON,lua nova,Neuer Mond
+135_fullmoon,full moon,3690,FULL MOON,lua cheia,Vollmond
+136_moonhalo,moon halo,,,halo lunar,Ringförmiger Mondhof
+137_lunareclipse,lunar eclipse,,,eclipse lunar,Mondfinsternis
+138_solareclipse,solar eclipse,,,eclipse solar,Sonnenfinstemis
+139_star,star,1430,STAR,estrela,Stern
+140_pleiades,pleiades,,,plêiades,Plejaden
+141_milkyway,milky way,2289,MILKY WAY,via láctea,Milchstraße
+142_earthsoilground,"earth (soil, ground)",1228,EARTH (SOIL),terra (solo),Erdboden
+143_field,field,212,FIELD,campo,Feld
+144_path,path,2252,PATH,caminho,Weg
+145_mountain,mountain,639,MOUNTAIN,montanha,Berg
+146_forest,forest,420,FOREST,floresta,Wald
+147_island,island,622,ISLAND,ilha,Insel
+148_beach,beach,3460,BEACH,praia,Strand
+149_stone,stone,857,STONE,pedra,Stein
+150_pumice,pumice,,,pedra-pomes,Bimsstein
+151_whiterclay,whiter clay,,,tabatinga (tipo de argila mais clara),Weißer Ton
+152_yellowclay,yellow clay,,,argila amarelada,Gelber Ton
+153_hole,hole,1667,HOLE,buraco,Loch
+154_grave,grave,1773,GRAVE,tumba,Grab
+155_sea,sea,1474,SEA,mar,Meer
+156_riosolimoes,Rio Solimões,,,Rio Solimões,Rio Solimões
+157_riojapura,Rio Japurá,,,Rio Japurá,Rio Yapurá
+158_rioapaporis,Rio Apapóris,,,Rio Apapóris,Rio Apaporis
+159_townorvillage,town or village,3609,TOWN OR VILLAGE,cidade pequena ou vila,"Dorf, Heimat"
+160_home,home,2406,HOME,lar,Heimat
+161_yourhome,your home,,,seu lar,deine Heimat
+162_house,house,1252,HOUSE,casa,Haus
+163_entrance,entrance,,,entrada,Eingang
+164_exit,exit,,,saída,Ausgang
+165_trapdoor,trapdoor,,,alçapão,Falltür
+166_buttressposts,buttress posts,,,contraforte,Strebepfosten
+167_wallofhouse,wall (of house),933,WALL (OF HOUSE),parede,Wand
+168_horizontalbattensthatholdthepaxiubabattensofthewalltogetherinthemiddle,horizontal battens that hold the paxiúba battens of the wall together in the middle,,,sarrafos horizontais que sustentam os sarrafos de paxiúba da parede juntos no meio,"Horizontallatten, die die Paxiúbalatten der Wand in der Mitte zusammenhalten"
+169_beamsthatsitonthepaxiubabattensonthewallandsupporttheroof,beams that sit on the paxiúba battens on the wall and support the roof,,,barras que ficam em cima dos sarrafos de paxiúba na parede e sustentam o telhado,"Balken, die auf den Paxiúbalatten der Wand aufsitzen und das Dach tragen"
+170_slopingrafters,sloping rafters,,,caibros inclinados,Schräge Dachsparren
+171_roofcladdingmadefromleavesofthecaranapalmtree,roof cladding made from leaves of the caraná palm tree,,,revestimento do telhado feito de folhas de caraná,Dachbekleidung aus Blättern der Caraná Palme
+172_horizontalbarrierstowhichthesecaranaleavesareattached,horizontal barriers to which these caraná leaves are attached,,,barreiras horizontais onde essas folhas de caraná são conectadas,"Horizontalsperren, an denen diese Caraná Blätter befestigt sind"
+173_chimney,chimney,1305,CHIMNEY,chaminé,Rauchfang
+174_planting,planting,,,plantio,Pflanzung
+175_torch,torch,1919,TORCH,tocha,Fackel
+176_yeast,yeast,967,YEAST,levedura,Hefen
+177_storageplaceinforestlgmitasaua,storage place in forest (l. g .. mitasáua),,,local para armazenar coisas na floresta,Lagerplatz in Walde (l. g.. mitasáua)
+178_scaffoldinginthehousetoputthingsonorhangon,scaffolding in the house to put things on or hang on,,,plataforma na casa para colocar ou pendurar coisas,"Gerüst im Haus, um Sachen darauf zu legen oder daran zu hängen"
+179_stool,stool,2058,STOOL,banco,Sitzschemel
+180_curauafiber,curauá fiber,,,fibra de carauá,Curauáfasern
+181_hammock,hammock,2019,HAMMOCK,rede,Hängmatte
+182_cottonhammock,cotton hammock,,,rede de algodão,Hängematte aus Baumwolle
+183_hammockropes,hammock ropes,,,corda da rede,Hängemattenstricke
+184_cotton,cotton,1850,COTTON,algodão,Baumwolle
+185_cloth,cloth,1616,CLOTH,tecido,Tuch
+186_carryingbasketofwomen,carrying basket of women,,,cesto de carga para mulheres,Tragkorb der Weiber
+187_menscarryingbaskettogetcocaleaves,men's carrying basket to get coca leaves,,,cesto de carga para homens coletarem folhas de coca,Tragbkorb der Männer um Coca-Blätter zu holen
+188_hangingbasket,hanging basket,,,cesto para pendrar,Hangkörbchen
+189_flatbasketformaniocbreadetc,flat basket for manioc bread etc.,,,cesto plano para beiju etc.,Flacher Korb für Mandiocafladen (Beijús) usw.
+190_largeflatfinemaniocstrainer,large flat fine manioc strainer,,,"coador grande, plano e fino para mandioca","Großes, flaches, feines, Mandiocasieb"
+191_largeflatcoarsermaniocstrainer,large flat coarser manioc strainer,,,"coador grande, plano e rústico para mandioca","Großes, flaches, gröberes Mandiocasieb"
+192_flatcoarserbasketforstoringfruitsbulbsetc,"flat coarser basket for storing fruits, bulbs etc.",,,"cesto plano e rústico para armezenar frutas, bulbos etc.","Flacher, grober Korb zum Aufbewahren von Füchten, Knollen usw."
+193_deepbasketforstoringfarinhamaniocflour,deep basket for storing farinha (manioc flour),,,cesto fundo para armazenar farinha de mandioca,Tiefer Korb zum Aufbewahren von Farinha (Mandiocamehl)
+194_cylindermadeoftreebarkforstoringmaniocdough,cylinder made of tree bark for storing manioc dough,,,cilindro feito de casca de árvore para armezenar massa de mandioca,Zylinder aus Baumrinde zum Aufbewahren von Mandiocamasse
+195_smallroundveryfinesievetosievecocapowder,small round very fine sieve to sieve coca powder,,,"peneira pequena, redonda e bem fina para pó de coca","Kleines, runder, sehr feines Sieb, um Cocapulver zu sieben."
+196_matforcoveringvessels,mat for covering vessels,,,tapete para cobrir os recipientes,Matte zum Zudecken von Gefäßen
+197_braidedtubetipitiforsqueezingthemaniocdough,braided tube (tipiti) for squeezing the manioc dough,,,tubo transado (tipiti) para espremer a massa da mandioca,Geflochtener Schlauch (tipiti) zum Auspressen der Mandiocamasse
+198_squaremenstucumcordbagforsmallitems,square men's tucum cord bag for small items,,,saco quadrado  masculino de cordão de tucum para itens pequenos,Viereckige Tasche der Männer aus Tucumschnüren für Kleinkram
+199_knittingframetomanufacturethesebags,knitting frame to manufacture these bags,,,moldura de tricô para fazer esses sacos,Strickrahmen z. Verfertigen dieser Taschen
+200_firefans,fire fans,,,abano,Feuerfächer
+201_calabash,calabash,3918,CALABASH,cabaça,Kalabasse
+202_bigcalabash,big calabash,,,cabaça grande,große Kalabasse
+203_smallcalabashforscooping,small calabash for scooping,,,cabaça pequena para escavar,kleine Kalabasse zum Schöpfen
+204_cookingpot,cooking pot,3653,COOKING POT,panela,Kochtopf
+205_ironsaucepan,iron saucepan,,,panela de ferro,Eiserner Kochtopf
+206_largekashiripot,large kashiri pot,,,jarro grande para caxiri,Großer Kaschiritopf
+207_deepbowlinwhichyoucanfermentthemanioc,deep bowl in which you can ferment the manioc,,,tigela funda para fermentar a mandioca,"Tiefe Topfschale, in der man Mandiocamasse gären läßt"
+208_largeflattersaucepanformanicueraboiledmaniocjuice,large flatter saucepan for manicuéra (boiled manioc juice),,,panela grande mais plana para manicuera,"Große, flachere Topfschale für Manicuéra (abgekochten Mandiocasaft)"
+209_clayvesselforthedrink,clay vessel for the drink,,,recipiente de argila para bebidas,Tongefäß für das Getränk
+210_waterpotwithtwohandles,water pot with two handles,,,jarro de água com duas alças,Wassertopf mit zwei Henkein
+211_claybowl,clay bowl,2055,CLAY POT,tigela de argila,Tonschale
+212_bowlforcoca,bowl for coca,,,tigela para coca,Schale für Coca
+213_claybowlwithlegashandle,clay bowl with leg as handle,,,tigela de argila com uma asa de pé,Tonschale mit Fuß als Handgriff
+214_clay,clay,1399,CLAY,argila,Töpferton
+215_hourglassshapedframemadeofsticksforvessels,hourglass-shaped frame made of sticks for vessels,,,moldura com formato de ampulheta feita de gravetos para recipientes,Sanduhrförmiges Gestell aus Stäbchen für Gefäße
+216_mortar,mortar,224,MORTAR,pilão,Mörser
+217_pestle,pestle,225,PESTLE,socador (do pilão),Stössel
+218_stovetop,stove top,,,"chapa, forno para beiju",Herdplatte
+219_earthenware,earthenware,,,louça de barro,Tönerne
+220_gridiron,gridiron,,,grelha,Bratrost
+221_maniocgrater,manioc grater,,,"ralador de mandioca, ralo de mandioca",Mandiocareibebrett
+222_woodencylinderinwhichcocaistapped,wooden cylinder in which coca is tapped,,,cilindro de madeira onde a coca é macerada,"Holzzylinder, in dem Coca geklopft wird"
+223_cocahammer,coca hammer,,,martelo para coca,Cocaklopfer
+224_raffiabagsforcoca,raffia bags for coca,,,sacos de ráfia para coca,Bastsäckchen für Coca
+225_hollowbirdbonesforsuckingcoca,hollow bird bones for sucking coca,,,ossos ocos de ave para sugar coca,"Hohler Vogelknochen, um Coca zu saugen"
+226_calabashwithlidasacocacontainer,calabash with lid as a coca container,,,cabaça com tampa para ser um conteiner de coca,Kalabasse mit Deckel als Cocabehälter
+227_woodenlidforthiscalabash,wooden lid for this calabash,,,tampa de madeira para essa cabaça,Holzdeckel zu dieser Kalabasse
+228_bonespoonusedtotakecoca,bone spoon used to take coca,,,colher de osso para pegar coca,"Knochenlöffel, mit dem Coca genommen wird"
+229_axe,axe,677,AXE,machado,Beil
+230_stoneaxe,stone axe,,,machado de pedra,Steinbeil
+231_knife,knife,1352,KNIFE,faca,Messer
+232_forestknife,forest knife,,,faca de sobrevivência,Waldmesser
+233_canoe,canoe,1970,CANOE,canoa,Einbaum
+234_rudder,rudder,108,RUDDER,leme,Ruder
+235_gridontheboatforprotectionagainstbackflow,grid on the boat for protection against backflow,,,grade de rede no barco para proteção contra o refluxo,Lattengitter im Boot Schutzgegen das Kielwasser
+236_suncanopytoldaovertheboat,sun canopy (tolda) over the boat,,,tolda do barco,Sonnendach (tolda) über dem Boot
+237_bow,bow,994,BOW,arco,Bogen
+238_bowstring,bowstring,2119,BOW STRING,corda do arco,Bogensehne
+239_arrow,arrow,977,ARROW,flecha,Pfeil
+240_largepoisonedarrowsforhighhunting,large poisoned arrows for high hunting,,,flechas grandes envenedadas para caçar,Große vergiftete Pfeile für Hochjagd
+241_caseforthetipsofthesepoisonarrows,case for the tips of these poison arrows,,,estojo para as pontas dessas flechas envenenadas,Futteral für die Spitzen dieser Giftpfeile
+242_fisharrowwithdoubleironpoint,fish arrow with double iron point,,,flecha para peixe com ponta dupla de ferro,Fischpfeil mit doppelter Eisenspitze
+243_harpoonarrow,harpoon arrow,,,flecha de arpão,Harpunenpfeil
+244_ironharpoonofthisarrow,iron harpoon of this arrow,,,arpão de ferro dessa flecha,Eiserne Harpune dieses Pfeils
+245_tipoftheharpoon,tip of the harpoon,,,ponta do arpão,Spitze der Harpune
+246_barbofthetip,barb of the tip,,,farpa da ponta,Widerhaken der Spitze
+247_wraparoundthetop,wrap around the top,,,invólucro envolta da ponta,Umwicklung der Spitze
+248_woodenstickintowhichtheharpoonisinserted,wooden stick into which the harpoon is inserted,,,graveto de madeira onde o arpão é inserido,"Holzastab, in den die Harpune gestecket wird"
+249_pipeshaftoftheharpoonarrow,pipe shaft of the harpoon arrow,,,tubo da flecha do arpão,Rohrschaft des Harpunenpfeils
+250_handendofthetubularshaft,hand end of the tubular shaft,,,final do tubo,Handende des Rohrschaftes
+251_harpoonstring,harpoon string,,,corda do arpão,Schnur der Harpune
+252_pitchresin,pitch (resin),,,piche,Pech
+253_club,club,1763,CLUB,clava,Keule
+254_stringoftheclub,string of the club,,,corda da clava,Schnur der Keule
+255_blowgun,blowgun,432,BLOWGUN,zarabatana,Blasrohr
+256_blowgunarrow,blowgun arrow,,,flecha para zarabatana,Blasrohrpfeilchen
+257_mouthpieceoftheblowgun,mouthpiece of the blowgun,,,bocal da zarabatana,Mundstück des Blasrohres
+258_quiverforthepoisonarrows,quiver for the poison arrows,,,aljava de flechas envenenadas,Köcher für die Giftpfeilchen
+259_poisonfordart,poison for dart,,,veneno para o dardo,Pfeilgift
+260_treesilksamaumatowraparroundtheblowgundarts,tree silk (samaúma) to wrap arround the blowgun darts,,,tecido de samaúma para enrolar os dardos da zarabatana,Baumseide (Samaúma) zum Umwickeln der Blasrohrpfeilchen
+261_poisonlancespear,poison lance (spear),,,lança envenenada,Giftlanze
+262_caseforthetipsofthepoisonlancesspears,case for the tips of the poison lances (spears),,,caixa para as pontas envenenadas das lanças,Futteral für die Spitzen der Giftlanzen
+263_pointofthepoisonlancespear,point of the poison lance (spear),,,ponta da lança envenenada,Spitze der Giftlanze
+264_shield,shield,1064,SHIELD,escudo,Schild
+265_warshield,war shield,,,escudo de guerra,Kriegsschild
+266_fishnet,fishnet,388,FISHNET,rede de pesca,Fischnetz
+267_bigtrap,big trap,,,armadilha grande,Große Reuse
+268_smalltrap,small trap,,,armadilha pequena,Kleine Reuse
+269_fishtrap,fish trap,389,FISH TRAP,armadilha para peixe,Fischfalle
+270_fishingrod,fishing rod,,,vara de pesca,Angel
+271_fishingline,fishing line,19,FISHING LINE,linha de pesca,Angelschnur
+272_gun,gun,1566,GUN,arma de fogo,Gewehr
+273_gunpowder,gunpowder,1798,GUNPOWDER,pólvora,Pulver
+274_shot,shot,,,tiro,Schrot
+275_hipcord,hip cord,,,cordão da cintura,Hüftschnur
+276_mansloincloth,man's loincloth,,,tanga masculina,Schambinde des Mannes
+277_womansloincloth,woman's loincloth,,,tanga feminina,Schamschurz der Frau
+278_wideraffiabeltmenscostume,wide raffia belt (men's costume),,,cinto largo de ráfia (traje masculino),Breiter Bastgürtel (Tracht der Männer)
+279_braceletsmadeofraffiamenscostume,bracelets made of raffia (men's costume),,,braceletes feitos de ráfia (traje masculino),Armbänder aus Bast (Tracht der Männer)
+280_softerstripsofraffiatotiebeltsandbracelets,softer strips of raffia to tie belts and bracelets,,,pedaços mais maleáveis de ráfia para amarrar cintos e braceletes,"Weichere Baststreifen, um Gürtel und Armbänder festzubinden"
+281_malebraid,male braid,,,trança masculina,Männerzopf
+282_raffiawraparoundthebraid,raffia wrap around the braid,,,ráfia enrolada em torno da trança,Bastumwicklung des Zopfes
+283_mirror,mirror,1171,MIRROR,espelho,Spiegel
+284_needleforsewing,needle (for sewing),1382,NEEDLE (FOR SEWING),agulha,Nadel
+285_earring,earring,770,EARRING,brinco,Ohrring
+286_pearl,pearl,3325,PEARL,pérola,Perlen
+287_boxorchest,box or chest,3150,BOX OR CHEST,caixa ou baú,Koffer
+288_comb,comb,1475,COMB,pente,Kamm
+289_fineheadfeathersgalajewelerylinguageralkangataramahapoalimacawfeathers,"fine head feathers, gala jewelery (língua geral: kangatára) mahápoali (macaw feathers)",,,"cocar, indumentária (língua geral: kangatára) mahápoali (Ararafedern)","Feine Kopffederbinde, Galaschmuck (lingoa geral: kangatára) mahápoali (Ararafedern)"
+290_headdressmadeoftoucanfeathersinstrawheadband,headdress made of toucan feathers in straw headband,,,cocar feito com penas de tucano em uma faixa de palha para a cabeça,Kopfputz aus Tukanfederchen in Strohreif
+291_strawheadbandforthisjewelry,straw headband for this jewelry,,,faixa de palha para a cabeça dessa joia,Strohreif zu diesem Schmuck
+292_dancedevicethatrepresentsafishtrapandiswornonthebraid,dance device that represents a fish trap and is worn on the braid,,,dispositivo de dança que representa uma armadilha de peixe e é usado na trança,"Tanzgerät, das eine Fischreuse darstellt und am Zopf getragen wird"
+293_macawtailfeatherthatiswornonthisdancedevice,macaw tail feather that is worn on this dance device,,,pena da cauda da arara que é usada nesse dispositivo de dança,"Araraschwanzfeder, die an diesem Tanzgerät getragen wird"
+294_longnosepiercingmadeofsmoothedpalmwood,long nose piercing made of smoothed palm wood,,,piercing de nariz longo feito de madeira de palmeira polida,Langer Nasenstab aus geglättetem Palmholz
+295_carvedtucumafruitpeelbracelet,carved tucumá fruit peel bracelet,,,bracelete curvado de pele da fruta tucumá,Armband aus geschnitzten Tucumáfruchtschalen
+296_kneebandwovenfromcurauafibers,knee band woven from curauá fibers,,,faixa para o joelho de fibra de tucumá,Kniebänder aus Curauáfasern gewebt
+297_quartzcylindermensbreastjewelry,"quartz cylinder, men's breast jewelry",,,"cilindro de quartzo, jóia maculina para os peitos","Quarzzylinder, Brustschmuck der Männer"
+298_blackseedsthatarealwaysassociatedwiththisquartzjewelry,black seeds that are always associated with this quartz jewelry,,,sementes pretas que são sempre associadas a esse cilindro de quartzo,"Schwarze Samen, die stets mit diesem Quarzschmuck verbunden sind"
+299_necklacemadefromblackcocoons,necklace made from black cocoons,,,colar feito de casulos pretos,Halskette aus schwarzen Cocons
+300_necklacemadefromgraygrassseedsstamariacapim,necklace made from gray grass seeds (Sta. Maria Capim),,,colar feito de sementes de erva-de-santa-maria,Halskette aus grauen Grassamen (Sta. Maria Capim)
+301_cerimonialmasksuit,cerimonial mask suit,,,traje com máscara para cerimônias,Tanzmaskenanzug
+302_raffiajacketofthemasksuit,raffia jacket of the mask suit,,,jaqueta de ráfia para o traje com máscara,Bastjacke des Maskenanzuges
+303_raffiahangingofthemasksuit,raffia hanging of the mask suit,,,fios de ráfia pendentes do traje,Bastbehang des Maskenanzuges
+304_facecovermadeofraffia,face cover made of raffia,,,cobertura para o resto feito de ráfia,Gesichtsüberzug aus Bast
+305_woodenheadpieceofthemasksuit,wooden headpiece of the mask suit,,,chapéu de madeira do taje,Hölzerner Kopfaufsatz des Maskenanzuges
+306_earsonthisheadpiece,ears on this headpiece,,,orelhas nesse chapéu,Ohren an diesem Kopfaufsatz
+307_whitedownfeathersonthoseears,white down feathers on those ears,,,penas brancas nessas orelhas,Weiße Flaumfedern an diesen Ohren
+308_edgepaintingoftheheadpiece,edge painting of the headpiece,,,pintura nos cantos desse chapéu,Randbemalung des Kofaufsatzes
+309_braidofthemasksuit,braid of the mask suit,,,trança da máscara do taje,Zopf des Maskenanzuges
+310_dancerattlepumpkinrattle,dance rattle (pumpkin rattle),,,chocalho de dança (chocalho de abóbora),Tanzrassel (Kürbisrassel)
+311_dancerattlesfromhalvedfruitpodswhicharewornaroundtheankle,"dance rattles from halved fruit pods, which are worn around the ankle",,,"chocalhos de dança de cascas de fruta cortadas ao meio, os quais são usados em torno do tornozelo","Tanzklappern aus halbierten Fruchtschalen, die um den Fußköchel getragen werden"
+312_dancepolemadeofhollowedambauvawood,dance pole made of hollowed ambaúva wood,,,poste de dança feito de madeira oca de Ambaúva,Tanzstab aus ausgehöhltem Ambaúvaholz
+313_handleofthedancerattle,handle of the dance rattle,,,cabo do chocalho de dança,Stiel der Tanzrassel
+314_slotofthedancerattle,slot of the dance rattle,,,buraco do chocalho de dança,Schlitz der Tanzrassel
+315_incisedpatternonthedancerattle,incised pattern on the dance rattle,,,padrão entalhado no chocalho de dança,Ritzmuster auf der Tanzrassel
+316_ordinaryflutemadeofpipe,ordinary flute made of pipe,,,flauta comum feita de tubo,Gewöhnliche Flötenpfeife aus Rohr
+317_panpipe,panpipe,,,flauta de pã,Panpeife
+318_woodenhorn,wooden horn,,,corneta de madeira,Hölzerne Signaltute
+319_signalhornmadeoutofclay,signal horn made out of clay,,,corneta feita de argila,Signaltute aus Ton
+320_bigsignaldrum,big signal drum,,,tambor grande de sinal,Große Signaltrommel
+321_danceincirclessinging,"dance (in circles), singing",,,"dança (em círculos), cantando","Rundtanz, Gesang"
+322_yuruparydancefestival,Yuruparý dance festival,,,vestival de dança Jurupari,Yuruparý-Tanzfest
+323_letsdance,let's dance!,,,vamos dançar!,laßt uns tanzen!
+324_yuruparywhip,yuruparý whip,,,chicote Jurupari,Yuruparý-Peitsche
+325_smallflutepipe,small flute pipe,,,flauta de pã pequena,Kleine Flötenpfeife
+326_largerflutepipe,larger flute pipe,,,flauta de pã maior,Größere Flötenpfeife
+327_bigflutepipe,big flute pipe,,,flauta de pã grande,Große Flötenpfeife
+328_verylargeflutepipe,very large flute pipe,,,flauta de pã muito grande,Sehr große Flötenpfeife
+329_coneshapedinstrumentthatisquottootedquotlikeahorn,cone-shaped instrument that is &quot;tooted&quot; (like a horn),,,instrumento musical em forma de cone,Tute
+330_bigconeshapedinstrumentthatisquottootedquotlikeahorn,big cone-shaped instrument that is &quot;tooted&quot; (like a horn),,,instrumento musical em forma de cone grande,Große Tute
+331_kasiri,kasiri,,,caxiri,Kaschiri
+332_manicuerasweetboiledmandiocajuice,manicuéra (sweet boiled mandioca juice),,,manicuera,"Manicuéra (süßer, abgekochter Mandiocasaft)"
+333_cachacarum,cachaça (rum),,,cachaça,Cachaça (Rum)
+334_coca,coca,137,COCA,coca,Coca
+335_ashfromambauvaleavesasanadditivetococa,ash from ambaúva leaves as an additive to coca,,,cinzas das folhas de ambuava como um aditivo à coca,Asche aus Ambaúvablättern als Zusatz zu Coca
+336_roundpolishedcalabashforcocaonlywornduringfestivities,round polished calabash for coca (only worn during festivities),,,cabaça esférica e polida para coca (apenas usadas nos festivais),"Kugelige, polierte Kalabasse für Coca (nur bei Festlichkeiten getragen)"
+337_hollowheronbonestothisdevice,hollow heron bones to this device,,,ossos ocos de garça desse dispositivo,Hohler Reiherknochen zu diesem Gerät
+338_waxsticksmadefrominambufeathersthataredippedinbeeswaxandthenbenttogether,wax sticks made from inambú feathers that are dipped in beeswax and then bent together,,,"paus de cera feitos de penas de inambu, as quais são mergulhadas em cera de abelha e coladas juntas","Wachsstöcke aus Inambúfedern, die in Bienenwachs getaucht und dann zusammengebogen werden"
+339_human,human,683,PERSON,humano,Mensch
+340_people,people,789,PEOPLE,pessoas,Leute
+341_man,man,1554,MAN,homem,Mann
+342_husband,husband,1200,HUSBAND,marido,Ehemann
+343_father,father,1217,FATHER,pai,Vater
+344_daddy,daddy,,,papai,Papa
+345_mother,mother,1216,MOTHER,mãe,Mutter
+346_mummy,mummy,,,mamãe,Mama
+347_fatherinlaw,father-in-law,1055,FATHER-IN-LAW,sogro,Schwievatter
+348_motherinlaw,mother-in-law,1050,MOTHER-IN-LAW,sogra,Schwiegermutter
+349_child,child,1304,CHILD (YOUNG HUMAN),criança,Kind
+350_infant,infant,1289,BABY,bebê,Säugling
+351_myson,my son,,,meu filho,mein Sohn
+352_grandson,grandson,1618,GRANDSON,neto,Enkel
+353_boy,boy,1366,BOY,menino,Knabe
+354_youngman,young man,76,YOUNG MAN,homem jovem,Jüngling
+355_brother,brother,1262,BROTHER,irmão,Bruder
+356_olderbrother,older brother,1759,OLDER BROTHER,irmão mais velho,älterer Bruder
+357_youngerbrother,younger brother,1760,YOUNGER BROTHER,irmão mais novo,jüngerer Bruder
+358_brotherinlaw,brother in law,2314,BROTHER-IN-LAW,cunhado,Schwager
+359_sister,sister,1263,SISTER,irmã,Schwester
+360_oldersister,older sister,1758,OLDER SISTER,irmã mais velha,ältere Schwester
+361_youngersister,younger sister,1761,YOUNGER SISTER,irmã mais nova,jüngere Schwester
+362_sisterinlaw,sister in law,2317,SISTER-IN-LAW,cunhada,Schwägerin
+363_woman,woman,962,WOMAN,mulher,Weib
+364_wife,wife,1199,WIFE,esposa,Gattin
+365_hiswife,his wife,,,esposa dele,seine Gattin
+366_girl,girl,1646,GIRL,menina,Mädchen
+367_daughter,daughter,1357,DAUGHTER,filha,Tochter
+368_granddaughter,granddaughter,1619,GRANDDAUGHTER,neta,Enkelin
+369_widow,widow,1756,WIDOW,viúva,Witwe
+370_uncle,uncle,1327,UNCLE,tio,Oheim
+371_aunt,aunt,1272,AUNT,tia,Tante
+372_malecousin,male cousin,3822,MALE COUSIN,primo,Vetter
+373_femalecousin,female cousin,3823,FEMALE COUSIN,prima,Base
+374_oldman,old man,406,OLD MAN,velho,Greis
+375_oldwoman,old woman,907,OLD WOMAN,velha,Greisin
+376_grandfather,grandfather,1383,GRANDFATHER,avô,Großvater
+377_grandmother,grandmother,1496,GRANDMOTHER,avó,Großmutter
+378_chief,chief,301,CHIEFTAIN,chefe,Häuptling
+379_whiteman,white man,2839,WHITE MAN,homem branco,Weißer
+380_magician,magician,2137,MAGICIAN,mago,Zauberarzt
+381_drug,drug,1372,MEDICINE,droga,Arzneimittel
+382_poisonusedtotreatillnesses,poison used to treat illnesses,,,veneno usado para tratar doenças,Krankheitsgift
+383_fever,fever,1534,FEVER,febre,Fieber
+384_diarrhea,diarrhea,1177,DIARRHEA,diarreia,Dysenterie
+385_tobacco,tobacco,974,TOBACCO,tabaco,Tabak
+386_tobaccoleaf,tobacco leaf,,,folha de tabaco,Tabakblatt
+387_bigcigar,big cigar,,,charuto grande,Große Zigarre
+388_cigarfork,cigar fork,,,forquilha para cigarro,Zigarrengabel
+389_snufftobacco,snuff tobacco,,,rapé,Schnupftabak
+390_devicetosnifftobacco,device to sniff tobacco,,,inalador de rapé,Schnupfapparat
+391_boxforsnufftobacco,box for snuff tobacco,,,caixa de rapé,Schnupftabakdose
+392_largesnailshellthatisusedasaboxforsnufftobacco,large snail shell that is used as a box for snuff tobacco,,,concha grande de caracol usada como uma caixa de rapé,"Große Schneckenschale, die als Schnupftabakdose verwendet wird"
+393_woundscratchestriangularcalabashshardstuddedwithteethofthetrahirafish,"wound scratches (triangular calabash shard, studded with teeth of the trahíra fish)",,,feridas (fragmento triangular de cabaça),"Wundkratzer (dreieckige Kalabassenscherbe, mit Zähnchen d.Trahíra-Fisches besetzt)"
+394_deity,deity,3231,DEITY,deidade,Gott
+395_ghostdemon,"ghost, demon",,,"fantasma, demônio ","Gespenst, Dämon "
+396_forestspiritlinguageralkurupira,forest spirit (língua geral: kurupira),,,espírito da floresta (língua geral: kurupira),Waldgeist (lingoa geral: kurupira)
+397_soul,soul,811,SOUL,alma,Seele
+398_language,language,1307,LANGUAGE,língua (idioma),Sprache
+399_capuchinmonkey,capuchin monkey,439,CEBUS MONKEY,macaco-prego,Affe (Macaco prego)
+400_howlermonkey,howler monkey,433,HOWLER MONKEY,bugio,Brüllaffe
+401_uacarimonkey,uacari monkey,,,uacari,Uacarí-Affe
+402_oayapisamonkey,oayapisá monkey,,,macaco uaiapuçá (japuçá/uapuçá),Oayapisá-Affe
+403_yuruparymonkey,yuruparý monkey,,,macaco jurupari,Yuruparý-Affe
+404_caiararamonkey,caiarára monkey,,,baiarara,Caiarára-Affe
+405_barrigudomonkey,barrigudo monkey,,,macaco barrigudo,Barrigudo-Affe
+406_macaquinho,macaquinho,,,macaquinho,Macaquinho
+407_bat,bat,1793,BAT,morcego,Fledermaus
+408_smallbat,small bat,,,morcego pequeno,Kleine Fledermaus
+409_opossum,opossum,309,OPOSSUM,mucura (saruê),Micura
+410_colorfuljaguar,colorful jaguar,1250,JAGUAR,onça pintada,"Jaguar, bunter"
+411_blackjaguar,black jaguar,,,onça preta,"Jaguar, schwarzer"
+412_puma,puma,1891,PUMA,"suçuarana, onça-parda",Puma
+413_maracaja,maracajá,,,gato-maracajá,Maracajá
+414_deer,deer,1936,DEER,veado,Hirsch
+415_reddeer,red deer,3983,RED DEER,veado-vermelho,Hirsch (Rothirsch)
+416_otter,otter,15,OTTER,lontra,Fischotter
+417_tapir,tapir,312,TAPIR,anta,Tapir
+418_capybara,capybara,314,CAPYBARA,capivara,Capivara
+419_paca,paca,316,PACA,paca,Paca
+420_aguti,agutí,,,cutia,Agutí
+421_agutiuaya,agutiuaya,,,cutiara,Agutiuaya
+422_coaticoatimundi,coati (coatimundi),2389,COATI (COATIMUNDI),quati,Cuatí
+423_cuatipuru,cuatipurú,,,quatipuru (tipo de esquilo),Cuatipurú
+424_smallcuatipuru,small cuatipurú,,,quatipuru pequeno,Kleines Cuatipurú
+425_muroidmouseorrat,muroid (mouse or rat),2139,MUROID (MOUSE OR RAT),"rato, camundongo","Ratte, Maus"
+426_mouse,mouse,1491,MOUSE,camundongo,Maus
+427_armadillo,armadillo,1885,ARMADILLO,tatu,Gürteltier
+428_giantarmadillo,giant armadillo,,,tatu grande,Riesengürteltiers
+429_armadilloshell,armadillo shell,,,casco de tatu,Schale des Gürteltiers
+430_sloth,sloth,2446,SLOTH,bicho-preguiça,Faultier
+431_giantanteater,giant anteater,,,tamanduá bandeira,Großer Ameisenbär
+432_smallanteater,small anteater,,,tamanduá mirim,Kleiner Ameisenbär
+433_taitetupig,taitetú pig,,,caititu,Taitetú-Schwein
+434_taiasupig,taiasu pig,,,queixada,Taiasú-Schwein
+435_pigteeth,pig teeth,,,dente de porco,Schweinszähne
+436_europeanpig,european pig,1337,PIG,porco europeu,"Schwein, europaisches"
+437_dog,dog,2009,DOG,cão,Hund
+438_cat,cat,1208,CAT,gato,Katze
+439_manatee,manatee,,,peixe-boi,Manatí
+440_dolphin,dolphin,1479,DOLPHIN,golfinho,Delphin
+441_smallbirdpassarinho,small bird (=passarinho),,,passarinho,Vogel (=passarinho)
+442_egg,egg,744,EGG,ovo,Ei
+443_redmacaw,red macaw,,,arara vermelha,"Arara, rot"
+444_bluemacaw,blue macaw,,,arara azul,"Arara, blau"
+445_periquito,periquito,,,periquito,Periquito
+446_parrot,parrot,882,PARROT,papagaio,Papagei
+447_anaca,anacã,,,anacã,Anacã
+448_curassow,curassow,315,CURASSOW,mutum,Mutum
+449_nocturnalcurassow,nocturnal curassow,,,urumutum,Urumutum
+450_guan,guan,437,GUAN,jacu,Jacú
+451_redthroatedpipingguan,red-throated piping guan,,,cujubi,Cujubim
+452_darkwingedtrumpeter,dark-winged trumpeter,,,jacamim,Jacamý
+453_greenibis,green ibis,,,coró-coró,Corocoró
+454_bigtinamou,big tinamou,,,inambu grande,Großes Inambú
+455_smalltinamou,small tinamou,,,inambu pequeno,Kleines Inambú
+456_dove,dove,1853,DOVE,pombo,Taube
+457_toucan,toucan,308,TOUCAN,tucano,Tucáno
+458_oropendola,oropendola,,,japu,Yapú
+459_yellowrumpedcacique,yellow-rumped cacique,,,japiim,Japeim
+460_woodpeckerarapaso,woodpecker (arapaso),,,arapaçu,Specht (Arapaso)
+461_thunderbirdsp,thunder (bird sp.),,,trovão (espécie de ave),Trovão
+462_taiasuira,taiasuirá,,,taiasuirá,Taiasuirá
+463_aracua,aracuã,,,aracuã,Aracuã
+464_anacoro,anacoró,,,anacoró,Anacoró
+465_swallowbird,swallow (bird),3077,SWALLOW (BIRD),andorinha,Andurĩ
+466_smallwhiteswallow,small white swallow,,,andorinha branca pequena,Kleine weiße Schwalbe
+467_nightjar,nightjar,,,noitibó,Nachtschwalbe
+468_urataui,uratauí,,,uratau,Uratauí
+469_hummingbird,hummingbird,1589,HUMMINGBIRD,beija-flor,Kolibri
+470_birdsp,bird (sp.),,,pássaro (sp.),Vogel (spec.)
+471_roosterorchicken,rooster or chicken,1318,CHICKEN,"galo, frango","Hahn, Huhn"
+472_duck,duck,1360,DUCK,pato,Ente
+473_smallcolorfulduck,small colorful duck,,,pato pequeno colorido,Kleine bunte Ente
+474_martimpescadortypeofkingfisher,martim pescador (type of kingfisher),,,martim pescador,Martim pescador (Art Eisvogel)
+475_carara,carará,,,carará,Carará
+476_mergulhao,mergulhão,,,mergulhão,Mergulhão
+477_smallgull,small gull,,,gaivota-pequena,Kleine Möve
+478_saracuratypeofcoot,saracúra (type of coot),,,saracura,Saracúra (Art Wasserhuhn)
+479_soco,socó,,,socó,Socó
+480_whiteheron,white heron,,,garça-branca,Weißer Reiher
+481_yaburu,yaburú,,,jaburu,Yaburú
+482_maguary,maguarý,,,maguari,Maguarý
+483_tuyuyu,tuyuyú,,,tuiuiú,Tuyuyú
+484_vulture,vulture,1185,VULTURE,urubu,Urubú
+485_bighawk,big hawk,,,gavião grande,Großer Gavião
+486_hawk,hawk,307,HAWK,gavião,Habicht
+487_cancao,cancão,,,cancão,Cancão
+488_bigowl,big owl,,,coruja grande,Große Eule
+489_smallowl,small owl,,,corujinha,Kleine Eule
+490_lungofbird,lung (of bird),,,pulmão (de ave),Lunge
+491_liverofbird,liver (of bird),,,fígado (de ave),Leber
+492_heartofbird,heart (of bird),,,coração (de ave),Herz
+493_stomachofbird,stomach (of bird),,,estômago (de ave),Magen
+494_wattle,wattle,,,barbela de ave,Kehllappen
+495_fish,fish,227,FISH,peixe,Fisch
+496_scale,scale,266,SCALE,escamas,Schuppen
+497_fishbone,fishbone,3799,FISHBONE,espinha de peixe,Gräten
+498_stingray,stingray,1910,STINGRAY,arraia,Rochen
+499_sorubim,sorubim,,,sorubim,Sorubim
+500_piranha,piranha,317,PIRANHA,piranha,Piranha
+501_electriceel,electric eel,2443,ELECTRIC EEL,enguia elétrica,Zitteraal
+502_pirarara,pirarára,,,piraraba,Pirarára
+503_pirahiba,pirahíba,,,piraíba,Pirahíba
+504_tucunare,tucunaré,,,tucunaré,Tucunaré
+505_pacu,pacu,3922,PACU,pacu,Pacú
+506_aracu,aracú,,,aracu,Aracú
+507_acara,acará,,,acará,Acará
+508_trahira,trahira,,,traíra,Trahira
+509_yataiuarana,yataiuarana,,,jatuarana,Yataiuarana
+510_jacunda,jacundá,,,jacundá,Jacundá
+511_mandube,mandubé,,,mandubé,Mandubé
+512_pirarucu,pirarucú,,,pirarucu,Pirarucú
+513_peixecachorro,peixe cachorro,,,peixe-cachorro,Peixe cachorro
+514_candiru,candirú,,,candiru,Candirú
+515_alligator,alligator,1581,ALLIGATOR,jacaré,Alligator
+516_iguana,iguana,1578,IGUANA,iguana,Leguan
+517_lizard,lizard,632,LIZARD,lagarto,Eidechse
+518_frog,frog,503,FROG,rã,Frosch
+519_toad,toad,894,TOAD,sapo,Kröte
+520_frogortoad,frog or toad,,,rã ou sapo,Frosch oder Kröter
+521_turtle,turtle,112,TURTLE,tartaruga,Tartaruga
+522_bigheadedamazonriverturtle,big-headed amazon river turtle,,,cabeçudo (tipo de tartaruga),Cabeçudo
+523_tortoise,tortoise,895,TORTOISE,jabuti,Jabutí
+524_shellofthebigheadedamazonriverturtle,shell of the big-headed amazon river turtle,,,casco de cabeçudo,Schild der Cabeçudo
+525_snake,snake,730,SNAKE,cobra,Schlange
+526_bigwatersnake,big water snake,,,cobra d'água grande,Große Wasserschlange
+527_boa,boa,,,jiboia,Jiboya
+528_jararaca,jararáca,,,jararaca,Jararáca
+529_surucucu,surucucú,,,surucucu,Surucucú
+530_earthworm,earthworm,2350,EARTHWORM,minhoca,Erdergenwurm
+531_treeearthwormlarva,tree earthworm larva,,,larva de minhoca de árvore,Baumregenwurm
+532_ant,ant,587,ANT,formiga,Ameise
+533_saubaant,saúba ant,,,saúva,Saúba-Ameise
+534_maniuaraant,maniuára ant,,,maniuara,Maniuára-Ameise
+535_tocandiraant,tocandíra ant,,,tocandira,Tocandíra-Ameise
+536_termite,termite,883,TERMITE,cupim,Termiten
+537_taracua,taracuá,,,taracuá (tipo de formiga),Taracuá
+538_flyinsect,fly (insect),1504,FLY (INSECT),mosca,Fliege
+539_mosquito,mosquito,1509,MOSQUITO,mosquito,Mosquito
+540_smallmosquito,small mosquito,,,mosquito pequeno,Kleine Mosquito
+541_pium,pium,,,pium,Pium
+542_mutuca,mutuca,,,mutuca,Mutuca
+543_bee,bee,665,BEE,abelha,Biene
+544_honey,honey,942,HONEY,mel,Honig
+545_wasp,wasp,1517,WASP,vespa,Wespe
+546_grasshopper,grasshopper,607,GRASSHOPPER,gafanhoto,Heuschrecke
+547_cricket,cricket,2354,CRICKET,grilo,Grille
+548_dragonfly,dragonfly,2352,DRAGONFLY,libélula,Wasserjungfer
+549_butterfly,butterfly,1791,BUTTERFLY,borboleta,Schmetterling
+550_bigbluebutterfly,big blue butterfly,,,borboleta grande azul,Großer blauer Schmetterling
+551_caterpillar,caterpillar,2247,CATERPILLAR,lagarta,Raupe
+552_dungbeetle,dung beetle,,,besouro rola-bosta,Mistkäfer
+553_firefly,firefly,206,FIREFLY,vagalume,Leuchtkäfer
+554_cockroach,cockroach,1575,COCKROACH,barata,Barata
+555_tick,tick,1527,TICK,carrapato,Carapato
+556_verysmalltick,very small tick,,,carrapato muito pequeno,Sehr kleine Carapato
+557_louse,louse,1392,LOUSE,piolho,Laus
+558_flea,flea,232,FLEA,pulga,Floh
+559_sandflea,sand flea,,,bicho-de-pé,Sandfloh
+560_micuim,micuim,,,micuim,Micuim
+561_spider,spider,843,SPIDER,aranha,Spinne
+562_crab,crab,2348,CRAB,caranguejo,Krebs
+563_shrimp,shrimp,2349,SHRIMP,camarão,Camarão
+564_scorpion,scorpion,1538,SCORPION,escorpião,Skorpion
+565_waterspider,water spider,,,aranha d'água,Wasserspinne
+566_centipede,centipede,1974,CENTIPEDE,centopeia,Tausendfuß
+567_maruim,maruim,,,maruim,Maruim
+568_paca,páca,,,paca (tipo de inseto),Páca
+569_shell,shell,598,SHELL,concha,Muschel
+570_snail,snail,1543,SNAIL,lesma,Schnecke
+571_tree,tree,906,TREE,árvore,Baum
+572_leaf,leaf,628,LEAF,folha,Blatt
+573_branch,branch,1531,BRANCH,galho,Ast
+574_bark,bark,1204,BARK,casca da árvore,Rinde
+575_root,root,670,ROOT,raiz,Wurzel
+576_thron,thron,124,THORN,espinho,Dorn
+577_seed,seed,714,SEED,semente,Samen
+578_resin,resin,664,RESIN,resina,Harz
+579_peelpod,"peel, pod",2373,SKIN (OF FRUIT),casca da fruta,"Schale, Hülse (d.Frucht)"
+580_blossom,blossom,,,flor (termo referente apenas à parte reprodutiva da planta),Blüte
+581_fruit,fruit,1507,FRUIT,fruta,Frucht
+582_shrub,shrub,751,SHRUB,arbusto,Strauch
+583_grass,grass,606,GRASS,grama,Gras
+584_maize,maize,506,MAIZE,milho,Mais
+585_manioc,manioc,925,CASSAVA,mandioca,Mandioca
+586_maniocflour,manioc flour,324,MANIOC FLOUR,farinha de mandioca,Mandiocamehl (Farinha)
+587_maniocbread,manioc bread,407,MANIOC BREAD,beiju,Mandiocafladen (Beijú)
+588_curata,curatá,,,curatá,Curatá
+589_tapioca,tapioca,925,CASSAVA,tapioca,Tapioca
+590_banana,banana,868,BANANA,banana,Banane
+591_potato,potato,593,POTATO,batata,Batate
+592_yam,yam,410,YAM,inhame,"Cará, Inyame"
+593_pepper,pepper,1385,PEPPER,pimenta,Capsicum
+594_peppersauce,peppersauce,,,molho de pimenta,Pfeffersauce
+595_tucupi,tucupi,,,tucupi,Tucupí
+596_pineapple,pineapple,2440,PINEAPPLE,abacaxi,Ananas
+597_tame,tame,,,domesticado,Zahme
+598_savage,savage,,,selvagem,Wilde
+599_cocoa,cocoa,,,cacao,Kakao
+600_japura,japurá,,,japurá,Yapurá
+601_cucura,cucura,,,cucura,Cucura
+602_umari,umarí,,,umari,Umarí
+603_abiu,abíu,,,abiu,Abíu
+604_iua,iua,,,iuá-pixuna,Iua
+605_cupuacu,cupuaçu,,,cupuaçu,Copoasú
+606_cupui,cupuí,,,cupuí,Copoaï
+607_cumaru,cumaru,,,cumaru,Cumarú
+608_cubiu,cubiu,,,cubiu,Cubiu
+609_pinupinumedicinalplant,pinupinú (medicinal plant),,,pinupinú (planta medicinal),Pinupinú (Medizinalpflanze)
+610_pokeanut,pokeá nut,,,tipo de noz,Pokeá-Nuß
+611_ucuqui,ucuqui,,,ucuqui,Ukuki
+612_pumpkin,pumpkin,864,PUMPKIN,abóbora,Kürbis
+613_timbo,timbó,,,timbó,Timbó
+614_liana,liana,2388,LIANA,cipó,Sipó
+615_rawrubber,raw rubber,,,borracha crua,Kautschuk
+616_rubber,rubber,,,borracha,Gummi
+617_rubbermilk,rubber milk,,,leite da seringueira,Gummi-Milch
+618_bamboo,bamboo,1927,BAMBOO,bambu,Bambus
+619_giantreed,giant reed,,,cana-do-reino,Pfeilrohr
+620_sugarcane,sugar cane,146,SUGAR CANE,cana-de-açúcar,Zuckerrohr
+621_achiote,achiote,349,ACHIOTE,urucum,Urucú
+622_carajuru,carajuru,,,carajuru,Carayurú
+623_genipap,genipap,,,genipapo,Genipapo
+624_moldonmanioccake,mold on manioc cake,,,mofo no bolo de mandioca,Schimmel auf Mandiocafladen
+625_morichepalm,moriche palm,,,buriti,Mirití
+626_tucum,tucum,,,tucum,Tucum
+627_tucuma,tucumã,,,tucumã,Tucumá
+628_carana,caraná,,,caraná,Caraná
+629_puxiuba,puxiúba,,,paxiúba,Puxiúba
+630_piassava,piassava,,,piaçava,Piassába
+631_jauari,jauari,,,jauari,Yauarý
+632_ubucu,ubuçu,,,ubuçu,Busú
+633_acai,açaí,,,açaí,Assaï
+634_pupunha,pupunha,,,pupunha,Pupunha
+635_pataua,patauá,,,patauá,Patauá
+636_bacaba,bacaba,,,bacaba,Bacaba
+637_1,1,1493,ONE,1,1
+638_2,2,1498,TWO,2,2
+639_3,3,492,THREE,3,3
+640_4,4,1500,FOUR,4,4
+641_5,5,493,FIVE,5,5
+642_6,6,1703,SIX,6,6
+643_7,7,1704,SEVEN,7,7
+644_8,8,1705,EIGHT,8,8
+645_9,9,1483,NINE,9,9
+646_10,10,1515,TEN,10,10
+647_alittle,a little,2924,A LITTLE,pouco,Wenig
+648_many,many,1198,MANY,muito,Viel
+649_half,half,816,HALF,metade,Halb
+650_full,full,1429,FULL,cheio,Voll
+651_all,all,98,ALL,"tudo, todo",Alles
+652_i,i,1209,I,eu,Ich
+653_you,you,1215,THOU,você,Du
+654_he,he,1211,HE,ele,Er
+655_otheranother,other (another),,,outro (um outro),Ein anderer
+656_we,we,1212,WE,nós,Wir
+657_yourplural,your (plural),2274,YOUR (PLURAL),seu,Ihr
+658_they,they,817,THEY,eles,Sie
+659_others,others,197,OTHER,outros,Andere
+660_mybow,my bow,,,meu arco,Mein Bogen
+661_yourbow,your bow,,,seu arco,Dein Bogen
+662_yourcoca,your coca,,,sua coca,Deine Coca
+663_hisbow,his bow,,,o arco dele,Sein Bogen
+664_ourhouse,our house,,,a nossa casa,Unser Haus
+665_yourhouse,your house,,,sua casa,Euer Haus
+666_yourhousepoliteform,your house (polite form),,,sua casa (forma educada),Ihr Haus
+667_large,large,1202,BIG,grande,Groß
+668_small,small,1246,SMALL,pequeno,Klein
+669_high,high,1265,HIGH,alto,Hoch
+670_deep,deep,1593,DEEP,fundo,Tief
+671_long,long,1203,LONG,longo,Lang
+672_short,short,1645,SHORT,curto,Kurz
+673_wide,wide,1243,WIDE,largo,Breit
+674_fatobese,fat (obese),1279,FAT (OBESE),gordo,Fett
+675_thinslim,thin (slim),1400,THIN (SLIM),magro,Mager
+676_heavy,heavy,1210,HEAVY,pesado,Schwer
+677_lightweight,light (weight),1052,LIGHT (WEIGHT),leve,Leicht
+678_cold,cold,1287,COLD,frio,Kalt
+679_verycold,very cold,,,Muito Frio,sehr kalt
+680_warm,warm,1232,WARM,quente,Warm
+681_dry,dry,1398,DRY,seco,Trocken
+682_wet,wet,1726,WET,molhado,Naß
+683_rotten,rotten,1728,ROTTEN,estragado (podre),Verfaut
+684_sick,sick,1847,SICK,doente,Krank
+685_dead,dead,1625,DEAD,morto,Tot
+686_hard,hard,1884,HARD,duro,Hart
+687_soft,soft,1856,SOFT,mole,Weich
+688_pregnant,pregnant,1123,PREGNANT,grávida,Schwanger
+689_good,good,1035,GOOD,bom,Gut
+690_beautiful,beautiful,1427,BEAUTIFUL,bonito,Schön
+691_bad,bad,1292,BAD,mau,Schlecht
+692_brave,brave,3,BRAVE,corajoso,Tapfer
+693_cowardly,cowardly,3812,COWARDLY,covarde,Feig
+694_white,white,1335,WHITE,branco,Weiß
+695_black,black,163,BLACK,preto,Schwarz
+696_dirty,dirty,1230,DIRTY,sujo,Schmutzig
+697_dark,dark,706,DARK,escuro,Dunkel
+698_red,red,156,RED,vermelho,Rot
+699_blue,blue,837,BLUE,azul,Blau
+700_green,green,1425,GREEN,verde,Grün
+701_yellow,yellow,1424,YELLOW,amarelo,Gelb
+702_yesterday,yesterday,1174,YESTERDAY,ontem,Gestern
+703_today,today,1283,TODAY,hoje,Heute
+704_now,now,1376,NOW,Agora,Jetzt
+705_immediately,immediately,1963,IMMEDIATELY,imediatamente,Sogleich
+706_day24hours,day (24 hours),1260,DAY (24 HOURS),dia (24 horas),Dereinst
+707_right,right,1019,RIGHT,direita,Rechts
+708_left,left,244,LEFT,esquerda,Links
+709_here,here,136,HERE,aqui,Hier
+710_near,near,1942,NEAR,perto,Nahe
+711_there,there,1937,THERE,lá,Dort
+712_far,far,1406,FAR,longe,Fern
+713_thereoverthere,there (over there),,,de lá,Dorther
+714_infrontofthehouse,in front of (the house),,,na frente de (da casa),Vor (dem Haus)
+715_behindthehouse,behind the house,,,atrás da casa,Hinter dem Haus
+716_overonthehouse,"over, on the house",,,em cima da casa,"Über, auf dem Haus"
+717_onthetree,on the tree,,,na árvore,Auf dem Baum
+718_underthehouse,under the house,,,embaixo da casa,Unter dem Haus
+719_inthehouseinsidethehouse,"in the house, inside the house",,,"na casa, dentro da casa","In dem Haus, Im innern des Hauses"
+720_yes,yes,1268,YES,sim,Ja
+721_no,no,1269,NO,não,Nein
+722_breathe,breathe,1407,BREATHE,respirar,Atmen
+723_standup,stand up,570,STAND UP,se levantar,"Aufstehen, sich erheben"
+724_bathe,bathe,138,BATHE,tomar banho,Baden
+725_havesex,have sex,549,COPULATE,fazer sexo,Beischlaf vollziehen
+726_tie,tie,1917,TIE,amarrar,Binden
+727_bury,bury,1719,BURY,enterrar,Begraben
+728_stay,stay,987,REMAIN,ficar,Bleiben
+729_fry,fry,991,FRY,fritar,Braten
+730_burn,burn,2102,BURN,queimar,"Brennen, verbrennen"
+731_aburnthouse,a burnt house,,,Uma casa queimada,ein Haus verbrennen
+732_bring,bring,692,BRING,trazer,Bringen
+733_bringwater,bring water!,,,traz água!,Bring’ Wasser!
+734_bringhere,bring here!,,,traz pra cá!,Bring’ hierher!
+735_blowtheflute,blow the flute,,,toca a flauta,Flöte blasen
+736_think,think,2271,THINK,pensar,Denken
+737_drown,drown,1904,DROWN,afogar,Ertrinken
+738_eat,eat,1336,EAT,comer,Essen
+739_fall,fall,1280,FALL,cair,Fallen
+740_wewanttocatchletscatch,"we want to catch, let's catch!",,,"a gente quer pegar, bora pegar!","Wir wollen fangen, laßt uns fangen!"
+741_letscatchawoman,lets catch a woman!,,,vamos pegar uma mulher!,laßt uns ein Weib holen [fangen]!
+742_fly,fly,1441,FLY (MOVE THROUGH AIR),voar,Fliegen
+743_flow,flow,2003,FLOW,fluir,Fließen
+744_theriverflows,the river flows,,,o rio flui,der Fluß strömt
+745_fishing,fishing,2638,FISHING,pescar,Fischen
+746_fearbeafraid,fear (be afraid),1419,FEAR (BE AFRAID),ter medo,Fürchten
+747_yawn,yawn,1028,YAWN,bocejar,Gähnen
+748_givebirth,give birth,1195,GIVE BIRTH,parir,Gebären
+749_givemewater,give me water!,,,me dá água!,Gib mir Wasser!
+750_iwantwater,I want water,,,Eu quero água!,Ich will Wasser haben!
+751_fart,fart,1159,FART,peidar,Einen Flatus von sich geben
+752_go,go,695,GO,ir,Gehen
+753_dig,dig,1418,DIG,cavar,Graben
+754_seize,seize,855,SEIZE,pegar,Greifen
+755_doyouhavewater,do you have water?,,,você tem água?,Hast du Wasser?
+756_doyouhavefarinha,do you have farinha?,,,você tem farinha?,Hast du Farinha?
+757_strikesomeone,strike (someone),3308,STRIKE (SOMEONE),bater (em alguém),Hauen
+758_listen,listen,1608,LISTEN,ouvir,Hören
+759_starve,starve,,,morrer de fome,Hungern
+760_iamhungry,I am hungry,,,tenho fome,ich habe Hunger
+761_cough,cough,879,COUGH,tossir,Husten
+762_hunt,hunt,1435,HUNT,caçar,Jagen
+763_shitdefecate,shit (defecate),676,SHIT (DEFECATE),defecar,Kacken
+764_fight,fight,1423,FIGHT,lutar,Kämpfen
+765_chew,chew,321,CHEW,mastigar,Kauen
+766_climb,climb,1102,CLIMB,escalar,Klettern
+767_cook,cook,1100,COOK (SOMETHING),cozinhar,Kochen
+768_come,come,1446,COME,vir,Kommen
+769_comehere,come here!,3555,COME HERE,Venha aqui!,du kommst. komm! komm her!
+770_itcomesrain,it comes rain,,,tá vindo chuva,Est kommt Regen
+771_igotoyou,I go to you,,,eu vou até você,Ich gehe mir dir
+772_withyou,with you,,,contigo,mit dir
+773_crawl,crawl,96,CRAWL,rastejar,Kriechen
+774_imsick,I'm sick,,,estou doete,Ich bin krank
+775_laugh,laugh,1355,LAUGH,rir,Lachen
+776_do,do,813,DO,fazer,Machen
+777_paintsomethingorpainting,paint (something) or painting,3194,PAINT (SOMETHING) OR PAINTING,pintar,"Malen, bemalen"
+778_sew,sew,1457,SEW,costurar,Nähen
+779_sneeze,sneeze,1621,SNEEZE,espirrar,Niesen
+780_whistle,whistle,1025,WHISTLE,assoviar,Pfeifen
+781_piss,piss,592,PISS,urinar,Pissen
+782_smokeinhale,smoke (inhale),1689,SMOKE (INHALE),fumar,Rauchen
+783_talk,talk,2708,TALK,falar (com alguém),Reden
+784_smellperceive,smell (perceive),1586,SMELL (PERCEIVE),cheirar,Riechen
+785_row,row,1849,ROW,remar,Rudern
+786_call,call,1084,CALL,chamar,Rufen
+787_iswinginthehammock,I swing in the hammock,,,eu balanço a rede,Ich schaukle mich in der Hängematte
+788_youswinginthehammock,you swing in the hammock,,,você balança a rede,Du schaukelst dich in der Hängematte
+789_shoot,shoot,1172,SHOOT,atirar,Schießen
+790_sleep,sleep,1585,SLEEP,dormir,Schlafen
+791_iwanttosleep,I want to sleep,,,eu quero dormir,Ich will schlafen
+792_strikeorbeat,strike or beat,2133,STRIKE OR BEAT,bater ou surrar,Schlagen
+793_grind,grind,1033,GRIND,moer,Schleifen
+794_swallow,swallow,897,SWALLOW,engolir,Schlucken
+795_snoring,snoring,,,roncar,Schnarchen
+796_cut,cut,1432,CUT,cortar,Schneiden
+797_icutwithmyknife,I cut with my knife,,,eu corto com a minha faca,Ich schneide mit meinem Messer
+798_swim,swim,1439,SWIM,nadar,Schwimmen
+799_see,see,1409,SEE,ver,Sehen
+800_sing,sing,1261,SING,cantar,Singen
+801_sit,sit,1416,SIT,sentar,Sitzen
+802_speak,speak,1623,SPEAK,falar (palavras),Sprechen
+803_jump,jump,1829,JUMP,pular,Springen
+804_sting,sting,571,STING,ferror,Stechen
+805_stand,stand,1442,STAND,ficar em pé,Stehen
+806_die,die,1494,DIE,morrer,Sterben
+807_dive,dive,119,DIVE,mergulhar,Tauchen
+808_kill,kill,1417,KILL,matar,Töten
+809_drink,drink,1401,DRINK,beber,Trinken
+810_turningback,turning back,,,voltar,Umkehren
+811_grow,grow,479,GROW,crescer,Wachsen
+812_beinginfluctuatingmotion,being in fluctuating motion,,,estar flutuando,Waben
+813_cry,cry,1839,CRY,chorar,Weinen
+814_throw,throw,1456,THROW,arrmessar,Werfen
+815_want,want,1784,WANT,querer,Wollen
+816_count,count,1420,COUNT,contar,Zählen
+817_show,show,1039,SHOW,mostrar,Zeigen
+818_pull,pull,1455,PULL,empurrar,Ziehen
+819_shiver,shiver,52,SHIVER,tremer,Zittern
+820_forwardletsgo,forward! let's go,,,bora! vamo lá,Vorwärts! Laßt uns gehen
+821_wellinvitationtoeatetc,well! (invitation to eat etc.),,,bora! (convite para comer etc.),Wohlan! (Aufforderung zum Essen usw.)
